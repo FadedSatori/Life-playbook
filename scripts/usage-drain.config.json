@@ -1,0 +1,28 @@
+{
+  "windows": {
+    "short": {
+      "duration_minutes": 240,
+      "remaining_pct": 68.0,
+      "reset_at": "2026-05-21T12:07:14.754074",
+      "last_updated": "2026-05-21T10:32:14.754094"
+    },
+    "weekly": {
+      "duration_minutes": 10080,
+      "remaining_pct": 41.0,
+      "reset_at": "2026-05-23T10:32:14.793660",
+      "last_updated": "2026-05-21T10:32:14.793682"
+    }
+  },
+  "settings": {
+    "burn_threshold_pct": 15,
+    "safe_buffer_minutes": 12,
+    "watch_interval_minutes": 10,
+    "min_burn_pct": 10
+  },
+  "anthropic": {
+    "api_key_env": "ANTHROPIC_API_KEY",
+    "model": "claude-haiku-4-5-20251001",
+    "playbook_repo": ".."
+  },
+  "burn_history": []
+}
