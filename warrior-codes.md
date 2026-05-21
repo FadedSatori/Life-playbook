@@ -75,6 +75,66 @@ Written in a cave, shortly before Musashi's death, after 60 undefeated duels. On
 
 ---
 
+## Musashi's Dokkodo — The Way of Walking Alone (21 Precepts)
+
+Written by Miyamoto Musashi at age 62, one week before his death in 1645, after a lifetime of combat, solitude, and mastery. He titled it *Dokkodo* — The Way of Walking Alone. Not a manual for warriors. A monk's final crystallization. Twenty-one precepts for self-mastery.
+
+The six covered in the main Musashi section above. The fifteen that go further:
+
+*"Do not seek pleasure for its own sake."* The person who chases pleasure is owned by it. Discipline the senses; do not let the want for comfort govern your choices.
+
+*"Do not act following customary beliefs."* Think from first principles. The convention is usually right — until it isn't. Know the difference. Don't follow because it's followed.
+
+*"Do not collect weapons or practice with weapons beyond what is useful."* Don't accumulate tools beyond function. This is the principle against fetishizing equipment, prestige, and capability for its own sake. Apply it to everything you acquire.
+
+*"Do not fear death."* Not as nihilism — as liberation. The person who has genuinely made peace with their own death is not coerced by anything that threatens it.
+
+*"Never be jealous."* Jealousy is projection of your own incompletion onto someone else's life. Address the incompletion; don't resent the mirror.
+
+*"Do not let yourself be guided by the feeling of lust or love."* This precept is for the monk, the solitary warrior. Its practical application: don't make decisions from attachment. Feel fully; decide from principle.
+
+*"In all things have no preferences."* The highest precept and the most misunderstood. Musashi is not counseling indifference — he is counseling non-attachment to outcomes. Act with full intention; hold the result loosely.
+
+*"Be indifferent to where you live."* Do not become attached to place. Home is the internal state, not the location.
+
+*"Do not pursue the taste of good food."* The warrior who needs luxury is compromised by its absence.
+
+*"Do not hold on to possessions you no longer need."* Possessions become anchors. Travel lightly through life in every sense.
+
+*"Do not act on feelings of lust."* Impulse-driven action clouds judgment. Act from consideration, not activation.
+
+*"Do not be guided by desire for your home territory."* Expand. Do not defend the familiar because it is familiar.
+
+*"Do not have preferences for this or that."* Related to the earlier precept — the absence of fixed preference is maximum adaptability.
+
+*"Be willing to part with yourself on the path."* The most important. Every version of yourself that you cling to limits the version you're becoming. Die to it. Become.
+
+These are not commandments — they are a field-tested monk's extreme conclusions after 60 years of mastery. Take what applies; understand what doesn't before dismissing it.
+
+---
+
+## The Spartan Agoge — In Depth
+
+The agoge was the most comprehensive human development system ever attempted at civilizational scale. It ran continuously for approximately 600 years. Its outputs — the Spartiate warrior class — were the most feared soldiers in the ancient world, not because of physical superiority alone, but because of identity formation so complete that retreat was psychologically inconceivable.
+
+**The structure:**
+- At age 7, boys were taken from their families and entered the agoge. The separation was total. The family ceased to be the primary identity anchor.
+- From 7 to 17, the program systematically applied hardship: restricted food (intentionally insufficient — boys were expected to supplement through sanctioned theft, with punishment for being caught), minimal clothing regardless of weather, deliberate sleep deprivation, bare feet on rough terrain, communal sleeping on reed beds cut by the boys themselves.
+- At 17–18, selected candidates entered the **krypteia** — a covert operations period during which young Spartans lived alone in the countryside for a year, surviving by their own means, sometimes tasked with missions that would be classified today as irregular warfare. It was a crucible of self-reliance.
+- The **syssitia** — communal dining throughout adult life. All male citizens, regardless of rank or wealth, ate together in the same mess. No Spartan ate better than any other. This was social technology: it prevented the class distinctions that corrupted other city-states and maintained the warrior identity as the primary social identity across a lifetime.
+
+**Why it worked:**
+
+The agoge produced results not primarily through the hardship itself but through **identity formation so complete and so distinct from civilian norm that returning to civilian identity was psychologically blocked.** The agoge Spartan did not resist hardship — he had no alternative self that wanted comfort. The identity was the entire self.
+
+**The modern void:** Contemporary Western societies have largely eliminated rites of passage — the initiatory experiences that mark the transition from child to adult with genuine challenge and irreversible consequence. The result: many people (particularly men) spend their 20s and 30s without a completed initiation — without the experience of having been tested at the limit and survived. The psychological consequences of this absence are significant and widely documented.
+
+The solution is not to recreate the agoge. It is to deliberately construct the voluntary challenge and rite of passage that the culture no longer provides. Extended solo adventure, military service, committed athletic endeavor, genuine entrepreneurial risk — any experience that puts something real at stake and requires surviving it. The initiation produces a different relationship to difficulty — one that cannot be produced by comfort.
+
+*"The Spartans do not ask how many are the enemy, but where they are."* — Plutarch
+
+---
+
 ## The Synthesized Modern Code
 
 From 3,000 years of warrior tradition, across cultures, filtered through the present:
