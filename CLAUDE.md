@@ -4,15 +4,31 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Overview
 
-**Life-playbook** is a currently empty repository intended as a "playbook for life." As of now, it contains only a README. There are no build tools, test frameworks, package managers, or source files yet.
+**Life-playbook** is a private personal knowledge base — a "playbook for life" stored as Markdown files. No build tools, package managers, or frameworks. Everything works in any Markdown viewer or directly on GitHub.
 
-## Current State
+## Structure
 
-This repository has a single initial commit with only `README.md`. Before contributing, check whether a tech stack, folder structure, or tooling has been added since this file was written.
+```
+index.md                        # Master table of contents — start here
+principles.md                   # Core values and decision filter (the foundation)
+health/                         # Fitness, sleep, nutrition protocols
+career/                         # Work principles and financial rules
+relationships/                  # How to show up for people
+learning/                       # Reading system and skill-building framework
+routines/                       # Daily anchors, weekly review, annual review templates
+mental-models/                  # Decision-making frameworks
+```
+
+## Conventions
+
+- **Each file follows the same pattern:** one-line purpose statement → principles/rules → protocols or templates where applicable.
+- **Opinionated and personal.** This is a playbook, not a textbook — content should be direct and actionable, not general or hedged.
+- **Cross-link liberally.** Use relative Markdown links (e.g. `[sleep protocol](../health/sleep.md)`) when one file references another.
+- **index.md is the nav layer.** When adding a new file, add it to the table in `index.md`.
 
 ## When Adding Content
 
-When a tech stack is chosen and established:
-- Update this file with actual build/lint/test commands
-- Document the high-level architecture and module boundaries
-- Note any non-obvious conventions (naming, file organization, data flow)
+- Add new topics as new files in the relevant folder, or create a new folder if no existing area fits.
+- Keep files focused — one topic per file.
+- Update `index.md` to include any new files.
+- Update this file if the folder structure changes significantly.
