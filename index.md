@@ -4,9 +4,26 @@ A personal operating system — principles, protocols, and frameworks for living
 
 ---
 
+## The UNIT
+
+The synthesis. Everything in this playbook builds toward this.
+
+| File | What's in it |
+|------|-------------|
+| [The UNIT](the-unit.md) | **U**nited · **N**oble · **I**ntelligent · **T**acticians — the complete individual doctrine, the five pillars, the special operations ethos, the sovereign self |
+
+---
+
 ## Foundation
 
 - [Core Principles](principles.md) — the values that drive every decision
+
+## Polymath & Cross-Domain
+
+| File | What's in it |
+|------|-------------|
+| [Polymath System](polymath-system.md) | T→π→Renaissance shapes of knowledge, domain selection, the learning sequence, connective tissue practice |
+| [Cross-Domain Thinking](cross-domain-thinking.md) | Munger's latticework, power laws, feedback loops, emergence, entropy, game theory, inversion |
 
 ## Ancient & Legendary
 
