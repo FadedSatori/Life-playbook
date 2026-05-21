@@ -4,6 +4,14 @@ A personal operating system — principles, protocols, and frameworks for living
 
 ---
 
+## About
+
+| File | What's in it |
+|------|-------------|
+| [Levi Satori](about/levi-satori.md) | The names, the origin, the mission, the beliefs — who this playbook was built by and why |
+
+---
+
 ## The UNIT
 
 The synthesis. Everything in this playbook builds toward this.
@@ -56,6 +64,18 @@ The synthesis. Everything in this playbook builds toward this.
 |------|-------------|
 | [Epistemic Self-Defense](epistemic-self-defense.md) | Protecting your mind from manipulation — first principles, Bayesian updating, memetic hygiene |
 | [Longevity Protocols](longevity-protocols.md) | VO2 max, strength for lifespan, sauna/cold, metabolic health, cognitive longevity, centenarian decathlon |
+
+## Transcendent
+
+| File | What's in it |
+|------|-------------|
+| [Transformation Science](transformation-science.md) | Three levels of change, neuroplasticity, liminal space, identity death and rebirth, deliberate metamorphosis |
+| [Consciousness Technologies](consciousness-technologies.md) | Meditation, breathwork, visualization, float tanks — treated as precision engineering, not spirituality |
+| [Hermetic Principles](hermetic-principles.md) | Seven laws of reality: Mentalism, Correspondence, Vibration, Polarity, Rhythm, Cause & Effect, Gender |
+| [Reality Engineering](reality-engineering.md) | Designing the physical, information, social, and time environments that make the target identity automatic |
+| [Legacy at Scale](legacy-at-scale.md) | Memetic propagation, century-scale thinking, building what outlasts you |
+| [Integral Map](integral-map.md) | Ken Wilber's AQAL — four quadrants, levels of development, lines, states, types |
+| [The Architecture](the-architecture.md) | The unified field theory of this playbook — how every file connects and builds on every other |
 
 ## Tactics
 
