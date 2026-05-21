@@ -95,3 +95,42 @@ Anger is the most commonly suppressed and most misunderstood shadow material. Mo
 - Responding from choice rather than compulsion or suppression
 
 Suppressed anger doesn't disappear. It becomes depression, passive aggression, or explosive release. Integrated anger becomes boundary-setting, driven purpose, and protection of what matters.
+
+---
+
+## Inner Child Work
+
+The inner child is the formative-age self whose unmet needs and unprocessed wounds continue to drive adult behavior. Not metaphor — the neural pathways laid down in childhood remain active throughout life. When an adult has an outsized emotional reaction to a present situation, it is often a childhood wound being activated by a similar stimulus.
+
+**The inner child integration protocol:**
+
+1. **Identify the age.** When did this wound form? In what context? What was the child's experience? (Not the adult's interpretation of it — the child's raw experience.)
+2. **Write a letter from your current self to that younger version.** What do you want them to know? What protection, validation, or love did they need and not receive? Write it in full.
+3. **Write the response.** What does the younger version say back? What do they need from you now?
+
+This practice is not therapy (though it complements it) — it is a regular practice of re-parenting the parts of yourself that were formed under conditions of inadequacy, threat, or deprivation. Over time, the wound loses its automatic charge.
+
+---
+
+## Specific Integration Techniques
+
+**Voice Dialogue (Hal and Sidra Stone):** A process for giving the shadow element a direct voice. The practice: set up two chairs. In one chair, you speak as your normal self. In the other, you speak as the shadow element — the disowned anger, the buried ambition, the feared weakness. Let the shadow quality speak without censorship or judgment. Then speak back to it from the normal self. The dialogue reveals the shadow's actual nature and need, which is almost always different from what the defended self feared it was.
+
+**The Empty Chair (Fritz Perls / Gestalt):** Address an empty chair as if the shadow quality, or the person who taught you to suppress it, is sitting there. Speak directly. What do you need to say that you've never said? What did you learn from them that you wish you hadn't? What do you want to reclaim from the wound they created? The directness of speaking to the chair — not about the issue, but to it — activates the emotional material in a way that cognitive analysis cannot.
+
+---
+
+## The Shadow in Leadership
+
+Unexamined shadow material does not disappear when you take on authority. It finds a larger arena to play out in.
+
+The leader who has not done shadow work will unconsciously recreate their own formative wounds in the people they lead. The characteristic patterns:
+
+- **The authoritarian leader** — recreating the conditions of a controlling or shaming parent; needing compliance to manage their own anxiety about chaos or incompetence
+- **The conflict-avoidant leader** — recreating the conditions of a chaotic or unsafe home; sacrificing honest feedback and necessary confrontation to maintain an illusion of peace
+- **The approval-hungry leader** — never challenging the team; needing to be liked; confusing their own need for validation with sensitivity to their people
+- **The over-controlled leader** — suppressing all spontaneity, emotion, and divergence because their shadow contains the terror of losing control
+
+None of these patterns are permanent. All of them respond to shadow work. The recognition of the pattern — honest, specific, without self-flagellation — is the beginning of its interruption.
+
+*"The greatest danger of all is the one within."* — Carl Jung

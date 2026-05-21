@@ -54,9 +54,11 @@ The synthesis. Everything in this playbook builds toward this.
 
 | File | What's in it |
 |------|-------------|
-| [Shadow Work](shadow-work.md) | Jungian shadow integration — reclaiming disowned power, the projection test, integrating anger |
+| [Shadow Work](shadow-work.md) | Jungian shadow integration — projection test, inner child work, Voice Dialogue, integrating anger |
 | [Antifragility](antifragility.md) | Building a life that gets stronger from shocks — barbell strategy, optionality, ruin conditions |
-| [Flow States](flow-states.md) | Peak performance on demand — the four-stage cycle, triggers, blockers, flow protocol |
+| [Flow States](flow-states.md) | Peak performance on demand — four-stage cycle, domain-specific triggers, group flow, recovery protocol |
+| [Grief and Loss](grief-and-loss.md) | The oscillation model, types of loss, warrior tradition on grief, integration protocol |
+| [Creativity](creativity.md) | The four creative modes, creative metabolism, Resistance, the taste-reality gap |
 
 ## Next-Gen
 
@@ -84,14 +86,15 @@ The synthesis. Everything in this playbook builds toward this.
 | [Social](tactics/social.md) | Reading people, negotiation, persuasion, conflict, room presence |
 | [Field](tactics/field.md) | Situational awareness, positioning, improvised tools, movement, pressure |
 | [Cognitive](tactics/cognitive.md) | On-demand focus, stress inoculation, self-talk, pattern recognition |
+| [Public Speaking](tactics/public-speaking.md) | Presence before content, structure architecture, nerves protocol, vocal mechanics, media/broadcast |
 
 ## Health
 
 | File | What's in it |
 |------|-------------|
-| [Fitness](health/fitness.md) | Training protocols, recovery signals, minimum effective dose |
-| [Sleep](health/sleep.md) | Sleep rules, wind-down protocol, what to do when you can't sleep |
-| [Nutrition](health/nutrition.md) | Protein-first approach, daily defaults, what to limit |
+| [Fitness](health/fitness.md) | Periodization architecture, Zone 2 + VO2 max science, HRV recovery, training age progression |
+| [Sleep](health/sleep.md) | Circadian biology, sleep architecture, 60-min wind-down, debt recovery, jet lag protocol |
+| [Nutrition](health/nutrition.md) | Metabolic health, protein timing, micronutrient defaults, gut-brain axis, food environment |
 
 ## Career & Finances
 
@@ -104,7 +107,8 @@ The synthesis. Everything in this playbook builds toward this.
 
 | File | What's in it |
 |------|-------------|
-| [Principles](relationships/principles.md) | How to show up, conflict approach, who to invest in |
+| [Principles](relationships/principles.md) | How to show up, intimacy architecture, Dunbar's layers, conflict and repair |
+| [Intimate Partnership](relationships/intimate-partnership.md) | Gottman framework, differentiation vs. fusion, limerence, conflict protocol, shadow in partnership |
 
 ## Learning
 
@@ -125,7 +129,7 @@ The synthesis. Everything in this playbook builds toward this.
 
 | File | What's in it |
 |------|-------------|
-| [Decision Making](mental-models/decision-making.md) | 10/10/10, regret minimization, pre-mortem, reversibility filter |
+| [Decision Making](mental-models/decision-making.md) | 10/10/10, regret minimization, pre-mortem, sunk cost, base rate neglect, second-order thinking |
 
 ## Reference
 

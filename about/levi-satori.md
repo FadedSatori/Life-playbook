@@ -38,7 +38,41 @@ This is not a performance. It is documentation.
 
 ## The Origin
 
-*[This section is mine to write. The full story — where I started, what broke, what I learned, what I built from the wreckage.]*
+Writing the origin story is part of the work, not separate from it. The person who can narrate their own transformation with clarity and without self-pity has genuinely completed a phase of it. This is not nostalgia — it is the proof of the methodology. Every framework in this playbook is either something learned the hard way or something I wish I had known before I learned it the hard way. The origin is where those lessons were forged.
+
+The story has five chapters. They are recorded here as they become clear enough to tell.
+
+---
+
+**Chapter 1 — The Starting Conditions**
+
+*Where did this begin? What was the family, the context, the early assigned identity? What were you taught to be before you could choose?*
+
+---
+
+**Chapter 2 — The Break**
+
+*What happened that made the old identity insufficient? Was it a single event or the accumulation of wrongness? What was the thing that could no longer be denied?*
+
+---
+
+**Chapter 3 — The Wilderness**
+
+*What was the period between who you were and who you were becoming? How long did it last? What tried to pull you back into the old shape?*
+
+---
+
+**Chapter 4 — The Construction**
+
+*What did you build deliberately from the wreckage? What frameworks arrived at exactly the right moment? Who were the mentors, the books, the encounters, the hard-won insights that became the architecture of the new self?*
+
+---
+
+**Chapter 5 — The Name**
+
+*Why Levi? Why Satori? What did naming the emerging self make possible that anonymity could not? What does it mean to choose your own name?*
+
+---
 
 What I can say now:
 
