@@ -59,6 +59,10 @@ The synthesis. Everything in this playbook builds toward this.
 | [Flow States](flow-states.md) | Peak performance on demand — four-stage cycle, domain-specific triggers, group flow, recovery protocol |
 | [Grief and Loss](grief-and-loss.md) | The oscillation model, types of loss, warrior tradition on grief, integration protocol |
 | [Creativity](creativity.md) | The four creative modes, creative metabolism, Resistance, the taste-reality gap |
+| [Solitude](solitude.md) | Aloneness vs. loneliness, the historical models (Musashi/Thoreau/Desert Fathers), signal amplification, daily/monthly/annual protocol |
+| [Humor and Play](humor-and-play.md) | Stuart Brown's play research, humor as social technology, the warrior tradition of play, cultivating genuine levity |
+| [Mortality Integration](mortality-integration.md) | Beyond memento mori — Yalom's awakening experience, the deathbed test, annual mortality meditation, living eulogy |
+| [Sexuality](sexuality.md) | Sexuality as life force, the Lover archetype, separating desire from validation, Perel's intimacy/desire tension, presence as the core practice |
 
 ## Next-Gen
 
