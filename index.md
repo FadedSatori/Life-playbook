@@ -45,8 +45,8 @@ The synthesis. Everything in this playbook builds toward this.
 
 | File | What's in it |
 |------|-------------|
-| [Maxims](maxims.md) | Compressed truth — one line each, on character, action, war, time, and mind |
-| [Heuristics](heuristics.md) | Rules of thumb for people, decisions, risk, and time |
+| [Maxims](maxims.md) | Compressed truth — one line each, on character, action, war, time, mind, relationships, money, learning, health, and courage |
+| [Heuristics](heuristics.md) | Rules of thumb with mechanisms — people, decisions, risk, time/energy, health/recovery, learning/skill, relationships, wealth/money |
 | [Strategy](strategy.md) | Positioning, asymmetric leverage, patience as a weapon, narrative control |
 | [Force Multipliers](force-multipliers.md) | The highest-leverage skills — cognitive, social, physical, systems |
 
