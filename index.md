@@ -134,6 +134,8 @@ The synthesis. Everything in this playbook builds toward this.
 | File | What's in it |
 |------|-------------|
 | [Decision Making](mental-models/decision-making.md) | 10/10/10, regret minimization, pre-mortem, sunk cost, base rate neglect, second-order thinking |
+| [Second-Order Thinking](mental-models/second-order-thinking.md) | Multi-level consequence tracing, feedback loops, unintended consequences, the "and then what?" drill |
+| [Probabilistic Thinking](mental-models/probabilistic-thinking.md) | Base rates, Bayesian updating, calibration, expected value, fat tails, ergodicity, Kelly sizing |
 
 ## Reference
 
