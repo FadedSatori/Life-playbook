@@ -49,6 +49,10 @@ The synthesis. Everything in this playbook builds toward this.
 | [Heuristics](heuristics.md) | Rules of thumb with mechanisms — people, decisions, risk, time/energy, health/recovery, learning/skill, relationships, wealth/money |
 | [Strategy](strategy.md) | Positioning, asymmetric leverage, patience as a weapon, narrative control |
 | [Force Multipliers](force-multipliers.md) | The highest-leverage skills — cognitive, social, physical, systems |
+| [Leadership](leadership.md) | Stewardship, commander's intent, SBI feedback, trust architecture, debrief culture, Eisenhower/Patton/Aurelius/Shackleton |
+| [Communication](communication.md) | Writing as thinking, verbal precision, listening, difficult conversations, storytelling, digital hygiene, cross-cultural |
+| [Masculinity](masculinity.md) | The six drives, initiation and the missing rite, brotherhood, masculine wound, integrated aggression, the four archetypes |
+| [Resilience](resilience.md) | PTG vs. PTSD (Tedeschi), anatomy of collapse, Pennebaker/Frankl, acute protocol, kintsugi, deliberate hardship |
 
 ## Depth
 
