@@ -140,3 +140,101 @@ Commitment is not a feeling. It is a decision that creates the container in whic
 This is not a prescription for staying in unhealthy relationships. Commitment has preconditions: mutual respect, genuine care, shared fundamental values, and the absence of the Four Horsemen as chronic patterns. When those preconditions are met, commitment is the architecture that makes depth possible.
 
 The depth available in a long, honest, growing partnership is categorically different from anything available in a series of short, intense connections. It is not better in every way. But in the dimensions that matter most — genuine knowing, shared history, compounded trust — it is irreplaceable.
+
+---
+
+## Attachment Theory in Partnership
+
+John Bowlby's attachment theory, extended to adult romantic relationships by Hazan and Shaver, and refined by Sue Johnson and others, provides the deepest structural explanation for why people behave the way they do in intimate relationships.
+
+**The three primary attachment styles:**
+
+**Secure (approximately 50% of adults):** Comfortable with intimacy and interdependence. Can give and receive care without anxiety. Respond to relationship threat with a search for connection rather than withdrawal or protest. Partners of secure individuals report higher relationship satisfaction regardless of their own attachment style.
+
+**Anxious (approximately 20%):** Hyperactivated attachment system — heightened vigilance to signs of rejection, difficulty self-soothing, protest behaviors when threatened (increased contact-seeking, emotional escalation). The underlying fear: abandonment. The behavior that produces the fear: pushing harder, escalating — often driving the avoidant partner further away.
+
+**Avoidant (approximately 25%):** Deactivated attachment system — learned suppression of attachment needs, discomfort with intimacy and dependency, withdrawal under threat. The underlying fear: engulfment, losing self. The behavior that produces the problem: distance that reads to the anxious partner as rejection, triggering exactly the protest behavior the avoidant finds overwhelming.
+
+**Disorganized (approximately 5%):** Both anxious and avoidant patterns activated simultaneously — typically from early experiences where the caregiver was both the source of comfort and the source of threat. Most complex to work with; most likely to involve trauma history.
+
+**The anxious-avoidant dance:** The most common problematic pairing. One partner's protest (seek more connection) triggers the other's withdrawal (create more distance), which intensifies the protest, which deepens the withdrawal. Both are attempting to regulate the same anxiety through opposite strategies. Neither works. Recognizing the dance is the first step to interrupting it.
+
+**Working with your attachment style:**
+- Anxious: the work is building internal self-soothing capacity (not relying on partner reassurance as the only regulation tool), expanding the window between trigger and response, and developing the ability to express attachment needs directly rather than through protest behavior
+- Avoidant: the work is building tolerance for emotional closeness, recognizing suppression as a strategy (not a character trait), and developing the capacity to identify and communicate attachment needs before the system shuts down completely
+- Both: accurate identification of the attachment pattern in action is the most powerful intervention. "I'm in my anxious pattern right now — I'm seeking reassurance in a way that's probably not working" is already half the work.
+
+---
+
+## Bids for Connection
+
+John Gottman's research identified what he calls "bids for connection" — the moment-to-moment attempts each partner makes to share experience, receive attention, or create emotional contact. These bids are often small and easily missed: a comment about something they saw, a touch in passing, a question about your day, a shared laugh.
+
+**The three responses to a bid:**
+- **Turning toward** — acknowledging and engaging with the bid. "Oh yeah? What happened?" The relationship builds trust one bid at a time.
+- **Turning away** — missing the bid or ignoring it. Often not malicious — just preoccupied. But the cumulative effect is disconnection. Gottman's research showed that couples who divorced had turned toward each other's bids 33% of the time during the period he observed them. Couples who stayed together had turned toward 87% of the time.
+- **Turning against** — responding to the bid with irritation, criticism, or hostility. The most damaging response; depletes the emotional bank account most rapidly.
+
+**The practical implication:** The quality of an intimate relationship is largely determined by small moments, not big gestures. A weekend getaway does not compensate for weeks of turning away. The accumulated credit of consistent turning-toward is the foundation of both trust and desire.
+
+**The sliding door moments:** Psychologist John Gottman describes "sliding door moments" — small choice points where you either slide open the door to connection or slide it closed. The partner who mentions something vulnerable that lands in silence, the moment of humor that goes unacknowledged, the invitation to share something that gets a half-response. These moments are not dramatic. They are the infrastructure.
+
+---
+
+## Language of Appreciation: Love Languages
+
+Gary Chapman's research on how people express and receive love — while sometimes oversimplified — maps a genuine variation in how people experience feeling valued in partnership.
+
+**The five primary languages:**
+1. **Words of affirmation** — expressed appreciation, acknowledgment, verbal love
+2. **Physical touch** — connection through physical contact (not only sexual)
+3. **Quality time** — undivided attention, presence without distraction
+4. **Acts of service** — doing things that help; taking things off their plate
+5. **Gifts** — tangible symbols of thought and care
+
+**The application:** People tend to express love in their primary language (the one that feels most natural) and feel most loved when they receive love in that language. The mismatch — expressing in your language rather than your partner's — is a common source of partners feeling unloved despite real effort.
+
+The more important skill: accurately reading your partner's primary language under ordinary conditions (not only stated preference, but demonstrated response) and learning to express appreciation in a language that doesn't come naturally. This is a permanent practice, not a one-time discovery.
+
+---
+
+## Long-Game Practices
+
+A partnership that deepens over decades is maintained through deliberate practices at multiple timescales — not through intensity alone.
+
+**Weekly: State of the Union (Gottman)**
+15–30 minutes, scheduled, not during conflict. The structure:
+1. *What I appreciated about you this week* — specific, not generic
+2. *What I've been stressed about outside of us* — context so behavior makes more sense
+3. *One thing I need from you this week* — specific and actionable
+4. *How we're doing* — overall temperature check, without problem-solving mode
+
+This is not a conflict resolution meeting. It is a maintenance meeting. The goal is attunement, not repair.
+
+**Monthly: Date that isn't routine**
+The research on novelty and dopamine is unambiguous: novel shared experience reactivates the reward circuitry of early courtship. This is not sentimental — it is neurochemistry in service of the relationship. Schedule it; make it non-negotiable; let the other person choose alternating months.
+
+**Annually: Partnership review**
+Similar in structure to an annual life review but applied to the relationship. Questions:
+- What did we build together this year?
+- What worked between us that we want to keep?
+- What didn't work that we want to change?
+- What does each of us need more of from the partnership?
+- What is the vision for the relationship over the next year?
+- Are we a team with a shared mission, or are we parallel lives sharing an address?
+
+The last question is the most important. A couple with a shared purpose — raising exceptional children, building something meaningful together, serving a community, shared creative or professional work — has a relational force multiplier that sustains partnership through difficulty. Mutual interest and attraction matters; shared purpose sustains.
+
+---
+
+## On Choosing Well
+
+The foundational input to all of the above is partner selection. The most sophisticated repair and maintenance frameworks can't fully compensate for the wrong fundamental match.
+
+Gottman's research suggests two dimensions predict long-term compatibility better than attraction or chemistry: **shared fundamental values** and **genuine friendship** (respect, admiration, and enjoying each other's company as people).
+
+The third variable is often underweighted: **how each person handles conflict.** Some people become contemptuous under pressure. Some become unavailable. Some have enough security and flexibility to navigate hard moments without character attacks. You cannot know this from dating or early relationship — only from watching someone under actual pressure. Pay attention before commitment is deep.
+
+The question is not "do I love this person" — that question is almost always yes, or you wouldn't be considering partnership. The question is: "Is this person someone I want to grow alongside? Do I respect how they move through difficulty? Do they make me want to be better, or do they make me want to manage them?"
+
+The answer to those questions is visible in ordinary moments, over months, before any commitment that changes the calculus of departure.

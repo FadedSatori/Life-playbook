@@ -47,6 +47,60 @@ The same applies to every skill. The expert writer perceives sentence structure 
 
 ---
 
+## The Performance-Learning Distinction
+
+Robert Bjork's research on memory and learning identified a critical paradox: **the conditions that produce the fastest visible improvement in practice are often not the conditions that produce the best long-term learning.**
+
+This is called the **desirable difficulties** principle. Bjork found that:
+- **Massed practice** (repeating the same thing many times in a single session) produces rapid improvement during practice and rapid forgetting afterward.
+- **Distributed practice** (spacing the same total repetitions across multiple sessions) produces slower visible improvement during practice and dramatically better long-term retention.
+- **Blocked practice** (practicing all of type A, then all of type B, then all of type C) produces high accuracy during practice and poor transfer.
+- **Interleaved practice** (mixing A, B, and C within the same session) produces lower accuracy during practice and significantly better transfer and retention.
+
+**The implication:** if your practice sessions feel smooth and productive, you may be operating in naive practice, not deliberate practice. Genuine learning feels harder and less immediately rewarding. This is the correct signal.
+
+**Applying desirable difficulties:**
+- Space practice sessions rather than massing them
+- Mix problem types rather than blocking them
+- Remove the notes and recall from memory before checking
+- Add time pressure, noise, and variation to practice conditions
+
+---
+
+## Cognitive Load Theory
+
+John Sweller's cognitive load theory explains why expert instruction often fails novices and why novice-designed practice often fails experts.
+
+**Three types of cognitive load:**
+- **Intrinsic load** — the inherent complexity of the material. Calculus has higher intrinsic load than arithmetic. Cannot be reduced, only managed through sequencing.
+- **Extraneous load** — unnecessary cognitive demand created by poor instruction or practice design. Irrelevant information, confusing presentation, unclear goals. Should be minimized.
+- **Germane load** — productive cognitive effort that builds schemas. The load created by working at the edge of ability, making connections, and building mental representations. Should be maximized.
+
+**Working memory is limited to approximately 4 chunks simultaneously.** When total load (intrinsic + extraneous) exceeds working memory capacity, learning stops and frustration begins. When extraneous load is minimized, the available capacity can be directed toward germane load — actual learning.
+
+**Practical applications:**
+- When stuck, break the task into smaller sub-tasks to reduce intrinsic load until basics are solid
+- Eliminate unnecessary environmental complexity during practice (notifications, context-switching)
+- When teaching yourself something: worked examples first (reduces extraneous load), then problem-solving practice (builds germane load)
+- As expertise grows, worked examples become less necessary — experts need the challenge of problem-solving more than novices do
+
+---
+
+## The Learning Curve
+
+Learning is not linear. Knowing the shape of the curve prevents premature abandonment and false peaks.
+
+**The typical learning curve:**
+1. **Initial rapid improvement** — the first 20 hours (Kaufman's research). Moving from zero to functional competence is fast because any improvement represents a large percentage gain from baseline.
+2. **First plateau** — the beginner's plateau. Progress slows because the early gains were from eliminating the most basic errors. The next level requires addressing subtler deficiencies.
+3. **Intermediate valley** — the most dangerous phase. Enough knowledge to be frustrated by inadequacy, not enough to feel competent. Most people quit here. This is where the constraint identification method applies.
+4. **Reorganization** — after a period of deliberate focused practice on the constraint, performance sometimes drops before it improves. The new pattern is being integrated; old patterns are being overwritten. Trust the process.
+5. **Next level** — new plateau, new set of sub-skill constraints. The cycle repeats.
+
+**The most important insight about the curve:** what looks like a ceiling is almost always a plateau with an unidentified constraint. Very few skills have genuine ceilings for motivated learners. What people call a ceiling is usually the point they stopped looking for the constraint.
+
+---
+
 ## How to Learn a New Skill
 
 ### Step 1: Define the Target in Measurable Terms
@@ -118,6 +172,23 @@ A learning sprint is a structured period of intensive skill development with def
 
 ---
 
+## Skill Maintenance and Decay
+
+Skills decay at different rates depending on type:
+
+**Motor skills** (writing, playing an instrument, martial arts, sport mechanics) — decay slowly. Research on the "reminiscence effect" suggests motor patterns encoded in procedural memory survive months or years without practice. They return quickly once practice resumes.
+
+**Cognitive skills** (programming language syntax, mathematical procedures, language vocabulary) — decay faster, particularly declarative knowledge. The spacing effect is more critical here.
+
+**Relational skills** (negotiation, communication, leadership) — decay through disuse but are also rebuilt quickly through deliberate re-engagement. Like riding a bike — the pattern is accessible.
+
+**The minimum viable maintenance protocol:**
+- Motor skills: 1–2 intentional sessions per month to preserve the pattern
+- Cognitive skills: periodic spaced retrieval (Anki, active recall of procedures) at 6-month intervals
+- The goal of maintenance is not improvement — it is preventing significant decay. Keep the neural pathway open until you're ready to invest in the skill again.
+
+---
+
 ## The Transfer Question
 
 Skills trained in controlled environments often fail to transfer to messy real-world conditions. This is the training-to-transfer gap.
@@ -129,6 +200,18 @@ A martial artist who can execute perfect technique in the dojo freezes in a real
 Gary Klein's research on naturalistic decision-making found that expert performance under pressure (firefighters, military commanders, intensive care nurses) is not rule-following — it is pattern recognition. Experts have seen enough situations that the right action feels obvious. This recognition-primed decision-making is what the deliberate practice builds — but only if the practice includes enough varied, contextually rich situations to develop the patterns.
 
 Design your practice to include variability. Add noise. Add time pressure. Add adversarial elements. Train the skill, then train the skill under conditions.
+
+---
+
+## Embodied Learning
+
+Not all learning is cognitive. Some skills are stored in the body before the mind can articulate them. Attempting to intellectualize a motor pattern before the body has encoded it creates interference — the running mental commentary is competing with the motor system.
+
+**The principle:** For movement-based, craft-based, and relational skills, build physical repetition before conceptual analysis.
+
+Learn the movement before studying biomechanics. Play the chord before studying music theory. Navigate the conversation before analyzing conversational dynamics. Let the body get a draft, then let the mind refine it.
+
+The error most intellectuals make when building physical or relational skills: they try to understand before they can do. Understanding deepens doing, but it doesn't replace the doing. The sequence is: do → do badly and notice → refine through reps → then understand.
 
 ---
 

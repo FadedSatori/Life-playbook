@@ -109,3 +109,105 @@ Signs you're in the trap:
 - Your domains don't cross-pollinate because none of them are deep enough to have principles
 
 The fix: enforce the learning sequence. No new domain until the current one reaches Transfer. Depth is what makes the connections meaningful.
+
+---
+
+## Rapid Domain Entry — The 100-Hour Protocol
+
+Entering a new domain doesn't require a decade. Functional fluency — enough depth to begin applying the domain's principles and identifying the connections to your existing domains — is achievable in 100 focused hours.
+
+**Phase 1: Scouting (hours 1–10)**
+- Read three introductory/overview works in the domain (one textbook, one narrative, one practitioner's account)
+- Identify the domain's core questions: What is this field trying to understand? What are the primary controversies? What does this field take for granted?
+- Identify the five people whose work defines the field — then follow the intellectual genealogy backward to the foundational figures
+- Decide whether the domain is worth the remaining 90 hours. Many aren't. Exit the scout phase with a clear yes or no.
+
+**Phase 2: Foundations (hours 10–50)**
+- Read the foundational works — the texts the field keeps returning to
+- Build a glossary of the domain's terms in your own words (this is a Feynman test applied continuously)
+- Identify the first principles: what must be true for the rest of the domain to stand?
+- Begin connecting to your existing domains — write one cross-domain note per week
+
+**Phase 3: Fluency (hours 50–100)**
+- Read primary sources and practitioner-level work without a translator
+- Engage with the domain's active controversies — where do experts disagree, and why?
+- Apply the domain's tools to problems from your existing life and domains
+- Complete the Transfer test: explain the domain's core principles to someone from a different field. If you can do this clearly, you have functional fluency.
+
+After 100 hours, the domain is ready for maintenance mode (one focused session per week). The compounding connections it produces from this point are disproportionate to the maintenance investment.
+
+---
+
+## The Adjacency Strategy
+
+New domains are easier to enter when they share structure with domains you already know. This is the adjacency strategy: find the closest domain to your existing knowledge, enter there first, then branch outward.
+
+**The mechanism:** Your brain already has neural architecture for related concepts. Learning that shares structure with existing knowledge activates existing schemas and updates them, rather than building from nothing. Cognitive load is lower; retention is higher; cross-pollination begins immediately.
+
+**Examples:**
+- Physics fluency → Chemistry is easier (shared mathematical structure, similar atomistic thinking)
+- Economics fluency → Game theory is easier (shared rationality assumptions, similar optimization language)
+- Psychology fluency → Anthropology is easier (shared interest in human behavior, complementary methodologies)
+- Martial arts → Other movement arts (dance, gymnastics) are easier (shared embodied learning, similar periodization)
+
+**The non-obvious adjacency:** Sometimes the most valuable cross-pollination comes from domains that appear maximally distant. A physicist studying language acquires the distinction between syntax and semantics and maps it onto the distinction between structure and function in physics. A martial artist studying negotiation recognizes the same "read and respond" loop they've trained for years. The far-adjacent domains are less efficient to enter but more likely to produce genuinely novel insights.
+
+---
+
+## The Polymath's Information Diet
+
+The polymath's reading is not random browsing. It is strategic input selection designed to deepen existing domains, seed new ones, and maximize cross-pollination.
+
+**The three-stack system applied across domains:**
+- **Primary reading (70%):** Deep engagement with foundational and practitioner-level work in the 2–3 domains currently receiving intensive focus
+- **Adjacent reading (20%):** Work at the edges of the current domains and in the next domain being considered for entry
+- **Serendipitous reading (10%):** Books recommended by people whose taste you trust, topics that interest you without obvious utility, the intellectual periphery. This is where unexpected connections come from.
+
+**Bias toward primary sources over commentary.** Read Darwin, not only books about Darwin. Read Keynes, not only books about Keynesian economics. Read Euclid, not only books about geometry. The primary source reveals the thinker's actual reasoning — the commentary reveals what subsequent interpreters thought about it. These are different things.
+
+**The source genealogy practice:** Every great book references its intellectual ancestors in the bibliography and in the text itself. Follow those references. A domain's foundational ideas have a genealogy — a chain of influence that leads back to originating insights. Tracing that chain gives you the domain's deep structure, not just its current surface.
+
+**Oral input as complement:** Conversations with genuine practitioners in domains you're developing are often worth more than additional reading. A one-hour conversation with a researcher in the field can surface the actual controversies, the alive questions, and the dominant figures — information that takes weeks to extract from books. Seek these conversations deliberately.
+
+---
+
+## Cross-Domain Idea Capture
+
+The polymath's system for capturing and connecting ideas across domains is the mechanism that converts breadth into insight. Without it, breadth is just a lot of disconnected reading.
+
+**The connection journal (weekly practice):**
+One page, handwritten or typed, on a connection you noticed between two domains. The format:
+- The idea from domain A
+- Where it appeared in domain B (the specific instance)
+- What's non-obvious about the connection (what does seeing them together reveal that seeing either alone doesn't?)
+- One question the connection raises
+
+This is not the same as note-taking. It is synthesis — the active making of meaning across domains. The journal entry forces the connection to become explicit and testable rather than a vague feeling.
+
+**The Zettelkasten applied to multi-domain learning:**
+In Niklas Luhmann's system, permanent notes are not filed by subject but by connection — each note links to the other notes it relates to. For the polymath, this means a note on "emergence" in biology links to a note on "emergence" in economics links to a note on "emergence" in social dynamics. The link network is the map of your cross-domain insight.
+
+See [learning/reading-system.md](learning/reading-system.md) for the permanent vs. reference note distinction. For polymath work, the permanent note is always about the principle, not the domain-specific instance.
+
+**The translation game (active practice):**
+Take a problem from domain A and describe it entirely in the vocabulary of domain B. What changes? What becomes visible? This is a forcing function for cross-domain insight.
+
+Example: Describe a failing startup (business domain) in the language of evolutionary biology. What is the selection pressure? What are the mutations (experiments)? What is the niche? What is the extinction mechanism? The translation reveals things about both the startup and evolution that neither domain's native vocabulary easily surfaces.
+
+---
+
+## The Polymath Under Time Constraints
+
+The most common objection: "I don't have time to build multiple domains." This is usually true only if "building a domain" means reaching expertise in every domain. It is not true if building a domain means reaching functional fluency and maintenance mode.
+
+**The 5-hour weekly allocation:**
+- 2 hours: primary domain (the deepest spike — maintain and deepen)
+- 1.5 hours: secondary domain (currently in active development)
+- 1 hour: adjacent reading (the scout function)
+- 30 minutes: cross-domain synthesis (the connection journal)
+
+5 hours per week is the minimum viable polymath schedule. More is better; less produces dilettantism.
+
+**The season model:** Rather than attempting parallel development of multiple domains simultaneously, go deep on one new domain per season (3–6 months). The domain receiving intensive attention grows rapidly. The others receive maintenance attention. At the end of the season, the intensive domain moves to maintenance and the next domain receives the intensive investment.
+
+This produces a different kind of breadth than the dabbler. The dabbler grazes. The polymath digs a new deep well every season and maintains the previous ones.
