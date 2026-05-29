@@ -4,6 +4,24 @@
 
 Most bad decisions are made in one of three states: under time pressure, under emotional influence, or with incomplete framing. The goal is to slow down and reframe before committing.
 
+**Decision quality is not determined by outcomes.** A sound process can produce a bad outcome (bad luck). A flawed process can produce a good outcome (good luck). The evaluation of a decision must be about the process, not the result — otherwise you learn nothing from your successes and blame luck for your failures.
+
+---
+
+## The Decision Taxonomy
+
+Before applying any framework, identify what kind of decision you're making. Different types require different approaches.
+
+**Type 1 — Reversible and low-stakes:** Make it fast. Any reasonable answer is fine. The cost of time spent overthinking exceeds the cost of a mediocre choice. Default to action.
+
+**Type 2 — Reversible and high-stakes:** Spend time on framing, gather relevant data, but preserve the ability to course-correct. Commit enough to learn something, not so much that reversal is costly.
+
+**Type 3 — Irreversible and low-stakes:** Most of these don't actually exist. If it's irreversible and low-stakes, it doesn't warrant significant deliberation.
+
+**Type 4 — Irreversible and high-stakes:** These are the decisions that warrant the full toolkit. These are also the ones people most often make hastily, under emotional pressure, or by default. Slow down, apply multiple frameworks, get outside input, and give yourself time.
+
+Most decisions feel more permanent and more consequential than they are. Calibrating which type you're actually in — rather than which type it feels like — saves significant cognitive resources.
+
 ---
 
 ## Frameworks
@@ -14,14 +32,16 @@ How will you feel about this decision in:
 - 10 months?
 - 10 years?
 
-Useful for: decisions driven by short-term emotion (fear, excitement, anger).
+Useful for: decisions driven by short-term emotion (fear, excitement, anger). The temporal zoom-out interrupts the immediacy of emotional influence.
 
 ---
 
 ### Regret Minimization
 Imagine yourself at 80, looking back. Which choice would you regret more — doing it, or not doing it?
 
-Useful for: big life decisions, risky bets, things you've been putting off.
+Useful for: big life decisions, risky bets, things you've been putting off. Jeff Bezos used this explicitly to decide to leave his investment banking job and start Amazon.
+
+The asymmetry: research on hedonic adaptation consistently shows that people adapt to bad outcomes (they become less bad over time) more than they expected, but that the pain of inaction — of never having tried — does not adapt in the same way. "I tried and failed" loses its sting. "I never tried" doesn't.
 
 ---
 
@@ -38,7 +58,9 @@ Most decisions feel more permanent than they are.
 ### Pre-mortem
 Assume the decision fails spectacularly. What caused it?
 
-Working backward from failure surfaces risks that optimism blinds you to.
+Gary Klein's technique: take the group forward in time to the imagined failure and ask everyone to write down all the reasons it failed. This surfaces risks that optimism and social pressure suppress in normal group decision-making.
+
+**Why it works:** In normal planning, social dynamics (deference to authority, desire for consensus, not wanting to be the pessimist) suppress legitimate risk identification. Pre-mortem creates explicit permission to identify failure modes — and the imagination of failure activates different neural pathways than the imagination of success.
 
 ---
 
@@ -46,6 +68,21 @@ Working backward from failure surfaces risks that optimism blinds you to.
 Bezos's framework: is this a one-way door (hard to undo) or a two-way door (easy to reverse)?
 
 Two-way doors should be made quickly, at the lowest level possible. One-way doors deserve more time and input.
+
+The practical implication: most organizational sluggishness comes from treating two-way doors as one-way doors. Most individual regret comes from failing to recognize the one-way doors until it's too late.
+
+---
+
+### Recognition-Primed Decision Making
+
+Gary Klein's research on expert decision-makers (firefighters, military commanders, chess grandmasters) found that under time pressure and uncertainty, experts don't analyze options — they pattern-match to previous situations and run a mental simulation of the most plausible action.
+
+**The RPD model:** The expert encounters a situation, recognizes it as similar to a pattern they've seen before, identifies the first plausible action, runs a quick mental simulation ("would this work?"), and either proceeds or modifies. They're not choosing from multiple options — they're checking whether the obvious option works.
+
+**Implications:**
+- Experienced people making decisions quickly are often not being impulsive — they're accessing compressed expertise. Honor the gut response from genuine experience.
+- The gut response from inexperience is not the same thing. Pattern-match only if the pattern library is real.
+- Build the pattern library deliberately: seek out diverse, high-stakes situations and debrief them carefully.
 
 ---
 
@@ -56,6 +93,8 @@ Two-way doors should be made quickly, at the lowest level possible. One-way door
 3. **If you can't explain why you're doing something, that's a signal.**
 4. **A good process with a bad outcome is still a good process.** Don't let results bias your evaluation of how you decided.
 5. **When genuinely torn between two options, flip a coin — then notice how you feel about the result.** Your gut has an answer.
+6. **The quality of decisions degrades with fatigue.** Make the highest-stakes decisions in your peak cognitive window, not at the end of the day.
+7. **Multiple options is not the same as better decisions.** More choices produce decision paralysis and lower satisfaction. Set a decision deadline and abide by it.
 
 ---
 
@@ -123,3 +162,36 @@ Before any significant decision, explicitly write:
 Second and third-order effects are where decisions differentiate. Most people in most competitive contexts are operating at first-order. The person consistently thinking one level deeper has a durable advantage — in investing, strategy, relationships, and life design.
 
 *"The problem with most people's thinking is that they consider only the first-order consequences."* — Howard Marks
+
+---
+
+## Fermi Estimation for Decisions
+
+When a decision requires a number you don't have, build an estimate from what you do know. Enrico Fermi could estimate the number of piano tuners in Chicago from first principles (population → households → pianos per household → frequency of tuning → hours per tuning → tuners per city).
+
+**The decision application:**
+- Never refuse to estimate because the data is unavailable
+- Break the unknown into components that can be estimated from more accessible knowledge
+- Build a range (low/base/high estimate) rather than a single point
+- Use the range to inform the decision, not replace it
+
+**Why it matters:** Decisions made on the assumption that an unknown quantity can't be estimated are often made on worse footing than decisions made on an imperfect estimate. The act of building the Fermi estimate often reveals the key uncertainties that actually matter — and suggests what to go find out.
+
+---
+
+## When to Trust Intuition
+
+Kahneman's synthesis: intuition should be trusted when (1) the domain has high regularity — similar situations reliably produce similar outcomes, and (2) the decision-maker has had extensive feedback from similar situations over time.
+
+Chess intuition: valid. High-regularity domain + years of feedback. A chess grandmaster's intuition about a position is expert pattern recognition.
+
+Stock market intuition: mostly invalid for short-term moves. Low-regularity domain (individual stocks are influenced by factors no one can see). Extensive experience in a low-regularity domain builds confidence, not accuracy.
+
+The dangerous middle: domains with enough regularity to feel predictable but enough noise to make intuition unreliable. Most business and career intuition lives here. Apply frameworks; don't rely on feel alone.
+
+**The test before trusting intuition:**
+- Have I encountered many similar situations before?
+- Have I received clear, accurate feedback on the outcomes of similar decisions?
+- Is this domain high-regularity (similar inputs reliably produce similar outputs)?
+
+If all three: trust the intuition as a strong signal. If not: use the intuition as a hypothesis to check, not a conclusion to follow.

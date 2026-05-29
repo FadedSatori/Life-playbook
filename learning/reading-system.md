@@ -1,6 +1,6 @@
 # Reading System
 
-Reading without retention is an expensive hobby. The goal is not to finish books. It is to change — to acquire mental models, frameworks, and insights that alter behavior and compounding thinking for years after the book is closed.
+Reading without retention is an expensive hobby. The goal is not to finish books. It is to change — to acquire mental models, frameworks, and insights that alter behavior and compound thinking for years after the book is closed.
 
 ---
 
@@ -20,6 +20,20 @@ Ebbinghaus's forgetting curve: without any active review, approximately 70% of n
 This is not a memory failure — it is normal neural housekeeping. The brain retains information it encounters repeatedly and forgets information it encounters once. The reading system exists to defeat this default.
 
 Everything that follows is the engineering solution to Ebbinghaus.
+
+---
+
+## The Three Modes of Reading
+
+Not all reading serves the same purpose. Applying the same mode to every text is inefficient.
+
+**Skimming (10–20 min for a book):** Reading the table of contents, chapter headings, introductions, and conclusions. Identifies whether the book deserves full attention. For a book you're uncertain about, always skim before committing. Many books deliver their core argument in 20% of their pages. Skimming tells you which 20%.
+
+**Reading (the standard mode):** Chapter by chapter, but not every word with equal attention. Engage deeply with sections where new information is being introduced and your current framework is being challenged. Skim sections that are confirming what you already know or providing examples for a concept you've grasped.
+
+**Studying:** Line-by-line engagement with the most difficult, most valuable, or most paradigm-challenging material. Books that earn study: primary philosophical texts (*Meditations*, *Enchiridion*), foundational scientific works, books that are restructuring your understanding of a domain. Most books don't earn study. Reserve it for the ones that do.
+
+Mortimer Adler's *How to Read a Book* articulates this as "inspectional reading" → "analytical reading" → "syntopical reading" (reading across multiple books on the same topic). The distinction matters: spending study-level attention on a mediocre book is waste; applying skim-level attention to a foundational text is impoverishment.
 
 ---
 
@@ -50,6 +64,25 @@ The biggest leverage point is during reading, not after.
 **Recognition vs. recall:** When you re-read a passage, your brain says "yes, I've seen this." That is recognition — the lowest form of retention. You can recognize something you cannot recall. Most reading produces recognition only. Deliberate recall practice converts recognition into genuine retention.
 
 **Flashcard-while-reading:** Instead of highlighting, write questions on an index card or in a digital system: "What does Kahneman say about the difference between System 1 and System 2?" — not "Kahneman's dual-process theory" (that's a note, not a question). Questions force recall. Notes allow passive recognition.
+
+---
+
+## The Annotation System
+
+A minimal, consistent annotation system captures insight without fragmenting attention during reading.
+
+**Physical books:**
+- **Underline** (not highlight): only sentences you would quote to someone or act on
+- **Margin star** (★): a concept that connects to your existing knowledge in a non-obvious way
+- **Margin question** (?): something you disagree with, find incomplete, or want to investigate further
+- **Margin exclamation** (!): something paradigm-challenging or surprising
+- **Dog-ear**: pages worth returning to before writing your synthesis
+
+**The discipline:** At the end of the book, flip through and review only the starred, questioned, and exclamation-marked passages. These are the synthesis material. The underlines without markers are probably highlighting — not worth carrying forward.
+
+**Digital books (Kindle, etc.):**
+- Highlights with color coding: yellow (important), blue (connect to something), orange (disagree/question)
+- Kindle sync with Readwise or similar extracts highlights automatically into the spaced repetition system
 
 ---
 
@@ -93,6 +126,20 @@ Over time, the playbook is not a collection of frameworks someone else developed
 
 ---
 
+## Reading for Different Purposes
+
+Different goals require different reading configurations.
+
+**Reading to solve a specific problem:** Targeted. Start with the book's index and relevant chapters. Don't read linearly. Extract what's needed and move on. The synthesis note is shorter; the goal is application, not understanding.
+
+**Reading to understand a field:** Read widely first (5–10 books across different perspectives in the field), then read deeply (2–3 foundational works studied line by line). Wide reading shows the map; deep reading builds the territory.
+
+**Reading the classics:** Go slowly. Read with a pencil. Read secondary literature (commentaries, biographies of the author) to understand context. Return to the same text multiple times over years. The great texts reveal themselves in layers; what you extract from Meditations at 25 is different from what you extract at 40.
+
+**Reading fiction:** Not a leisure exception — a required input. Literary fiction is the most efficient technology for developing the capacity to inhabit other minds. Read widely across cultures, periods, and genres. The reader who only reads from their own cultural moment and language is a specialist in a narrow tradition.
+
+---
+
 ## What to Read
 
 **Primary:** Books that build durable mental models. Not news, not trending takes, not content that will be irrelevant in two years.
@@ -115,8 +162,26 @@ Over time, the playbook is not a collection of frameworks someone else developed
 
 ---
 
+## Building a Personal Canon
+
+The personal canon is your curated list of books that have genuinely shaped your thinking — the ones you would recommend to someone you care about, the ones you would read again.
+
+**How to build it:**
+- After every synthesis note, ask: does this book belong in my canon?
+- The bar is high: not "this was interesting" but "this changed something permanent in how I see"
+- Aim for 30–50 books maximum. The list that includes everything includes nothing.
+- Organize by domain: the 5 books that most shaped your thinking about human nature, decision-making, history, your professional domain, etc.
+
+**Using the canon:**
+- Re-read one canon book per year, scheduled in advance
+- When someone asks for a recommendation, you know immediately
+- The gaps in the canon are your reading priorities: what major domain of important thinking is underrepresented?
+
+---
+
 ## Retention Review
 
 - **Re-read great books.** The second read after living more life is a qualitatively different experience — you'll catch everything you weren't yet ready to receive the first time. Schedule deliberate re-reads of your highest-value books.
 - **Discuss books with someone.** Explaining your synthesis forces gaps to surface. Gaps are where learning happens.
 - **Return to your notes before starting a new book in the same subject area.** You are not starting fresh — you are building on the existing structure. The connection between what you already know and what you're about to read is the prime territory for insight.
+- **The one-sentence test:** For any book you've read in the past year, can you articulate the central argument in one clean sentence? If not, you haven't retained it. The one-sentence test is the minimum retention bar.
