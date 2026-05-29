@@ -16,6 +16,8 @@ This is the main event. Everything else — meetings, messages, admin, coordinat
 - The value of deep work compounds: insights connect, skills sharpen, output accelerates
 - Rarity + value = leverage. The person who can produce four hours of genuine deep work daily outperforms most teams
 
+**The attention residue problem** (Sophie Leroy's research): When you switch from one task to another, cognitive resources tied to the first task don't immediately transfer. A residue of attention remains on the previous task, impairing performance on the new one. The implication: every interruption — even a brief one — does not cost only the time of the interruption. It costs the transition cost on each side. A 30-second check of email in the middle of deep work can cost 20 minutes of re-engagement. The shallow work doesn't just interrupt — it degrades.
+
 ---
 
 ## The Four Depth Modes
@@ -44,9 +46,11 @@ A to-do list cannot produce depth. A list of tasks is structurally incapable of 
 
 2. **Fixed-schedule productivity:** Set your shutdown time first. Let the constraint compress the work to fit. An 8-hour day with no end time will consume itself with Parkinson's Law. A 6-hour day with a hard stop produces the same or more output through forced prioritization.
 
-3. **The shutdown ritual:** At the end of every workday, complete a shutdown ritual that signals the brain that work is done for the day. This is not optional — the brain generates intrusive work-related thoughts during off hours specifically because open loops feel unresolved. The ritual closes the loops. Components: review open tasks, set tomorrow's first deep work task, say the phrase "shutdown complete" (or your equivalent). This prevents work thoughts from colonizing recovery time.
+3. **The shutdown ritual:** At the end of every workday, complete a shutdown ritual that signals the brain that work is done for the day. This is not optional — the brain generates intrusive work-related thoughts during off hours specifically because open loops feel unresolved. The Zeigarnik effect: the brain actively maintains incomplete tasks in working memory, generating intrusive thoughts until they're closed. The ritual closes the loops. Components: review open tasks, set tomorrow's first deep work task, capture everything in a trusted system (not memory), say the phrase "shutdown complete" (or your equivalent). This prevents work thoughts from colonizing recovery time.
 
 **Replanning is not failure.** When the plan changes during the day (and it will), reblock the remaining time on paper. You haven't lost the system — you've updated the map.
+
+**The depth metric:** Track your daily deep work hours. The target for most knowledge workers: 4 hours of genuine deep work is an elite day. 3 hours is strong. Fewer than 2 hours most days means the architecture needs work. Don't count time at a desk — count time in uninterrupted, cognitively taxing concentration.
 
 ---
 
@@ -63,14 +67,32 @@ Ambient communication is the enemy of depth. The goal is not to minimize communi
 - The one-sentence response rule: if a message can be replied to in one sentence, do it immediately during a batching window
 - Question consolidation: never send a message that could be combined with the next 3 questions you need to ask the same person. Batch your questions; reduce their interruptions
 - Be specific in requests: "Can we talk?" is worse than "15 minutes Thursday to discuss the launch date — does 2pm work?" The former creates an open loop; the latter closes it
+- The process-centric approach: instead of rapid back-and-forth, identify the minimal number of exchanges needed to close a loop and design a single message that contains the context needed for a definitive response
 
 **Meeting hygiene:**
 - Default meeting duration: 25 minutes (not 30 or 60 — the odd number signals intentionality)
 - Every meeting requires a stated purpose and desired outcome, written in the invite. If you can't state the purpose in one sentence, the meeting is not ready to happen
 - Default to no. Meeting requests that could be handled async should be handled async
 - If you must be in a meeting: come prepared, leave with written action items and owners
+- The standing meeting default: most recurring meetings should be reviewed quarterly. Most are no longer necessary at their current frequency
 
 **Async first:** Real-time communication produces the feeling of productivity while disrupting the conditions for actual productivity. Use it only when async doesn't work — when real-time feedback loops are the actual point (creative collaboration, relationship-building, sensitive conflict resolution).
+
+---
+
+## Environment Design for Depth
+
+The environment is not neutral. It either supports deep work or undermines it. Design it deliberately.
+
+**Physical space:**
+- Deep work requires an environment your brain associates with depth. If you do shallow work in the same location, your brain will route to shallow-work mode. Create a separate space for deep work if possible — or at minimum, consistent rituals that signal the transition
+- Remove all phones from the room during deep work sessions. Not silenced — removed. The mere presence of a smartphone within reach (even face-down, even off) measurably reduces available cognitive capacity (Ward et al., 2017 study)
+- Noise policy: ambient background noise at café levels (~70dB) has modest benefits for creative work (see [creativity.md](../creativity.md)). For analytical deep work, silence is superior. Match the environment to the task type
+
+**Digital environment:**
+- Use a site and app blocker (Freedom, Cold Turkey, Focus) during deep work sessions. Willpower against the internet is a losing battle; infrastructure beats intention
+- Notifications: default all apps to no notification. Turn on only what you deliberately choose. The default should be silence, not noise
+- The one-browser-window rule: during deep work, have only one browser window open, relevant to the task. Closing all other tabs removes the temptation and the attention residue
 
 ---
 
@@ -102,6 +124,8 @@ The craftsman mindset: focus on getting so good they can't ignore you. Get excel
 
 **Build skills that compound.** Rare and valuable > common and safe. A skill that multiplies the effectiveness of other skills is worth more than a specialized skill with no transfer value. Writing, clear thinking, and strategic communication multiply everything. Deep technical expertise in a valued domain creates defensible leverage. Accumulate both.
 
+**The career capital audit:** Quarterly, identify: What skills do I have that are genuinely rare and valuable? What am I building toward that will be more valuable in 3 years than it is today? What am I practicing in comfort zone that is producing no new skill? The last category needs to shrink.
+
 ---
 
 ## Working on the Right Things
@@ -126,6 +150,8 @@ The brain cannot sustain deep concentration indefinitely. The research on elite 
 
 **Protect the off-switch:** When work ends for the day, it ends. No checking messages during dinner. No "just one more thing" after shutdown ritual. The shutdown ritual exists specifically to make this psychologically possible. The brain that doesn't fully recover doesn't fully perform.
 
+**The weekend rule:** At minimum one full day per week with no professional communication — no email, no Slack, no work-related reading. This is not laziness. It is the maintenance cycle for the system. Every elite performance domain builds in this structure. Knowledge work pretends it doesn't need it. It's wrong.
+
 ---
 
 ## Principles (compressed)
@@ -137,3 +163,4 @@ The brain cannot sustain deep concentration indefinitely. The research on elite 
 - Build skills that compound. Rare and valuable > common and safe.
 - Reputation is built slowly and lost quickly. Act accordingly.
 - Do work that would matter even if no one was watching.
+- The depth metric doesn't lie. Hours of genuine deep work per day is the number that matters.
