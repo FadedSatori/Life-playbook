@@ -124,3 +124,69 @@ See [legacy-at-scale.md](legacy-at-scale.md) for the full framework. The prerequ
 *"It is not death that a man should fear, but he should fear never beginning to live."* — Epictetus
 
 *"I would rather have had one breath of her hair, one kiss from her mouth, one touch of her hand, than eternity without it."* — City of Angels (drawn from Augustine)
+
+---
+
+## Terror Management Theory: How Unintegrated Death Shapes Culture
+
+Ernest Becker's *The Denial of Death* (Pulitzer Prize, 1974), extended by Jeff Greenberg, Sheldon Solomon, and Tom Pyszczynski into Terror Management Theory (TMT), offers the most psychologically rigorous account of what unintegrated death awareness does to human behavior at scale.
+
+Becker's central thesis: human culture is primarily a system of immortality projects and meaning structures designed to manage the existential terror of knowing we will die. Status-seeking, tribal identification, nationalism, religious belief, the drive to accumulate wealth and accomplishment — all are, in part, responses to the terror of non-existence. They offer symbolic or literal immunity from the awareness that we will cease to be.
+
+**The TMT research findings:**
+- Reminding people subliminally of their mortality (*mortality salience*) increases: in-group preference, out-group hostility, punishment of moral transgressors, nationalism, religiosity, and desire for cultural symbols and status
+- The same effect is seen in people who explicitly deny believing in any supernatural afterlife
+- The mechanism operates below conscious awareness — which is precisely the point. Integrated awareness of death is conscious. Unintegrated death terror operates as unconscious motivation, driving behavior that would be embarrassing to own as death avoidance
+
+**The integration payoff:** The person who has consciously integrated their mortality becomes less susceptible to cultural manipulation via death terror. Less driven to prove immortality through status accumulation. Less tribal in their identity. Less punitive toward those who violate worldview. More able to evaluate choices on their actual merits rather than their symbolic valence.
+
+This is why mortality integration is not merely a philosophical nicety. It is a precondition for genuine autonomy.
+
+---
+
+## The Body's Relationship to Death
+
+The mind can accept mortality abstractly. The body often does not — until it must.
+
+Most mortality integration work happens at the intellectual level: I know I will die, I've thought about it, I've done the exercises. But the deeper integration is somatic — the body's knowing, not just the mind's.
+
+**Signs the body has not integrated mortality:**
+- Visceral fear response when death is mentioned or made concrete, beyond what simple discomfort would explain
+- Avoidance of any concrete encounter with death (hospitals, funerals, illness conversations) that extends past ordinary reluctance into active management
+- The specific anxiety of vulnerability and loss of control that activates most strongly around health, physical safety, and the wellbeing of people you love
+- A sense of the body as something that might betray you, rather than something you inhabit fully, with full knowledge of its limits
+
+**Working with the body on this:**
+- Physical encounters with mortality — sitting with the dying, attending funerals without emotional management, visiting cemeteries deliberately — force the body into contact with the fact at a level that intellectual exercise cannot reach
+- Somatic practices (breathwork, body scan, certain forms of meditation) can access the death anxiety held in the body's tension patterns
+- The Tibetan Buddhist *bardo* teachings, stripped of their religious framework, offer a systematic approach to training the mind to meet death clearly — not in the moment of dying but throughout life, through deliberate imagination
+
+---
+
+## Grief and Mortality as Adjacent Practices
+
+Grief and mortality integration are different practices addressing the same underlying fact: loss is the nature of existence. Everything is impermanent. Everyone leaves.
+
+The person who avoids grief avoids the experience that directly confronts impermanence. The person who avoids mortality integration avoids the fact that they themselves are temporary.
+
+Both practices require the same core capacity: the ability to be with a difficult reality without the compulsive need to make it not be true. This is equanimity — not the absence of feeling, but the willingness to feel without being destroyed by the feeling.
+
+**Cross-practice:** working directly with grief (see [grief-and-loss.md](grief-and-loss.md)) prepares the ground for mortality integration, and vice versa. Each is a dress rehearsal for the other.
+
+The warrior traditions have understood this. The samurai practice of *shisei* — death contemplation — was not a morbid exercise. It was training the mind to meet any moment, including the final one, with the same equanimity it would bring to an ordinary moment. The goal was not fearlessness in the sense of the absence of fear, but freedom from the grip of fear — particularly the fear of ending.
+
+---
+
+## Making It Concrete
+
+The common failure of mortality integration practice is keeping it abstract. "I know I will die" as an intellectual proposition is not integration. Integration requires making it specific.
+
+**Specificity exercises:**
+- Visualize, in detail, your last day. Where are you? Who is there? What do you hope to feel? What would you regret not having said?
+- Sit with a concrete image of your own body after death. Not to be macabre — to make the event real rather than abstract. The Tibetan tradition has elaborate visualization practices of exactly this.
+- Read the obituaries of people your age who died this week. Specificity about the reality of peers dying — not "people die" but "this particular person who was alive last week is not alive now" — is among the most reliable activators of integration.
+- Name one thing you would do differently if you knew you had six months. Then ask: why aren't you doing it now?
+
+The answer to the last question is almost always one of three things: you believe time is unlimited; you're waiting for the right conditions; or you have not genuinely made the integration. The purpose of mortality integration is to make these answers unavailable — to live as if time is limited because it is.
+
+*"Do not act as if you had ten thousand years to live."* — Marcus Aurelius, *Meditations*
