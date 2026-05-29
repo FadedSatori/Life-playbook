@@ -34,6 +34,43 @@ Most entrepreneurs build the product first and figure out the business model lat
 
 ---
 
+## Distribution: The Underrated Half of Building
+
+Most entrepreneurs think about building the product. The better ones think equally about distribution — how the product reaches the people who need it.
+
+Peter Thiel's observation: "Poor distribution — not product — is the number one cause of startup failure." A product without a distribution channel is a product that doesn't exist for its potential customers. This is not a marketing problem — it is an existential business problem.
+
+**The distribution audit (answer before building):**
+- Who specifically will buy this first? Not "enterprise IT buyers" — a specific company, a specific title, a specific context.
+- How will they learn this exists?
+- How do they become a customer — and what does that process look like in each step?
+- What causes them to tell others?
+
+**The channels:**
+- **Direct sales:** High touch, high cost, slow to scale. Works for high-value B2B products where customization and relationship matter and average contract value justifies the cost.
+- **Inside sales:** Phone and video-based at moderate scale. Works in the $1k–$100k range where some explanation is required but physical presence is not.
+- **Product-led growth (PLG):** The product itself acquires users. Works when value is immediately apparent and onboarding can be self-guided. Slack, Dropbox, Notion are canonical examples — users chose these tools before their company did.
+- **Channel partners / resellers:** Others sell for a margin. Works when partners already own the customer relationships you need.
+- **Virality:** Designed into the product such that every user creates fractionally more than one additional user. If the viral coefficient is above 1, the product grows geometrically. If below 1, it declines regardless of quality. Virality is designed, not accidental.
+
+**The one-channel rule:** Most successful products have one dominant distribution channel in their early phase. Before declaring a channel doesn't work, run 50 experiments. After 50, if it's not working, try a different channel. Most founders abandon channels after 5 experiments.
+
+---
+
+## Product-Market Fit: How to Know When You Have It
+
+Product-market fit is the most-used and least-defined concept in startup culture. Here is the most reliable operational definition:
+
+**Sean Ellis's test:** Survey active users: "How would you feel if you could no longer use this product?" Options: Very disappointed / Somewhat disappointed / Not disappointed. PMF is present when 40% or more of active users answer "very disappointed." Below that threshold, you haven't found it yet. Above it, the core product has found its audience.
+
+**The qualitative signal:** Customers pull the product rather than you pushing it. Inbound leads start arriving. Customers use the product more than expected and in ways you didn't anticipate. They become visibly annoyed when you suggest removing features. They refer others without incentive.
+
+**What PMF feels like from the inside:** The company starts breaking — server capacity, customer support, and operational infrastructure all fail faster than you can fix them because demand is outrunning the organization's ability to serve it. If growth doesn't feel like it's breaking things, you probably don't have PMF yet.
+
+**Before PMF:** The only goal is to find PMF. Hiring for scale, brand marketing, operational excellence, process documentation — none of it matters until you have evidence that a version of this product is something people genuinely want. Spending on growth before PMF amplifies the wrong signal.
+
+---
+
 ## The Phases of a Business
 
 Different phases require different skills, strategies, and mindset. Most failures happen when a phase-1 mindset encounters phase-2 problems — or vice versa.
@@ -53,6 +90,22 @@ What worked for 10 customers breaks at 100. What worked for 100 breaks at 1,000.
 The company outlives the founder's daily involvement. Not every business needs to reach this phase. Many shouldn't.
 
 **The transition problem:** Founders who built the business in Phase 1 often cannot let go in Phase 3. The characteristics that made them effective (extreme ownership, doing everything, trusting no one else's judgment) become pathologies at scale. Know which phase you're in and what skills the phase requires.
+
+---
+
+## The Pivot: When to Change Direction
+
+Persistence is a virtue. Stubbornness is a pathology. The difference is whether you're persisting in the direction the evidence supports or refusing to update on evidence that has clearly moved against you.
+
+**The pivot decision framework:**
+1. **Has the thesis been fairly tested?** A hypothesis that has never received a genuine test cannot be falsified. 20 customer conversations is not a test. 200 conversations, 50 pilots, 3 months of data — these begin to constitute a test. Have you reached the point where the test is meaningful?
+2. **Is this a hypothesis failure or an execution failure?** A hypothesis failure — the thing you thought was true isn't — requires pivoting the thesis. An execution failure — the thing is true but you've been executing badly — requires operational correction. These look identical from the inside. They require different responses.
+3. **What specifically is the evidence?** Not general malaise — specific signals: which objections recur, which metrics have moved in which direction, which customer segments are buying vs. not. Evidence is only useful when it's specific enough to inform a new hypothesis.
+4. **What is the next hypothesis?** A pivot is not a retreat — it is a new hypothesis. "We're going in a different direction" is not a strategy. "We're going to test whether [specific thesis] solves the distribution problem we're facing" is a strategy. Know what you're testing next before you stop testing the current thing.
+
+**The most common pivot mistake:** Changing the market segment when the problem is the product, or changing the product when the problem is the go-to-market approach. The failure is attributed to the wrong layer of the stack. Identify accurately which layer has failed before changing it — otherwise you end up with a new product for the same customers who didn't want the first product.
+
+**The pivot timing problem:** Most founders pivot too late — they should have changed direction six months ago and the data was clear. A minority pivot too early — they didn't give the thesis enough time to be fairly tested. The discipline is specific: not "this is hard" (that is expected) but "the specific indicators I required to validate this thesis have not appeared after sufficient, honest testing."
 
 ---
 
@@ -95,6 +148,20 @@ The most common early startup mistake: hiring to fill roles before validating th
 
 ---
 
+## Founder Health and Sustainability
+
+The company cannot outlast its founders. The founder who burns out, breaks down, or exits the mission in years 3–5 does not produce the outcome that years 7–10 might have. Sustainability is not self-indulgence — it is a business requirement.
+
+**Sleep:** The research on decision-making under sleep deprivation is unambiguous and the implications for founders are severe. The person at 5 hours of sleep believes they are performing adequately. The objective measurements show significant impairment in exactly the capacities that matter most: judgment, risk assessment, emotional regulation, creative problem-solving. The CEO making consequential decisions on inadequate sleep is introducing systematic error into the decisions that determine the company's direction. This is a business problem, not a personal one.
+
+**Decision architecture:** Every decision that flows to the founder that could flow to someone else is a cost. Decision fatigue is real — the quality of decisions degrades as the number of decisions in a day increases. Structure the decision architecture to concentrate founder judgment on the decisions that only the founder can make. Delegating everything else is not abdication. It is resource allocation.
+
+**The support gap:** The board wants optimism. The team needs confidence. Investors need a clean story. Almost no one in a founder's direct environment is a safe container for the full weight of what they're navigating — everyone in the room has their own interests in the company's outcome. Find other founders. That community is the only one where the full truth can be told without managing the relationship. This is not optional. Isolation is a business risk.
+
+**The identity problem:** The founder who has built their entire life inside the company will not survive the company's death — and will be less effective running it than the founder who has maintained an existence independent of it. The company is a vehicle, not an identity. Build the self-concept around what you value and how you engage with the world, not around the outcome of this particular company. That foundation is what makes it possible to make hard decisions about the company — including the hardest one.
+
+---
+
 ## Capital and Funding
 
 Funding is a tool, not a goal. The startup mythology around raising money conflates means and ends. Raised capital is money you will have to return — with significant interest if equity, with interest plus principal if debt.
@@ -116,6 +183,22 @@ Not every company is built to sell. Not every company is built to IPO. Knowing w
 **The lifestyle vs. venture distinction:** A business that generates $500k/year in profit for its owner is a genuinely successful business. It will never be venture-backed, because venture requires 100x returns at scale. The failure to distinguish between "this is not venture-scale" and "this is not a good business" has caused more founder misery than almost any other confusion in the ecosystem.
 
 **The mission as north star:** The companies that navigate the hardest phases — near-bankruptcy, key departures, product crises — are almost always the ones where the founder has a clear answer to "why are we building this, beyond the money?" Not a platitude. A specific, personal, credible answer. The mission is not marketing. It is the thing that keeps you going at 2am when the money is almost gone and three people just quit.
+
+---
+
+## When the Company Fails
+
+Most companies fail. Most founders face this. The question is not whether, but when, and what happens after.
+
+**Obligations to the team come first.** Be honest with them as early as you can — do not string people along when you know the outcome is likely. Give them enough notice to find alternatives. Pay what you owe. The way you handle the end is remembered longer than the company itself, both by the people who worked there and by the markets you'll operate in next.
+
+**Understand your legal exposure.** Debt personally guaranteed is yours. Equity is not. Employees' final paychecks are legal obligations, not optional. Do not pay yourself while owing employees their wages. Get counsel before making decisions with legal implications — the cost of getting it wrong here can persist for years.
+
+**The full debrief takes months, not days.** The complete accounting of what happened — what you knew, when you knew it, what decisions you made based on that, where you'd do differently — is a process. Write it down. Share it with people who were there. The failure belongs not only to you but to everyone who built it with you, and the learning should be shared. See [failure.md](../failure.md) for the full framework; the entrepreneurial version is longer and harder.
+
+**Process the guilt separately.** A company failure is not only a personal failure — it is a failure that affects the people who bet on you. Employees, investors, co-founders, partners. Processing this guilt is one of the more difficult aspects of entrepreneurial failure and often delays the recovery that enables the next attempt. The guilt is appropriate information: it shows you care about the people affected. It should be processed, not suppressed or indulged. Get the support to do that work.
+
+**The reconstruction:** Most good founders start again. Before that, rebuild the self-concept around what you value and how you engage, not around the outcome of the company that failed. The founder whose identity was the company has no foundation for the next one. The founder who knows who they are independent of any specific outcome has everything they need to go again.
 
 *"The only way to survive as an entrepreneur is to embrace the possibility of failure completely and to not let that possibility change what you do."* — Jeff Bezos (paraphrase)
 
