@@ -20,6 +20,8 @@ Divide the universe into two columns:
 
 Work the left column with full force. Release the right column completely. Most suffering comes from attempting to control the right column. Most power comes from mastering the left.
 
+**The refinement:** Epictetus is precise about where the line sits — it is not "things under my influence" but "things up to me" in the strongest sense. Your health is not up to you; your commitment to practices that support health is. Your reputation is not up to you; your conduct that informs reputation is. The dichotomy is strict. Most people draw it too wide on the left side and frustrate themselves trying to control outcomes that are not theirs. Draw it narrowly. Work it completely.
+
 ---
 
 ## Morning Practice — Premeditatio Malorum
@@ -33,6 +35,12 @@ Work the left column with full force. Release the right column completely. Most 
 This practice does two things: it removes the shock of adversity (you've already rehearsed it) and it reveals that most feared things are survivable. The Stoics called this *negative visualization*. It is not pessimism — it is preparation.
 
 *"Rehearse death. To say this is to rehearse freedom. A person who has learned how to die has unlearned how to be a slave."* — Seneca
+
+**The premeditation protocol:**
+- 5 minutes maximum — don't dwell, rehearse
+- Name the specific difficulty; don't remain vague
+- Name your specific response: not "I'll handle it" but "I will speak calmly, identify what is mine to address, and take the one available action"
+- Return to the day; the exercise is preparation, not prediction
 
 ---
 
@@ -59,6 +67,8 @@ The practice: when something goes wrong, ask — *how is this useful?* Not "why 
 
 *"Not merely bear what is necessary, still less conceal it... but love it."* — Nietzsche
 
+The distinction between acceptance and amor fati: acceptance is tolerance — I don't like this, but I'll live with it. Amor fati is genuine embrace — I wanted this development, or would have if I'd known what it would make possible. The gap between those two positions is the gap between surviving adversity and being made by it.
+
 ---
 
 ## Evening Review — Marcus Aurelius's Method
@@ -70,6 +80,8 @@ End each day with three questions (write the answers, don't just think them):
 3. **What was left undone?** — carry it forward with intention, not guilt
 
 The Stoics called this *the evening examination*. It closes the day cleanly and prevents the unconscious accumulation of unprocessed experience.
+
+**Why writing matters:** Thinking about these questions is not the same as writing the answers. Writing forces specificity. Vague self-examination produces vague self-knowledge. The discipline of completing the sentences — "What I did wrong today was specifically..." — produces the kind of precision that generates change.
 
 ---
 
@@ -86,6 +98,8 @@ Used by Roman generals who had a slave stand behind them during triumph parades,
 
 *"You could leave life right now. Let that determine what you do and say and think."* — Marcus Aurelius
 
+**Cross-reference:** For the deeper integration of mortality as a practice, see [mortality-integration.md](mortality-integration.md). Memento mori is the Stoic reminder; mortality integration is the full protocol.
+
 ---
 
 ## The View from Above
@@ -97,6 +111,8 @@ Visualize yourself from above:
 
 Your problem is real. It is also invisible from 10,000 feet and will be unknown in 200 years. This is not nihilism. It is proportion. Act fully, but hold loosely.
 
+**The related tool — the long view:** Marcus frequently reminded himself that Alexander, Caesar, and all the great men of history are now dust and largely forgotten. He included himself. This is not despair — it is liberation. You are not building for eternity. You are building for this generation, this community, this moment. That is enough. That is, in fact, everything.
+
 ---
 
 ## Stoic Rules for Daily Life
@@ -106,6 +122,8 @@ Your problem is real. It is also invisible from 10,000 feet and will be unknown 
 - **Judge yourself, not others.** You have no access to their interior. You have full access to yours. Focus there.
 - **The present is all you have.** The past is fixed. The future is uncertain. The only place to act is now.
 - **Be useful.** Marcus Aurelius asked himself every morning: *"What am I still needed for?"* That question is the antidote to self-pity, ego, and drift.
+- **Say less than you want to.** Every unnecessary word is noise. Every unnecessary complaint is weakness rehearsed.
+- **Treat insults as experiments.** See if they can land. If someone's contempt moves you, it has found a hook. Find the hook and remove it.
 
 ---
 
@@ -116,6 +134,8 @@ Stoicism was not developed in one life condition. Its two greatest practitioners
 **Epictetus** was born a slave. He practiced Stoicism from a position of total external powerlessness — no freedom, no property, no legal standing. His framework is radical non-attachment. When you have nothing, the dichotomy of control becomes not philosophy but survival: you cannot change the external, so you must live entirely in the internal. His *Enchiridion* is the purest expression of Stoicism under constraint.
 
 *"Make the best use of what is in your power, and take the rest as it happens."*
+
+His contribution to the tradition: the demonstration that the practice is still possible — in fact, most necessary — when stripped of all external props. No one can take your inner freedom. That Epictetus proved this from slavery is the most powerful empirical test of the philosophy.
 
 **Marcus Aurelius** was emperor — more external power than almost any human being in history. His Stoicism is the responsible use of power held correctly. His challenge was not survival under constraint but virtue under unlimited capacity. The temptations were different: ego inflation, the corruption of unlimited authority, the loss of contact with what was real.
 
@@ -160,3 +180,32 @@ This is not reframing. It is not positive thinking. It is the recognition that a
 4. **Act on the controllable.** Not eventually — now. The response to the obstacle is the work.
 
 The Stoic reframe is not toxic positivity ("everything happens for a reason"). It is finding the actual development opportunity embedded in the actual adversity — and using it.
+
+---
+
+## The Weekly Stoic Practice
+
+Five micro-practices embedded in the week:
+
+**Monday:** Write one fear you're carrying. Apply the dichotomy: is it in your control? If not, why are you carrying it?
+
+**Wednesday:** Identify one person who frustrated or annoyed you. Ask — what in me reacted? Was that reaction up to me? What would have been a more aligned response?
+
+**Friday:** Review the week. Where did you act from your values? Where did you compromise? Not judgment — inventory.
+
+**Sunday morning:** Premeditatio malorum for the week ahead. Not the day — the week. What challenges are likely? How will you respond?
+
+**Evening, any day:** One honest sentence about the day. Not "it was good" or "it was hard" — one sentence that names what happened and what you did with it.
+
+---
+
+## The Stoic View on Emotion
+
+Stoicism is frequently misunderstood as the suppression of emotion. It is not. The Stoics distinguished between:
+
+- **Passions (pathe):** Emotions driven by false judgments about what is good or bad — fear (because I falsely believe external threats determine my wellbeing), anger (because I falsely believe others' behavior violates my control), grief (because I falsely believe the loss is a total evil)
+- **Good emotions (eupatheiai):** Emotions arising from accurate judgment — joy (the pleasure of acting virtuously), caution (appropriate prudence), wish (desire for genuine goods)
+
+The Stoic goal is not emotional flatness. It is the replacement of passion (which falsely attributes significance to the uncontrollable) with the good emotions (which arise from accurate engagement with what is actually up to you). A Stoic can experience joy, love, care, and connection — all arising from genuine goods. What the Stoic releases is the distress caused by the false belief that external things determine inner wellbeing.
+
+The practice in practice: when an emotion arrives, ask not "should I feel this?" but "what judgment is generating this?" If the judgment is accurate and the emotion follows from it, let it run. If the judgment is false — an assumption that the uncontrollable matters to your wellbeing — correct the judgment, and the destructive form of the emotion loses its grip.

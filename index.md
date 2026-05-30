@@ -58,15 +58,18 @@ The synthesis. Everything in this playbook builds toward this.
 
 | File | What's in it |
 |------|-------------|
-| [Shadow Work](shadow-work.md) | Jungian shadow integration — projection test, inner child work, Voice Dialogue, integrating anger |
+| [Shadow Work](shadow-work.md) | Jungian shadow integration — projection test, inner child work, Voice Dialogue, shadow in creativity and leadership |
 | [Antifragility](antifragility.md) | Building a life that gets stronger from shocks — barbell strategy, optionality, ruin conditions |
 | [Flow States](flow-states.md) | Peak performance on demand — four-stage cycle, domain-specific triggers, group flow, recovery protocol |
-| [Grief and Loss](grief-and-loss.md) | The oscillation model, types of loss, warrior tradition on grief, integration protocol |
+| [Grief and Loss](grief-and-loss.md) | The oscillation model, neuroscience of grief, PTG, warrior tradition, integration protocol |
 | [Creativity](creativity.md) | The four creative modes, creative metabolism, Resistance, the taste-reality gap |
 | [Solitude](solitude.md) | Aloneness vs. loneliness, the historical models (Musashi/Thoreau/Desert Fathers), signal amplification, daily/monthly/annual protocol |
 | [Humor and Play](humor-and-play.md) | Stuart Brown's play research, humor as social technology, the warrior tradition of play, cultivating genuine levity |
 | [Mortality Integration](mortality-integration.md) | Beyond memento mori — Yalom's awakening experience, the deathbed test, annual mortality meditation, living eulogy |
 | [Sexuality](sexuality.md) | Sexuality as life force, the Lover archetype, separating desire from validation, Perel's intimacy/desire tension, presence as the core practice |
+| [Anger](anger.md) | Anger as signal, amygdala hijack, integrated vs destructive anger, righteous anger, shadow connection |
+| [Courage](courage.md) | Five types of courage, progressive exposure protocol, moral courage, fear as compass, courage audit |
+| [Failure](failure.md) | Three failure types, the debrief protocol, failure psychology, asymmetric payoffs, the failure-success asymmetry |
 
 ## Next-Gen
 
@@ -108,8 +111,9 @@ The synthesis. Everything in this playbook builds toward this.
 
 | File | What's in it |
 |------|-------------|
-| [Work Principles](career/work-principles.md) | Deep work, communication, quality standard, career principles |
-| [Finances](career/finances.md) | Money rules, allocation framework, investing defaults |
+| [Work Principles](career/work-principles.md) | Deep work, time blocking, communication protocol, career capital theory, output vs consumption |
+| [Finances](career/finances.md) | Wealth sequence, index fund evidence, tax strategy, insurance, wealth psychology |
+| [Entrepreneurship](entrepreneurship.md) | Validation sequence, business phases, entrepreneurial psychology, positioning, team and capital |
 
 ## Relationships
 
@@ -117,6 +121,7 @@ The synthesis. Everything in this playbook builds toward this.
 |------|-------------|
 | [Principles](relationships/principles.md) | How to show up, intimacy architecture, Dunbar's layers, conflict and repair |
 | [Intimate Partnership](relationships/intimate-partnership.md) | Gottman framework, differentiation vs. fusion, limerence, conflict protocol, shadow in partnership |
+| [Community and Tribe](community.md) | Why belonging is biological, Dunbar layers, how genuine community forms, curation role, cult dynamics, belonging debt |
 
 ## Learning
 
