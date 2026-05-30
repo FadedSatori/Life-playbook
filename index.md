@@ -121,6 +121,7 @@ The synthesis. Everything in this playbook builds toward this.
 |------|-------------|
 | [Principles](relationships/principles.md) | How to show up, intimacy architecture, Dunbar's layers, conflict and repair |
 | [Intimate Partnership](relationships/intimate-partnership.md) | Gottman framework, differentiation vs. fusion, limerence, conflict protocol, shadow in partnership |
+| [Community and Tribe](community.md) | Why belonging is biological, Dunbar layers, how genuine community forms, curation role, cult dynamics, belonging debt |
 
 ## Learning
 
