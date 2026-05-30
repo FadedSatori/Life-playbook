@@ -81,6 +81,93 @@ Most speakers never pause long enough. Their pauses feel like gaps; they're actu
 
 ---
 
+## Storytelling as the Primary Vehicle
+
+Facts are forgotten. Stories are remembered. The human brain processes narrative differently from information — narrative activates not just language centers but sensory and motor cortices, the same regions active when living the experience. A well-told story is not a soft alternative to data — it is the delivery mechanism that makes data land in long-term memory.
+
+**The basic narrative arc:** Every story needs five elements in this order:
+1. A character the audience can identify with
+2. A problem, obstacle, or conflict that creates tension
+3. The lowest point — when it seems like the character might not make it
+4. The resolution — how they navigated the obstacle
+5. The change — who the character is now, having come through it
+
+The change is the point. Without it, you have anecdote. With it, you have a story that carries meaning.
+
+**Vulnerability as the structural element that makes stories land:** Jonathan Gottschall's research on narrative: audiences form parasocial bonds with characters who show genuine struggle, not effortless competence. The speaker who tells only success stories is impressive but not compelling. The speaker who includes the moment of genuine doubt, confusion, or failure — and then the pivot — is compelling. Show the gap between who you were and who you became. That gap is where the audience identifies.
+
+**The callback:** Reference something from early in the talk at the end. The satisfaction of completion — the closed loop — is neurologically rewarding. It makes the audience feel clever for remembering the earlier reference and signals that the talk was architecturally intentional.
+
+**The rule of three:** Three is the minimum for pattern recognition and the maximum before working memory overloads. Three examples. Three principles. Three stories. Not two (feels incomplete). Not four (loses them). Three.
+
+---
+
+## Reading the Room
+
+A talk is not a monologue delivered to a passive audience. It is a real-time exchange of attention and energy. The audience is giving you information constantly — you are either reading it or you're not.
+
+**Signs of engagement:** Forward lean, eye contact, stillness, laughter at the right moments, audible response to questions you pose. These are signals to maintain the current approach.
+
+**Signs of disengagement:** Backward lean, phone checks, side conversations, eyes going unfocused, flat response to humor or rhetorical questions. These are signals to change something: increase pace, tell a story, ask a direct question, raise energy, acknowledge the room explicitly.
+
+**The explicit acknowledgment move:** When the room is clearly losing focus, name it. Not with accusation — with curiosity: "I want to check — am I landing this? Let me try a different approach." This immediately resets attention and demonstrates confidence. The speaker who cannot acknowledge a struggling moment is brittle; the speaker who can adjust in real time demonstrates mastery.
+
+**Asking questions:** Rhetorical questions engage the audience's brains even when no verbal response is expected — the audience mentally generates an answer. Directed questions (actually asking for responses) elevate the talk from presentation to conversation. Both are tools; use both deliberately.
+
+**Energy transfer:** The foundational insight of great public speaking. You are not delivering information to a passive container. You are in an energetic exchange with a room of people. Your internal state — genuine curiosity, genuine excitement about the material, genuine presence — transfers. Performed enthusiasm does not. The audience cannot be more engaged than you are. If you are going through the motions, they will register it as boredom.
+
+---
+
+## The Q&A Protocol
+
+Q&A is where most talks are won or lost. A strong prepared talk followed by a weak Q&A leaves the audience with the Q&A. Master it specifically.
+
+**Before taking questions:**
+- State the structure: "I have 15 minutes for questions — let's use them."
+- Take a deliberate pause after inviting questions. Do not fill the silence. Let the first question come. The anxious speaker who starts summarizing when no hand goes up immediately loses the authority just built.
+
+**The four-step response:**
+1. **Listen completely** — don't start formulating your answer while they're still asking. The question often contains a false premise, an emotional subtext, or an opportunity that you miss if you're already in answer mode.
+2. **Rephrase the question** — briefly and accurately. This serves three purposes: confirms you understood, allows the rest of the room to hear (questioners are often inaudible), and gives you a moment to formulate.
+3. **Answer the question you were asked** — not the question you wished they'd asked, not a pivot to your prepared points. If the question is genuinely off-topic, say so briefly: "That's a good question but outside what I can address well here — can we talk after?"
+4. **Return to the room** — after answering, return eye contact to the broader audience, not the questioner. This prevents the talk from becoming a two-person conversation.
+
+**Handling hostile questions:** The hostile questioner is often making a speech, not asking a question. Let them finish. Acknowledge the emotion: "I can hear this matters to you." Then address the factual core of what was said, if one exists. Do not get defensive; defensiveness validates the hostility. Calmness in response to hostility demonstrates authority.
+
+**The one you don't know:** "I don't know, but here's how I'd think about it..." is a strong response. The alternative — bullshitting an answer to a question you can't answer — is always detected and destroys credibility.
+
+**Closing the Q&A:** End before it dies. "One more question, and then I'll let you go." End on a strong note, not an awkward silence.
+
+---
+
+## Preparation Protocol
+
+Amateur speakers write their words first. Professional speakers design their experience first.
+
+**Backwards design (start from the end):**
+1. What do I want the audience to do, think, or feel differently after this talk? (The outcome)
+2. What single argument, story, or insight would most directly produce that change? (The core)
+3. What three supporting points, stories, or evidence most efficiently support the core? (The structure)
+4. What opening creates the most engagement and points toward the core? (The hook)
+5. Now write the words.
+
+**Rehearsal protocol:**
+- First rehearsal: standing, out loud, no notes — to identify what you actually know vs. what you've written but don't have internalized
+- Second rehearsal: record it — video or audio. Review once. Note the specific moments where energy drops, pace accelerates, or clarity fails. Fix those specifically.
+- Third rehearsal: run it in conditions as close to the real context as possible (the actual room if accessible, same time of day, dressed as you'll be dressed)
+- Final rehearsal: the night before, run only the opening and closing out loud. The middle will come. The opening sets the state; the closing determines what they carry out.
+
+**Know the material, not the script:** Memorizing exact words produces brittle performance — any deviation triggers anxiety. Know the structure, the key phrases, and the stories. The exact words will emerge in the moment when the structure is solid.
+
+**The three questions to answer before any talk:**
+1. Who specifically is in this room, and what do they most need right now?
+2. What is the single most important thing I want them to leave with?
+3. What is my opening sentence — exactly?
+
+If those three questions have clear answers, the talk is ready. If any is vague, more preparation is needed.
+
+---
+
 ## Media and Broadcast
 
 The adjustments for non-room contexts are specific:
@@ -127,3 +214,12 @@ Public speaking follows the deliberate practice model from [skill-building.md](.
 - Volume produces skill: the person who has spoken to 100 rooms is different from the person who has spoken to 10. Find the rooms.
 
 The skills built here transfer: negotiation, leadership presence, performance under pressure, the capacity to hold a room's attention through genuine confidence rather than noise. These compound.
+
+---
+
+## Cross-References
+
+- The underlying communication framework: [communication.md](../communication.md) — verbal precision, listening, and difficult conversations at depth
+- Performance under pressure: [tactics/cognitive.md](cognitive.md) — the cognitive protocols that support public speaking performance
+- Public speaking as a force multiplier: [force-multipliers.md](../force-multipliers.md) — why communication ability compounds every other capability
+- The deliberate practice framework that builds this skill: [learning/skill-building.md](../learning/skill-building.md)
