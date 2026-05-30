@@ -160,3 +160,160 @@ The cycle is real. Which part are you in? Which part are you creating?
 > — **African proverb**
 
 Difficulty is not punishment. It's training.
+
+---
+
+> *"I am not afraid of an army of lions led by a sheep; I am afraid of an army of sheep led by a lion."*
+> — **Alexander the Great**
+
+Leadership multiplies the capability of those beneath it. A single person with clarity changes the entire system.
+
+---
+
+## On Mastery & Craft
+
+> *"Do nothing that is useless."*
+> — **Miyamoto Musashi**
+
+Every action is either advancing you or it isn't. There is no neutral ground.
+
+---
+
+> *"Think lightly of yourself and deeply of the world."*
+> — **Miyamoto Musashi**
+
+The ego that needs to be protected cannot see the situation clearly. See clearly first.
+
+---
+
+> *"Be willing to part with yourself on the path."*
+> — **Miyamoto Musashi, Dokkodo**
+
+Every version of yourself you refuse to release is a ceiling on the version you could become.
+
+---
+
+> *"I have not failed. I've just found 10,000 ways that won't work."*
+> — **Thomas Edison**
+
+Failure as data, not verdict. The person who understands this reframes the entire process.
+
+---
+
+> *"Under pressure, you don't rise to the occasion. You sink to the level of your training."*
+> — **Navy SEAL maxim**
+
+This is why protocol matters. The gap between what you intend and what you do under stress is exactly the gap your training has not closed.
+
+---
+
+## On Stoic Practice
+
+> *"Make the best use of what is in your power, and take the rest as it happens."*
+> — **Epictetus**
+
+The dichotomy of control as a single-sentence operating system.
+
+---
+
+> *"First say to yourself what you would be; and then do what you have to do."*
+> — **Epictetus**
+
+Identity is prior to behavior. Know who you are first; the actions follow.
+
+---
+
+> *"It is not death that a man should fear, but he should fear never beginning to live."*
+> — **Marcus Aurelius**
+
+The real risk is not ending. It's spending years in a holding pattern, waiting for the real life to start.
+
+---
+
+> *"The object of life is not to be on the side of the majority, but to escape finding oneself in the ranks of the insane."*
+> — **Marcus Aurelius**
+
+Social consensus is not a reliability signal. Most people are running someone else's program.
+
+---
+
+## On Legacy and Time
+
+> *"The best time to plant a tree was 20 years ago. The second best time is now."*
+> — **Chinese proverb**
+
+The past is not recoverable. The present always is. Begin.
+
+---
+
+> *"We suffer more in imagination than in reality."*
+> — **Seneca**
+
+The anticipation of loss is almost always more painful than the loss itself. This is useful information.
+
+---
+
+> *"Omnia aliena sunt, tempus tantum nostrum est."*
+> — **Seneca** (All things are alien to us; time alone is ours.)
+
+Everything can be taken — status, wealth, health, relationships. The only irreplaceable asset is the present moment.
+
+---
+
+> *"A man who dares to waste one hour of time has not discovered the value of life."*
+> — **Charles Darwin**
+
+Not as guilt — as urgency. The finite nature of time makes it the scarcest resource and the most renewable excuse.
+
+---
+
+## On Relationships and Brotherhood
+
+> *"The most important things in life are the connections you make with others."*
+> — **Tom Ford**
+
+No achievement in any other domain substitutes for genuine belonging. Optimize accordingly.
+
+---
+
+> *"Shared joy is a double joy; shared sorrow is half a sorrow."*
+> — **Swedish proverb**
+
+The human function is not just to accumulate individual experience. It's to transmit it. Isolation starves both sides.
+
+---
+
+> *"Walk with the wise and become wise, for a companion of fools suffers harm."*
+> — **Proverbs 13:20**
+
+The social environment is a developmental intervention. Choose it with that seriousness.
+
+---
+
+> *"Tell me and I forget. Teach me and I remember. Involve me and I learn."*
+> — **Benjamin Franklin**
+
+Participation is the pedagogy. The observer learns abstractions; the participant learns capability.
+
+---
+
+## On Fear and Authenticity
+
+> *"Man is not fully conditioned and determined but rather determines himself whether he gives in to conditions or stands up to them. In other words, man is ultimately self-determining."*
+> — **Viktor Frankl**
+
+Between stimulus and response: a space. In that space: freedom. Everything else depends on what you do with it.
+
+---
+
+> *"We are more often frightened than hurt; and we suffer more in imagination than in reality."*
+> — **Seneca**
+
+Fear is a prediction, not a fact. The mind runs worst-case scenarios on behalf of survival; they are rarely accurate.
+
+---
+
+> *"To live is the rarest thing in the world. Most people exist, that is all."*
+> — **Oscar Wilde**
+
+Existence is the default state. Living — with genuine engagement, genuine risk, genuine feeling — requires the choice.
