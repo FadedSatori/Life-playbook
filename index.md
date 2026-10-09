@@ -53,6 +53,7 @@ The synthesis. Everything in this playbook builds toward this.
 | [Communication](communication.md) | Writing as thinking, verbal precision, listening, difficult conversations, storytelling, digital hygiene, cross-cultural |
 | [Masculinity](masculinity.md) | The six drives, initiation and the missing rite, brotherhood, masculine wound, integrated aggression, the four archetypes |
 | [Resilience](resilience.md) | PTG vs. PTSD (Tedeschi), anatomy of collapse, Pennebaker/Frankl, acute protocol, kintsugi, deliberate hardship |
+| [Attention](attention.md) | The master faculty — William James, Gloria Mark's 23-min recovery, Kahneman's systems, meditation as training, ART, the attention diet |
 
 ## Depth
 
@@ -98,6 +99,7 @@ The synthesis. Everything in this playbook builds toward this.
 | [Field](tactics/field.md) | Situational awareness, positioning, improvised tools, movement, pressure |
 | [Cognitive](tactics/cognitive.md) | On-demand focus, stress inoculation, self-talk, pattern recognition |
 | [Public Speaking](tactics/public-speaking.md) | Presence before content, structure architecture, nerves protocol, vocal mechanics, media/broadcast |
+| [Negotiation](negotiation.md) | Positions vs. interests (Fisher/Ury), BATNA, ZOPA, anchoring, Voss tactical empathy, preparation protocol |
 
 ## Health
 
@@ -106,6 +108,7 @@ The synthesis. Everything in this playbook builds toward this.
 | [Fitness](health/fitness.md) | Periodization architecture, Zone 2 + VO2 max science, HRV recovery, training age progression |
 | [Sleep](health/sleep.md) | Circadian biology, sleep architecture, 60-min wind-down, debt recovery, jet lag protocol |
 | [Nutrition](health/nutrition.md) | Metabolic health, protein timing, micronutrient defaults, gut-brain axis, food environment |
+| [Martial Arts](martial-arts.md) | Why train to fight, boxing/Muay Thai/BJJ/wrestling discipline guide, live training imperative, competition as catalyst |
 
 ## Career & Finances
 
