@@ -54,6 +54,9 @@ The synthesis. Everything in this playbook builds toward this.
 | [Masculinity](masculinity.md) | The six drives, initiation and the missing rite, brotherhood, masculine wound, integrated aggression, the four archetypes |
 | [Resilience](resilience.md) | PTG vs. PTSD (Tedeschi), anatomy of collapse, Pennebaker/Frankl, acute protocol, kintsugi, deliberate hardship |
 | [Attention](attention.md) | The master faculty — William James, Gloria Mark's 23-min recovery, Kahneman's systems, meditation as training, ART, the attention diet |
+| [Purpose](purpose.md) | What you are for — Frankl's logotherapy, ikigai, Bronnie Ware's deathbed regrets, discovered vs. constructed, the purpose statement |
+| [Time](time.md) | The irreplaceable resource — Seneca, Burkeman's 4000 weeks, Eisenhower matrix, time audit, urgency trap, two views of time |
+| [Writing](writing.md) | Writing as thinking — Orwell's rules, daily practice, morning pages, the essay form, precision, voice, compression |
 
 ## Depth
 
@@ -125,6 +128,7 @@ The synthesis. Everything in this playbook builds toward this.
 | [Principles](relationships/principles.md) | How to show up, intimacy architecture, Dunbar's layers, conflict and repair |
 | [Intimate Partnership](relationships/intimate-partnership.md) | Gottman framework, differentiation vs. fusion, limerence, conflict protocol, shadow in partnership |
 | [Community and Tribe](community.md) | Why belonging is biological, Dunbar layers, how genuine community forms, curation role, cult dynamics, belonging debt |
+| [Friendship](friendship.md) | C.S. Lewis's "What! You too?", how deep friendships form and deepen, the maintenance problem, brotherhood, disclosure ladder |
 
 ## Learning
 
