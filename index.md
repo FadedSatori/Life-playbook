@@ -40,6 +40,7 @@ The synthesis. Everything in this playbook builds toward this.
 | [Warrior Codes](warrior-codes.md) | Bushido, Spartan agoge, Stoic warrior, Norse virtues, Musashi — synthesized into one modern code |
 | [Stoic Practice](stoic-practice.md) | The full Stoic OS: premeditatio malorum, dichotomy of control, amor fati, memento mori, evening review |
 | [Mythology & Archetypes](mythology-archetypes.md) | Hero's Journey as life map, the four archetypes (Warrior/King/Magician/Lover), Campbell applied |
+| [Warfare](warfare.md) | Sun Tzu, Clausewitz, Boyd's OODA loop, hybrid warfare, PSYOP, grey zone — the complete strategic tradition |
 
 ## Operator
 
@@ -53,6 +54,10 @@ The synthesis. Everything in this playbook builds toward this.
 | [Communication](communication.md) | Writing as thinking, verbal precision, listening, difficult conversations, storytelling, digital hygiene, cross-cultural |
 | [Masculinity](masculinity.md) | The six drives, initiation and the missing rite, brotherhood, masculine wound, integrated aggression, the four archetypes |
 | [Resilience](resilience.md) | PTG vs. PTSD (Tedeschi), anatomy of collapse, Pennebaker/Frankl, acute protocol, kintsugi, deliberate hardship |
+| [Attention](attention.md) | The master faculty — William James, Gloria Mark's 23-min recovery, Kahneman's systems, meditation as training, ART, the attention diet |
+| [Purpose](purpose.md) | What you are for — Frankl's logotherapy, ikigai, Bronnie Ware's deathbed regrets, discovered vs. constructed, the purpose statement |
+| [Time](time.md) | The irreplaceable resource — Seneca, Burkeman's 4000 weeks, Eisenhower matrix, time audit, urgency trap, two views of time |
+| [Writing](writing.md) | Writing as thinking — Orwell's rules, daily practice, morning pages, the essay form, precision, voice, compression |
 
 ## Depth
 
@@ -98,6 +103,10 @@ The synthesis. Everything in this playbook builds toward this.
 | [Field](tactics/field.md) | Situational awareness, positioning, improvised tools, movement, pressure |
 | [Cognitive](tactics/cognitive.md) | On-demand focus, stress inoculation, self-talk, pattern recognition |
 | [Public Speaking](tactics/public-speaking.md) | Presence before content, structure architecture, nerves protocol, vocal mechanics, media/broadcast |
+| [Negotiation](negotiation.md) | Positions vs. interests (Fisher/Ury), BATNA, ZOPA, anchoring, Voss tactical empathy, preparation protocol |
+| [Power Dynamics](power-dynamics.md) | Machiavelli's Prince, Greene's 48 Laws synthesized, Cialdini's six influence principles, organizational power |
+| [Dark Psychology](dark-psychology.md) | Dark Triad (narcissism/Machiavellianism/psychopathy), manipulation arsenal, coercive control, social engineering |
+| [Counter-Strategies](counter-strategies.md) | Gray rock, DARVO counter, gaslighting defense, frame control, organizational power counter-moves |
 
 ## Health
 
@@ -106,6 +115,7 @@ The synthesis. Everything in this playbook builds toward this.
 | [Fitness](health/fitness.md) | Periodization architecture, Zone 2 + VO2 max science, HRV recovery, training age progression |
 | [Sleep](health/sleep.md) | Circadian biology, sleep architecture, 60-min wind-down, debt recovery, jet lag protocol |
 | [Nutrition](health/nutrition.md) | Metabolic health, protein timing, micronutrient defaults, gut-brain axis, food environment |
+| [Martial Arts](martial-arts.md) | Why train to fight, boxing/Muay Thai/BJJ/wrestling discipline guide, live training imperative, competition as catalyst |
 
 ## Career & Finances
 
@@ -122,6 +132,7 @@ The synthesis. Everything in this playbook builds toward this.
 | [Principles](relationships/principles.md) | How to show up, intimacy architecture, Dunbar's layers, conflict and repair |
 | [Intimate Partnership](relationships/intimate-partnership.md) | Gottman framework, differentiation vs. fusion, limerence, conflict protocol, shadow in partnership |
 | [Community and Tribe](community.md) | Why belonging is biological, Dunbar layers, how genuine community forms, curation role, cult dynamics, belonging debt |
+| [Friendship](friendship.md) | C.S. Lewis's "What! You too?", how deep friendships form and deepen, the maintenance problem, brotherhood, disclosure ladder |
 
 ## Learning
 

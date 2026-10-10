@@ -237,6 +237,110 @@ Social consensus is not a reliability signal. Most people are running someone el
 
 ---
 
+## Marcus Aurelius — *Meditations*
+
+*Aurelius was emperor of Rome, commander of armies, and keeper of a private journal he never intended to publish. He wrote for himself — as a self-administered discipline, not as literature. That is why it is literature. The quotes elsewhere in this file are from many voices. This section belongs to one.*
+
+---
+
+> *"The soul becomes dyed with the color of its thoughts."*
+> — **Meditations, Book V**
+
+Your character is not what you declare. It is the accumulated residue of what you repeatedly dwell on. Guard the inputs.
+
+---
+
+> *"Nowhere can man find a quieter or more untroubled retreat than in his own soul."*
+> — **Meditations, Book IV**
+
+Equanimity is not a circumstance. It is an interior state that can be inhabited regardless of what is happening outside.
+
+---
+
+> *"Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present."*
+> — **Meditations, Book VII**
+
+The anxiety about what hasn't happened yet is paid in advance against a debt that may never come due.
+
+---
+
+> *"Think of yourself as dead. You have lived your life. Now take what's left and live it properly."*
+> — **Meditations, Book VII**
+
+Not morbidity — clarification. The life you've already spent cannot be recovered. The remainder can.
+
+---
+
+> *"Confine yourself to the present."*
+> — **Meditations, Book VIII**
+
+The past is fixed; the future is uncertain; the present is where agency actually lives. Three words. An entire practice.
+
+---
+
+> *"If someone is able to show me that what I think or do is not right, I will happily change, for I seek the truth, by which no one was ever truly harmed."*
+> — **Meditations, Book VI**
+
+The person who cannot change their mind when shown they are wrong is defending a persona, not seeking truth.
+
+---
+
+> *"It never ceases to amaze me: we all love ourselves more than other people, but care more about their opinion than our own."*
+> — **Meditations, Book XII**
+
+The fundamental paradox of social anxiety. The contradiction is not subtle; most people simply never notice it.
+
+---
+
+> *"How much more grievous are the consequences of anger than the causes of it."*
+> — **Meditations, Book XI**
+
+Before acting from anger: calculate what the anger will cost. The arithmetic almost always favors restraint.
+
+---
+
+> *"Receive without pride, relinquish without struggle."*
+> — **Meditations, Book VIII**
+
+The complete instruction for relating to circumstance. Pride at acquisition and grief at loss are the same error in opposite directions.
+
+---
+
+> *"Accept the things to which fate binds you, and love the people with whom fate brings you together, and do so with all your heart."*
+> — **Meditations, Book VI**
+
+Amor fati applied not just to events but to people. The relationships in your life are not obstacles to the life you want. They are the life you have.
+
+---
+
+> *"How much time he gains who does not look to see what his neighbor says or does or thinks, but only at what he himself does — to make it just and holy."*
+> — **Meditations, Book IV**
+
+Comparison is a tax on attention. It always costs more than it yields.
+
+---
+
+> *"Everything that happens is either endurable or not. If it's endurable, then endure it. Stop complaining. If it's unendurable — then stop complaining. Your destruction will mean its end as well."*
+> — **Meditations, Book X**
+
+The most unsentimental prescription for suffering that has ever been written. Not harsh — precise.
+
+---
+
+> *"When you wake up in the morning, tell yourself: The people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous, and surly. They are this way because they cannot tell good from evil. But I have seen the beauty of good, and the ugliness of evil, and recognized that the wrongdoer has a nature related to my own — so none of them can hurt me."*
+> — **Meditations, Book II**
+
+Written for 5 AM before the day begins. Not pessimism — preparation. And the ending carries everything: *they cannot hurt me.* Because injury requires consent.
+
+---
+
+> *"Loss is nothing else but change, and change is Nature's delight."*
+> — **Meditations, Book IX**
+
+Every ending is transformation. The thing lost becomes something else. Grief is real; permanence was never promised.
+
+---
+
 ## On Legacy and Time
 
 > *"The best time to plant a tree was 20 years ago. The second best time is now."*
