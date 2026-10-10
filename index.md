@@ -40,6 +40,7 @@ The synthesis. Everything in this playbook builds toward this.
 | [Warrior Codes](warrior-codes.md) | Bushido, Spartan agoge, Stoic warrior, Norse virtues, Musashi — synthesized into one modern code |
 | [Stoic Practice](stoic-practice.md) | The full Stoic OS: premeditatio malorum, dichotomy of control, amor fati, memento mori, evening review |
 | [Mythology & Archetypes](mythology-archetypes.md) | Hero's Journey as life map, the four archetypes (Warrior/King/Magician/Lover), Campbell applied |
+| [Warfare](warfare.md) | Sun Tzu, Clausewitz, Boyd's OODA loop, hybrid warfare, PSYOP, grey zone — the complete strategic tradition |
 
 ## Operator
 
@@ -103,6 +104,9 @@ The synthesis. Everything in this playbook builds toward this.
 | [Cognitive](tactics/cognitive.md) | On-demand focus, stress inoculation, self-talk, pattern recognition |
 | [Public Speaking](tactics/public-speaking.md) | Presence before content, structure architecture, nerves protocol, vocal mechanics, media/broadcast |
 | [Negotiation](negotiation.md) | Positions vs. interests (Fisher/Ury), BATNA, ZOPA, anchoring, Voss tactical empathy, preparation protocol |
+| [Power Dynamics](power-dynamics.md) | Machiavelli's Prince, Greene's 48 Laws synthesized, Cialdini's six influence principles, organizational power |
+| [Dark Psychology](dark-psychology.md) | Dark Triad (narcissism/Machiavellianism/psychopathy), manipulation arsenal, coercive control, social engineering |
+| [Counter-Strategies](counter-strategies.md) | Gray rock, DARVO counter, gaslighting defense, frame control, organizational power counter-moves |
 
 ## Health
 
