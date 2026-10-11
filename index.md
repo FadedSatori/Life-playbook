@@ -104,6 +104,8 @@ The synthesis. Everything in this playbook builds toward this.
 | [Cognitive](tactics/cognitive.md) | On-demand focus, stress inoculation, self-talk, pattern recognition |
 | [Public Speaking](tactics/public-speaking.md) | Presence before content, structure architecture, nerves protocol, vocal mechanics, media/broadcast |
 | [Negotiation](negotiation.md) | Positions vs. interests (Fisher/Ury), BATNA, ZOPA, anchoring, Voss tactical empathy, preparation protocol |
+| [Sales](sales.md) | Qualify, SPIN discovery, objection handling, closing, trust equation, ethical line |
+| [Networks and Reputation](networks.md) | Weak ties, structural holes, luck surface area, giving first, reputation rules, network-building protocol |
 | [Power Dynamics](power-dynamics.md) | Machiavelli's Prince, Greene's 48 Laws synthesized, Cialdini's six influence principles, organizational power |
 | [Dark Psychology](dark-psychology.md) | Dark Triad (narcissism/Machiavellianism/psychopathy), manipulation arsenal, coercive control, social engineering |
 | [Counter-Strategies](counter-strategies.md) | Gray rock, DARVO counter, gaslighting defense, frame control, organizational power counter-moves |
@@ -124,6 +126,8 @@ The synthesis. Everything in this playbook builds toward this.
 | [Work Principles](career/work-principles.md) | Deep work, time blocking, communication protocol, career capital theory, output vs consumption |
 | [Finances](career/finances.md) | Wealth sequence, index fund evidence, tax strategy, insurance, wealth psychology |
 | [Entrepreneurship](entrepreneurship.md) | Validation sequence, business phases, entrepreneurial psychology, positioning, team and capital |
+| [Wealth Building](wealth-building.md) | Ownership vs. income, equity, compounding, leverage rules, buying/building a business, real estate, the wealth ladder |
+| [Technology Leverage](technology-leverage.md) | Labor/capital/code leverage, AI as force multiplier and its failure modes, automation audit, digital sovereignty |
 
 ## Relationships
 

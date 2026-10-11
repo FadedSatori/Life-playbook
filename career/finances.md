@@ -128,6 +128,91 @@ The wealth sequence assumes income. Growing income is as important as managing i
 
 ---
 
+## Financial Independence: The Numbers in Depth
+
+The FI number is (annual essential expenses) × 25, based on a 4% initial withdrawal rate. Understand what that rule is and is not.
+
+**Origin:** Bengen (1994) and the Trinity Study found that a 4% initial withdrawal, adjusted yearly for inflation, from a diversified stock-and-bond portfolio historically survived 30-year retirements in U.S. data. It is a historical rule of thumb, not a guarantee.
+
+**Caveats:**
+- **Longer horizons:** If you retire at 40 or 45 and need 50+ years, many planners use 3.25–3.5% (a multiple of ~29–31×) for a larger margin.
+- **Sequence-of-returns risk:** Poor market returns in the first years of withdrawals do disproportionate damage, because you are selling assets while they are down. Mitigations: hold 1–3 years of expenses in cash or short-term bonds as a buffer, keep spending flexible (cut back in down years), or earn some income in early retirement.
+- **Taxes and healthcare:** Plan for taxes on withdrawals and for health insurance before Medicare eligibility. These are the two most commonly underestimated costs.
+- **Inflation:** Use real (inflation-adjusted) figures throughout.
+
+**The FI spectrum:**
+- **Lean FI:** Portfolio covers a frugal baseline. Freedom with a tight budget.
+- **FI:** Covers your current essential lifestyle.
+- **Fat FI:** Covers a generous lifestyle with a wide margin.
+- **Coast FI:** The point at which your existing investments, left alone to compound until traditional retirement age, will reach your FI number without further contributions. You then only need to earn enough to cover current expenses, which opens up lower-paying, more meaningful work. Compute it: FI number ÷ (1 + expected real return)^(years to retirement age).
+- **Barista FI:** Investments plus part-time income cover expenses.
+
+Pick the target that matches your life and [purpose](../purpose.md), not someone else's. The point is options, not an arbitrary finish line.
+
+---
+
+## Net Worth Milestones
+
+A rough orientation, not a judgment. The multiples are of annual gross income, and they are rules of thumb from common retirement-planning guidance, with wide individual variation.
+
+| Approximate age | Net worth target (investable) |
+|---|---|
+| 30 | ~1× annual income |
+| 40 | ~3× |
+| 50 | ~6× |
+| 60 | ~8× |
+| 67 | ~10× |
+
+Track your own trajectory. A high savings rate (30–50%+) can put you far ahead of these figures; a late start can be recovered by raising the savings rate and income. The direction and the savings rate matter more than any single benchmark.
+
+---
+
+## The Annual Money Review
+
+Once per year, alongside [routines/annual-review.md](../routines/annual-review.md), spend two to three hours:
+
+1. **Net worth:** Total assets minus liabilities. Compare to last year.
+2. **Savings rate:** (Income − spending) ÷ income. Target it up, not down.
+3. **Spending audit:** Top categories, subscriptions, and what produced real value versus what did not.
+4. **Allocation and rebalance:** Check against target; rebalance if drift exceeds your threshold.
+5. **Contributions:** Confirm automatic contributions are maxed to the limits you can afford. Note that contribution and income limits change annually; the figures cited earlier are 2024 and must be rechecked each year.
+6. **Insurance:** Does coverage still match your life? New dependents, a home, or a business change the need.
+7. **Beneficiaries:** Confirm designations on every retirement, brokerage, and insurance account. These override a will, and outdated ones cause real harm.
+8. **Income plan:** What is the plan to raise earnings this year? Raise, role change, negotiation, or a second stream. See [negotiation.md](../negotiation.md) and [wealth-building.md](../wealth-building.md).
+9. **Risk scan:** What single event would hurt most? Is it covered or hedged?
+
+---
+
+## Estate and Protective Basics
+
+Everyone with assets or dependents needs the minimum set of documents. Laws vary by jurisdiction; use a qualified attorney.
+
+- **Will:** Directs assets and names guardians for minor children. Without it, the state decides.
+- **Durable power of attorney:** Names who can handle your finances if you are incapacitated.
+- **Healthcare directive and healthcare proxy:** States your wishes and who decides for you.
+- **Beneficiary designations:** Kept current, as above.
+- **Trusts:** Useful in specific situations (larger estates, avoiding probate, protecting heirs, special circumstances). Not necessary for everyone.
+- **A letter of instruction:** A plain document telling your family where everything is: accounts, passwords manager, documents, advisors, and your wishes. This is a gift to the people who will be grieving. See [mortality-integration.md](../mortality-integration.md).
+
+---
+
+## Common Money Mistakes
+
+- **Waiting to start.** The first decade's contributions have the longest to compound. Start now with whatever you can.
+- **Lifestyle creep.** Treating raises as permission to spend.
+- **High-fee products.** Expense ratios, advisory fees, and sales loads quietly consume a large share of lifetime returns.
+- **Panic selling.** Locks in losses. Automate to keep emotion out of the loop.
+- **Concentration.** Putting too much in one stock, one employer, or one property.
+- **Ignoring taxes and inflation.** The nominal number flatters you.
+- **Treating a house as an automatic investment.** Run the numbers.
+- **No emergency buffer,** leading to forced selling or high-interest debt at the worst time.
+- **Chasing hot tips and complexity.** If you cannot explain it plainly, do not buy it.
+- **Under-insuring the biggest risks** (disability, liability) while over-insuring trivia.
+
+For going beyond security into ownership, see [wealth-building.md](../wealth-building.md).
+
+---
+
 ## The Psychology of Wealth
 
 **The hedonic treadmill:** Human beings adapt to improved circumstances and return to approximately the same level of satisfaction. The house, the car, the raise — these produce a temporary increase in wellbeing before normalizing. The person chasing satisfaction through acquisition is on a treadmill that never stops. The solution is not to stop earning but to stop expecting consumption to produce lasting wellbeing.
