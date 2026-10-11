@@ -10,7 +10,7 @@ Peak performance on demand. The state where time dissolves, output doubles, and 
 
 Flow is an optimal state of consciousness where you feel and perform your best simultaneously. During flow, the brain releases a cocktail of performance-enhancing neurochemicals: norepinephrine, dopamine, endorphins, anandamide, serotonin. All at once.
 
-The result: pattern recognition accelerates, attention narrows to the task, time distorts (hours feel like minutes), lateral thinking expands, and performance can increase 500% above baseline (McKinsey 10-year study).
+The result: pattern recognition accelerates, attention narrows to the task, time distorts (hours feel like minutes), and lateral thinking expands. Popular accounts add that performance can increase "500%" above baseline, citing a McKinsey study; treat that figure as a marketing claim, not established science (see Evidence Notes below). The experience is real and well documented; the precise multipliers are not.
 
 It is not a gift. It has triggers. It has a cycle. Both are learnable.
 
@@ -40,12 +40,12 @@ Flow is neurochemically expensive. After deep flow, recovery is mandatory. Witho
 
 - **Clear goals** — ambiguity prevents flow. Know exactly what you're trying to do in the next 90 minutes. One thing.
 - **Immediate feedback** — you need to know whether what you're doing is working, in real time. Build feedback loops into your work.
-- **Challenge/skill ratio** — the sweet spot is 4–8% beyond your current ability. Too easy → boredom. Too hard → anxiety. The edge is the entry point.
+- **Challenge/skill ratio** — the sweet spot is a task just beyond your current ability. Steven Kotler's rule of thumb is about 4% harder; the exact number is a heuristic, not a measured constant. Too easy → boredom. Too hard → anxiety. The edge is the entry point.
 - **Deep embodiment** — full physical and mental presence. The body and mind pointed at the same thing.
 
 **Environmental Triggers**
 
-- **Complete distraction elimination** — notifications, other people's needs, open browser tabs. Flow requires 23 minutes to re-enter after a single interruption.
+- **Complete distraction elimination** — notifications, other people's needs, open browser tabs. Gloria Mark's research finds it takes around 23 minutes on average to return to a task after an interruption; re-entering a deep state likely takes at least as long. See [attention.md](attention.md).
 - **Familiar, non-distracting environment** — the brain doesn't have to process novelty in the background
 - **Ritual** — a consistent pre-flow sequence trains the brain to shift states on cue
 
@@ -144,9 +144,81 @@ Flow is neurochemically expensive. The dopamine, norepinephrine, and anandamide 
 
 ---
 
+## Csikszentmihalyi's Original Model
+
+Mihaly Csikszentmihalyi (*Flow*, 1990) built the theory from interviews and experience sampling with climbers, chess players, surgeons, dancers, and factory workers. He described flow through a set of recurring features:
+
+1. A clear goal at each moment
+2. Immediate feedback
+3. A balance between challenge and skill
+4. Merging of action and awareness
+5. Concentration on the task at hand
+6. A sense of control
+7. Loss of self-consciousness
+8. Transformation of time
+9. The activity being intrinsically rewarding (*autotelic*, "having its own purpose")
+
+His **challenge-skill model** maps the experience: high challenge with low skill produces anxiety; low challenge with high skill produces boredom; low on both, apathy; high challenge matched with high skill is where flow occurs. As skill grows, the same task slides into boredom, so flow requires continuously raising the challenge. That is why flow drives growth.
+
+**The autotelic personality:** Some people enter flow more often. They set goals, become absorbed, pay attention to the activity itself, and enjoy the process rather than merely the reward. The trait can be trained by choosing activities for their intrinsic interest and by deliberately finding challenge in routine tasks.
+
+---
+
+## Flow in the Working Week
+
+Flow is a good but not exclusive standard for work. Much valuable work is focused effort that never feels like flow, and that's fine. Don't judge sessions by whether they felt magical.
+
+- **Protect long blocks.** Paul Graham's maker's schedule vs. manager's schedule: makers need half-day blocks; a single meeting can fragment an afternoon. Cluster meetings; guard mornings.
+- **Match the task to the state.** Hardest cognitive work in your highest-energy block. Admin in the trough. See [time.md](time.md).
+- **Use Cal Newport's Deep Work model:** scheduled, protected, ritualized blocks, with shutdown rituals to end the day. See [attention.md](attention.md).
+- **Ultradian rhythm:** Many people find roughly 60–90 minute focus cycles followed by a break workable. The strength of the underlying research is debated; use it as a practical default and adjust to your own pattern.
+- **Frontload ambiguity:** Define the first move before you start.
+- **End a session on a clear next step,** so re-entry is easy tomorrow.
+
+---
+
+## Flow Troubleshooting
+
+| Symptom | Likely cause | Fix |
+|---|---|---|
+| Can't start | Task too vague or too big | Define the next 20-minute action; reduce scope |
+| Anxious, frozen | Challenge far beyond skill | Break it down, get a model, ask for help, lower stakes |
+| Bored, restless | Challenge below skill | Add constraints (time limit, quality bar, harder version) |
+| Constantly checking | Environment unprotected, open loops | Phone out of room, brain dump first, block sites |
+| Feel nothing, flat | Flow debt, poor sleep, chronic stress | Recover; sleep; reduce load; see Recovery Protocol |
+| Starts well, breaks at 20 minutes | Interruptions, hunger, noise | Fix the environment, eat and hydrate beforehand |
+| Only "flows" in games or scrolling | Low-effort engineered engagement | Notice the difference; protect meaningful challenges |
+
+---
+
+## The Dark Side of Flow
+
+Absorption is neutral. It can capture you in things that don't serve you.
+
+- **Engineered engagement.** Slot machines, endless feeds, and some games are built to induce a flow-like absorption (anthropologist Natasha Dow Schüll described gamblers' "machine zone"). The loss of time and self-awareness can feel like flow while delivering none of its growth. Ask afterward: do I feel more capable or more depleted?
+- **Obsession and neglect.** Flow can feel so good that people chase it at the cost of relationships, health, and obligations. Keep a life around it.
+- **Flow doesn't judge the goal.** You can be in flow doing something pointless or harmful. Choose the target first. See [purpose.md](purpose.md).
+- **Flow is not the same as happiness or virtue.**
+
+---
+
+## Evidence Notes
+
+*Per the repository's standard of verifying claims, here is the honest state of the evidence.*
+
+- **Well supported:** Flow-like states exist and are reported across domains; challenge-skill balance, clear goals, and feedback are consistently associated with them; they correlate with enjoyment and, in many studies, performance and engagement.
+- **Mostly self-report:** Much of the research relies on questionnaires and experience sampling, which have limits.
+- **The 500% productivity figure** (McKinsey executives said to be five times more productive in flow) is widely repeated, but its original data and method are not clearly published. Don't rely on it.
+- **Neurochemical explanations** ("a cocktail of norepinephrine, dopamine, endorphins, anandamide, serotonin") are plausible and popular but largely inferred; direct evidence in humans during flow is thin. "Transient hypofrontality" (Dietrich) is a hypothesis, not settled.
+- **The "4%" rule and the "flow cycle"** (struggle, release, flow, recovery) are Kotler's practical models. Useful frameworks; they are not laws.
+
+Use flow as a working model: design for clear goals, feedback, calibrated challenge, and protected time, and check it against your own results. See [decision-journal.md](decision-journal.md) for how to track what works.
+
+---
+
 ## Group Flow and Shared Peak Performance
 
-Csikszentmihalyi's research identified group flow as one of the highest available human experiences — when a team, ensemble, or pair enters collective peak performance simultaneously. The output quality in group flow exceeds what any individual member could produce alone, and the experience itself is reported as profoundly meaningful.
+Research by Csikszentmihalyi and, especially, Keith Sawyer (*Group Genius*, *Group Flow*) on improvising ensembles and teams describes group flow as one of the highest available human experiences — when a team, ensemble, or pair enters collective peak performance simultaneously. The output quality in group flow exceeds what any individual member could produce alone, and the experience itself is reported as profoundly meaningful.
 
 **Conditions that produce group flow:**
 

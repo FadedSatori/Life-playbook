@@ -114,7 +114,7 @@ The target is carrying. It is reached slowly and nonlinearly.
 
 ## When Grief Gets Stuck
 
-Complicated grief (also called Prolonged Grief Disorder): grief that has not integrated after an extended period — typically defined as 12 months for the loss of a spouse or child, 6 months for other significant losses.
+Complicated grief (also called Prolonged Grief Disorder): grief that has not integrated after an extended period and is still intense and disabling. The DSM-5-TR (2022) criteria require at least 12 months since the death for adults (6 months for children and adolescents); the ICD-11 uses at least 6 months. Time alone doesn't make grief a disorder; the test is persistent, intense yearning or preoccupation that continues to impair functioning.
 
 **Signs that grief has become a fixed identity rather than an ongoing process:**
 - The world of the internal narrative has not moved forward; time feels frozen at or near the loss
@@ -126,6 +126,80 @@ Complicated grief (also called Prolonged Grief Disorder): grief that has not int
 - **Professional support:** the threshold for seeking grief-specific therapy should be low, not high. Complicated Grief Treatment (CGT), developed by Shear and colleagues, is specifically designed for prolonged grief and has strong outcome data — it outperforms standard grief counseling and depression treatment for this population.
 - **Movement:** Exercise changes the biochemistry of grief. Walking in particular (sunlight, forward motion, change of environment) shifts neurochemical states in ways that static processing cannot. This is not avoidance — it is physiology.
 - **The "still living" question:** What would the person, relationship, or version of yourself that was lost want you to do with the life that remains? This is not about honoring the dead by living a certain way — it is a reorientation tool, a way of asking: what does vitality look like from this vantage point?
+
+---
+
+## How Men Often Grieve
+
+Kenneth Doka and Terry Martin distinguish two broad grieving styles. **Intuitive grievers** feel and express emotion openly and seek to talk it through. **Instrumental grievers** experience grief mainly through thinking and doing: solving problems, taking action, building something, staying busy. Many men fall toward the instrumental end, though style is individual and not tied to sex.
+
+Neither style is wrong. The risk for instrumental grievers is that the doing becomes avoidance, and others read their quiet as lack of feeling. Grief that is only acted, never felt, finds the body or the bottle.
+
+**If you grieve instrumentally:**
+- Let the doing be a legitimate channel: build the memorial, plan the service, handle the estate, train for the charity event, do the physical work. It counts.
+- Also schedule time to feel: a walk, a drive, the grief letter below. Side-by-side activity (fishing, walking, working together) is often easier than face-to-face talk, and men often open up there. See [friendship.md](friendship.md).
+- Watch for the warning signs: increased drinking, irritability and anger, withdrawal, risky behavior, sleeplessness. Anger often carries grief. See [anger.md](anger.md).
+- Tell at least one person the truth. Isolation is the main danger.
+
+---
+
+## Continuing Bonds
+
+The older model said healthy grief means detaching from the dead. Research since the 1990s (Klass, Silverman, and Nickman, *Continuing Bonds*, 1996) shows that most bereaved people maintain an ongoing inner relationship with the person who died, and that this is normal and often healthy.
+
+**Healthy continuing bonds:** keeping their memory in daily life, talking to them, asking what they'd say, carrying their values forward, visiting a place, marking dates, telling their stories to children. The relationship changes from presence to memory and legacy; it doesn't end.
+
+**When it turns unhealthy:** when the bond prevents engagement with the living world, when the person is treated as still present in ways that block reality, or when life is frozen as a shrine.
+
+Robert Neimeyer's work on **meaning reconstruction** adds that grief is partly the work of rebuilding a coherent story of your life that includes the loss. Making sense, finding meaning (not "everything happens for a reason," but "what does this change about what I value and what I'll do"), and rebuilding identity are central. See [purpose.md](purpose.md) and Frankl's three paths of meaning.
+
+---
+
+## Practical Guidance for the First Year
+
+Grief is also logistical, and logistics can overwhelm a grieving mind.
+
+- **Delay irreversible decisions.** A common rule of thumb is to avoid major life changes (selling the home, big financial moves, relocating, new partnerships) for roughly the first year unless necessary. Grief distorts judgment. Make only what's needed and get a trusted advisor for the rest.
+- **Handle the essentials with help.** Death certificates, the will and estate, accounts, benefits, insurance, utilities, the funeral. Delegate and accept offers. A friend who keeps a list is invaluable. See the estate section of [career/finances.md](career/finances.md).
+- **Protect the basics:** sleep, food, movement, daylight, medical checkups. Grief depletes. See [health/sleep.md](health/sleep.md), [health/fitness.md](health/fitness.md).
+- **Anticipate the waves.** Anniversaries, birthdays, holidays, and unexpected triggers (a song, a smell) bring surges. Plan for them: be with people, make a ritual, give yourself permission to feel and to leave.
+- **Alcohol and sedatives** numb temporarily and prolong the problem. Use sparingly, if at all.
+- **Return to work gradually,** if possible, and tell someone who can adjust expectations.
+- **Rituals matter.** Funerals, memorials, candles, visiting, planting a tree, writing, charity in their name. Rituals make loss real and give grief a container. Create your own if the formal ones don't fit.
+- **Support groups** and grief counseling work. Peers who understand do something friends can't.
+
+**Anticipatory grief:** Loss that is coming (terminal illness, a parent's decline) brings grief in advance. Use the time: say what needs saying, ask the questions, resolve what can be resolved, and let yourself feel without waiting for the end. It does not remove later grief, but it can soften regret.
+
+---
+
+## Supporting Someone Who Is Grieving
+
+Most people feel helpless and say the wrong thing or nothing. The simple rules:
+
+**Do:**
+- **Show up.** Presence matters more than words. Go. Sit. Stay.
+- **Say little and mean it:** "I'm so sorry." "I'm here." "I don't know what to say, but I care." "Tell me about them."
+- **Be specific with help:** "I'm bringing dinner Thursday." "I'll mow the lawn." "I can drive you to the appointment." Don't say "let me know if you need anything"; they won't.
+- **Listen without fixing.** Let them tell the story repeatedly.
+- **Say the name** of the person who died. Mentioning them is a gift, not a hurt.
+- **Keep showing up after the first weeks.** The cards stop after a month; the grief doesn't. Reach out at three months, six, the anniversary. This is where most people are alone.
+- **Follow their lead** on how they grieve.
+
+**Avoid:**
+- "At least..." statements ("at least he lived a long life," "at least you have other children").
+- "Everything happens for a reason," "they're in a better place," "God needed another angel."
+- "I know exactly how you feel."
+- Advice about how to grieve or how long.
+- Disappearing because you don't know what to say.
+- Comparisons to your own losses.
+
+**For men supporting men:** Don't wait for him to ask. Show up, do something practical with him, and be present in silence. A text that says "thinking of you, no reply needed" is useful. Invite him to something physical. Ask directly, "How are you holding up, really?" and then let him answer or not.
+
+---
+
+## Safety
+
+Grief can bring thoughts that life is not worth living, particularly with a loss that feels unbearable, in isolation, with alcohol, or in men who are socially isolated. Suicide risk rises after bereavement. **If you or someone you know has thoughts of suicide or self-harm, contact emergency services or a crisis line immediately** (in the US, call or text 988; elsewhere, use your local emergency number or crisis service). Telling someone is the strong move. See also [resilience.md](resilience.md).
 
 ---
 

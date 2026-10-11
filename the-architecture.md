@@ -69,6 +69,8 @@ The outer game. Taking everything built below and applying it with precision.
 - **Wealth and leverage:** [wealth-building.md](wealth-building.md), [technology-leverage.md](technology-leverage.md), [networks.md](networks.md), [career/finances.md](career/finances.md) — ownership, code and AI as leverage, and reputation as a compounding asset
 - **The physical edge:** [martial-arts.md](martial-arts.md), [preparedness.md](preparedness.md), [health/health-intelligence.md](health/health-intelligence.md) — live combat training, practical readiness, and measuring the body early
 - **Finding leverage and seeing the game:** [leverage-points.md](leverage-points.md), [game-theory.md](game-theory.md) — where to intervene in a system, and the structure of strategic interaction
+- **Passing it on:** [mentorship.md](mentorship.md), [parenting.md](parenting.md) — teaching and raising the next generation; the highest-leverage use of what you have built
+- **Argument and persuasion:** [rhetoric.md](rhetoric.md) — building, delivering, and defending against arguments
 - **Better information and judgment:** [intelligence-tradecraft.md](intelligence-tradecraft.md), [decision-journal.md](decision-journal.md), [memory-systems.md](memory-systems.md) — evaluating sources, tracking your own calls, and retaining what you learn
 - **Force multiplication:** [force-multipliers.md](force-multipliers.md) — the highest-leverage capabilities
 - **Antifragility:** [antifragility.md](antifragility.md) — building systems that get stronger from stress

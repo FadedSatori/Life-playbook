@@ -71,14 +71,14 @@ The synthesis. Everything in this playbook builds toward this.
 |------|-------------|
 | [Shadow Work](shadow-work.md) | Jungian shadow integration — projection test, inner child work, Voice Dialogue, shadow in creativity and leadership |
 | [Antifragility](antifragility.md) | Building a life that gets stronger from shocks — barbell strategy, optionality, ruin conditions |
-| [Flow States](flow-states.md) | Peak performance on demand — four-stage cycle, domain-specific triggers, group flow, recovery protocol |
-| [Grief and Loss](grief-and-loss.md) | The oscillation model, neuroscience of grief, PTG, warrior tradition, integration protocol |
+| [Flow States](flow-states.md) | Peak performance on demand — four-stage cycle, Csikszentmihalyi's model, triggers, troubleshooting, the dark side of flow, evidence notes, group flow |
+| [Grief and Loss](grief-and-loss.md) | The oscillation model, neuroscience of grief, how men grieve, continuing bonds, first-year practicalities, supporting others, PTG, integration protocol |
 | [Creativity](creativity.md) | The four creative modes, creative metabolism, Resistance, the taste-reality gap |
 | [Solitude](solitude.md) | Aloneness vs. loneliness, the historical models (Musashi/Thoreau/Desert Fathers), signal amplification, daily/monthly/annual protocol |
 | [Humor and Play](humor-and-play.md) | Stuart Brown's play research, humor as social technology, the warrior tradition of play, cultivating genuine levity |
 | [Mortality Integration](mortality-integration.md) | Beyond memento mori — Yalom's awakening experience, the deathbed test, annual mortality meditation, living eulogy |
 | [Sexuality](sexuality.md) | Sexuality as life force, the Lover archetype, separating desire from validation, Perel's intimacy/desire tension, presence as the core practice |
-| [Anger](anger.md) | Anger as signal, amygdala hijack, integrated vs destructive anger, righteous anger, shadow connection |
+| [Anger](anger.md) | Anger as signal, amygdala hijack, Seneca's De Ira, the catharsis myth, de-escalation techniques, Gottman's four horsemen, righteous anger |
 | [Courage](courage.md) | Five types of courage, progressive exposure protocol, moral courage, fear as compass, courage audit |
 | [Failure](failure.md) | Three failure types, the debrief protocol, failure psychology, asymmetric payoffs, the failure-success asymmetry |
 
@@ -110,6 +110,7 @@ The synthesis. Everything in this playbook builds toward this.
 | [Cognitive](tactics/cognitive.md) | On-demand focus, stress inoculation, self-talk, pattern recognition |
 | [Public Speaking](tactics/public-speaking.md) | Presence before content, structure architecture, nerves protocol, vocal mechanics, media/broadcast |
 | [Negotiation](negotiation.md) | Positions vs. interests (Fisher/Ury), BATNA, ZOPA, anchoring, Voss tactical empathy, preparation protocol |
+| [Rhetoric](rhetoric.md) | Ethos/pathos/logos, the five canons, Toulmin model, style and figures, framing, steelmanning, fallacies, ethics of persuasion |
 | [Sales](sales.md) | Qualify, SPIN discovery, objection handling, closing, trust equation, ethical line |
 | [Networks and Reputation](networks.md) | Weak ties, structural holes, luck surface area, giving first, reputation rules, network-building protocol |
 | [Power Dynamics](power-dynamics.md) | Machiavelli's Prince, Greene's 48 Laws synthesized, Cialdini's six influence principles, organizational power |
@@ -141,6 +142,8 @@ The synthesis. Everything in this playbook builds toward this.
 | File | What's in it |
 |------|-------------|
 | [Principles](relationships/principles.md) | How to show up, intimacy architecture, Dunbar's layers, conflict and repair |
+| [Parenting and Fatherhood](parenting.md) | Modeling as curriculum, attachment and repair, authoritative parenting, discipline that works, stages, the couple as climate |
+| [Mentorship](mentorship.md) | Mentors vs. sponsors vs. coaches, finding and keeping a mentor, being a good mentee, how to mentor, Shu-Ha-Ri, a mentorship plan |
 | [Intimate Partnership](relationships/intimate-partnership.md) | Gottman framework, differentiation vs. fusion, limerence, conflict protocol, shadow in partnership |
 | [Community and Tribe](community.md) | Why belonging is biological, Dunbar layers, how genuine community forms, curation role, cult dynamics, belonging debt |
 | [Friendship](friendship.md) | C.S. Lewis's "What! You too?", how deep friendships form and deepen, the maintenance problem, brotherhood, disclosure ladder |
