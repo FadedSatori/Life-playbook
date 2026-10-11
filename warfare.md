@@ -143,6 +143,59 @@ These principles don't belong only in military history. They are the operating i
 
 ---
 
+## Case Studies
+
+Principles become real when you watch them operate. Each case below is chosen for one lesson. Figures for ancient battles are contested; the patterns are not.
+
+### Thermopylae, 480 BCE: Terrain as a Force Multiplier
+A Greek force, with 300 Spartans at its core, held a narrow coastal pass against a vastly larger Persian army for three days (ancient accounts exaggerate Persian numbers; modern estimates are far lower but still many times the Greek force). The narrow front cancelled Persian numerical superiority. The position fell when a local man, Ephialtes, revealed a mountain path to the Persians that left the Greek flank exposed.
+- **Lessons:** Choose the ground that nullifies the enemy's advantage. Delay can be a strategic win: the stand bought time for Greek naval and land forces, and Greece prevailed at Salamis and Plataea. An unguarded flank (the unmonitored assumption) defeats a strong position.
+- **Life use:** Fight where your strengths count and theirs don't. Ask: where is my path-behind-the-pass?
+
+### Cannae, 216 BCE: Turning the Enemy's Strength Into a Trap
+Hannibal faced a larger Roman army. He placed his weakest infantry in a forward-bulging center and his best troops on the flanks, with cavalry on the wings. The Roman mass drove into the center, which gave ground slowly, while the flanks closed in and the cavalry sealed the rear. The Romans were surrounded and destroyed, losing tens of thousands in a single day. It remains the model of the double envelopment.
+- **Lessons:** Planned yielding at the center, the appearance of weakness, lures an opponent into overcommitting. An opponent's greatest strength (mass) becomes a liability when it can't maneuver. Discipline and rehearsal make complex plans executable.
+- **Strategic coda:** Hannibal won the battle and ultimately lost the war. Rome refused to surrender, adapted (Fabius' attrition strategy, then Scipio, who beat Hannibal at Zama in 202 BCE by using Hannibal's own methods), and outlasted him. Tactical brilliance without a path to the political objective is Clausewitz's warning. Know what victory means and whether the battle gets you there.
+
+### Austerlitz, 1805: Baiting the Overconfident
+Napoleon deliberately weakened his right flank and abandoned the commanding Pratzen Heights, projecting weakness and inviting the Russo-Austrian allies to seize it and attack his flank. When the allies stripped their center to do so, he struck the now-weakened center on the heights and split their army. The result was a decisive French victory.
+- **Lessons:** Appear weak when strong. Shape the enemy's decision by controlling what they see and want. An opponent who believes he has found your weakness is easiest to destroy. Boyd's OODA logic in action: feed them a false orientation.
+
+### The Mongols, 13th Century: Intelligence, Mobility, and Psychology
+Genghis Khan's forces combined superb horsemanship and mobility with extensive scouting and intelligence, disciplined coordination over vast distances, relay communications (the *yam* courier system), feigned retreats to draw enemies out of position, and deliberate psychological pressure: cities that resisted were destroyed, those that surrendered were often spared. Promotion was largely by merit rather than birth.
+- **Lessons:** Speed and information beat mass. Reputation is a weapon: credible consequences reduce the need to fight. Merit-based selection builds capability. Logistics and communications sustain operations.
+- **Caution:** The terror component carried an immense human cost; the lesson here is about mechanisms, not endorsement.
+
+### Midway, 1942: Intelligence as the Decisive Edge
+US Navy codebreakers, led at Station HYPO by Joseph Rochefort, had partially broken Japanese naval codes and tracked a planned operation against a target designated "AF." To confirm it was Midway, the US had the Midway garrison send an uncoded message that its water distillation plant had broken. Soon after, Japanese traffic reported that "AF" was short of water. Forewarned, Admiral Nimitz positioned his carriers to ambush the Japanese fleet. Four Japanese fleet carriers were sunk for the loss of one American carrier (USS Yorktown).
+- **Lessons:** Superior information lets a weaker force achieve surprise. Test your hypotheses with a cheap probe (the water message was a diagnostic experiment; see [intelligence-tradecraft.md](intelligence-tradecraft.md)). Luck mattered too (dive bombers found the carriers at a vulnerable moment). Good process makes luck usable.
+
+### Operation Mincemeat, 1943: Deception Built on Expectation
+British intelligence planted a corpse, dressed as a Royal Marines officer with fabricated papers, to wash ashore in Spain, where Axis sympathizers would pass the documents to Germany. The papers indicated that the Allies planned to invade Greece and Sardinia, not Sicily. German forces were shifted toward Greece and Sardinia to some degree, and the Allies landed in Sicily in July 1943.
+- **Lessons:** The best deception feeds the opponent's existing expectations (Sicily was the obvious target, so the story had to point elsewhere convincingly). It required meticulous detail, a believable identity, and operational secrecy. Exploit confirmation bias in the opponent, and guard against it in yourself.
+
+### Vietnam: Political Will and the Trinity
+The United States won most major engagements, and its enemy still prevailed. North Vietnamese and Viet Cong strategy targeted American political will rather than American forces. The 1968 Tet Offensive was a military defeat for the communist forces but a political and psychological victory because it shattered public belief in progress. A frequently told anecdote has a US colonel telling a North Vietnamese counterpart, "You never defeated us on the battlefield," and the reply: "That may be so, but it is also irrelevant."
+- **Lessons:** Clausewitz's trinity, with the people as an essential pillar. Winning tactically while losing the political objective is losing. The weaker side can win by changing the contest to one it can win, by outlasting rather than overpowering. Know what your opponent is actually trying to achieve.
+
+### The Gulf War, 1991: Speed and Maneuver
+After a prolonged air campaign, a coalition ground offensive swept around the Iraqi flank, the famous "left hook" in the desert, and defeated Iraqi forces in about 100 hours. John Boyd's maneuver-warfare ideas influenced the thinking of senior planners; the extent of his influence is debated, but the campaign embodied his logic of operating inside the enemy's decision cycle and collapsing their coherence rather than grinding down their strength.
+- **Lessons:** Prepare overwhelming conditions before engaging (Sun Tzu's "win first"). Attack the opponent's ability to see and respond. Combined arms, logistics, and speed create paralysis.
+
+### Patterns Across the Cases
+
+1. **Information decides.** Midway, Mincemeat, and the Mongols are intelligence victories.
+2. **The strongest force loses when it is predictable or overextended.** Rome at Cannae, the allies at Austerlitz, the US in Vietnam.
+3. **The contest is chosen, not given.** The winner changes the terrain, the timeline, or the nature of the contest.
+4. **Perception is a battlefield.** Napoleon's bait and the British corpse worked by shaping what the enemy believed.
+5. **Tactical success is not strategic success.** Hannibal's victories, and America's in Vietnam, did not deliver the political result.
+6. **Preparation and discipline execute the plan.** Cannae's envelopment needed troops who could hold under pressure.
+7. **Weakness invites the fatal assumption.** Thermopylae's unguarded path, and the Persian and Roman overconfidence.
+
+**How to study a case:** (1) What was each side's objective? (2) What was each side's center of gravity? (3) What did each believe about the other, and was it right? (4) Where did the OODA cycle break? (5) What was the decisive move? (6) What would I have done with only their information at that moment? Reading with those questions turns history into a training ground. Then apply the same questions to your own contests. See [leverage-points.md](leverage-points.md) and [game-theory.md](game-theory.md).
+
+---
+
 ## The Warrior-Strategist Code
 
 Sun Tzu's ideal commander is not a warmonger. Clausewitz's ideal strategist subordinates violence to political reason. Boyd's ideal operator has the intellectual courage to destroy and rebuild their mental models in real time.
@@ -166,4 +219,7 @@ The strategist who internalizes these and lives them daily does not become a war
 - Power dynamics: [power-dynamics.md](power-dynamics.md) — Machiavellian strategy in organizational and social contexts
 - Strategic thinking: [strategy.md](strategy.md) — positioning, asymmetric leverage, long-game frames
 - Decision architecture: [mental-models/decision-making.md](mental-models/decision-making.md) — the decision frameworks that support faster, better OODA cycling
+- Information advantage: [intelligence-tradecraft.md](intelligence-tradecraft.md) — source evaluation, structured analysis, and counter-intelligence
+- Strategic interaction: [game-theory.md](game-theory.md) — commitment, signaling, and equilibrium
+- Finding the decisive point: [leverage-points.md](leverage-points.md) — systems leverage and center-of-gravity thinking
 - The warrior tradition: [warrior-codes.md](warrior-codes.md) — the ethos that governs when and how to use strategic capability

@@ -50,6 +50,12 @@ The synthesis. Everything in this playbook builds toward this.
 | [Heuristics](heuristics.md) | Rules of thumb with mechanisms — people, decisions, risk, time/energy, health/recovery, learning/skill, relationships, wealth/money |
 | [Strategy](strategy.md) | Positioning, asymmetric leverage, patience as a weapon, narrative control |
 | [Force Multipliers](force-multipliers.md) | The highest-leverage skills — cognitive, social, physical, systems |
+| [Leverage Points](leverage-points.md) | Meadows' twelve leverage points, system traps, why effort goes to the wrong place, the leverage-hunt protocol |
+| [Game Theory](game-theory.md) | Prisoner's dilemma and Axelrod, commitment and credible threats, Schelling points, signaling, a practical playbook |
+| [Decision Journal](decision-journal.md) | The entry template, process vs. outcome (resulting), calibration and Brier scores, finding your patterns |
+| [Intelligence Tradecraft](intelligence-tradecraft.md) | Intelligence cycle, source evaluation, Analysis of Competing Hypotheses, lateral reading, open-source diligence, counter-intelligence |
+| [Memory and Knowledge Systems](memory-systems.md) | Forgetting curve, active recall, spaced repetition, memory palace, Zettelkasten, reading-to-retention workflow |
+| [Preparedness](preparedness.md) | Rule of threes, CPR and bleeding control, home kit and go-bag, financial and digital resilience, community as safety net |
 | [Leadership](leadership.md) | Stewardship, commander's intent, SBI feedback, trust architecture, debrief culture, Eisenhower/Patton/Aurelius/Shackleton |
 | [Communication](communication.md) | Writing as thinking, verbal precision, listening, difficult conversations, storytelling, digital hygiene, cross-cultural |
 | [Masculinity](masculinity.md) | The six drives, initiation and the missing rite, brotherhood, masculine wound, integrated aggression, the four archetypes |
@@ -117,6 +123,7 @@ The synthesis. Everything in this playbook builds toward this.
 | [Fitness](health/fitness.md) | Periodization architecture, Zone 2 + VO2 max science, HRV recovery, training age progression |
 | [Sleep](health/sleep.md) | Circadian biology, sleep architecture, 60-min wind-down, debt recovery, jet lag protocol |
 | [Nutrition](health/nutrition.md) | Metabolic health, protein timing, micronutrient defaults, gut-brain axis, food environment |
+| [Health Intelligence](health/health-intelligence.md) | Key biomarkers and how to read them, blood pressure and glucose, ApoB and Lp(a), injury prevention, becoming an informed patient |
 | [Martial Arts](martial-arts.md) | Why train to fight, boxing/Muay Thai/BJJ/wrestling discipline guide, live training imperative, competition as catalyst |
 
 ## Career & Finances
