@@ -62,9 +62,7 @@ Use it on high-stakes problems where convention may be stale. Not on everything:
 
 **Its limits.** It assumes a single chain, when most failures have several contributing causes, and it stops where the asker's knowledge stops. If the chain ends at "someone made a mistake," keep going: why did the system let one mistake through? James Reason's Swiss cheese model makes the point: accidents happen when holes in several layers of defense line up.
 
-**The fishbone diagram.** Kaoru Ishikawa, a pioneer of Japanese quality control, drew the problem as a fish's head and the categories of cause as its bones. Manufacturing uses people, methods, machines, materials, measurement, and environment. For personal problems, try body, mind, environment, people, systems, and money. Brainstorm causes under each, then test the likeliest.
-
-**Verify the cause before fixing it.** A root cause is a hypothesis: if it's right, removing it should stop the problem. Check that it does.
+**The fishbone diagram.** Kaoru Ishikawa, a pioneer of Japanese quality control, drew the problem as a fish's head and the categories of cause as its bones. Manufacturing uses people, methods, machines, materials, measurement, and environment. For personal problems, try body, mind, environment, people, systems, and money. Brainstorm causes under each, then test the likeliest. A root cause is a hypothesis: if it's right, removing it should stop the problem. Verify before you declare victory.
 
 ---
 
@@ -224,7 +222,6 @@ TIME BOX:                          WORTH SOLVING BECAUSE:
 ## Cross-References
 
 - Choosing among options: [mental-models/decision-making.md](mental-models/decision-making.md)
-- Consequences of the fix: [mental-models/second-order-thinking.md](mental-models/second-order-thinking.md)
 - Inversion and the latticework: [cross-domain-thinking.md](cross-domain-thinking.md)
 - Where small effort moves big systems: [leverage-points.md](leverage-points.md)
 - Testing claims and self-experiments: [scientific-thinking.md](scientific-thinking.md)
