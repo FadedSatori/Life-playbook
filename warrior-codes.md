@@ -4,9 +4,9 @@
 
 ---
 
-## Bushido — The Way of the Warrior (Japan, ~12th century)
+## Bushido — The Way of the Warrior (Japan, Edo period, 1600s onward)
 
-The samurai code. Seven virtues, no exceptions.
+The samurai code. The written code took shape in the Edo period (1600s onward), drawing on older warrior ethics; the seven-virtue list comes from Nitobe Inazō's *Bushido: The Soul of Japan* (1899). Seven virtues, no exceptions.
 
 1. **Gi — Rectitude.** Do what is right, not what is easy or profitable. Right action is not a negotiation.
 2. **Yu — Courage.** Not the absence of fear. Doing what must be done despite fear. A samurai who is not brave is worthless.
@@ -44,9 +44,9 @@ Marcus Aurelius was emperor of the known world and commanded armies. He wrote *M
 
 ---
 
-## Bushido of the Norse — The Viking Virtues (Scandinavia, ~8th–11th century)
+## Bushido of the Norse — The Nine Noble Virtues (modern, drawing on Old Norse sources)
 
-The Nine Noble Virtues from Norse tradition. Not a list of rules — a description of what a person of worth actually is.
+The Nine Noble Virtues were compiled by modern Ásatrú and Odinic Rite groups in the 1970s, drawing on Old Norse sources such as the Hávamál. Not a list of rules — a description of what a person of worth actually is.
 
 1. **Courage** — face what must be faced
 2. **Truth** — say what is real, even when it costs you
@@ -71,7 +71,7 @@ Written in a cave, shortly before Musashi's death, after 60 undefeated duels. On
 - **Think lightly of yourself, deeply of the world.** Ego obscures reality. Reality is where the advantage lies.
 - **Become acquainted with every art.** Study broadly. The warrior who only knows war is brittle.
 - **The primary thing when you take a sword in your hand is your intention to cut the enemy.** No hesitation. Decide, then execute completely.
-- **It is difficult to understand the universe if you only study one planet.** Narrow expertise is a ceiling. Cross-domain mastery is the breakthrough.
+- **It is difficult to understand the universe if you only study one planet.** Often pinned on Musashi, but there is no source for it. The point holds anyway: narrow expertise is a ceiling. Cross-domain mastery is the breakthrough.
 
 ---
 
@@ -79,7 +79,7 @@ Written in a cave, shortly before Musashi's death, after 60 undefeated duels. On
 
 Written by Miyamoto Musashi at age 62, one week before his death in 1645, after a lifetime of combat, solitude, and mastery. He titled it *Dokkodo* — The Way of Walking Alone. Not a manual for warriors. A monk's final crystallization. Twenty-one precepts for self-mastery.
 
-The six covered in the main Musashi section above. The fifteen that go further:
+Only one item in the main Musashi section above is a Dokkodo precept: *"Think lightly of yourself and deeply of the world."* The others there — know the way broadly, do nothing useless, become acquainted with every art, the intention to cut — come from *The Book of Five Rings*. Eleven more precepts that go further:
 
 *"Do not seek pleasure for its own sake."* The person who chases pleasure is owned by it. Discipline the senses; do not let the want for comfort govern your choices.
 
@@ -101,13 +101,7 @@ The six covered in the main Musashi section above. The fifteen that go further:
 
 *"Do not hold on to possessions you no longer need."* Possessions become anchors. Travel lightly through life in every sense.
 
-*"Do not act on feelings of lust."* Impulse-driven action clouds judgment. Act from consideration, not activation.
-
-*"Do not be guided by desire for your home territory."* Expand. Do not defend the familiar because it is familiar.
-
-*"Do not have preferences for this or that."* Related to the earlier precept — the absence of fixed preference is maximum adaptability.
-
-*"Be willing to part with yourself on the path."* The most important. Every version of yourself that you cling to limits the version you're becoming. Die to it. Become.
+*"You may abandon your own body but you must preserve your honor."* The most important. The body can be spent. What you stand for cannot. Know which one you're protecting.
 
 These are not commandments — they are a field-tested monk's extreme conclusions after 60 years of mastery. Take what applies; understand what doesn't before dismissing it.
 
@@ -115,7 +109,7 @@ These are not commandments — they are a field-tested monk's extreme conclusion
 
 ## The Spartan Agoge — In Depth
 
-The agoge was the most comprehensive human development system ever attempted at civilizational scale. It ran continuously for approximately 600 years. Its outputs — the Spartiate warrior class — were the most feared soldiers in the ancient world, not because of physical superiority alone, but because of identity formation so complete that retreat was psychologically inconceivable.
+The agoge was the most comprehensive human development system ever attempted at civilizational scale. It ran until it was abolished in 188 BCE, and was later revived under Roman rule. Its outputs — the Spartiate warrior class — were the most feared soldiers in the ancient world, not because of physical superiority alone, but because of identity formation so complete that retreat was psychologically inconceivable.
 
 **The structure:**
 - At age 7, boys were taken from their families and entered the agoge. The separation was total. The family ceased to be the primary identity anchor.

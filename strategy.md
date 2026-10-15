@@ -15,7 +15,7 @@ The best move is often made weeks or years before it's needed.
 
 ### The Uncontested Space
 
-Porter's framework defines two competitive strategies: low-cost or differentiated. There is a third: create a category where you are the only one. Peter Thiel calls this a monopoly. Blue Ocean Strategy calls it value innovation. The logic is the same — stop competing in crowded markets. Build the market that doesn't exist yet.
+Porter's framework defines three generic strategies: cost leadership, differentiation, and focus. There is another move beyond all three: create a category where you are the only one. Peter Thiel calls this a monopoly. Blue Ocean Strategy calls it value innovation. The logic is the same — stop competing in crowded markets. Build the market that doesn't exist yet.
 
 - **Category creation is the highest-leverage positioning move.** If you're the fifth-best in a category, you're fighting for scraps. If you define the category, you set the rules.
 - **Ask "what is true about the world that almost no one believes yet?"** Thiel's secret: find things that are true but not yet consensus. Act on them before the consensus forms. By the time others agree, you've already moved.
@@ -83,7 +83,7 @@ Two parties can cooperate for mutual gain or defect for individual advantage. Th
 - Arms races where both sides would prefer no weapons but neither can commit first
 - Trust collapses where defection triggers mutual retaliation
 
-The optimal long-run strategy (Robert Axelrod's tournament): **Tit for Tat with generosity.** Cooperate first. Mirror the other party's moves. Forgive occasionally. Never be the first to defect. This strategy outperforms always-defect and always-cooperate over repeated interactions.
+The optimal long-run strategy (Robert Axelrod's tournament): **Tit for Tat.** Cooperate first. Mirror the other party's moves. Never be the first to defect. This strategy outperforms always-defect and always-cooperate over repeated interactions. The generous variant — which also forgives occasionally — came from later work by Nowak and Sigmund.
 
 Operational implications:
 - In repeated games, cooperate by default. The relationship is worth more than the individual transaction.

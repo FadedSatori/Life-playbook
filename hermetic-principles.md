@@ -1,6 +1,6 @@
 # Hermetic Principles
 
-Seven laws from the ancient Hermetic tradition — attributed to Hermes Trismegistus, preserved in *The Kybalion* (1908), rooted in Egyptian and Greek philosophy. Not mysticism. A set of operating principles that describe how reality is structured. Every serious tradition — Stoic, Buddhist, Sufi, modern systems science — converges on variations of these.
+Seven laws from *The Kybalion* (1908) — a New Thought book usually credited to William Walker Atkinson, which presents them as ancient Hermetic teaching from Hermes Trismegistus. The seven principles originate there; only "as above, so below" echoes an older source, the Emerald Tablet. Not mysticism. A set of operating principles that describe how reality is structured. Every serious tradition — Stoic, Buddhist, Sufi, modern systems science — converges on variations of these.
 
 Understand them not as beliefs to adopt but as lenses to see with.
 
@@ -130,7 +130,7 @@ The Hermetic tradition is ancient. But it is not obsolete — because every seri
 
 **Rhythm:** Chronobiology has mapped ultradian rhythms (90-minute cycles of alertness), circadian rhythms (24-hour wake-sleep), and infradian rhythms (seasonal, monthly). Every biological system operates in rhythms. Recovery is not optional — it is the mechanism by which the system consolidates and grows.
 
-**Cause and Effect:** Chaos theory (deterministic systems producing unpredictable outcomes due to sensitivity to initial conditions) and complexity science both confirm: nothing is truly random. Causality runs deeper than visible correlation. The practical implication: trace effects back to causes. The causes can be modified; the effects follow.
+**Cause and Effect:** Chaos theory shows that deterministic systems can behave unpredictably because of sensitivity to initial conditions — what looks like chance can be cause too fine to trace. It does not show that nothing is random. Causality runs deeper than visible correlation. The practical implication: trace effects back to causes. The causes can be modified; the effects follow.
 
 **Gender:** Yin/yang in Taoism, Shiva/Shakti in Hinduism, anima/animus in Jungian psychology, the masculine/feminine principles in every wisdom tradition — all describe the same structural polarity. Neither force is superior. Neither alone is creative. All generation requires both directed will and receptive space.
 

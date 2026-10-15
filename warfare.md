@@ -6,9 +6,9 @@ Study it not to glorify conflict — but because the clarity war demands transfe
 
 ---
 
-## Sun Tzu: The Art of War (544–496 BCE)
+## Sun Tzu: The Art of War
 
-The oldest strategic text still in operational use. Thirteen chapters. Every major principle is still taught at West Point, in MBA programs, and in special operations doctrine.
+Sun Tzu is traditionally dated 544–496 BCE; most scholars date the text to the Warring States period. The oldest strategic text still in operational use. Thirteen chapters. Every major principle is still taught at West Point, in MBA programs, and in special operations doctrine.
 
 **Core thesis:** *Win without fighting.* The supreme excellence is not to win battles — it is to achieve your strategic objective without engaging in battle at all. Force is the last resort of the strategist who has run out of options.
 
@@ -36,7 +36,7 @@ Most strategists focus on tactics. Sun Tzu focuses on conditions. If the five fu
 
 **Intelligence as a force multiplier:** Sun Tzu devotes the final chapter entirely to intelligence. Know the enemy; know yourself. The side with superior intelligence operates with certainty while the opponent operates with doubt. Certainty is always faster than doubt.
 
-**The Five Speeds:** Speed of decision. Speed of movement. Speed of exploitation of opportunity. Speed of withdrawal from disadvantage. And — crucially — the speed of recognizing when *not* to move.
+**The Five Speeds:** *(A modern synthesis inspired by Sun Tzu, not found in the text itself.)* Speed of decision. Speed of movement. Speed of exploitation of opportunity. Speed of withdrawal from disadvantage. And — crucially — the speed of recognizing when *not* to move.
 
 ---
 
@@ -70,7 +70,7 @@ Failure to maintain all three in balance destroys campaigns. An army that fights
 
 ## Boyd's OODA Loop
 
-Colonel John Boyd, USAF, developed the most important strategic framework of the 20th century from his analysis of air combat in Korea, where American pilots in inferior aircraft (F-86) defeated North Korean pilots in superior aircraft (MiG-15) at a 10:1 kill ratio.
+Colonel John Boyd, USAF, developed the most important strategic framework of the 20th century from his analysis of air combat in Korea, where American pilots in inferior aircraft (F-86) defeated pilots in superior aircraft (MiG-15) — flown largely by Soviet and Chinese pilots, not North Korean. The wartime claim of a roughly 10:1 kill ratio has since been revised sharply downward by later research.
 
 His conclusion: the F-86 pilots won because the cockpit gave them better observation and faster controls, enabling faster decision cycling. The superior cycle rate — not the superior aircraft — decided the outcome.
 
@@ -95,7 +95,7 @@ OBSERVE → ORIENT → DECIDE → ACT → (loop back to Observe)
 
 ## Hybrid Warfare and the Modern Battlespace
 
-Contemporary strategic competition rarely looks like conventional war. The current doctrine — exemplified by Russian Gerasimov Doctrine (2013), Chinese unrestricted warfare concepts, and Israeli multi-domain operations — operates across multiple dimensions simultaneously.
+Contemporary strategic competition rarely looks like conventional war. The current doctrine — exemplified by the so-called Russian "Gerasimov Doctrine," Chinese unrestricted warfare concepts, and Israeli multi-domain operations — operates across multiple dimensions simultaneously. ("Gerasimov Doctrine" is a Western label coined by analyst Mark Galeotti, who later disowned it; Gerasimov's 2013 article described what he saw as Western methods.)
 
 ### The Grey Zone
 
