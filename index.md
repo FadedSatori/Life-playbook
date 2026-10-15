@@ -25,6 +25,7 @@ The synthesis. Everything in this playbook builds toward this.
 ## Foundation
 
 - [Core Principles](principles.md) — the values that drive every decision
+- [Ethics](ethics.md) — three moral lenses, intuition vs. reasoning, practical tests, integrity and bright lines, right-vs-right dilemmas, the hard-decision protocol
 
 ## Polymath & Cross-Domain
 
@@ -81,6 +82,16 @@ The synthesis. Everything in this playbook builds toward this.
 | [Anger](anger.md) | Anger as signal, amygdala hijack, Seneca's De Ira, the catharsis myth, de-escalation techniques, Gottman's four horsemen, righteous anger |
 | [Courage](courage.md) | Five types of courage, progressive exposure protocol, moral courage, fear as compass, courage audit |
 | [Failure](failure.md) | Three failure types, the debrief protocol, failure psychology, asymmetric payoffs, the failure-success asymmetry |
+| [Emotions](emotions.md) | What emotions are for, affect labeling, granularity and a feelings vocabulary, Gross's process model, self-compassion, a daily check-in, when to get help |
+| [Self-Knowledge](self-knowledge.md) | The Big Five, why type systems are weak, limits of introspection, values clarification, energy audit, Johari window, narrative identity, user manual |
+| [Addiction and Vices](addiction-and-vices.md) | Safety lines first, habit vs. compulsion vs. addiction, the common vices honestly assessed, warning signs, strategies, treatment, relapse |
+
+## World and Adventure
+
+| File | What's in it |
+|------|-------------|
+| [Nature and Awe](nature-and-awe.md) | Awe as vastness plus accommodation, the small self, nature and wellbeing, forest bathing, wilderness as crucible, practice protocol, Leave No Trace |
+| [Travel](travel.md) | Tourist vs. traveler, slow and solo travel, traveling deeply, cultural humility, logistics and safety, pilgrimage, pre-trip checklist and post-trip reflection |
 
 ## Next-Gen
 
@@ -136,6 +147,9 @@ The synthesis. Everything in this playbook builds toward this.
 | [Entrepreneurship](entrepreneurship.md) | Validation sequence, business phases, entrepreneurial psychology, positioning, team and capital |
 | [Wealth Building](wealth-building.md) | Ownership vs. income, equity, compounding, leverage rules, buying/building a business, real estate, the wealth ladder |
 | [Technology Leverage](technology-leverage.md) | Labor/capital/code leverage, AI as force multiplier and its failure modes, automation audit, digital sovereignty |
+| [Career Strategy](career-strategy.md) | Rare and valuable skills, skill stacking, generalist vs. specialist, choosing roles, referrals, interviews, promotion, leaving well, pivots, AI resilience |
+| [Execution Systems](execution-systems.md) | OKRs, Getting Things Done, goals into next actions, planning fallacy and buffers, WIP limits, definition of done, lead and lag measures |
+| [Craftsmanship](craftsmanship.md) | Sennett's craftsman ethic, quality as a standard, tools and workspace, apprenticeship, taste, finishing and shipping, quality checklist |
 
 ## Relationships
 
@@ -147,6 +161,9 @@ The synthesis. Everything in this playbook builds toward this.
 | [Intimate Partnership](relationships/intimate-partnership.md) | Gottman framework, differentiation vs. fusion, limerence, conflict protocol, shadow in partnership |
 | [Community and Tribe](community.md) | Why belonging is biological, Dunbar layers, how genuine community forms, curation role, cult dynamics, belonging debt |
 | [Friendship](friendship.md) | C.S. Lewis's "What! You too?", how deep friendships form and deepen, the maintenance problem, brotherhood, disclosure ladder |
+| [Boundaries](boundaries.md) | Boundaries as your action not their compliance, six domains, setting and enforcing them, scripts, handling pushback, boundaries with yourself |
+| [Forgiveness and Apology](forgiveness-and-apology.md) | The anatomy of a real apology, repair as behavior, what forgiveness is and isn't, the REACH model, when reconciliation is unwise, rebuilding trust |
+| [Dating and Courtship](dating-and-courtship.md) | Becoming worth choosing, where couples meet, approaching and rejection, consent, red and green flags, compatibility, why pickup fails, first 90 days |
 
 ## Learning
 
@@ -170,6 +187,9 @@ The synthesis. Everything in this playbook builds toward this.
 | [Decision Making](mental-models/decision-making.md) | 10/10/10, regret minimization, pre-mortem, sunk cost, base rate neglect, second-order thinking |
 | [Second-Order Thinking](mental-models/second-order-thinking.md) | Multi-level consequence tracing, feedback loops, unintended consequences, the "and then what?" drill |
 | [Probabilistic Thinking](mental-models/probabilistic-thinking.md) | Base rates, Bayesian updating, calibration, expected value, fat tails, ergodicity, Kelly sizing |
+| [Scientific Thinking](scientific-thinking.md) | Reading research without being fooled — evidence hierarchy, correlation vs. causation, effect sizes, absolute risk, the replication crisis, a study checklist |
+| [Cognitive Biases](cognitive-biases.md) | A field guide to the major biases, each with an example and a counter; why structural fixes beat awareness |
+| [Problem-Solving](problem-solving.md) | Defining the problem, Pólya's four steps, first principles, root cause, inversion, constraints, experiments, a protocol and template |
 
 ## Reference
 

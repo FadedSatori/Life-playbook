@@ -25,6 +25,8 @@ The bedrock. If this is unstable, nothing above it holds.
 - **Who you are:** [principles.md](principles.md) — the value system, the decision filter, the non-negotiables
 - **The physical substrate:** [health/fitness.md](health/fitness.md), [health/sleep.md](health/sleep.md), [health/nutrition.md](health/nutrition.md) — the body as instrument and weapon
 - **The daily practice:** [routines/daily.md](routines/daily.md) — the structure that keeps everything else alive
+- **The moral spine:** [ethics.md](ethics.md) — how to reason about right and wrong when the rules run out
+- **Command of appetite and limits:** [addiction-and-vices.md](addiction-and-vices.md), [boundaries.md](boundaries.md) — keeping appetites, and other people's demands, from running your life
 
 These are not optional. They are the ground floor. An impeccable daily routine with a compromised body and confused values produces inconsistent results. Get the foundation right before optimizing anything else.
 
@@ -37,6 +39,7 @@ The programmable layer. How you process reality, make decisions, and govern your
 - **Ancient code:** [warrior-codes.md](warrior-codes.md), [stoic-practice.md](stoic-practice.md) — the ethical and philosophical firmware
 - **Cognitive architecture:** [mental-models/decision-making.md](mental-models/decision-making.md), [cross-domain-thinking.md](cross-domain-thinking.md), [polymath-system.md](polymath-system.md) — how you think
 - **Reality protection:** [epistemic-self-defense.md](epistemic-self-defense.md) — how you protect the mind from manipulation
+- **Thinking clearly about evidence:** [scientific-thinking.md](scientific-thinking.md), [cognitive-biases.md](cognitive-biases.md), [problem-solving.md](problem-solving.md) — reading research without being fooled, catching your own errors, and a method for hard problems
 - **Pattern recognition:** [heuristics.md](heuristics.md), [maxims.md](maxims.md) — compressed wisdom for fast deployment
 - **Attention and time:** [attention.md](attention.md), [time.md](time.md) — the two scarce resources every other capability draws on
 - **Meaning and expression:** [purpose.md](purpose.md), [writing.md](writing.md) — what you are for, and thinking made precise on the page
@@ -54,6 +57,9 @@ The inner game. Most people skip this layer entirely. It is the difference betwe
 - **Transformation:** [transformation-science.md](transformation-science.md) — the mechanics of identity-level change
 - **Consciousness:** [consciousness-technologies.md](consciousness-technologies.md) — precision instruments for expanding awareness
 - **Hermetic laws:** [hermetic-principles.md](hermetic-principles.md) — the deep structure of reality and self
+- **Inner instruments:** [emotions.md](emotions.md), [self-knowledge.md](self-knowledge.md) — reading and regulating what you feel, and seeing yourself accurately
+- **Repair:** [forgiveness-and-apology.md](forgiveness-and-apology.md) — apologizing well, and forgiving without enabling
+- **Expanding the frame:** [nature-and-awe.md](nature-and-awe.md), [travel.md](travel.md) — awe, wilderness, and travel as education and rites of passage
 
 This is where most personal development systems fail people. They offer techniques without the inner architecture to sustain them. Depth work is what makes everything else stick.
 
@@ -70,6 +76,8 @@ The outer game. Taking everything built below and applying it with precision.
 - **The physical edge:** [martial-arts.md](martial-arts.md), [preparedness.md](preparedness.md), [health/health-intelligence.md](health/health-intelligence.md) — live combat training, practical readiness, and measuring the body early
 - **Finding leverage and seeing the game:** [leverage-points.md](leverage-points.md), [game-theory.md](game-theory.md) — where to intervene in a system, and the structure of strategic interaction
 - **Passing it on:** [mentorship.md](mentorship.md), [parenting.md](parenting.md) — teaching and raising the next generation; the highest-leverage use of what you have built
+- **Choosing a partner:** [dating-and-courtship.md](dating-and-courtship.md) — finding a partner with honesty and respect
+- **Execution and work:** [execution-systems.md](execution-systems.md), [craftsmanship.md](craftsmanship.md), [career-strategy.md](career-strategy.md) — turning intent into finished work, doing it well, and navigating a career over decades
 - **Argument and persuasion:** [rhetoric.md](rhetoric.md) — building, delivering, and defending against arguments
 - **Better information and judgment:** [intelligence-tradecraft.md](intelligence-tradecraft.md), [decision-journal.md](decision-journal.md), [memory-systems.md](memory-systems.md) — evaluating sources, tracking your own calls, and retaining what you learn
 - **Force multiplication:** [force-multipliers.md](force-multipliers.md) — the highest-leverage capabilities
