@@ -73,7 +73,7 @@ Reputation is the accumulated, remembered record of how you behave, particularly
 3. **Never burn bridges needlessly.** The world is small and memories long. Leave every ending clean.
 4. **Fix mistakes fast and openly.** How you handle a failure often defines your reputation more than the failure itself. See [failure.md](failure.md).
 5. **Protect others' confidences absolutely.** Discretion is the foundation of being trusted with more.
-6. **Do not gossip.** Anything you say about others to you will be said about you to others. Gossip is a sign of how you will treat the listener when they are the subject.
+6. **Do not gossip.** Whatever you say to someone about others tells them what you will say about them. Gossip is a sign of how you will treat the listener when they are the subject.
 7. **Defend your name.** Greene's Law 5 is correct on the point: reputation is the foundation of power. Guard it with your behavior, not through noise.
 
 ---

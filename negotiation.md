@@ -94,7 +94,7 @@ Voss identifies three vocal modes with distinct strategic applications:
 
 **The playful/positive voice:** Light, collaborative, slightly warm. The default for most of the conversation. Builds rapport and keeps the tone cooperative even when the content is competitive.
 
-**The direct/assertive voice:** Used rarely. Signals: this is a firm position. Because it's rare, it carries weight when deployed.
+**The direct/assertive voice:** Used rarely. It signals dominance, and Voss warns it usually triggers pushback. Keep it for the rare moment a position must be unmistakable.
 
 **Silence as a tool:** After making a significant offer or statement, stop. Most people fill silence because it's uncomfortable; in negotiation, the person who speaks first after a major move often concedes position or reveals information. Practice sitting in the silence you've created. Count to ten if you must. The discomfort you feel is exactly the discomfort that makes it effective.
 

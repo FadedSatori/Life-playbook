@@ -77,7 +77,7 @@ The 48 laws are not 48 equal principles. They cluster around a smaller set of co
 
 - **Make other people come to you** (Law 8) — the person who always travels to others cedes home-field advantage and signals lower social position; when possible, structure interactions on your terrain
 - **Use selective honesty and generosity to disarm** (Law 12) — a single act of genuine openness lowers the other person's defenses disproportionately; it is the investment that pays interest in trust
-- **Never appeal to pity or mercy** (Law 13) — in a competitive environment, demonstrating weakness invites exploitation, not sympathy; state the case on strength, not need
+- **When asking for help, appeal to self-interest, never to mercy or gratitude** (Law 13) — in a competitive environment, pleas for pity or reminders of past favors rarely move people; show them what they gain
 - **Recreate yourself** (Law 25) — rigid identity is a fixed target; the person who continuously evolves cannot be defined or countered by others
 
 ### Core Cluster 4: Timing and Patience

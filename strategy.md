@@ -57,9 +57,9 @@ Look for moves where effort is small and the effect is large. These are always a
 
 A lever is any input where a small force produces a disproportionate output. Donella Meadows identified leverage points in systems — the same logic applies to life strategy.
 
-The highest leverage points in a human system:
-1. **Rules of the game** — Who makes the rules governs outcomes. Get into positions that let you shape the rules.
-2. **Information flows** — Who knows what, when, determines behavior. Control information flow or make sure yours is better than everyone else's.
+Four of the highest leverage points in a human system, in rising order of power (the full list is in [leverage-points.md](leverage-points.md)):
+1. **Information flows** — Who knows what, when, determines behavior. Control information flow or make sure yours is better than everyone else's.
+2. **Rules of the game** — Who makes the rules governs outcomes. Get into positions that let you shape the rules.
 3. **Goals of the system** — Change the objective and everything reorganizes. Most people tinker with parameters. Change the goal.
 4. **Paradigm** — The deepest leverage. What people believe about how the world works governs everything. If you can shift the shared paradigm, you change what's possible.
 

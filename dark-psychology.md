@@ -10,7 +10,7 @@ This file serves one purpose: **to make you impossible to manipulate by making t
 
 ## The Dark Triad
 
-Psychologists Paulhus and Williams (2002) identified three personality traits that cluster together and share a common core: **subclinical narcissism, Machiavellianism, and psychopathy.** Labeled the "Dark Triad" — not because everyone who scores high on them is a monster, but because high scores consistently predict manipulation, exploitation, and harm to others.
+Psychologists Paulhus and Williams (2002) identified three overlapping but distinct personality traits: **subclinical narcissism, Machiavellianism, and psychopathy.** Labeled the "Dark Triad" — not because everyone who scores high on them is a monster, but because high scores consistently predict manipulation, exploitation, and harm to others.
 
 ### Narcissism (Subclinical)
 
@@ -22,7 +22,7 @@ Not the clinical narcissistic personality disorder — the trait dimension that 
 - Exploitativeness: the willingness to use others as instruments for their own needs
 - Lack of empathy: not an inability to understand others' emotions, but a selective unwillingness to care about them when caring is inconvenient
 
-**The key insight:** The narcissist's grandiosity is *fragile*, not solid. The arrogance is a compensatory structure built over a core of profound insecurity. This is why narcissists react to perceived slights with disproportionate fury ("narcissistic rage") — the slight threatens the compensatory structure. Understanding this fragility is the key to both recognizing narcissism and operating around it.
+**The key insight:** The narcissist's grandiosity is *fragile*, not solid. It depends on constant outside confirmation. (The popular idea that the arrogance masks a core of profound insecurity has weak and inconsistent research support: it fits vulnerable narcissism better than the grandiose kind.) This is why narcissists react to perceived slights with disproportionate fury ("narcissistic rage") — the slight threatens the self-image they depend on. Understanding this fragility is the key to both recognizing narcissism and operating around it.
 
 **Behavioral markers:**
 - Conversation gravitates to them within minutes, regardless of the stated topic
@@ -174,7 +174,7 @@ Evan Stark's framework identifies the core components:
 
 **Degradation and humiliation:** Systematic attacks on the target's self-worth, competence, and identity. Designed to eliminate the self-confidence and self-concept that would otherwise support resistance.
 
-**The critical insight:** Coercive control does not require physical violence, and most cases do not involve it. The harm is psychological — the systematic dismantling of a person's capacity for independent thought, action, and identity. Recognizing it requires looking at the pattern, not individual incidents.
+**The critical insight:** Coercive control does not require physical violence, and in a substantial minority of cases there is none; where violence occurs, it is often low-level and frequent rather than injurious. The harm is psychological — the systematic dismantling of a person's capacity for independent thought, action, and identity. Recognizing it requires looking at the pattern, not individual incidents.
 
 ---
 
