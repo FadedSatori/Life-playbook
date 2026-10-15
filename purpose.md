@@ -4,7 +4,7 @@ The question is not "what do you want?" That is a question for a consumer. The q
 
 Viktor Frankl survived Auschwitz and three other Nazi concentration camps. His observation from that extreme: the men who survived were not the physically strongest. They were the men who had something they were living for — a person to return to, a work to complete, a meaning they could not yet abandon. The men who lost their sense of purpose died first. He called this "the last of the human freedoms" — the freedom to choose one's response to any circumstance, including the worst imaginable. That freedom, he observed, requires something to choose it *for*.
 
-His framework: **logotherapy** — from *logos*, the Greek for meaning. The thesis: the primary human drive is not pleasure (Freud) or power (Adler), but meaning. A person who has a clear why can endure almost any how.
+His framework: **logotherapy** — from *logos*, the Greek for meaning. The thesis: the primary human drive is not pleasure (Freud) or power (Adler), but meaning. Frankl quotes Nietzsche on this: a person who has a clear why can endure almost any how.
 
 This file is about the why.
 
@@ -39,9 +39,9 @@ Most people, when asked about their purpose, reach immediately for path one — 
 
 ---
 
-## Ikigai: The Japanese Framework
+## Ikigai: The Four-Circle Framework
 
-The Okinawan concept of *ikigai* (生き甲斐) — roughly translated as "a reason for being" — is often visualized as the intersection of four circles:
+*Ikigai* (生き甲斐) is an everyday Japanese word for a reason for living — not a specifically Okinawan concept. The popular four-circle diagram is not Japanese at all: it is Andrés Zuzunaga's 2011 "purpose" Venn diagram, relabeled "ikigai" by blogger Marc Winn in 2014. The provenance is borrowed; the tool is still useful. It maps the intersection of four circles:
 
 1. **What you love** — what you would do for its own sake, without external reward
 2. **What the world needs** — what creates genuine value for others
@@ -60,9 +60,9 @@ The practical move: audit each circle honestly. Where are you strong? Where are 
 
 ---
 
-## Bronnie Ware's Deathbed Research
+## Bronnie Ware's Deathbed Observations
 
-Bronnie Ware, an Australian palliative care nurse, spent years recording the final reflections of the dying. Her book *The Top Five Regrets of the Dying* catalogs what people regretted when they could no longer change it.
+Bronnie Ware, an Australian palliative care worker (a caregiver, not a qualified nurse), spent years recording the final reflections of the dying. Her 2009 blog post, later expanded into the book *The Top Five Regrets of the Dying*, catalogs what people regretted when they could no longer change it. These are personal observations, not a study.
 
 The five regrets, in order:
 1. **"I wish I'd had the courage to live a life true to myself, not the life others expected of me."** The most common. The person who spent 40 years building someone else's version of their life.

@@ -154,7 +154,7 @@ Robert Moore and Douglas Gillette's framework, developed from Jungian psychology
 
 **The Warrior:** Focus, discipline, service to a cause beyond comfort, controlled aggression. The Warrior acts in service of something larger than himself. His shadow: the Sadist (aggression without purpose) and the Masochist (self-destruction, inability to act).
 
-**The Magician:** Knowledge, transformation, awareness of hidden things, initiation of others. The Magician holds the larger perspective, uses knowledge in service of the community, facilitates transformation. His shadow: the Trickster (manipulation) and the Innocent (the man-boy who refuses to know).
+**The Magician:** Knowledge, transformation, awareness of hidden things, initiation of others. The Magician holds the larger perspective, uses knowledge in service of the community, facilitates transformation. His shadow: the Detached Manipulator (knowledge used to control) and the Denying "Innocent" One (the man who refuses to know). (The Know-It-All Trickster is the shadow of the boyhood Precocious Child, not of the Magician.)
 
 **The Lover:** Eros, aliveness, sensory presence, connection to all things. The Lover is fully awake to experience — beauty, pleasure, grief, ecstasy. His shadow: the Addicted Lover (drowning in sensation) and the Impotent Lover (cut off from aliveness entirely).
 

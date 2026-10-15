@@ -8,7 +8,7 @@ This file is about building a partnership that deepens over time rather than one
 
 ## The Foundation: What You're Actually Building
 
-Most relationships are built on chemistry first — the intensity of early attraction is real, and it is useful. But it is temporary by design. Romantic neurochemistry (dopamine, norepinephrine, serotonin disruption, phenylethylamine) has a half-life of approximately 12–18 months. This is not failure. It is the brain's bonding mechanism completing its initial phase.
+Most relationships are built on chemistry first — the intensity of early attraction is real, and it is useful. But it is temporary by design. Romantic neurochemistry (dopamine, norepinephrine, serotonin disruption) fades: limerence is often said to last from about 18 months to 3 years (Tennov; Marazziti). The popular phenylethylamine (PEA) explanation is speculative. This is not failure. It is the brain's bonding mechanism completing its initial phase.
 
 The question is what you've built beneath the chemistry. Two architectures are possible:
 
@@ -109,7 +109,7 @@ Brené Brown's research: vulnerability is the birthplace of intimacy and trust. 
 
 Conflict is not the enemy of partnership. Contempt is the enemy. Conflict handled well deepens understanding, increases respect, and builds the evidence that hard things can be navigated together.
 
-**The 24-hour rule:** Never attempt to resolve major conflicts when physiologically flooded. When heart rate exceeds approximately 95 bpm, the brain's capacity for nuanced reasoning degrades significantly — what Gottman calls "flooding." People in this state say things they regret, miss what the other person is actually saying, and solve nothing. Call a time-out: "I'm too activated to have this conversation well. Can we revisit it in an hour?" Return and do so.
+**The 20-minute rule:** Never attempt to resolve major conflicts when physiologically flooded. When heart rate exceeds about 100 bpm, the brain's capacity for nuanced reasoning degrades significantly — what Gottman calls "flooding." People in this state say things they regret, miss what the other person is actually saying, and solve nothing. Call a time-out of at least 20 minutes and spend it on something genuinely calming: "I'm too activated to have this conversation well. Can we come back to it in twenty minutes?" Return and do so.
 
 **The soft startup:** How you begin a difficult conversation determines how it ends. Begin with the soft startup:
 - Start with "I feel..." not "You always..." or "You never..."
@@ -149,13 +149,13 @@ John Bowlby's attachment theory, extended to adult romantic relationships by Haz
 
 **The three primary attachment styles:**
 
-**Secure (approximately 50% of adults):** Comfortable with intimacy and interdependence. Can give and receive care without anxiety. Respond to relationship threat with a search for connection rather than withdrawal or protest. Partners of secure individuals report higher relationship satisfaction regardless of their own attachment style.
+**Secure (about 56% of adults in Hazan and Shaver's 1987 study, which used three categories):** Comfortable with intimacy and interdependence. Can give and receive care without anxiety. Respond to relationship threat with a search for connection rather than withdrawal or protest. Partners of secure individuals report higher relationship satisfaction regardless of their own attachment style.
 
-**Anxious (approximately 20%):** Hyperactivated attachment system — heightened vigilance to signs of rejection, difficulty self-soothing, protest behaviors when threatened (increased contact-seeking, emotional escalation). The underlying fear: abandonment. The behavior that produces the fear: pushing harder, escalating — often driving the avoidant partner further away.
+**Anxious (about 19%):** Hyperactivated attachment system — heightened vigilance to signs of rejection, difficulty self-soothing, protest behaviors when threatened (increased contact-seeking, emotional escalation). The underlying fear: abandonment. The behavior that produces the fear: pushing harder, escalating — often driving the avoidant partner further away.
 
-**Avoidant (approximately 25%):** Deactivated attachment system — learned suppression of attachment needs, discomfort with intimacy and dependency, withdrawal under threat. The underlying fear: engulfment, losing self. The behavior that produces the problem: distance that reads to the anxious partner as rejection, triggering exactly the protest behavior the avoidant finds overwhelming.
+**Avoidant (about 25%):** Deactivated attachment system — learned suppression of attachment needs, discomfort with intimacy and dependency, withdrawal under threat. The underlying fear: engulfment, losing self. The behavior that produces the problem: distance that reads to the anxious partner as rejection, triggering exactly the protest behavior the avoidant finds overwhelming.
 
-**Disorganized (approximately 5%):** Both anxious and avoidant patterns activated simultaneously — typically from early experiences where the caregiver was both the source of comfort and the source of threat. Most complex to work with; most likely to involve trauma history.
+**Disorganized (a category from child attachment research, not one of Hazan and Shaver's three):** Both anxious and avoidant patterns activated simultaneously — typically from early experiences where the caregiver was both the source of comfort and the source of threat. Most complex to work with; most likely to involve trauma history.
 
 **The anxious-avoidant dance:** The most common problematic pairing. One partner's protest (seek more connection) triggers the other's withdrawal (create more distance), which intensifies the protest, which deepens the withdrawal. Both are attempting to regulate the same anxiety through opposite strategies. Neither works. Recognizing the dance is the first step to interrupting it.
 
@@ -172,7 +172,7 @@ John Gottman's research identified what he calls "bids for connection" — the m
 
 **The three responses to a bid:**
 - **Turning toward** — acknowledging and engaging with the bid. "Oh yeah? What happened?" The relationship builds trust one bid at a time.
-- **Turning away** — missing the bid or ignoring it. Often not malicious — just preoccupied. But the cumulative effect is disconnection. Gottman's research showed that couples who divorced had turned toward each other's bids 33% of the time during the period he observed them. Couples who stayed together had turned toward 87% of the time.
+- **Turning away** — missing the bid or ignoring it. Often not malicious — just preoccupied. But the cumulative effect is disconnection. Gottman's research showed that couples who divorced had turned toward each other's bids 33% of the time during the period he observed them. Couples still married at the six-year follow-up had turned toward 86% of the time.
 - **Turning against** — responding to the bid with irritation, criticism, or hostility. The most damaging response; depletes the emotional bank account most rapidly.
 
 **The practical implication:** The quality of an intimate relationship is largely determined by small moments, not big gestures. A weekend getaway does not compensate for weeks of turning away. The accumulated credit of consistent turning-toward is the foundation of both trust and desire.
@@ -183,7 +183,7 @@ John Gottman's research identified what he calls "bids for connection" — the m
 
 ## Language of Appreciation: Love Languages
 
-Gary Chapman's research on how people express and receive love — while sometimes oversimplified — maps a genuine variation in how people experience feeling valued in partnership.
+Gary Chapman's model of how people express and receive love came from his counseling experience, not research, and a 2024 review (Impett and colleagues) found little support for its core assumptions. Keep it as a useful conversation tool: it gives partners a shared vocabulary for how each of them feels valued.
 
 **The five primary languages:**
 1. **Words of affirmation** — expressed appreciation, acknowledgment, verbal love

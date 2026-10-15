@@ -28,7 +28,7 @@ What distinguishes deep friendship from pleasant acquaintance is the accumulatio
 
 **Shared vulnerability:** Aristotle called perfect friendship the friendship of virtue — where each person knows the other fully, including the parts that are difficult, and chooses them anyway. The friendship that exists only in the comfortable moments is pleasant but not deep. Depth requires the willingness to be known — to have the shameful, conflicted, uncertain, struggling parts witnessed — and to witness those parts in return.
 
-**Mutual commitment to growth:** The friend who challenges you is more valuable than the friend who only affirms you. The friend who sees where you are falling short and says so — with care, not cruelty — is serving your actual interests rather than your comfort. Lewis again: "The friendship is not a reward for our discriminating taste in choosing. It is the instrument by which God reveals to each the beauties of all the others."
+**Mutual commitment to growth:** The friend who challenges you is more valuable than the friend who only affirms you. The friend who sees where you are falling short and says so — with care, not cruelty — is serving your actual interests rather than your comfort. Lewis again: "The Friendship is not a reward for our discrimination and good taste in finding one another out. It is the instrument by which God reveals to each the beauties of all the others."
 
 **Longitudinal witness:** A friend who has known you for ten years carries something a new friend cannot: the memory of who you were, the knowledge of where you've come from, the ability to say "you have become something you weren't." This longitudinal witness is the irreplaceable gift of long friendships. It is why long friendships, even when they go dormant and are revived, are worth extraordinary investment to maintain.
 
@@ -108,7 +108,7 @@ The repair protocol is essentially the communication protocol applied to friends
 
 ## The Scale Constraint
 
-Dunbar's research (see [community.md](community.md)): the innermost circle of genuine intimacy — the people with whom you have deep, bidirectional, emotionally significant relationships — is approximately 5. This is not a cultural limit or a personality limit. It is a cognitive and time limit.
+Dunbar's research (see [community.md](community.md)): the innermost circle of genuine intimacy — the people with whom you have deep, bidirectional, emotionally significant relationships — is approximately 5. This is not a cultural limit or a personality limit. It is a cognitive and time limit. The exact figure is contested, though, so treat it as an order of magnitude, not a precise count.
 
 Deep friendship requires significant sustained investment. The person who attempts to maintain twelve deep friendships will maintain none. The investment required to keep a deep friendship genuinely close — the calls, the visits, the reaching out during hard times, the genuine attention — requires time that is finite.
 

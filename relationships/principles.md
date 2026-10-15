@@ -2,7 +2,7 @@
 
 Relationships are the primary arena of a life well-lived. They are also the most commonly underdeveloped domain among people who focus on individual performance — who pour energy into fitness, career, and cognition while treating relationships as what happens in the leftover time.
 
-This is a category error. The quality of your relationships is one of the strongest predictors of long-term happiness, health, and longevity in the research. The Harvard Study of Adult Development (over 80 years of data): the quality of close relationships in midlife was more predictive of health and wellbeing in late life than cholesterol levels, BMI, or any other physical variable.
+This is a category error. The quality of your relationships is one of the strongest predictors of long-term happiness, health, and longevity in the research. The Harvard Study of Adult Development (over 80 years of data): Robert Waldinger reports that relationship satisfaction at 50 predicted health at 80 better than midlife cholesterol did. The finding is correlational, and the original cohort was all men.
 
 Invest accordingly.
 
@@ -109,7 +109,7 @@ Trust is not declared. It is built in increments so small they are mostly invisi
 
 **How it builds:** Small acts of reliability → evidence of safety → slightly larger disclosure → slightly greater trust → slightly larger risk taken → evidence of safety again → deeper trust. Each cycle is small. The compounding happens over months and years. This is why relationships where nothing difficult has ever been shared can feel close and still lack genuine depth — the cycles have stayed small.
 
-**How it compounds:** A relationship with ten years of reliable demonstration is not ten times more resilient than a one-year relationship — it is many times more resilient. Positive sentiment override (Gottman's term): when trust is deep, ambiguous behaviors are interpreted charitably. The partner who trusts deeply reads lateness as traffic, not abandonment. The friend who trusts deeply reads a short message as busy, not cooling off. The accumulated trust fund pays dividends in the interpretation of ambiguous situations.
+**How it compounds:** A relationship with ten years of reliable demonstration is not ten times more resilient than a one-year relationship — it is many times more resilient. Positive sentiment override (a concept Gottman popularized, building on Robert Weiss): when trust is deep, ambiguous behaviors are interpreted charitably. The partner who trusts deeply reads lateness as traffic, not abandonment. The friend who trusts deeply reads a short message as busy, not cooling off. The accumulated trust fund pays dividends in the interpretation of ambiguous situations.
 
 **How it resets:** One major breach can undo years of accumulation — not because the underlying foundation disappears, but because it demonstrates that the conditions that produced the foundation were not what they appeared to be. The betrayal doesn't only break trust in the specific instance — it retroactively questions everything built before it.
 
@@ -119,7 +119,7 @@ Trust is not declared. It is built in increments so small they are mostly invisi
 
 ## Difficult Conversations Inside Relationships
 
-John Gottman's research on couple communication applies beyond intimate partnership to any significant relationship. The ratio is 5:1 — five positive interactions for every negative one is the threshold for relationship health. Below this ratio, even small conflicts become existential because there is no positive surplus to absorb them.
+John Gottman's research on couple communication applies beyond intimate partnership to any significant relationship. The ratio is 5:1 — five positive interactions for every negative one is what Gottman measured in stable couples during conflict discussions. In everyday interaction, stable couples run much higher, about 20:1. Below these ratios, even small conflicts become existential because there is no positive surplus to absorb them.
 
 **What counts as positive:** Expressed appreciation, genuine curiosity, playfulness, warmth, remembered details, celebration of the other's experience. Small. Frequent. Accumulated.
 
@@ -136,7 +136,7 @@ John Gottman's research on couple communication applies beyond intimate partners
 
 ## What Friendships Require in Adulthood
 
-Jeffrey Hall's research and the broader friendship science from Kelly (2012) and others: friendships die in your thirties for two specific reasons.
+Jeffrey Hall's research and the broader friendship science point the same way. Sociologist Rebecca G. Adams (quoted in the New York Times, 2012) names three conditions for friendship: proximity, repeated unplanned interactions, and a setting that encourages people to let their guard down. Friendships die in your thirties for two specific reasons, and they map onto the last two conditions.
 
 1. **No repeated unplanned interaction.** In school and early adulthood, you repeatedly ran into the same people without trying — the shared environment generated the proximity and frequency that friendship requires. Adult life eliminates this. Work friends stay work friends because you share an environment; they don't automatically become real friends. Without repeated unplanned contact, proximity alone doesn't produce depth.
 
@@ -177,7 +177,7 @@ Robin Dunbar's research on social cognitive capacity: the human brain can mainta
 
 **Social group — 50.** Active relationships. You know these people, they know you, there's warmth and genuine interest, but the depth isn't the same as the inner layers. Most work relationships and maintained friendships live here. Quarterly contact keeps the relationship active. Below quarterly, relationships start migrating toward the 150 layer. This layer is where most of your collaborative capacity lives.
 
-**Dunbar's number — 150.** The cognitive limit for social tracking — the number of people whose identity, relationships to others, and trustworthiness you can maintain active models of. Beyond 150, social organization requires formal institutional structure (rules, hierarchy, enforcement mechanisms) because the informal social tracking that maintains norms and trust breaks down. Military companies, hunter-gatherer bands, the functional size of village communities — 150 appears across human organization independent of culture.
+**Dunbar's number — 150.** The cognitive limit for social tracking — the number of people whose identity, relationships to others, and trustworthiness you can maintain active models of. Beyond 150, social organization requires formal institutional structure (rules, hierarchy, enforcement mechanisms) because the informal social tracking that maintains norms and trust breaks down. Military companies, hunter-gatherer bands, the functional size of village communities — 150 appears across human organization independent of culture. The exact number is contested, though — Lindenfors and colleagues (2021) found very wide uncertainty around it — so treat 150 as an order of magnitude, not a precise limit.
 
 **Layer transitions:** Relationships migrate between layers based on life circumstances, geographic proximity, and shared contexts. The close friend from graduate school naturally drifts toward the 50-layer after you both leave — not because the care disappeared but because the maintenance required to hold the inner layer isn't being provided. Acknowledge the transition. Don't demand that the relationship perform at the original layer without the conditions that supported it. Maintain it at its natural level with genuine warmth.
 

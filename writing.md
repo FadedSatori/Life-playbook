@@ -10,9 +10,9 @@ This is why the clearest thinkers of history were almost universally writers. No
 
 ## Writing as Cognitive Technology
 
-George Orwell, *Politics and the English Language* (1946): "If people cannot write well, they cannot think well, and if they cannot think well, others will do their thinking for them."
+George Orwell, *Politics and the English Language* (1946): "If thought corrupts language, language can also corrupt thought."
 
-This is the central claim. Not that writing is useful for communication — that is secondary. The primary claim is that the inability to write clearly is the inability to think clearly, and that unclear thinking makes a person susceptible to having their thinking done by others.
+This is the central claim. Not that writing is useful for communication — that is secondary. The primary claim is that language and thought shape each other: the inability to write clearly is the inability to think clearly, and unclear thinking makes a person susceptible to having their thinking done by others.
 
 The mechanism: language is not just the vehicle for thought; it is partially constitutive of thought. Hazy language is hazy thinking. Precise language is precise thinking. The discipline of writing forces the mind to resolve ambiguities that ordinary speech and internal monologue can sustain indefinitely without being noticed.
 
@@ -30,7 +30,7 @@ The highest-leverage writing practice is not the polished essay or the professio
 - Forces the processing of accumulated experience before it calcifies into unexamined assumption
 - Creates a record for pattern recognition across time — you can see your own thinking evolving, recurring, or stagnating
 - Generates the mental models that later appear in professional and creative writing, already formed
-- The act of writing down difficult thoughts reduces their emotional charge (James Pennebaker's expressive writing research: 15–20 minutes of writing about difficult events, three days in a row, measurably reduces psychological distress and improves immune function)
+- The act of writing down difficult thoughts reduces their emotional charge (James Pennebaker's expressive writing research: 15–20 minutes of writing about difficult events on 3–4 consecutive days — the original 1986 study used four — led to fewer health-center visits, with immune-marker gains in a follow-up study)
 
 **The morning pages protocol (Julia Cameron, *The Artist's Way*):** Three pages of longhand stream-of-consciousness writing, immediately after waking, before engaging with the day's inputs. Not intended to be good. Not intended to be read. Intended to clear the cognitive debris and surface what is actually present in the mind before the day's noise drowns it.
 
@@ -134,7 +134,7 @@ The compression test: after completing a piece of writing, ask what could be cut
 
 **The cold read:** Return to any significant piece of writing 24–72 hours after completion, before finalizing it. Fresh eyes see the holes, the redundancies, the unclear antecedents, the overconfident claims that cooler assessment would qualify. Nothing survives a cold read exactly as written. This is the read that matters.
 
-**The kill-your-darlings principle (attributed to Faulkner):** The sentences you are most pleased with are the ones most likely to need cutting. They pleased you because you were proud of their cleverness or beauty — which means they served your ego rather than the argument. When a sentence primarily draws attention to itself rather than to what it says, cut it.
+**The kill-your-darlings principle (from Arthur Quiller-Couch, whose 1914 lecture "On Style" said "Murder your darlings"):** The sentences you are most pleased with are the ones most likely to need cutting. They pleased you because you were proud of their cleverness or beauty — which means they served your ego rather than the argument. When a sentence primarily draws attention to itself rather than to what it says, cut it.
 
 ---
 

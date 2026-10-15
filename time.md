@@ -1,7 +1,7 @@
 # Time
 
 > *"Omnia, Lucili, aliena sunt, tempus tantum nostrum est."*
-> — Seneca, *Epistulae Morales*, I.1
+> — Seneca, *Epistulae Morales*, 1.3
 > ("Everything, Lucilius, belongs to others; time alone is ours.")
 
 Seneca wrote that in the first century. He then spent the rest of the letter establishing that we do not actually treat time as ours — we give it away, lend it out, allow it to be taken without protest. We would not tolerate someone stealing our property. We tolerate time theft constantly. Including from ourselves.
@@ -50,7 +50,7 @@ The integration: use chronos efficiently enough to create the space where kairos
 
 ## Urgency vs. Importance: The Eisenhower Matrix
 
-Dwight Eisenhower: "What is important is seldom urgent and what is urgent is seldom important."
+Dwight Eisenhower, quoting an unnamed former college president in his 1954 address at Northwestern: "What is important is seldom urgent and what is urgent is seldom important."
 
 The Eisenhower Matrix divides all tasks across two axes:
 

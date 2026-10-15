@@ -125,7 +125,7 @@ You do not need to be at the top to help someone a few steps behind. You need to
 
 ## Reverse Mentoring and Learning From Everyone
 
-The young know things you don't (new tools, culture, a fresh view), and everyone you meet knows something you don't. Ask. A humble posture toward learning keeps the mind young. Emerson's line, "Every man I meet is in some way my superior, and I can learn of him," is a good working rule. Pair this with [technology-leverage.md](technology-leverage.md): younger colleagues often lead on new tools.
+The young know things you don't (new tools, culture, a fresh view), and everyone you meet knows something you don't. Ask. A humble posture toward learning keeps the mind young. Emerson's line from "Greatness" (1876), "Every man I meet is my master in some point, and in that I learn of him," is a good working rule. Pair this with [technology-leverage.md](technology-leverage.md): younger colleagues often lead on new tools.
 
 ---
 
