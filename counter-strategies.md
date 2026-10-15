@@ -121,6 +121,8 @@ For any unexpected request that involves information, access, or action:
 
 ## Countering Cialdini's Six Weapons
 
+Cialdini added a seventh principle, Unity, in 2016. The six classic counters follow.
+
 ### Against Reciprocity Exploitation
 *"I didn't ask for this. I'm not obligated to return it."*
 The felt obligation is social programming, not a binding contract. When a gift is unsolicited and arrives immediately before a request, it is a purchase attempt, not generosity. Receiving a gift does not create an obligation — evaluate the request independently.
@@ -196,6 +198,8 @@ Negative answers to more than one or two of these suggest a coercive control dyn
 3. **Document** — a record of incidents, financial arrangements, and communications
 4. **Build your support network** before moving — shelter options, legal advice, trusted people who know the situation
 5. **Plan, then move quickly** — a slow exit signals intent and can accelerate danger
+
+In the US, the National Domestic Violence Hotline is 1-800-799-7233. Elsewhere, contact local emergency services or a domestic-violence service.
 
 ---
 

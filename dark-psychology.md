@@ -52,7 +52,7 @@ Named for Niccolò Machiavelli — though the trait as measured in psychology is
 
 ### Psychopathy (Subclinical)
 
-The trait dimension corresponding to clinical psychopathy. Present at low levels in roughly 1–4% of the general population and at significantly higher levels in corporate leadership, surgery, law, and special operations roles — fields where the callousness component can be an asset.
+The trait dimension corresponding to clinical psychopathy. Clinical psychopathy is estimated at about 1% of the general population (a 2021 meta-analysis put it as high as about 4.5%, depending on the measure). The often-cited higher levels in corporate leadership, surgery, law, and special operations roles — fields where the callousness component can be an asset — come from Kevin Dutton's informal survey, not clinical prevalence data.
 
 **Core structure:**
 - **Primary psychopathy:** Callousness, lack of remorse, emotional shallowness, the absence of anxiety that makes most people socially constrained
@@ -85,7 +85,7 @@ These tactics appear across the spectrum — from low-level everyday manipulatio
 
 ### Gaslighting
 
-**What it is:** Systematically causing someone to question their own perception of reality, memory, and judgment. Named after the 1944 film *Gaslight*, in which a husband manipulates his wife into believing she is going insane.
+**What it is:** Systematically causing someone to question their own perception of reality, memory, and judgment. Named after Patrick Hamilton's 1938 play *Gas Light* (filmed in 1940 and 1944), in which a husband manipulates his wife into believing she is going insane.
 
 **The mechanism:** When someone's internal reality is undermined, they become dependent on external sources of reality validation — usually the person doing the undermining. The gaslit person stops trusting their own perception and defers to the manipulator's version of events.
 
@@ -182,7 +182,7 @@ Evan Stark's framework identifies the core components:
 
 Social engineering is manipulation at the information security level — exploiting human psychology to extract information, access, or compliance rather than exploiting technical vulnerabilities.
 
-The same cognitive biases that make us effective social animals make us vulnerable to social engineering. Robert Cialdini's six influence principles (see [power-dynamics.md](power-dynamics.md)) are the technical substrate:
+The same cognitive biases that make us effective social animals make us vulnerable to social engineering. Robert Cialdini's six influence principles (see [power-dynamics.md](power-dynamics.md)) — plus a seventh, Unity, which he added in 2016 — are the technical substrate:
 
 **Pretexting:** Constructing a false scenario to establish legitimacy and elicit cooperation. *"I'm calling from your bank's security department..."* The pretexter does not need to deceive you completely — they only need enough credibility to extract the information before skepticism activates.
 

@@ -8,7 +8,7 @@ The complete human is not perpetually serious. He is capable of genuine levity, 
 
 ## What Play Actually Is
 
-Stuart Brown's research at the National Institute for Play — the most comprehensive longitudinal study of play ever conducted — produced a counterintuitive finding: **play is not the opposite of work.** It is the mechanism through which the brain learns, integrates, and regenerates.
+Stuart Brown's research at the National Institute for Play — built on more than 6,000 clinical "play histories" he collected — produced a counterintuitive finding: **play is not the opposite of work.** It is the mechanism through which the brain learns, integrates, and regenerates.
 
 Brown's definition: play is *purposeless activity entered into voluntarily, with intrinsic motivation.* No outcome. No metric. No audience. The activity is the point.
 
@@ -92,7 +92,7 @@ The most formidable people in history were not uniformly grim. Marcus Aurelius w
 
 These were not concessions. They were evidence of size.
 
-*"Laughter is the closest distance between two people."* — Victor Borge
+*"Laughter is the shortest distance between two people."* — Victor Borge
 
 *"We are all here for a spell; get all the good laughs you can."* — Will Rogers
 
@@ -104,9 +104,9 @@ Laughter is not a social nicety. It is a biological event with measurable physio
 
 **What laughter produces:**
 - **Endorphin release** — laughter activates the same endogenous opioid system as exercise and physical pain relief. A genuine laugh, particularly a full-body one, produces measurable endorphin release that lasts 20–30 minutes post-laughter.
-- **Pain reduction** — Dunbar et al. (2011) at Oxford found that 15 minutes of genuine laughter raised pain tolerance by more than 10% compared to control conditions. The mechanism is endorphin-mediated. The warrior tradition of dark humor is not merely psychological — it is altering the physiology of pain experience.
-- **Immune function** — Lee Berk's research at Loma Linda showed that anticipating laughter reduces cortisol by 39% and epinephrine by 70% before the laughter even occurs. After laughter, natural killer cells increase, T-cell production rises, and IgA antibodies (primary immune defense at mucosal surfaces) increase.
-- **Social bonding** — laughter is between three and four times more likely to occur in social contexts than alone. Dunbar's research shows that laughter in groups synchronizes breathing and activates mirror neuron systems simultaneously across all laughing participants — producing what he calls "grooming at a distance." The bonding function of shared laughter is as old as our species.
+- **Pain reduction** — Dunbar et al. (2012) at Oxford found that 15 minutes of genuine laughter raised pain tolerance by about 10% on average compared to control conditions. The mechanism is endorphin-mediated. The warrior tradition of dark humor is not merely psychological — it is altering the physiology of pain experience.
+- **Immune function** — Lee Berk's research at Loma Linda showed that anticipating laughter reduces cortisol by 39% and epinephrine by 70% before the laughter even occurs (from a 2008 conference abstract on 16 men, not a peer-reviewed paper). After laughter, natural killer cells increase, T-cell production rises, and IgA antibodies (primary immune defense at mucosal surfaces) increase.
+- **Social bonding** — Robert Provine found people laugh about 30 times more often with others than alone. Dunbar's research shows that laughter in groups synchronizes breathing and activates mirror neuron systems simultaneously across all laughing participants — producing what he calls "grooming at a distance." The bonding function of shared laughter is as old as our species.
 - **Cognitive flexibility** — the moment of laughter is the moment of conceptual incongruity resolving. Two frames that seemed incompatible suddenly coexist. This is precisely the cognitive move required for creative problem-solving and insight.
 
 **The physiological cascade of a genuine laugh:**
@@ -145,7 +145,7 @@ Rod Martin's humor styles questionnaire (University of Western Ontario) identifi
 
 Play is not just for children. The research on play deprivation in adults is as clear as the research on play deprivation in childhood — and the modern world systematically produces play-deprived adults.
 
-Stuart Brown's six play personalities — profiles of how adults naturally engage with play when given permission:
+Stuart Brown's eight play personalities — profiles of how adults naturally engage with play when given permission:
 
 1. **The Joker** — seeks laughter, absurdity, and the release of shared humor. Makes others feel light. May use humor defensively.
 2. **The Kinesthete** — moved through physical movement, action, sport. Body-joy is the signal. This is where much male play energy lives.
@@ -153,7 +153,8 @@ Stuart Brown's six play personalities — profiles of how adults naturally engag
 4. **The Competitor** — thrives in games with clear rules and winners. Competition is not the point; the structure that makes full engagement possible is the point.
 5. **The Director** — enjoys organizing, planning, and orchestrating the play of others. Party planning, event design, coordinating group experiences.
 6. **The Collector** — the play is in gathering, curating, and organizing things of interest. Stamps, books, knowledge domains, experiences.
-7. **The Creator** — the play is in making things: art, objects, systems, worlds.
+7. **The Artist/Creator** — the play is in making things: art, objects, systems, worlds.
+8. **The Storyteller** — the play is in narrative: telling stories, reading them, imagining them, inhabiting them.
 
 Identify your dominant play type. Then notice how long you've actually engaged with it recently. Most adults cannot answer the question "when did you last play?" without describing something with an external productivity justification.
 

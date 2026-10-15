@@ -19,7 +19,7 @@ This goes beyond the Stoic *memento mori*. That is a useful daily reminder. Inte
 
 ## The Psychology
 
-Irvin Yalom — the existential psychotherapist who spent fifty years working with terminally ill patients — identified death anxiety as the primary driver of most psychological dysfunction. Not childhood trauma (though that matters). Not attachment patterns (though those matter too). Underneath most compulsive behavior, status-chasing, and relationship dysfunction is unprocessed terror of nonexistence.
+Irvin Yalom — the existential psychotherapist whose work with the dying centered on groups for women with metastatic breast cancer in the 1970s (with David Spiegel) — identified death anxiety as a major, often hidden driver of psychological dysfunction. Not childhood trauma (though that matters). Not attachment patterns (though those matter too). Underneath most compulsive behavior, status-chasing, and relationship dysfunction is unprocessed terror of nonexistence.
 
 Yalom's finding: **people who have confronted their mortality and integrated it are more alive.** They report higher life satisfaction, less compulsive striving, greater capacity for love, and more genuine presence. The confrontation doesn't diminish life — it clarifies it.
 
@@ -43,9 +43,9 @@ This is genuinely useful. It provides perspective on low-stakes situations and i
 
 Its limits: the Stoic frame is primarily cognitive. It operates at the level of thought. Death, at the level of genuine integration, needs to penetrate further than that — into the felt sense of the body, into the emotional texture of daily life.
 
-Epictetus moved closer: *"It is not death that a man should fear, but he should fear never beginning to live."* This shifts from the cognitive frame (don't worry about dying) to the motivational frame (what kind of aliveness are you demonstrating with the time you have?). The second question is more useful.
+Marcus himself moved closer (*Meditations* 12.1, in paraphrase — the original speaks of never beginning to live according to nature): *"It is not death that a man should fear, but he should fear never beginning to live."* This shifts from the cognitive frame (don't worry about dying) to the motivational frame (what kind of aliveness are you demonstrating with the time you have?). The second question is more useful.
 
-The full integration combines both: the Stoic deflation of trivial concerns *and* the motivational urgency of Epictetus — what am I actually doing with this finite window?
+The full integration combines both: the Stoic deflation of trivial concerns *and* the motivational urgency of *Meditations* 12.1 — what am I actually doing with this finite window?
 
 ---
 
@@ -121,9 +121,9 @@ See [legacy-at-scale.md](legacy-at-scale.md) for the full framework. The prerequ
 
 *"You could leave life right now. Let that determine what you do and say and think."* — Marcus Aurelius, *Meditations*
 
-*"It is not death that a man should fear, but he should fear never beginning to live."* — Epictetus
+*"It is not death that a man should fear, but he should fear never beginning to live."* — Marcus Aurelius, *Meditations* 12.1 (paraphrase; the original speaks of never beginning to live according to nature)
 
-*"I would rather have had one breath of her hair, one kiss from her mouth, one touch of her hand, than eternity without it."* — City of Angels (drawn from Augustine)
+*"I would rather have had one breath of her hair, one kiss from her mouth, one touch of her hand, than eternity without it."* — City of Angels
 
 ---
 
@@ -134,7 +134,7 @@ Ernest Becker's *The Denial of Death* (Pulitzer Prize, 1974), extended by Jeff G
 Becker's central thesis: human culture is primarily a system of immortality projects and meaning structures designed to manage the existential terror of knowing we will die. Status-seeking, tribal identification, nationalism, religious belief, the drive to accumulate wealth and accomplishment — all are, in part, responses to the terror of non-existence. They offer symbolic or literal immunity from the awareness that we will cease to be.
 
 **The TMT research findings:**
-- Reminding people subliminally of their mortality (*mortality salience*) increases: in-group preference, out-group hostility, punishment of moral transgressors, nationalism, religiosity, and desire for cultural symbols and status
+- Reminding people of their mortality (*mortality salience* — in most studies, an explicit reminder) increases: in-group preference, out-group hostility, punishment of moral transgressors, nationalism, religiosity, and desire for cultural symbols and status. Caveat: a large multi-lab replication (Many Labs 4, 2022) failed to reproduce the basic effect.
 - The same effect is seen in people who explicitly deny believing in any supernatural afterlife
 - The mechanism operates below conscious awareness — which is precisely the point. Integrated awareness of death is conscious. Unintegrated death terror operates as unconscious motivation, driving behavior that would be embarrassing to own as death avoidance
 

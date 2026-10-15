@@ -146,7 +146,7 @@ Seneca's *De Ira* ("On Anger"), written in the first century CE, is the most tho
 - **Delay is the greatest remedy.** "The greatest remedy for anger is delay." Don't ask anger to calm instantly; ask it to wait. Time lets the first wave pass and reason return.
 - **Anger begins with an impression, and you can intercept it.** The first jolt is involuntary. What happens next is the "assent" you give: the judgment "I've been wronged and must retaliate." Withhold the assent. See [stoic-practice.md](stoic-practice.md).
 - **Assume less bad intent.** Most offenses are error, ignorance, or thoughtlessness. Marcus Aurelius' morning rehearsal for difficult people (see [quotes.md](quotes.md)) is the same tool.
-- **Look at the costs.** "How much more grievous are the consequences of anger than the causes of it." Calculate what acting on it will cost.
+- **Look at the costs.** Marcus Aurelius makes the same point (*Meditations* 11.18): "How much more grievous are the consequences of anger than the causes of it." Calculate what acting on it will cost.
 - **Evening review.** Seneca ended each day asking himself what bad habit he had cured, what fault he had resisted, and in what respect he was better. He recorded that when he looked at his anger honestly he found it diminished. Add anger to the nightly review in [routines/daily.md](routines/daily.md).
 
 **Aristotle's standard,** in the *Nicomachean Ethics*: anyone can become angry, which is easy, but to be angry with the right person, to the right degree, at the right time, for the right purpose, and in the right way is not easy. Use it as a checklist for deciding whether your anger is fit for use.

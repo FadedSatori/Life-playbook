@@ -185,4 +185,4 @@ The person in the middle of a genuine transformation cannot assess it objectivel
 
 *"We must be willing to let go of the life we planned so as to have the life that is waiting for us."* — Joseph Campbell
 
-*"You are not the same as what you were yesterday. You are not who you think you are."* — Jordan Peterson (paraphrasing Piaget and Jung)
+*"You are not the same as what you were yesterday. You are not who you think you are."* — attributed to Jordan Peterson (paraphrasing Piaget and Jung)

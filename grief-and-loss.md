@@ -45,11 +45,11 @@ Most people think of grief as the response to death. Grief is the response to an
 
 Grief is not a psychological condition with physical symptoms. It is a physical condition with psychological expression.
 
-**Social pain is physical pain.** Naomi Eisenberger's fMRI research: rejection and social loss activate the same neural circuits as physical pain — specifically the dorsal anterior cingulate cortex and anterior insula. This is why bereavement literally hurts. The phrase "broken heart" is not metaphor. Cardiac events increase significantly in the first weeks after losing a spouse. The body experiences the loss as damage.
+**Social pain overlaps with physical pain.** Naomi Eisenberger's fMRI research on social exclusion found that rejection activates regions also involved in physical pain — specifically the dorsal anterior cingulate cortex and anterior insula. The systems overlap rather than being identical; the strong "same circuits" reading has been challenged (Woo et al., 2014). Still, this is why bereavement can literally hurt. The phrase "broken heart" is not metaphor. Cardiac events increase significantly in the first weeks after losing a spouse. The body experiences the loss as damage.
 
 **The grief-immune connection:** The stress hormones released during grief (cortisol, adrenaline) suppress immune function when chronically elevated. Studies of bereaved spouses show increased susceptibility to infection, reduced natural killer cell activity, and elevated inflammatory markers in the first year after loss. Grief is physiologically expensive.
 
-**Yearning and the reward circuit:** The acute craving for the lost person — the intrusive, searching quality of early grief — is driven by the same dopamine-reward circuits activated by addiction. The brain is seeking something that the reward pathway remembers as essential. This produces the paradox where memories of the person feel simultaneously comforting and agonizing: the reward circuit briefly activates, then finds its object absent.
+**Yearning and the reward circuit:** The acute craving for the lost person — the intrusive, searching quality of early grief — is linked to the same dopamine-reward circuits activated by addiction. O'Connor et al. (2008) found this reward-circuit activity in complicated grief specifically, not in all grief. The brain is seeking something that the reward pathway remembers as essential. This produces the paradox where memories of the person feel simultaneously comforting and agonizing: the reward circuit briefly activates, then finds its object absent.
 
 **The physical protocol:** Because grief is physical, physical interventions matter:
 - Exercise reduces cortisol, restores HRV, and activates the DMN in ways that support integration
@@ -71,7 +71,7 @@ He is not bypassing grief. He is placing it within the largest possible frame �
 
 The Buddhist equivalent: impermanence is not a consolation. It is the foundational truth. Everything that exists is in the process of ceasing to exist. The capacity to hold this without terror or denial is what the practice develops — not the elimination of grief, but the reduction of the additional suffering that comes from fighting the nature of things.
 
-**Grief as the price of love:** C.S. Lewis, who wrote one of the most honest accounts of grief (*A Grief Observed*), after the death of his wife: *"The pain I feel now is the happiness I had before. That's the deal."*
+**Grief as the price of love:** C.S. Lewis wrote one of the most honest accounts of grief (*A Grief Observed*) after the death of his wife. William Nicholson's *Shadowlands* (the play and 1993 film about Lewis) distills it into one line: *"The pain now is part of the happiness then. That's the deal."*
 
 Grief is proportional to love. The person who never allows themselves to love deeply never grieves deeply. The person who loves fully accepts that grief is part of the arrangement. This is not a reason to love less. It is a reason to grieve without resentment.
 
@@ -218,8 +218,8 @@ Marcus Aurelius wrote some of his finest thinking during and after profound loss
 
 **The integration indicator:** You know grief is integrating when you can hold both truths simultaneously — the loss is real and permanent, and the life ahead is genuinely worth living. Not one or the other. Not one hiding behind the other. Both, at the same time, without contradiction.
 
-*"You have power over your mind, not outside events. Realize this, and you will find strength."* — Marcus Aurelius
+*"You have power over your mind, not outside events. Realize this, and you will find strength."* — modern paraphrase of Marcus Aurelius
 
 The grief is the outside event. The return to the work, to the people still here, to the life still being built — that is the power over the mind in practice.
 
-*"The pain I feel now is the happiness I had before. That's the deal."* — C.S. Lewis
+*"The pain now is part of the happiness then. That's the deal."* — William Nicholson, *Shadowlands*
