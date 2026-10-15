@@ -18,7 +18,7 @@ This is general education, not medical advice. If you are physically dependent o
 - **SAMHSA National Helpline: 1-800-662-4357** (1-800-662-HELP). Free, confidential, 24/7, 365 days a year. Treatment referrals and information in English and Spanish.
 - **988 Suicide & Crisis Lifeline:** call or text 988 if you are in crisis or thinking about suicide.
 - **Emergency:** 911.
-- Smoking: 1-800-QUIT-NOW. Gambling: 1-800-GAMBLER.
+- Smoking: 1-800-QUIT-NOW. Gambling: the National Problem Gambling Helpline, 1-800-522-4700. (The old 1-800-GAMBLER number is now run by the Council on Compulsive Gambling of New Jersey after a 2025 court ruling. Check ncpgambling.org for the current national number.)
 
 Outside the US, find your national equivalents now, before you need them.
 
