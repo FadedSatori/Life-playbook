@@ -90,7 +90,7 @@ Study how history's polymaths actually worked — not the myth, the practice.
 
 **Aristotle:** Built the first systematic cross-domain knowledge base. Wrote on logic, biology, physics, ethics, politics, rhetoric, drama. The key move: apply the same philosophical rigor to every domain. The method transfers even when the content doesn't.
 
-**Benjamin Franklin:** Deliberately cultivated domains in service of a mission (building a new nation required science, statecraft, diplomacy, writing, and economics). Domain selection was strategic, not random.
+**Benjamin Franklin:** Pointed his range at practical and civic ends — printing, writing, science (his electrical work came in the 1740s and 1750s), civic institutions — and later turned it to statecraft and diplomacy in building a new nation. The domains served the work.
 
 **Richard Feynman:** Maintained beginner's mind across everything. Physics, safe-cracking, bongo drums, drawing, biology. His superpower was genuine curiosity — and the refusal to let expertise in one area substitute for understanding in another.
 

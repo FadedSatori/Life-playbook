@@ -169,7 +169,7 @@ Second and third-order effects are where decisions differentiate. Most people in
 
 ## Fermi Estimation for Decisions
 
-When a decision requires a number you don't have, build an estimate from what you do know. Enrico Fermi could estimate the number of piano tuners in Chicago from first principles (population → households → pianos per household → frequency of tuning → hours per tuning → tuners per city).
+When a decision requires a number you don't have, build an estimate from what you do know. Enrico Fermi is said to have challenged his University of Chicago students to estimate the number of piano tuners in Chicago from first principles: population → households → pianos per household → frequency of tuning → hours per tuning → tuners per city. (The story is widely told but undocumented.)
 
 **The decision application:**
 - Never refuse to estimate because the data is unavailable

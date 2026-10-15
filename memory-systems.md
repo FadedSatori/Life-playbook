@@ -28,7 +28,7 @@ Close the book and retrieve. After reading a section, write down or say aloud wh
 ### 2. Spaced Repetition
 Review at increasing intervals, timed just before you would forget: for example a day, a few days, a week, a month, several months. Each successful recall extends the next interval. This gives the most retention per minute spent.
 
-**Tools:** Anki and similar software schedule reviews automatically. Anki uses an algorithm descended from SuperMemo's SM-2 by Piotr Wozniak. The tool matters less than the habit.
+**Tools:** Anki and similar software schedule reviews automatically. Anki's classic scheduler descends from SuperMemo's SM-2 by Piotr Wozniak; since version 23.10 (2023) it also offers the newer FSRS algorithm. The tool matters less than the habit.
 
 **Rules for good cards:**
 - **One idea per card.** Atomic questions.

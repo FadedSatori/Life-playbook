@@ -219,7 +219,7 @@ The error most intellectuals make when building physical or relational skills: t
 
 ## Skill Stacking: The Rare Combination
 
-Scott Adams (of Dilbert) articulated a principle worth building explicitly: being in the top 25% at two complementary skills is often more valuable than being in the top 1% at one skill.
+Scott Adams (of Dilbert, in a 2007 blog post) articulated a principle worth building explicitly: becoming very good — top 25% — at two or more skills is a far more reachable path to something extraordinary than becoming the best at one, which he called near impossible.
 
 The reason: very few people develop unusual combinations. The person who is both technically excellent and commercially excellent, or both technically excellent and an exceptional communicator, occupies a rare position. The market does not efficiently value rare combinations — they are often more leveraged than mastery of any single skill.
 

@@ -191,7 +191,7 @@ The Kelly Criterion is a formula for determining the optimal fraction of your re
 
 **Bet a fraction of your resources proportional to your edge, never the whole.**
 
-The Kelly fraction maximizes long-term growth rate while preventing ruin. Overbetting — putting more than the Kelly fraction on a positive expected value bet — grows the position faster initially but increases ruin probability, which eventually dominates.
+The Kelly fraction maximizes long-term growth rate while preventing ruin. Overbetting — putting more than the Kelly fraction on a positive expected value bet — adds risk and lowers long-run growth. At about twice the Kelly fraction, long-run growth falls to roughly zero; beyond that, the bankroll shrinks toward ruin even though every bet has positive expected value.
 
 **Applied to life decisions:**
 
