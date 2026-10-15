@@ -124,7 +124,7 @@ Both eustress (productive stress) and distress (degrading stress) involve cortis
 - Cognitively: *"I can handle this. My resources meet the demands."*
 
 **The threat state** (distress):
-- Cardiac output increases, vascular resistance also increases — the cardiovascular response to a threat (preparing for damage)
+- Cardiac output stays lower than in the challenge state, and vascular resistance rises — the cardiovascular response to a threat (preparing for damage)
 - Cortisol dominates — helpful short-term, toxic long-term
 - Attention tunnel-narrows, working memory contracts
 - Cognitively: *"This is going to hurt. The demands exceed my resources."*

@@ -20,7 +20,7 @@ Baseline questions to answer silently:
 
 ### Paul Ekman's Microexpressions (FACS)
 
-Paul Ekman's Facial Action Coding System (FACS) identified seven universal emotions that flash across the face in 1/25 to 1/5 of a second — fast enough to be missed, slow enough to be trained to catch. These are pre-voluntary; they express before the conscious mind can suppress them.
+Paul Ekman's cross-cultural research identified seven universal emotions (his Facial Action Coding System, FACS, built with Wallace Friesen, catalogs the facial muscle movements behind them). As microexpressions they flash across the face in 1/25 to 1/5 of a second — fast enough to be missed, slow enough to be trained to catch. These are pre-voluntary; they express before the conscious mind can suppress them.
 
 The seven universals: happiness, sadness, surprise, fear, disgust, anger, contempt.
 

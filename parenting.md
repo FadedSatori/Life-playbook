@@ -46,7 +46,7 @@ Research on involved fathers (e.g., by Michael Lamb, Daniel Paquette, and others
 
 ## Authoritative Parenting
 
-Diana Baumrind's research identified parenting styles that remain a useful map:
+Diana Baumrind's research identified three parenting styles (authoritative, authoritarian, permissive); Eleanor Maccoby and John Martin added a fourth, neglectful, in 1983. Together they remain a useful map:
 
 | Style | Warmth | Structure | Typical result |
 |---|---|---|---|

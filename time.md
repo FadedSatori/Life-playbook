@@ -50,7 +50,7 @@ The integration: use chronos efficiently enough to create the space where kairos
 
 ## Urgency vs. Importance: The Eisenhower Matrix
 
-Dwight Eisenhower, quoting an unnamed former college president in his 1954 address at Northwestern: "What is important is seldom urgent and what is urgent is seldom important."
+Dwight Eisenhower, quoting an unnamed former college president in his 1954 address at Northwestern: "I have two kinds of problems, the urgent and the important. The urgent are not important, and the important are never urgent." (The popular version — "what is important is seldom urgent and what is urgent is seldom important" — is a later paraphrase.)
 
 The Eisenhower Matrix divides all tasks across two axes:
 

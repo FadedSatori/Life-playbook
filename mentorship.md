@@ -101,7 +101,7 @@ You do not need to be at the top to help someone a few steps behind. You need to
 ### Mentoring frameworks
 **GROW:** Goal (what do you want?), Reality (where are you now?), Options (what could you do?), Will (what will you do, by when?). A simple coaching conversation structure.
 
-**Shu-Ha-Ri** (from Japanese martial arts): *Shu* (obey): learn the form exactly as taught. *Ha* (break): once mastered, depart from and adapt the form. *Ri* (leave): transcend the form and create your own. Good mentors teach according to the stage: strict guidance for the beginner, more questions and freedom as they advance. See [martial-arts.md](martial-arts.md), [warrior-codes.md](warrior-codes.md).
+**Shu-Ha-Ri** (from the Japanese tea ceremony, later central to aikido and other martial arts): *Shu* (obey): learn the form exactly as taught. *Ha* (break): once mastered, depart from and adapt the form. *Ri* (leave): transcend the form and create your own. Good mentors teach according to the stage: strict guidance for the beginner, more questions and freedom as they advance. See [martial-arts.md](martial-arts.md), [warrior-codes.md](warrior-codes.md).
 
 ---
 

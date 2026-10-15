@@ -42,9 +42,9 @@ Optional: delay coffee 90–120 minutes after waking if you like how it feels. T
 
 Step outside. Five to ten minutes of direct or indirect natural light. No sunglasses. Overcast sky still works — outdoor light on a grey day is 1,000–10,000 lux; indoor lighting is 100–500 lux. The difference is a full order of magnitude.
 
-If outdoor exposure is impossible (winter, travel, north latitudes): a 10,000-lux light therapy lamp positioned within 18–24 inches of the face for 10–20 minutes does the same job.
+If outdoor exposure is impossible (winter, travel, north latitudes): a 10,000-lux light therapy lamp positioned within 18–24 inches of the face for about 30 minutes (the standard clinical dose for seasonal depression) does the same job.
 
-What this does: melanopsin-containing retinal ganglion cells absorb blue-spectrum light and fire directly to the SCN. This starts the 14–16 hour countdown to melatonin release. Consistent morning light exposure produces consistent sleep onset, deeper sleep architecture, and more stable daytime energy — compounding over weeks.
+What this does: melanopsin-containing retinal ganglion cells absorb blue-spectrum light and fire directly to the SCN. This helps set the clock that times evening melatonin release, which in young adults on a regular schedule comes roughly 14 hours after waking (Burgess and colleagues, 2003; individuals vary by hours). Consistent morning light exposure produces consistent sleep onset, deeper sleep architecture, and more stable daytime energy — compounding over weeks.
 
 Combine with the first movement segment if possible: a short walk outside achieves hydration, light, and movement in one action.
 
@@ -54,8 +54,8 @@ Minimum: 10–20 minutes. Effective forms include walking, running, bodyweight c
 
 **What this does biologically:**
 - Releases BDNF (brain-derived neurotrophic factor) — the brain's growth hormone. BDNF promotes neuroplasticity, accelerates learning, and lifts mood. 20 minutes of moderate aerobic movement triggers measurable BDNF release.
-- Finishes clearing residual adenosine. The fog lifts.
-- Elevates dopamine and serotonin baseline for 4–6 hours.
+- Raises arousal and alertness, so the fog lifts. (Adenosine itself is cleared by sleep, not movement.)
+- Lifts mood, often for hours afterward. That exercise improves mood is well established; precise neurotransmitter timelines are not.
 - Raises core body temperature, which increases alertness and reduces reaction time.
 
 This is not the formal training session. That has its own place in the schedule. This is the ignition. Even on rest days, some form of morning movement is non-negotiable.
@@ -72,7 +72,7 @@ Optional, but the upside is large enough to make it a default.
 
 The often-cited target — 11 minutes per week total, broken into 2–4 sessions — comes from Søberg et al. (2021), a study of 8 winter-swimming men vs. 8 controls. It describes what those swimmers did, not a tested minimum dose. Cold enough to want to get out. Not cold enough to be dangerous.
 
-Additional effects: cold-induced norepinephrine reduces inflammatory markers, accelerates metabolic rate, and — for men — supports testosterone production over time with consistent practice.
+Additional effects: cold-induced norepinephrine reduces inflammatory markers and accelerates metabolic rate. The popular claim that it boosts testosterone isn't supported — small studies show no rise, or a short drop, after cold immersion.
 
 The first 30 seconds are the hardest. Then the system adapts. The discomfort is precisely the point: controlled stress exposure, voluntary, in a safe context. The practice of doing hard things before the day begins.
 
@@ -111,7 +111,7 @@ The evening determines tomorrow's baseline. How you end determines how you begin
 
 Pick a time and honor it. The specific time matters less than the consistency. 9:00 PM, 10:00 PM — choose one.
 
-**The incomplete work problem:** the Zeigarnik effect describes the brain's tendency to continue processing unfinished tasks. Unclosed loops produce intrusive thoughts, impair sleep onset, and generate the low-grade anxiety of a mental background process running without permission. The shutdown ritual is the instruction to the brain: close all tabs.
+**The incomplete work problem:** the Zeigarnik effect describes the brain's tendency to continue processing unfinished tasks. (Its original memory claim — that unfinished tasks are remembered better — failed in a 2025 meta-analysis by Ghibellini and Meier; what held up is the pull to resume unfinished tasks.) Unclosed loops produce intrusive thoughts, impair sleep onset, and generate the low-grade anxiety of a mental background process running without permission. The shutdown ritual is the instruction to the brain: close all tabs.
 
 Without a deliberate shutdown, work simply fades into the evening without a clear boundary. The body is in the house but the mind is still at the desk.
 

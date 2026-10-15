@@ -29,7 +29,7 @@ Writing sharpens argumentation. You will construct better arguments in conversat
 
 ### Second Language Acquisition
 
-A second language is a cognitive multiplier — not primarily for communication, but for what the process does to your brain. Language acquisition rewires neural architecture. It makes you more cognitively flexible, slows age-related mental decline, and literally builds more gray matter.
+A second language is a cognitive multiplier — but not the way it's usually sold. The popular claim that bilingualism sharpens cognitive control didn't survive a large meta-analysis that corrected for publication bias (Lehtonen and colleagues, 2018), and the evidence that it slows age-related decline is mixed.
 
 The operational payoff: a second language gives you access to a different conceptual vocabulary. Some ideas exist fully formed in one language and only partially in another. German has *Weltanschauung* (worldview as a total perceptual framework). Japanese has *Ma* (the strategic use of negative space). These are not translatable — they are conceptual tools that only exist inside their language.
 
@@ -75,7 +75,7 @@ Build the library deliberately. When you encounter a new model, write it down in
 
 ### The Feynman Technique
 
-Richard Feynman: the test of whether you understand something is whether you can explain it to a twelve-year-old. Not because children are the audience — but because the explanation strips out jargon and forces you to confront what you actually know versus what you have memorized.
+Named for Richard Feynman, though the step-by-step method and the "twelve-year-old" framing were packaged by later writers; Feynman's own recorded test, per his colleague David Goodstein, was whether an idea could be reduced to a freshman lecture. The test: can you explain it to a twelve-year-old? Not because children are the audience — but because the explanation strips out jargon and forces you to confront what you actually know versus what you have memorized.
 
 Protocol:
 1. Pick a concept you want to understand.

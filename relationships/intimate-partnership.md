@@ -45,7 +45,7 @@ The couple that becomes entirely merged — finishing each other's sentences, al
 
 **The maintenance practices:**
 - **Regular dedicated time that isn't logistics.** Not "we're both in the kitchen at the same time." Deliberate time structured to connect — new environments, unstructured conversation, shared experience
-- **Novelty as a discipline.** New activities together activate the same dopamine pathways as early courtship. This is not accidental — it is a maintenance protocol
+- **Novelty as a discipline.** Couples who do new, exciting things together report higher relationship quality than couples who stick to pleasant routines (Aron and colleagues, 2000). This is not accidental — it is a maintenance protocol
 - **Genuine separateness.** Have interests, friendships, and experiences that are your own, not shared. Return from them with something to bring back
 - **Continue pursuing your own growth.** The most attractive thing you can do for your partner long-term is be a person who is growing. The person who stopped becoming is the person who becomes easy to take for granted
 
@@ -202,17 +202,17 @@ The more important skill: accurately reading your partner's primary language und
 
 A partnership that deepens over decades is maintained through deliberate practices at multiple timescales — not through intensity alone.
 
-**Weekly: State of the Union (Gottman)**
+**Weekly: State of the Union (adapted from Gottman)**
 15–30 minutes, scheduled, not during conflict. The structure:
 1. *What I appreciated about you this week* — specific, not generic
 2. *What I've been stressed about outside of us* — context so behavior makes more sense
 3. *One thing I need from you this week* — specific and actionable
 4. *How we're doing* — overall temperature check, without problem-solving mode
 
-This is not a conflict resolution meeting. It is a maintenance meeting. The goal is attunement, not repair.
+This version is not a conflict resolution meeting. It is a maintenance meeting. The goal is attunement, not repair. Gottman's own State of the Union runs about an hour: appreciations first, then one issue or regrettable incident from the week, worked through until each partner feels understood before any problem-solving, then each asks what would make the other feel loved in the week ahead. Use the full version when there is something to work through.
 
 **Monthly: Date that isn't routine**
-The research on novelty and dopamine is unambiguous: novel shared experience reactivates the reward circuitry of early courtship. This is not sentimental — it is neurochemistry in service of the relationship. Schedule it; make it non-negotiable; let the other person choose alternating months.
+The research on novelty is behavioral: Aron and colleagues (2000) found that couples who shared novel, exciting activities reported less boredom and higher relationship quality. The idea that this reactivates the dopamine circuitry of early courtship is a plausible mechanism, not a measured one. Either way, it is not sentimental — it is maintenance. Schedule it; make it non-negotiable; let the other person choose alternating months.
 
 **Annually: Partnership review**
 Similar in structure to an annual life review but applied to the relationship. Questions:
