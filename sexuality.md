@@ -120,7 +120,7 @@ The sexually integrated person:
 
 *"The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed."* — Carl Jung
 
-*"Eroticism is not only about sex. It's about aliveness, mystery, and play."* — Esther Perel
+*"Eroticism is not only about sex. It's about aliveness, mystery, and play."* — Esther Perel (paraphrase of a recurring theme; exact wording unverified)
 
 ---
 
@@ -156,7 +156,7 @@ Freud called this sublimation: sexual energy consciously redirected — not supp
 
 The practical consequence: the person who has fully separated their sexuality from their creative and intellectual life has lost access to both. The sexual energy that is fully suppressed does not become productive — it becomes pathological or depressive. The creative energy that is fully intellectualized loses its erotic charge.
 
-**Rilke**, in a line attributed to his letters to Franz Xaver Kappus: *"The sexual is so extraordinarily difficult and complex, it is not of elementary simplicity, but rather of complex and incomprehensible multiplicity."* His advice: treat sexuality not as a problem to be solved or an appetite to be managed, but as a teacher — one that reveals something about the nature of creativity, connection, and aliveness.
+**Rilke**, in his fourth letter to Franz Xaver Kappus (1903, *Letters to a Young Poet*): *"Sex is difficult; yes."* Almost everything serious is difficult, he adds, and everything is serious. His advice: treat sexuality not as a problem to be solved or an appetite to be managed, but as a teacher — one that reveals something about the nature of creativity, connection, and aliveness.
 
 The fully alive person is sensual in the broader sense — fully present to sensation, moved by beauty, in contact with the body's intelligence. This is the Lover archetype at its mature expression: not sexual compulsiveness but full-spectrum aliveness.
 

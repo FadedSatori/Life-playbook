@@ -79,12 +79,12 @@ Dietary fat is not the cause of cardiovascular disease (the research that propos
 
 **The circadian nutrition insight:** The body's metabolic machinery is synchronized to the light-dark cycle. Metabolic enzymes, insulin sensitivity, and digestive efficiency all follow circadian rhythms — performing optimally in the morning and early afternoon, declining in the evening. Eating late at night is metabolically disadvantageous regardless of total calories.
 
-**Time-restricted eating (TRE):** Confining food intake to a consistent 8–12 hour window, aligned with daylight hours. The evidence: Satchidananda Panda's research at the Salk Institute demonstrated that TRE in mice reversed obesity, diabetes, liver disease, and cardiovascular disease even without caloric restriction. Human studies show improvements in metabolic markers, body composition, and inflammatory markers.
+**Time-restricted eating (TRE):** Confining food intake to a consistent 8–12 hour window, aligned with daylight hours. The evidence: Satchidananda Panda's research at the Salk Institute found that TRE in mice prevented and reversed obesity, glucose intolerance, and fatty liver even without caloric restriction (the heart findings came from fruit flies). Human trials are mixed: some show modest improvements in metabolic markers and body composition, but Liu et al. (NEJM, 2022) found that adding an 8-hour eating window to calorie restriction gave no significant extra weight or metabolic benefit over a year.
 
 **Practical implementation:** 
 - Eat within an 8–12 hour window (e.g., 8am–6pm or 9am–7pm)
 - Stop eating 2–3 hours before sleep (see [sleep.md](sleep.md) — late eating disrupts sleep architecture)
-- The fast begins when the last meal ends — 8–10 hours of overnight fasting is sufficient for most of the metabolic benefits
+- The fast begins when the last meal ends — an 8–12 hour eating window means a 12–16 hour overnight fast
 
 **Fasting protocols (more intensive):** 
 - **16:8:** 16-hour fast, 8-hour eating window. The most accessible TRE format; most people can achieve this by delaying breakfast or advancing dinner
@@ -125,12 +125,12 @@ The following five nutrients are chronically deficient in modern populations and
 
 ## The Gut-Brain Axis
 
-The gut microbiome — roughly 38 trillion bacteria (about one per human cell — Sender, Fuchs & Milo, 2016), plus fungi and other organisms inhabiting the digestive system — communicates bidirectionally with the brain via the vagus nerve. This is not speculative; it is established physiology. The microbiome produces neurotransmitter precursors (including approximately 90% of the body's serotonin is made in the gut), regulates inflammation, and influences mood and cognitive function.
+The gut microbiome — roughly 38 trillion bacteria (about one per human cell — Sender, Fuchs & Milo, 2016), plus fungi and other organisms inhabiting the digestive system — communicates bidirectionally with the brain via the vagus nerve. This is not speculative; it is established physiology. The microbiome influences neurotransmitter production (about 90% of the body's serotonin is made in the gut, by gut-lining cells that bacteria help regulate — though gut serotonin does not cross into the brain), regulates inflammation, and influences mood and cognitive function.
 
 **Practical interventions:**
-- **Eat 30 different plants per week.** The diversity of plant consumption is the strongest predictor of microbiome diversity. A varied microbiome is associated with better metabolic health, immune function, and mood. This sounds like a lot — it includes herbs, spices, legumes, nuts, seeds, vegetables, and fruits.
-- **Fermented foods daily:** Yogurt (live cultures), kefir, kimchi, sauerkraut, miso. A 2021 Stanford study found that a high-fermented-food diet increased microbiome diversity and decreased inflammatory markers better than a high-fiber diet alone.
-- **Minimize antibiotic use where not medically necessary.** Antibiotics damage the microbiome indiscriminately. After necessary antibiotic courses, targeted probiotic supplementation and high-prebiotic food intake (garlic, onions, leeks, asparagus) support recovery.
+- **Eat 30 different plants per week.** In the American Gut Project (McDonald et al., 2018), people eating more than 30 plant types a week had more diverse gut microbiomes than those eating 10 or fewer — an association from self-reported diets, not a tested dose. A varied microbiome is associated with better metabolic health, immune function, and mood. This sounds like a lot — it includes herbs, spices, legumes, nuts, seeds, vegetables, and fruits.
+- **Fermented foods daily:** Yogurt (live cultures), kefir, kimchi, sauerkraut, miso. A 2021 Stanford trial (Wastyk et al., 36 adults, 10 weeks) found that a high-fermented-food diet increased microbiome diversity and lowered 19 inflammatory markers, while a high-fiber diet did neither over that period. Small and short, but promising.
+- **Minimize antibiotic use where not medically necessary.** Antibiotics damage the microbiome indiscriminately. After necessary antibiotic courses, high-prebiotic food (garlic, onions, leeks, asparagus) supports recovery. Evidence on probiotic supplements is mixed: in one small study (Suez et al., 2018), they delayed the gut microbiome's return to normal.
 
 ---
 
@@ -153,8 +153,8 @@ See [reality-engineering.md](../reality-engineering.md) for the general framewor
 Alcohol is the most socially accepted metabolic disruptor. If you drink, know what it does:
 
 - **Sleep architecture:** Even moderate alcohol consumption suppresses REM sleep, the most cognitively restorative sleep stage. "Better sleep after a drink" is sedation, not rest — sleep quality degrades even when subjective experience improves (see [sleep.md](sleep.md))
-- **Muscle protein synthesis:** Suppressed for approximately 24 hours after significant alcohol consumption
-- **Liver priority:** The liver prioritizes alcohol metabolism above all other tasks — fat oxidation is halted during processing
+- **Muscle protein synthesis:** In Parr et al. (2014), heavy drinking after training (about 12 standard drinks) cut muscle protein synthesis by roughly a quarter to a third over the next 8 hours, even when taken with protein (8 men)
+- **Liver priority:** The body prioritizes clearing alcohol — fat burning drops sharply while it does (Siler et al., 1999: about two drinks cut whole-body fat oxidation by roughly 73% in 8 men)
 - **Cognitive function:** Measurable impairment persists significantly longer than the subjective feeling of impairment
 - **Testosterone:** Acutely suppressed for 12–24 hours after consumption; chronically suppressed with regular drinking
 
@@ -167,6 +167,6 @@ This is not prohibition. It is accounting. Make the trade consciously.
 - Track food for 2 weeks per year to recalibrate intuition. People's estimates of their caloric and protein intake are reliably inaccurate without periodic anchoring.
 - Eat slowly enough to notice fullness — it lags 15–20 minutes behind actual satiety. Use this lag, don't fight it.
 - Limit liquid calories: alcohol, juice, and sweetened coffee drinks are a reliable path to unintentional overconsumption. Liquids don't trigger the same satiety signaling as solid food.
-- The 80/20 rule applied to nutrition: what you do consistently is more determinative than what you do occasionally. The diet on 90% of days is the diet; what you eat at parties and restaurants on the remaining 10% is irrelevant.
+- The 80/20 rule applied to nutrition: what you do consistently is more determinative than what you do occasionally. The diet on 80% of days is the diet; what you eat at parties and restaurants on the remaining 20% matters far less.
 - Never eat standing in front of an open refrigerator. Sit down, use a plate, eat intentionally.
 - Eat from a limited repertoire of default meals you can make without thinking, and save variety for occasions. Decision fatigue applied to food is real and causes deterioration to whatever is easy and available.

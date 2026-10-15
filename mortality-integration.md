@@ -173,7 +173,7 @@ Both practices require the same core capacity: the ability to be with a difficul
 
 **Cross-practice:** working directly with grief (see [grief-and-loss.md](grief-and-loss.md)) prepares the ground for mortality integration, and vice versa. Each is a dress rehearsal for the other.
 
-The warrior traditions have understood this. The samurai practice of *shisei* — death contemplation — was not a morbid exercise. It was training the mind to meet any moment, including the final one, with the same equanimity it would bring to an ordinary moment. The goal was not fearlessness in the sense of the absence of fear, but freedom from the grip of fear — particularly the fear of ending.
+The warrior traditions have understood this. The samurai practice of daily death contemplation, prescribed in the *Hagakure*, was not a morbid exercise. It was training the mind to meet any moment, including the final one, with the same equanimity it would bring to an ordinary moment. The goal was not fearlessness in the sense of the absence of fear, but freedom from the grip of fear — particularly the fear of ending.
 
 ---
 

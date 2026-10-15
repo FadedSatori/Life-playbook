@@ -74,11 +74,11 @@ Going through rather than around is the only path. Not because suffering is nobl
 
 ## The Role of Narrative
 
-**James Pennebaker** (University of Texas) conducted a series of studies in the 1980s and 1990s that produced one of the most replicated findings in trauma research: writing about traumatic experiences for 15-20 minutes a day, four days in a row, produces measurable improvements in immune function, reduced medical visits, improved mood, and accelerated cognitive processing of the event.
+**James Pennebaker** (University of Texas) conducted a series of studies in the 1980s and 1990s showing that writing about traumatic experiences for 15-20 minutes a day, four days in a row, produces measurable improvements in immune function, reduced medical visits, improved mood, and accelerated cognitive processing of the event. The finding has been replicated many times, though a meta-analysis of 146 studies put the average benefit as small (Frattaroli, 2006).
 
 The mechanism: narrative forces the construction of causal and temporal structure. The event moves from raw experience — fragmented, intrusive, unprocessed — to story: it had a beginning, middle, and end; it had causes; it has a relationship to other events; it can be understood, if not controlled. The story does not erase the pain. It contains it.
 
-**Viktor Frankl** (Man's Search for Meaning): "Everything can be taken from a man but one thing: the last of the human freedoms — to choose one's attitude in any given set of circumstances." This is not positive thinking. Frankl watched it demonstrated in Auschwitz. The prisoners who survived — who did not merely survive biologically but survived psychologically — were those who found or constructed meaning in their suffering. Not comfort. Not false hope. Meaning.
+**Viktor Frankl** (Man's Search for Meaning): "Everything can be taken from a man but one thing: the last of the human freedoms — to choose one's attitude in any given set of circumstances." This is not positive thinking. Frankl watched it demonstrated in the Nazi camps. The prisoners who survived — who did not merely survive biologically but survived psychologically — were those who found or constructed meaning in their suffering. Not comfort. Not false hope. Meaning.
 
 The story you tell about the adversity determines its outcome more than the adversity itself.
 

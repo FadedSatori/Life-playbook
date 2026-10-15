@@ -45,7 +45,7 @@ Humor is not entertainment. In every social context, it is a precision instrumen
 
 The serious traditions did not neglect play. They systematized it.
 
-**Samurai:** The Japanese warrior code included mandatory cultivation of arts — calligraphy, poetry (haiku), the tea ceremony, ikebana (flower arrangement). Not as hobbies. As disciplines that trained the mind for the same precision and presence required in combat. The tea ceremony in particular — absolute stillness, full attention, no urgency — was essential preparation for the state required on a battlefield. Musashi painted, wrote poetry, and sculpted during the same decades he was undefeated in sixty duels. He understood that the mind fully present with ink on paper can be fully present with a sword.
+**Samurai:** The Japanese warrior code included mandatory cultivation of arts — calligraphy, poetry (haiku), the tea ceremony, ikebana (flower arrangement). Not as hobbies. As disciplines that trained the mind for the same precision and presence required in combat. The tea ceremony in particular — absolute stillness, full attention, no urgency — was essential preparation for the state required on a battlefield. Musashi, undefeated in more than sixty duels by about age 30, spent his later decades on ink painting, calligraphy, and carving. He understood that the mind fully present with ink on paper can be fully present with a sword.
 
 **Stoics:** Marcus Aurelius distinguishes play freely chosen (with perspective) from compulsion driven by desire for the outcome. He attended the Colosseum because his station required it, but he was not compelled by the spectacle. He could enjoy theater; he simply wasn't owned by it. This is the Stoic standard: full access to enjoyment, no dependency on it.
 
@@ -94,7 +94,7 @@ These were not concessions. They were evidence of size.
 
 *"Laughter is the shortest distance between two people."* — Victor Borge
 
-*"We are all here for a spell; get all the good laughs you can."* — Will Rogers
+*"We are all here for a spell; get all the good laughs you can."* — attributed to Will Rogers (unverified)
 
 ---
 
@@ -103,10 +103,10 @@ These were not concessions. They were evidence of size.
 Laughter is not a social nicety. It is a biological event with measurable physiological effects.
 
 **What laughter produces:**
-- **Endorphin release** — laughter activates the same endogenous opioid system as exercise and physical pain relief. A genuine laugh, particularly a full-body one, produces measurable endorphin release that lasts 20–30 minutes post-laughter.
+- **Endorphin release** — laughter activates the same endogenous opioid system as exercise and physical pain relief. A PET imaging study found that laughing with friends triggers endogenous opioid release in the brain (Manninen et al., 2017, a small study of 12 men).
 - **Pain reduction** — Dunbar et al. (2012) at Oxford found that 15 minutes of genuine laughter raised pain tolerance by about 10% on average compared to control conditions. The mechanism is endorphin-mediated. The warrior tradition of dark humor is not merely psychological — it is altering the physiology of pain experience.
 - **Immune function** — Lee Berk's research at Loma Linda showed that anticipating laughter reduces cortisol by 39% and epinephrine by 70% before the laughter even occurs (from a 2008 conference abstract on 16 men, not a peer-reviewed paper). After laughter, natural killer cells increase, T-cell production rises, and IgA antibodies (primary immune defense at mucosal surfaces) increase.
-- **Social bonding** — Robert Provine found people laugh about 30 times more often with others than alone. Dunbar's research shows that laughter in groups synchronizes breathing and activates mirror neuron systems simultaneously across all laughing participants — producing what he calls "grooming at a distance." The bonding function of shared laughter is as old as our species.
+- **Social bonding** — Robert Provine found people laugh about 30 times more often with others than alone. Dunbar argues that shared laughter works as "grooming at a distance": its opioid effect bonds groups too large for one-to-one grooming. The bonding function of shared laughter is as old as our species.
 - **Cognitive flexibility** — the moment of laughter is the moment of conceptual incongruity resolving. Two frames that seemed incompatible suddenly coexist. This is precisely the cognitive move required for creative problem-solving and insight.
 
 **The physiological cascade of a genuine laugh:**
@@ -133,7 +133,7 @@ Rod Martin's humor styles questionnaire (University of Western Ontario) identifi
 
 **Maladaptive humor styles:**
 
-**Aggressive humor** — humor that criticizes, manipulates, or demeans others. Sarcasm as a weapon rather than a play signal. Correlates with neurotic hostility, diminished relationship quality, and is the single best predictor of relationship deterioration. The satirist who punches down. Psychologically, this style is often shame-management — deflecting from the self by attacking others.
+**Aggressive humor** — humor that criticizes, manipulates, or demeans others. Sarcasm as a weapon rather than a play signal. Correlates with hostility, aggression, and poorer relationship quality. The satirist who punches down. Psychologically, this style is often shame-management — deflecting from the self by attacking others.
 
 **Self-defeating humor** — allowing yourself to be the target of others' humor in ways that aren't genuinely chosen but that conceal negative affect beneath performed levity. The person who laughs along while being humiliated. Correlates with depression, loneliness, and low self-esteem. The laugh that is actually a coping mechanism for pain.
 

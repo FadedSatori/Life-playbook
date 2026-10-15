@@ -178,7 +178,7 @@ Name the cost specifically. The compounding cost of unacted courage.
 **What is the smallest courageous action I could take in the next 72 hours?**
 Not the final, complete, heroic action — the first step.
 
-*"Courage is not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."* — Nelson Mandela
+*"I learned that courage was not the absence of fear, but the triumph over it. … The brave man is not he who does not feel afraid, but he who conquers that fear."* — Nelson Mandela, *Long Walk to Freedom* (1994)
 
 *"Do one thing every day that scares you."* — Mary Schmich, *Chicago Tribune* column, 1997
 

@@ -28,7 +28,7 @@ The anger response is functional: it mobilizes energy, narrows focus, and produc
 
 **The physiological signature:** Anger activates the sympathetic nervous system: heart rate increases (often past 95–100 bpm), blood pressure rises, muscles tense, breathing quickens, cortisol and adrenaline flood the system. At this level of physiological activation, Gottman's research shows that the brain's capacity for nuanced communication degrades. You cannot have a productive conversation — with yourself or others — in this state.
 
-**The resolution physiology:** The sympathetic arousal activated by anger takes time to dissipate even after the trigger is resolved — typically 20–40 minutes for the cortisol and adrenaline to metabolize. The common mistake: believing you've calmed down because the immediate trigger has passed, when the physiology is still activated. Decisions and conversations initiated within this window are still compromised.
+**The resolution physiology:** The sympathetic arousal activated by anger takes time to dissipate even after the trigger is resolved — Gottman's estimate is at least 20 minutes of genuine calming before the body settles. The common mistake: believing you've calmed down because the immediate trigger has passed, when the physiology is still activated. Decisions and conversations initiated within this window are still compromised.
 
 ---
 
@@ -147,7 +147,7 @@ Seneca's *De Ira* ("On Anger"), written in the first century CE, is the most tho
 - **Anger begins with an impression, and you can intercept it.** The first jolt is involuntary. What happens next is the "assent" you give: the judgment "I've been wronged and must retaliate." Withhold the assent. See [stoic-practice.md](stoic-practice.md).
 - **Assume less bad intent.** Most offenses are error, ignorance, or thoughtlessness. Marcus Aurelius' morning rehearsal for difficult people (see [quotes.md](quotes.md)) is the same tool.
 - **Look at the costs.** Marcus Aurelius makes the same point (*Meditations* 11.18): "How much more grievous are the consequences of anger than the causes of it." Calculate what acting on it will cost.
-- **Evening review.** Seneca ended each day asking himself what bad habit he had cured, what fault he had resisted, and in what respect he was better. He recorded that when he looked at his anger honestly he found it diminished. Add anger to the nightly review in [routines/daily.md](routines/daily.md).
+- **Evening review.** Seneca describes (*De Ira* 3.36) how the philosopher Sextius ended each day asking himself what bad habit he had cured, what fault he had resisted, and in what respect he was better, and Seneca adopted the practice himself. Anger, he wrote, will cease or grow milder once it knows it must come before a judge every day. Add anger to the nightly review in [routines/daily.md](routines/daily.md).
 
 **Aristotle's standard,** in the *Nicomachean Ethics*: anyone can become angry, which is easy, but to be angry with the right person, to the right degree, at the right time, for the right purpose, and in the right way is not easy. Use it as a checklist for deciding whether your anger is fit for use.
 
@@ -189,13 +189,13 @@ Seneca's *De Ira* ("On Anger"), written in the first century CE, is the most tho
 
 ## What Anger Is Not For
 
-Anger is not a relationship management tool. It does not produce compliance through fear — it produces compliance through fear, and fear is not the same as respect. The leader or partner who relies on anger to produce results has traded short-term compliance for long-term resentment, and is building a relationship that exists only until the dependent party has better options.
+Anger is not a relationship management tool. It does not produce respect — it produces compliance through fear, and fear is not the same as respect. The leader or partner who relies on anger to produce results has traded short-term compliance for long-term resentment, and is building a relationship that exists only until the dependent party has better options.
 
 Anger is not an argument. "I feel strongly about this" is not evidence that you are right. Anger does not establish truth; it signals investment. The person who confuses the emotional intensity of their position for the quality of their reasoning will be wrong with great conviction.
 
 Anger is not a substitute for grief. They are neighbors in the emotional range — both activated by loss, both responding to what cannot be controlled. Anger has a target and an action component; grief does not. Some of what presents as anger is actually grief that has been redirected to a target because anger feels more powerful and less vulnerable. The misdirection prolongs both.
 
-*"Speak when you are angry and you will make the best speech you will ever regret."* — Ambrose Bierce
+*"Speak when you are angry and you will make the best speech you will ever regret."* — usually credited to Ambrose Bierce, but not found in his works; the earliest known version is Groucho Marx's, 1954 (Quote Investigator)
 
 *"For every minute you remain angry, you give up sixty seconds of peace of mind."* — commonly attributed to Ralph Waldo Emerson (source unverified)
 

@@ -45,7 +45,7 @@ Every serious tradition has a solitude practice. This is not coincidence.
 
 **The Desert Fathers** — early Christian monastics who withdrew to the Egyptian desert in the 3rd century AD. Their psychology of *acedia* (the noon-day demon — spiritual restlessness, the inability to stay still) is the earliest detailed account of what happens when a person first sits alone. The prescription: stay in your cell. The restlessness passes. What's on the other side of it is what you came for.
 
-**Nietzsche**: *"I am a forest, and a night of dark trees: but he who is not afraid of my darkness will find banks full of roses under my cypresses."* His decades of productive solitude — walking alone, writing alone, thinking alone — produced some of the densest philosophy in the Western tradition.
+**Nietzsche**: *"I am a forest, and a night of dark trees: but he who is not afraid of my darkness will find banks full of roses under my cypresses."* His decade of productive solitude (1879–1889) — walking alone, writing alone, thinking alone — produced some of the densest philosophy in the Western tradition.
 
 The pattern: serious people create serious solitude. The work is downstream of it, not the point of it.
 
@@ -188,7 +188,7 @@ Not all solitude is equal. The benefit scales with depth.
 
 ## The Fear of Silence
 
-Pascal's observation remains correct more than 350 years later: the inability to sit quietly in a room alone is among the most universal human problems.
+Pascal's observation remains correct more than 350 years later: the inability to sit quietly in a room is among the most universal human problems.
 
 The fear operates at several levels:
 

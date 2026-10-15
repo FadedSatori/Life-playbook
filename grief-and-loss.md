@@ -1,6 +1,6 @@
 # Grief and Loss
 
-The warrior-philosopher tradition has more to say about grief than almost any other subject. Marcus Aurelius lost children, close companions, and trusted advisors. He wrote about each of them in *Meditations* — not to perform stoicism but to practice it, honestly, under load. Epictetus lived his entire adult life in the condition of irrevocable loss. The traditions that have proven most durable — Stoicism, Buddhism, Taoism — are, at their core, practices for living with impermanence.
+The warrior-philosopher tradition has more to say about grief than almost any other subject. Marcus Aurelius lost children, close companions, and trusted advisors. He wrote about loss and impermanence throughout *Meditations* — not to perform stoicism but to practice it, honestly, under load. Epictetus lived his entire adult life in the condition of irrevocable loss. The traditions that have proven most durable — Stoicism, Buddhism, Taoism — are, at their core, practices for living with impermanence.
 
 This file is not about managing grief efficiently. It is about moving through it without losing yourself, and coming out carrying something that makes you more capable of being fully alive.
 
@@ -45,7 +45,7 @@ Most people think of grief as the response to death. Grief is the response to an
 
 Grief is not a psychological condition with physical symptoms. It is a physical condition with psychological expression.
 
-**Social pain overlaps with physical pain.** Naomi Eisenberger's fMRI research on social exclusion found that rejection activates regions also involved in physical pain — specifically the dorsal anterior cingulate cortex and anterior insula. The systems overlap rather than being identical; the strong "same circuits" reading has been challenged (Woo et al., 2014). Still, this is why bereavement can literally hurt. The phrase "broken heart" is not metaphor. Cardiac events increase significantly in the first weeks after losing a spouse. The body experiences the loss as damage.
+**Social pain overlaps with physical pain.** Naomi Eisenberger's fMRI research on social exclusion found that rejection activates regions also involved in physical pain — specifically the dorsal anterior cingulate cortex and anterior insula. The systems overlap rather than being identical; the strong "same circuits" reading has been challenged (Woo et al., 2014). Still, this is why bereavement can literally hurt. The phrase "broken heart" is not metaphor. Heart-attack risk spikes after the death of someone close: about 21 times normal in the first 24 hours, still elevated through the first week, and fading after about a month (Mostofsky et al., 2012). The body experiences the loss as damage.
 
 **The grief-immune connection:** The stress hormones released during grief (cortisol, adrenaline) suppress immune function when chronically elevated. Studies of bereaved spouses show increased susceptibility to infection, reduced natural killer cell activity, and elevated inflammatory markers in the first year after loss. Grief is physiologically expensive.
 
@@ -123,7 +123,7 @@ Complicated grief (also called Prolonged Grief Disorder): grief that has not int
 - Avoidance of anything that would remind of the loss (including memories that contain positive feeling) — grief and joy about the same loss should both be accessible
 
 **What helps:**
-- **Professional support:** the threshold for seeking grief-specific therapy should be low, not high. Complicated Grief Treatment (CGT), developed by Shear and colleagues, is specifically designed for prolonged grief and has strong outcome data — it outperforms standard grief counseling and depression treatment for this population.
+- **Professional support:** the threshold for seeking grief-specific therapy should be low, not high. Complicated Grief Treatment (CGT), developed by Shear and colleagues, is specifically designed for prolonged grief and has strong outcome data — in randomized trials it outperformed interpersonal psychotherapy (Shear et al., 2005) and the antidepressant citalopram (Shear et al., 2016) for this population.
 - **Movement:** Exercise changes the biochemistry of grief. Walking in particular (sunlight, forward motion, change of environment) shifts neurochemical states in ways that static processing cannot. This is not avoidance — it is physiology.
 - **The "still living" question:** What would the person, relationship, or version of yourself that was lost want you to do with the life that remains? This is not about honoring the dead by living a certain way — it is a reorientation tool, a way of asking: what does vitality look like from this vantage point?
 

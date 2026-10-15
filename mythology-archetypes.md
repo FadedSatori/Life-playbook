@@ -148,9 +148,9 @@ Myths are not history. They are concentrated truth about the human condition, en
 
 ### Odysseus: The Cunning Survivor
 
-**The myth:** Ten years after winning the Trojan War, Odysseus spends another ten years trying to get home. He faces gods, monsters, temptations, and his own failures. He survives when stronger heroes do not — not through force, but through cunning, adaptability, and the absolute clarity of his purpose: homecoming.
+**The myth:** After ten years fighting the Trojan War, Odysseus spends another ten years trying to get home. He faces gods, monsters, temptations, and his own failures. He survives when stronger heroes do not — not through force, but through cunning, adaptability, and the absolute clarity of his purpose: homecoming.
 
-**The operative principle:** Intelligence over force. Odysseus is not the strongest hero — Achilles is. He is not the most pious — that is Ajax. He is the most adaptive. He reads the situation and responds to what is actually happening rather than what he wishes were happening. When he cannot fight, he hides. When he cannot hide, he deceives. When he can fight, he fights. He does what the moment requires, without ego attached to the method.
+**The operative principle:** Intelligence over force. Odysseus is not the strongest hero — Achilles is. He is the most adaptive. He reads the situation and responds to what is actually happening rather than what he wishes were happening. When he cannot fight, he hides. When he cannot hide, he deceives. When he can fight, he fights. He does what the moment requires, without ego attached to the method.
 
 **Homecoming as the real quest:** The journey is the outer form; the return is the purpose. Odysseus never forgets where he is going. Every distraction — Circe, the Sirens, Calypso — is a seduction to forget the homecoming. He is tempted. He delays. But he does not abandon the destination. The clarity of final purpose is what makes each adaptation possible without getting lost in it.
 
@@ -370,6 +370,6 @@ Work with the myths. Not as belief, but as tool. Know which stage you are in. Kn
 
 *"The very cave you are afraid to enter turns out to be the source of what you were looking for."* — Joseph Campbell, *Reflections on the Art of Living* (compiled by Diane Osbon, 1991)
 
-*"We must be willing to let go of the life we planned so as to have the life that is waiting for us."* — Joseph Campbell
+*"We must let go of the life we have planned, so as to accept the one that is waiting for us."* — Joseph Campbell, *Reflections on the Art of Living* (1991)
 
 *"I am not what happened to me. I am what I choose to become."* — attributed to Carl Jung (no source in his writings)

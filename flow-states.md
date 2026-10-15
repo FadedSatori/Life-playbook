@@ -88,7 +88,7 @@ Flow is neurochemically expensive. After deep flow, recovery is mandatory. Witho
 
 ## The Mastery Connection
 
-Flow is the primary mechanism through which skill becomes mastery. Every hour in flow compresses the experience of ten hours of normal practice. The people who reach the top of any field are, in large part, the people who spent the most time in flow.
+Flow is the primary mechanism through which skill becomes mastery. There is no reliable multiplier (see Evidence Notes), but an hour in flow is an hour of full concentration at the edge of your ability. The people who reach the top of any field are, in large part, the people who spent the most time in flow.
 
 This is why environment, ritual, and recovery are not optional niceties. They are the architecture of becoming exceptional.
 
@@ -218,7 +218,7 @@ Use flow as a working model: design for clear goals, feedback, calibrated challe
 
 ## Group Flow and Shared Peak Performance
 
-Research by Csikszentmihalyi and, especially, Keith Sawyer (*Group Genius*, *Group Flow*) on improvising ensembles and teams describes group flow as one of the highest available human experiences — when a team, ensemble, or pair enters collective peak performance simultaneously. The output quality in group flow exceeds what any individual member could produce alone, and the experience itself is reported as profoundly meaningful.
+Research by Csikszentmihalyi and, especially, Keith Sawyer (*Group Genius*, 2007, which has a chapter on group flow) on improvising ensembles and teams describes group flow as one of the highest available human experiences — when a team, ensemble, or pair enters collective peak performance simultaneously. The output quality in group flow exceeds what any individual member could produce alone, and the experience itself is reported as profoundly meaningful.
 
 **Conditions that produce group flow:**
 

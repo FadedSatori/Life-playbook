@@ -183,6 +183,6 @@ The person in the middle of a genuine transformation cannot assess it objectivel
 
 *"The snake which cannot cast its skin has to die."* — Nietzsche
 
-*"We must be willing to let go of the life we planned so as to have the life that is waiting for us."* — Joseph Campbell
+*"We must let go of the life we have planned, so as to accept the one that is waiting for us."* — Joseph Campbell, *Reflections on the Art of Living* (1991)
 
-*"You are not the same as what you were yesterday. You are not who you think you are."* — attributed to Jordan Peterson (paraphrasing Piaget and Jung)
+*"You are not the same as what you were yesterday. You are not who you think you are."* — attributed to Jordan Peterson (unverified; no source found)
