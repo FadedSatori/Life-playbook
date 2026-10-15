@@ -68,7 +68,7 @@ American folkstyle, freestyle, or Greco-Roman wrestling. The takedown-and-contro
 
 ### Judo
 
-The Japanese takedown-and-throw art. Olympic sport. Developed by Kanō Jigorō as a refined extraction of effective judo techniques from traditional jiu-jitsu.
+The Japanese takedown-and-throw art. Olympic sport. Developed by Kanō Jigorō, who founded the Kodokan in 1882, as a refined extraction of effective techniques from traditional jujutsu.
 
 **What it develops:** Grip fighting, standing throws (hip throws, foot sweeps, shoulder throws), transition to ground control after the throw, ne-waza (ground technique — limited but significant overlap with BJJ).
 

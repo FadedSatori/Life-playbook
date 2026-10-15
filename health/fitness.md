@@ -81,7 +81,7 @@ Two cardio modes. Both are necessary. Neither replaces the other.
 
 **Measurement:** The MAF (Maximum Aerobic Function) formula: **180 minus your age** = your Zone 2 ceiling heart rate. Train at or below this number. If you're in poor condition, subtract an additional 5–10 bpm and build from there.
 
-**Target:** 150–180 minutes per week. This is the minimum for measurable longevity benefit in the research. Below this, you're getting some benefit but not optimizing. Above this produces additional benefit with diminishing returns.
+**Target:** 150–180 minutes per week, in line with the WHO's 150–300 minute weekly guideline for moderate activity. Benefit starts well below this — in Wen et al. (2011), about 15 minutes a day was linked to 14% lower mortality — so below it you're getting some benefit but not optimizing. Above it, returns diminish.
 
 **Modalities:** Walking (weighted or inclined), cycling, rowing, swimming, easy jogging. Whatever maintains the heart rate.
 

@@ -56,9 +56,9 @@ Muscle mass is one of the strongest predictors of longevity after 50. Sarcopenia
 Every longevity protocol fails without sleep. See [sleep.md](health/sleep.md) for the full protocol.
 
 **Longevity-specific mechanisms:**
-- **Glymphatic system activation:** During deep sleep (N3), the glymphatic system expands and flushes amyloid beta and tau proteins — the precursors of Alzheimer's plaques. Shokri-Kojori et al. (2018, NIH): one night without sleep raised amyloid beta about 5% in the hippocampus and thalamus in 20 people. Chronically insufficient sleep is among the strongest modifiable risk factors for Alzheimer's.
-- **Growth hormone release:** The majority of GH secretion occurs during the first slow-wave sleep cycles. Critical for cellular repair, muscle recovery, and metabolic health. Disrupting sleep structure (alcohol is the most common disruptor of slow-wave sleep) suppresses GH.
-- **Immune function:** In Irwin's studies, one night cut to about 4 hours reduced NK (natural killer) cell activity by roughly a quarter (to about 72% of baseline). NK cells are the primary defense against cancerous cell proliferation. Chronically short sleep (6 hours or less) is associated with dramatically elevated cancer risk.
+- **Glymphatic system activation:** During deep sleep (N3), the glymphatic system expands and flushes amyloid beta and tau — the proteins behind Alzheimer's plaques and tangles. Shokri-Kojori et al. (2018, NIH): one night without sleep raised amyloid beta about 5% in the hippocampus and thalamus in 20 people. Chronically short sleep is linked to higher dementia risk in observational studies, though the 2024 Lancet Commission judged the evidence too thin to put sleep on its core list of 14 modifiable risk factors.
+- **Growth hormone release:** The majority of GH secretion occurs during the first slow-wave sleep cycles. Critical for cellular repair, muscle recovery, and metabolic health. Disrupting sleep structure suppresses GH.
+- **Immune function:** In Irwin's studies, one night cut to about 4 hours reduced NK (natural killer) cell activity by roughly a quarter (to about 72% of baseline). NK cells are the primary defense against cancerous cell proliferation. Whether chronically short sleep raises cancer risk is unclear: a meta-analysis of 65 studies covering about 1.5 million people (Chen et al., 2018) found no overall association.
 - **Telomere maintenance:** Sleep deprivation accelerates telomere shortening — one of the molecular hallmarks of aging.
 
 7–9 hours is not optional. It is medicine.
@@ -67,7 +67,7 @@ Every longevity protocol fails without sleep. See [sleep.md](health/sleep.md) fo
 
 ## Metabolic Health — The Foundation
 
-**Insulin sensitivity** is the metabolic master variable. Poor insulin sensitivity is upstream of cardiovascular disease, cancer, neurodegeneration, and obesity. The alarming statistic: approximately 93% of American adults have at least one marker of metabolic dysfunction.
+**Insulin sensitivity** is the metabolic master variable. Poor insulin sensitivity is upstream of cardiovascular disease, cancer, neurodegeneration, and obesity. The alarming statistic: only about 12% of US adults had optimal levels across standard metabolic markers (Araújo et al., 2019), and only 6.8% had optimal cardiometabolic health in 2017–2018 (O'Hearn et al., 2022). Roughly 88–93% fall short somewhere.
 
 **What controls it:**
 - Exercise (the most powerful lever — muscle is the primary glucose sink; resistance training is particularly powerful)
@@ -100,10 +100,10 @@ Brief, controlled exposure to stressors that activate the body's adaptive respon
 - Laukkanen et al. (2015): 2,315 Finnish men followed a median of about 20 years; 4–7 sessions a week vs. once a week was associated with about 48% lower fatal coronary disease and about 40% lower all-cause mortality. Observational.
 - Mechanism: cardiovascular conditioning (heart rate reaches 120–150 bpm), heat shock protein activation (cellular cleanup and quality control), growth hormone release (post-sauna GH is 16x baseline in some studies)
 - Post-workout sauna extends the GH spike from training
-- Cognitive benefit: sauna use 4–7x/week reduces Alzheimer's and dementia risk by 65% (same Finnish cohort)
+- Cognitive benefit: in the same Finnish cohort, 4–7 sessions a week vs. once was associated with about 66% lower dementia and 65% lower Alzheimer's risk (Laukkanen et al., 2017; observational, men only)
 
 **Fasting:**
-- Time-restricted eating (16:8) — solid metabolic evidence with minimal downside for most healthy adults
+- Time-restricted eating (16:8) — modest, mixed evidence in human trials (no extra benefit over the same calorie cut in Liu et al., 2022); minimal downside for most healthy adults
 - Extended fasting (24–72 hours, 2–4x/year) — activates autophagy (cellular self-cleaning), mTOR suppression, metabolic reset; requires medical consideration if taking medications or with metabolic disease
 
 ---
@@ -133,7 +133,7 @@ The brain is not separate from the body. Every physical intervention above also 
 - **Social connection** → Holt-Lunstad's 2010 meta-analysis found weak social ties carry a mortality risk comparable to smoking (the "up to 15 cigarettes a day" comparison is an extrapolation popularized by the 2023 US Surgeon General advisory); social engagement is strongly protective against cognitive decline
 - **Cognitive challenge** → lifelong learning, novel skill acquisition, complex problem-solving delays neurodegeneration; "cognitive reserve" — the brain's redundancy built through learning — is protective against clinical manifestation even when pathology is present
 - **Omega-3 supplementation** → DHA is the primary structural fat of the brain; 2g EPA/DHA/day; brain volume is higher in regular consumers
-- **Sauna** → reduces dementia risk independently and synergistically with exercise
+- **Sauna** → associated with lower dementia risk in the Finnish cohort above (observational)
 - **Hearing protection** → in the 2024 Lancet Commission update, midlife hearing loss ties with high LDL cholesterol as the largest modifiable risk factor for dementia (about 7% each); use ear protection in loud environments
 
 ---
