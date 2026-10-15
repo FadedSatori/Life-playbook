@@ -23,7 +23,7 @@ Treat each technology as a tool with specific applications. Use the right tool f
 Not relaxation. Not spirituality. A training protocol for the attentional system and the default mode network.
 
 **What it actually does (neuroscience):**
-- Thickens the prefrontal cortex — the seat of executive function, decision-making, impulse control
+- Thickens the prefrontal cortex — the seat of executive function, decision-making, impulse control. *Caveat: this rests on small early studies (Lazar et al., 2005, comparing about 20 long-term meditators with non-meditators; Hölzel et al., 2011, 16 people after an 8-week course). A larger 2022 randomized trial (Kral et al., 218 people) found no structural brain changes from 8 weeks of training. Treat brain-structure claims as unsettled.*
 - Reduces amygdala reactivity — the threat response becomes proportional rather than hair-trigger
 - Strengthens meta-cognition — the ability to observe your own thoughts without being fused to them
 - Reduces default mode network over-activity — quiets the compulsive self-referential narrative
@@ -36,7 +36,7 @@ Not relaxation. Not spirituality. A training protocol for the attentional system
 
 The practice is not "not thinking." It is noticing you've drifted and returning. The difficulty is the workout. The effortlessness you eventually develop is the adaptation.
 
-**Minimum effective dose:** 20 minutes daily. Effects are measurable at 8 weeks. Structural changes at 6–12 months.
+**Minimum effective dose:** 20 minutes daily. Effects on stress and attention show up in trials of about 8 weeks; claims of structural brain change on any timeline are unsettled (see above).
 
 **Advanced protocols:**
 - **Open monitoring** — instead of focusing on breath, rest in open awareness. Notice everything arising without attaching to anything. Trains the witness state.
@@ -51,7 +51,7 @@ Breath is the only autonomic function you can voluntarily control — and throug
 
 **Box breathing (parasympathetic activation):**
 - 4 counts in → 4 hold → 4 out → 4 hold
-- 4 rounds = measurable heart rate reduction, cortisol decrease, prefrontal activation
+- 4 rounds is a common dose. Slow breathing like this tends to lower heart rate; claims of fast cortisol drops or "prefrontal activation" from a few rounds aren't established
 - Use: before high-stakes events, after triggers, to enter focus states
 - See [tactics/field.md](tactics/field.md) for deployment under pressure
 
@@ -62,14 +62,14 @@ Breath is the only autonomic function you can voluntarily control — and throug
 
 **Wim Hof / Cyclic hyperventilation (sympathetic activation + resilience training):**
 - 30 deep, rhythmic breaths → exhale and hold
-- Produces alkalinity, altered state, cold tolerance, immune activation
-- Research: measurable suppression of inflammatory response; increased cold exposure tolerance
+- Produces respiratory alkalosis, an adrenaline surge, and an altered state
+- Research: Kox et al. (2014) gave bacterial endotoxin to 24 men; the 12 trained in this breathing plus cold exposure and meditation had higher adrenaline, fewer flu-like symptoms, and a dampened inflammatory response. Small study; the effect is immune suppression, not "immune boosting"
 - Use: morning activation, resilience training, before cold exposure
 - *Caution: never in water, never while driving. Can cause brief loss of consciousness.*
 
 **Coherent breathing (heart rate variability optimization):**
 - 5.5 breaths per minute (approximately 5.5 seconds in, 5.5 seconds out)
-- Maximizes HRV — the single strongest predictor of cardiovascular health and stress resilience
+- Maximizes HRV in the moment (resonance breathing). HRV is a useful marker of autonomic recovery and stress resilience, but not the strongest predictor of cardiovascular health; cardiorespiratory fitness has a far better claim (see [longevity-protocols.md](longevity-protocols.md))
 - 20 minutes daily produces measurable HRV improvements in 4–6 weeks
 
 ---
@@ -108,6 +108,8 @@ Removing external sensory input forces the brain to process internal state. In t
 - Accelerated introspection — unresolved emotional material surfaces
 - Profound body awareness without visual input
 - Some report experiences analogous to meditation states requiring years of practice
+
+*Evidence check: the data are small. In Feinstein et al. (2018), a single 1-hour float reduced anxiety, stress, and depression in 50 people with anxiety-related disorders, but there was no control group. The theta, creativity, and insight claims rest on older, smaller studies and personal reports.*
 
 **Protocol:**
 - 60–90 minutes per session
