@@ -64,7 +64,7 @@ The Nine Noble Virtues were compiled by modern Ásatrú and Odinic Rite groups i
 
 ## Miyamoto Musashi — The Book of Five Rings (Japan, 1645)
 
-Written in a cave, shortly before Musashi's death, after 60 undefeated duels. One of the most ruthless strategists who ever lived.
+Written about a week before Musashi's death, while he gave away his possessions, after more than 60 duels he says he never lost (his own account). One of the most ruthless strategists who ever lived.
 
 - **Know the way broadly.** Master your craft at the deepest level, then let it inform everything else. The sword was his entry point to all of life.
 - **Do nothing that is useless.** Every action is either advancing you or not. There is no neutral ground.

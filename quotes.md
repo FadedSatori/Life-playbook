@@ -201,7 +201,7 @@ Failure as data, not verdict. The person who understands this reframes the entir
 ---
 
 > *"Under pressure, you don't rise to the occasion. You sink to the level of your training."*
-> — **Navy SEAL maxim**
+> — **Military training maxim**, often credited to the Navy SEALs (origin unverified; also misattributed to Archilochus)
 
 This is why protocol matters. The gap between what you intend and what you do under stress is exactly the gap your training has not closed.
 
@@ -374,7 +374,7 @@ Not as guilt — as urgency. The finite nature of time makes it the scarcest res
 ## On Relationships and Brotherhood
 
 > *"The most important things in life are the connections you make with others."*
-> — **Tom Ford**
+> — Attributed to **Tom Ford** (exact wording unverified)
 
 No achievement in any other domain substitutes for genuine belonging. Optimize accordingly.
 
