@@ -167,7 +167,7 @@ The power to move people carries obligation.
 - **Be the same in private and public.** Ethos is the sum of your conduct.
 - **Don't win at the cost of truth.** A debate victory over a falsehood you know is true is a loss of character.
 
-Cicero's ideal orator was *vir bonus dicendi peritus*, a good man skilled in speaking. The order matters.
+Cato the Elder defined the orator as *vir bonus dicendi peritus*, a good man skilled in speaking, and Quintilian made it the foundation of his teaching. The order matters.
 
 ---
 

@@ -76,7 +76,7 @@ Former FBI hostage negotiator Chris Voss in *Never Split the Difference*: the fo
 
 **Tactical empathy** is not sympathy or agreement. It is the accurate identification and explicit acknowledgment of what the other party is feeling. The effect: people who feel understood are less defensive, more willing to explore options, and more likely to reveal their actual interests. The mechanism is neurological — feeling understood activates different neural circuits than feeling attacked or dismissed.
 
-**Mirroring:** Repeat the last 2–3 words the counterpart said, with a slight upward inflection. This signals engagement, triggers the counterpart to keep talking, and often produces more information than any direct question would. Cost: almost zero. Yield: consistently high.
+**Mirroring:** Repeat the last one to three words the counterpart said, with a slight upward inflection. This signals engagement, triggers the counterpart to keep talking, and often produces more information than any direct question would. Cost: almost zero. Yield: consistently high.
 
 **Labeling:** Name the emotion you observe without certainty. "It seems like..." / "It sounds like..." / "It feels like you're concerned that..." The label invites confirmation or correction — either way, you learn more about their actual state. "It seems like this timeline feels impossible to you." "It sounds like you're not sure we understand what you've built here."
 
@@ -102,7 +102,7 @@ Voss identifies three vocal modes with distinct strategic applications:
 
 ## The No-Oriented Question
 
-Standard negotiation training focuses on generating yes. Voss's research argues for the opposite: "no" makes people feel safe, in control, and more willing to engage. A "no" is not rejection — it is the beginning of the real conversation.
+Standard negotiation training focuses on generating yes. Voss, drawing on his experience as an FBI hostage negotiator, argues for the opposite: "no" makes people feel safe, in control, and more willing to engage. A "no" is not rejection — it is the beginning of the real conversation.
 
 "No-oriented questions" are designed to get an initial "no" that opens the conversation:
 - "Would it be ridiculous to suggest...?"

@@ -38,7 +38,7 @@ Most entrepreneurs build the product first and figure out the business model lat
 
 Most entrepreneurs think about building the product. The better ones think equally about distribution — how the product reaches the people who need it.
 
-Peter Thiel's observation: "Poor distribution — not product — is the number one cause of startup failure." A product without a distribution channel is a product that doesn't exist for its potential customers. This is not a marketing problem — it is an existential business problem.
+Peter Thiel, in *Zero to One*: "Poor sales rather than bad product is the most common cause of failure." A product without a distribution channel is a product that doesn't exist for its potential customers. This is not a marketing problem — it is an existential business problem.
 
 **The distribution audit (answer before building):**
 - Who specifically will buy this first? Not "enterprise IT buyers" — a specific company, a specific title, a specific context.
@@ -78,7 +78,7 @@ Different phases require different skills, strategies, and mindset. Most failure
 **Phase 1 — Discovery (0 to first paying customers):**
 The question is not "how do I execute this plan?" — there is no validated plan. The question is "what is true about this market?" Everything is a hypothesis. Every action is an experiment. The skill required: tolerance for ambiguity, speed of learning, willingness to be wrong about things you were certain about.
 
-Primary tool: Customer development (Steve Blank / Eric Ries). Get out of the building. Talk to potential customers — not to sell them, but to understand their world.
+Primary tool: Customer development (Steve Blank's method, which Eric Ries built on in *The Lean Startup*). Get out of the building. Talk to potential customers — not to sell them, but to understand their world.
 
 **Phase 2 — Traction (first customers to repeatable growth):**
 Something is working. The question is: can you do it again, reliably? This is where process begins. The skill required: pattern recognition (what made the first customers work?), ability to say no to distractions that feel like opportunities.
@@ -170,7 +170,7 @@ Funding is a tool, not a goal. The startup mythology around raising money confla
 
 **Know what you're raising money for:** "To grow" is not an answer. The answer is: "We need $X to do Y specific things that will take us to Z outcome, which will make the business either fundable at a higher valuation or self-sustaining." Capital raised without a specific thesis for how it produces a step change in the business is capital spent inefficiently.
 
-**The dilution math:** Every funding round dilutes existing shareholders. A founder who raises three rounds, each with 20–25% dilution, owns roughly 30–50% of their original stake by the time they get to Series B. This is not bad — if the company grew enough to make the dilution worth it. The question is always: is the capital raising the value of the whole enough to make the smaller slice worth more than the larger slice would be without it?
+**The dilution math:** Every funding round dilutes existing shareholders. A founder who raises three rounds, each with 20–25% dilution, keeps roughly 40–50% of their original stake by the time they get to Series B. This is not bad — if the company grew enough to make the dilution worth it. The question is always: is the capital raising the value of the whole enough to make the smaller slice worth more than the larger slice would be without it?
 
 ---
 
@@ -180,7 +180,7 @@ Not every company is built to sell. Not every company is built to IPO. Knowing w
 
 **The three exits:** acquihire (the team, not the product, is the asset), acquisition (the product and/or market position are the asset), and the long game (building a durable, self-sustaining business that you own indefinitely and that generates real cash flow). Each requires a different strategy. An acquihire-optimized company looks very different from a cash-flow-optimized company.
 
-**The lifestyle vs. venture distinction:** A business that generates $500k/year in profit for its owner is a genuinely successful business. It will never be venture-backed, because venture requires 100x returns at scale. The failure to distinguish between "this is not venture-scale" and "this is not a good business" has caused more founder misery than almost any other confusion in the ecosystem.
+**The lifestyle vs. venture distinction:** A business that generates $500k/year in profit for its owner is a genuinely successful business. It will never be venture-backed, because venture investors need each bet to have a shot at an outsized outcome, one large enough to return their whole fund. The failure to distinguish between "this is not venture-scale" and "this is not a good business" has caused more founder misery than almost any other confusion in the ecosystem.
 
 **The mission as north star:** The companies that navigate the hardest phases — near-bankruptcy, key departures, product crises — are almost always the ones where the founder has a clear answer to "why are we building this, beyond the money?" Not a platitude. A specific, personal, credible answer. The mission is not marketing. It is the thing that keeps you going at 2am when the money is almost gone and three people just quit.
 
@@ -200,6 +200,6 @@ Most companies fail. Most founders face this. The question is not whether, but w
 
 **The reconstruction:** Most good founders start again. Before that, rebuild the self-concept around what you value and how you engage, not around the outcome of the company that failed. The founder whose identity was the company has no foundation for the next one. The founder who knows who they are independent of any specific outcome has everything they need to go again.
 
-*"The only way to survive as an entrepreneur is to embrace the possibility of failure completely and to not let that possibility change what you do."* — Jeff Bezos (paraphrase)
+*"The only way to survive as an entrepreneur is to embrace the possibility of failure completely and to not let that possibility change what you do."* — often attributed to Jeff Bezos (unverified)
 
-*"The secret to change is to focus all of your energy not on fighting the old, but on building the new."* — Socrates
+*"The secret to change is to focus all of your energy not on fighting the old, but on building the new."* — Dan Millman, *Way of the Peaceful Warrior* (spoken by a character nicknamed "Socrates")

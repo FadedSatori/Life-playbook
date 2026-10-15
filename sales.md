@@ -83,7 +83,7 @@ Deliver more than you promised. The compound effect of reliability is referrals,
 
 - **Reduce risk, not just add value.** Loss aversion (Kahneman and Tversky) means people weigh potential loss more heavily than equal gain. Guarantees, pilots, references, and clear scope reduce the felt risk of saying yes.
 - **Make the decision easy.** Fewer options, a clear recommendation, a simple next step. Choice overload stalls action.
-- **Trust precedes everything.** People buy from those they trust. Trust = credibility + reliability + intimacy (candor) − self-interest (Maister's trust equation). The fastest way to lower perceived self-interest is to be willing to tell a buyer when you are *not* the right fit.
+- **Trust precedes everything.** People buy from those they trust. The trust equation from *The Trusted Advisor* (Maister, Green, and Galford): Trust = (Credibility + Reliability + Intimacy) ÷ Self-orientation. Self-orientation divides everything else, so it is the most damaging term. The fastest way to lower perceived self-orientation is to be willing to tell a buyer when you are *not* the right fit.
 - **Cialdini's principles** (see [power-dynamics.md](power-dynamics.md)) are real forces. Use them honestly: genuine social proof, real scarcity, authentic reciprocity. Manufactured versions erode trust and invite regret, refunds, and reputation damage.
 
 ---

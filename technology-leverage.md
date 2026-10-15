@@ -98,7 +98,7 @@ The same tools that multiply capability can hollow out the person using them.
 
 **The rules of engagement:**
 1. **Tools on a schedule, not on a stream.** Batch email, messages, and news. Constant availability is a tax on [attention](attention.md).
-2. **No device in the first hour or last hour of the day.** These are the most suggestible hours. See [reality-engineering.md](reality-engineering.md).
+2. **No device in the first hour or last hour of the day.** The first hour sets the tone of the day; the last one shapes your sleep. See [reality-engineering.md](reality-engineering.md).
 3. **Consume less, create more.** The ratio of output to input is a health metric. If you are consuming ten times what you produce, you are a spectator of your own life.
 4. **Protect real-world presence.** Phone away during meals, conversations, and training. The people in front of you are the scarce resource. See [friendship.md](friendship.md).
 5. **Periodic fasts.** One day per week or one week per quarter with minimal screens recalibrates what normal feels like and exposes dependence you cannot see from inside it.

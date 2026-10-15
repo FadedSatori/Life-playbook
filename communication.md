@@ -6,7 +6,7 @@ The person who thinks clearly and expresses precisely has an advantage in every 
 
 ## Writing as Thinking
 
-"Writing is thinking. To write well is to think clearly. That's why it's so hard." — David McCullough
+"Writing is thinking. To write well is to think clearly. That's why it's so hard." — attributed to David McCullough
 
 The act of writing forces clarity. As long as an idea lives only in your mind, it can be vague, self-contradictory, and incompletely developed — without your knowing it. The moment you attempt to write it, the gaps appear. The muddiness you didn't know was there becomes visible. This is not failure. This is the diagnostic function of writing.
 
@@ -138,7 +138,7 @@ The person who can receive hard feedback cleanly — without defending, deflecti
 
 ## Nonverbal Communication
 
-**The Mehrabian finding** (Albert Mehrabian, 1960s): in the specific context of communicating feelings and attitudes, 7% of the message is words, 38% is tone, 55% is body language. This is widely misapplied as a universal rule. It applies to emotional and attitudinal messages, not to all communication. The principle that remains broadly true: **delivery shapes meaning** — often more than content.
+**The Mehrabian finding** (Albert Mehrabian, 1960s): in the specific context of communicating feelings and attitudes, 7% of the message is words, 38% is tone, 55% is facial expression — when the signals conflict. The studies used single words and photographs of faces. This is widely misapplied as a universal rule. It applies to emotional and attitudinal messages where words and delivery disagree, not to all communication. The principle that remains broadly true: **delivery shapes meaning** — often more than content.
 
 **Congruence** is the alignment between what you're saying and how you're saying it. Incongruence is the experience of watching someone say "I'm fine" while their jaw is tight and their eyes are flat. The words and the delivery are in conflict. People almost always trust the delivery over the words. They are correct to do so.
 

@@ -22,7 +22,7 @@ Wealth = Income − Spending + (Investments × Time × Returns)
 
 The three levers: income, spending, and the compounding factor. Most people try to pull only the income lever. The spending lever is faster to move and more reliable. The compounding factor is the multiplier that rewards both.
 
-**The savings rate is the variable that matters most early.** At a 5% savings rate, you need approximately 66 working years to retire. At a 50% savings rate, you need 17 years. At a 75% savings rate, 7 years. These numbers come from the math of financial independence, not from optimism — they follow directly from what your savings can replace in spending.
+**The savings rate is the variable that matters most early.** At a 5% savings rate, you need approximately 66 working years to retire. At a 50% savings rate, you need 17 years. At a 75% savings rate, 7 years (assuming about 5% real returns, a 4% withdrawal rate, and starting from zero). These numbers come from the math of financial independence, not from optimism — they follow directly from what your savings can replace in spending.
 
 **Net worth tracking:** Calculate once per month: (assets) − (liabilities) = net worth. Track the direction, not just the number. A rising number — even slowly — means the system is working. A flat or declining number with rising income means spending is consuming the gains. The number reveals what the story cannot.
 
@@ -44,13 +44,13 @@ Any debt above approximately 6–7% annualized interest rate should be paid off 
 **Debt payoff method:** Two approaches — the avalanche (pay off highest interest rate first: mathematically optimal) and the snowball (pay off smallest balance first: psychologically optimal). The avalanche saves more money. The snowball produces faster wins that sustain motivation. If you need motivation to continue, use the snowball. If your systems are solid, use the avalanche.
 
 **Step 4: Health Savings Account (HSA) — if available**
-The HSA is the most tax-advantaged account available in the US: contributions are pre-tax, growth is tax-free, and withdrawals for qualified medical expenses are tax-free. Triple tax advantage. After age 65, withdrawals for any purpose are taxed as ordinary income — making it effectively a second traditional IRA. Max it. Let the balance grow invested; pay current medical expenses out of pocket when possible to let the account compound.
+The HSA is the most tax-advantaged account available in the US: contributions are pre-tax, growth is tax-free, and withdrawals for qualified medical expenses are tax-free. Triple tax advantage. After age 65, withdrawals for any purpose are taxed as ordinary income — making it effectively a second traditional IRA. Max it: $4,400 self-only or $8,750 family coverage in 2026, plus $1,000 at age 55+. Let the balance grow invested; pay current medical expenses out of pocket when possible to let the account compound.
 
 **Step 5: Roth IRA (or Traditional IRA)**
-$7,000/year (2024 limit; increases with inflation). Roth contributions are post-tax; growth and qualified withdrawals are tax-free. See the Roth vs. Traditional decision framework below.
+$7,500/year in 2026, plus a $1,100 catch-up at age 50+ (limits rise with inflation; check each year). Roth contributions are post-tax; growth and qualified withdrawals are tax-free. See the Roth vs. Traditional decision framework below.
 
 **Step 6: Max the 401(k)**
-$23,000/year (2024 limit). Pre-tax contributions reduce current taxable income and grow tax-deferred. The compound interest runs on the pre-tax dollar — a meaningful advantage over time.
+$24,500/year in 2026, plus an $8,000 catch-up at 50+ ($11,250 at ages 60–63). Pre-tax contributions reduce current taxable income and grow tax-deferred. The compound interest runs on the pre-tax dollar — a meaningful advantage over time.
 
 **Step 7: Taxable brokerage account**
 Once tax-advantaged accounts are maxed, invest additional savings in a taxable brokerage account. Use the same index fund approach; be aware of tax-loss harvesting opportunities (selling positions at a loss to offset capital gains).
@@ -65,7 +65,7 @@ Once tax-advantaged accounts are maxed, invest additional savings in a taxable b
 - Index funds provide diversification, low cost (expense ratios of 0.03–0.10% vs. 0.5–1.5%+ for active funds), and tax efficiency
 
 **The three-fund portfolio:**
-1. **Total US stock market** (e.g., VTI): ownership of approximately 4,000 US companies across all market caps
+1. **Total US stock market** (e.g., VTI): ownership of roughly 3,500 US companies across all market caps
 2. **Total international stock market** (e.g., VXUS): ownership of international developed and emerging markets
 3. **Bond index** (e.g., BND): government and corporate bonds; stabilizes the portfolio and provides rebalancing opportunity
 
@@ -94,7 +94,7 @@ Selling a position at a loss to realize a capital loss, which offsets capital ga
 - REITs and other high-distribution assets belong in tax-advantaged accounts
 
 **Business structure:**
-If self-employed, a single-member LLC provides liability protection with minimal additional tax complexity. An S-Corp election (typically at ~$80k+ net self-employment income) can reduce self-employment tax by allowing reasonable salary + distribution structure. A solo 401(k) allows contributions up to $66,000/year (2024) as both employee and employer — far exceeding IRA limits. Consult a tax professional before implementing; the leverage is real.
+If self-employed, a single-member LLC provides liability protection with minimal additional tax complexity. An S-Corp election (typically at ~$80k+ net self-employment income) can reduce self-employment tax by allowing reasonable salary + distribution structure. A solo 401(k) allows combined employee and employer contributions up to $72,000/year in 2026 (more with catch-up contributions at 50+) — far exceeding IRA limits. Consult a tax professional before implementing; the leverage is real.
 
 ---
 
@@ -153,9 +153,9 @@ Pick the target that matches your life and [purpose](../purpose.md), not someone
 
 ## Net Worth Milestones
 
-A rough orientation, not a judgment. The multiples are of annual gross income, and they are rules of thumb from common retirement-planning guidance, with wide individual variation.
+A rough orientation, not a judgment. The multiples are of annual salary saved, from Fidelity's guidelines, which assume saving 15% of salary a year from age 25. Individual variation is wide.
 
-| Approximate age | Net worth target (investable) |
+| Approximate age | Retirement savings target (× salary) |
 |---|---|
 | 30 | ~1× annual income |
 | 40 | ~3× |
@@ -175,7 +175,7 @@ Once per year, alongside [routines/annual-review.md](../routines/annual-review.m
 2. **Savings rate:** (Income − spending) ÷ income. Target it up, not down.
 3. **Spending audit:** Top categories, subscriptions, and what produced real value versus what did not.
 4. **Allocation and rebalance:** Check against target; rebalance if drift exceeds your threshold.
-5. **Contributions:** Confirm automatic contributions are maxed to the limits you can afford. Note that contribution and income limits change annually; the figures cited earlier are 2024 and must be rechecked each year.
+5. **Contributions:** Confirm automatic contributions are maxed to the limits you can afford. Note that contribution and income limits change annually; the figures cited earlier are for 2026 and must be rechecked each year.
 6. **Insurance:** Does coverage still match your life? New dependents, a home, or a business change the need.
 7. **Beneficiaries:** Confirm designations on every retirement, brokerage, and insurance account. These override a will, and outdated ones cause real harm.
 8. **Income plan:** What is the plan to raise earnings this year? Raise, role change, negotiation, or a second stream. See [negotiation.md](../negotiation.md) and [wealth-building.md](../wealth-building.md).
