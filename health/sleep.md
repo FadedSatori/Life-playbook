@@ -6,7 +6,7 @@ Sleep is the highest-leverage health intervention available. Every other protoco
 
 ## Why It's the Priority
 
-During sleep, the brain clears metabolic waste via the glymphatic system — the same waste that accumulates in Alzheimer's pathology. Growth hormone is released in its largest daily pulse. Memory consolidates. Emotional processing occurs. Immune function runs maintenance. Muscle protein synthesis peaks.
+During sleep, the brain clears metabolic waste via the glymphatic system — the same waste that accumulates in Alzheimer's pathology. Growth hormone is released in its largest daily pulse. Memory consolidates. Emotional processing occurs. Immune function runs maintenance. Muscle repair and recovery run on the deep-sleep growth hormone pulse.
 
 There is no biohack, supplement, or protocol that compensates for chronic sleep deprivation. Everything else depends on this.
 
@@ -75,7 +75,7 @@ During REM:
 - Motor skill learning consolidation continues
 - Emotional regulation capacity is rebuilt for the next day
 
-REM is concentrated in the last third of the night. Cutting 8 hours to 6 hours removes approximately 50% of your total REM sleep — not 25% — because of the disproportionate distribution across the night.
+REM is concentrated in the last hours of the night. Cutting 8 hours to 6 hours cuts disproportionately into REM — the hours you lose are the REM-richest of the night.
 
 **SWS and REM are non-substitutable.** You cannot get extra SWS to compensate for missing REM, or vice versa. Both are necessary and serve categorically different functions.
 
@@ -122,9 +122,9 @@ Benzodiazepines and z-drugs (Ambien, Lunesta) sedate rather than produce natural
 
 ## The Glymphatic System: The Alzheimer's Prevention Mechanism
 
-In 2012, neuroscientist Maiken Nedergaard at the University of Rochester discovered the glymphatic system — a network of channels surrounding brain blood vessels through which cerebrospinal fluid flows to clear metabolic waste products from brain tissue. This was not known to exist in humans before this discovery.
+In 2012, neuroscientist Maiken Nedergaard at the University of Rochester discovered the glymphatic system — a network of channels surrounding brain blood vessels through which cerebrospinal fluid flows to clear metabolic waste products from brain tissue. It was first described in mice; human evidence has followed but is less direct.
 
-The glymphatic system runs primarily during sleep, and specifically during slow-wave sleep. During sleep, brain cells shrink by approximately 60%, creating larger gaps between cells that allow cerebrospinal fluid to flow more freely and clear waste at a rate roughly 2x faster than during wakefulness.
+The glymphatic system runs primarily during sleep, and specifically during slow-wave sleep. In mice, the space between brain cells grew by about 60% during sleep (Xie et al., 2013), allowing cerebrospinal fluid to flow more freely and clear waste roughly 2x faster than during wakefulness — a rate also measured in mice.
 
 **What it clears:** Among the key waste products cleared by the glymphatic system during sleep is amyloid beta — the protein fragment that forms the plaques characteristic of Alzheimer's disease. It also clears tau protein and other metabolic byproducts of the brain's activity during waking hours.
 
@@ -138,7 +138,7 @@ The glymphatic system runs primarily during sleep, and specifically during slow-
 
 ### Van Dongen's Research: The Impairment You Can't Feel
 
-Hans Van Dongen at Penn conducted the seminal sleep restriction study. Subjects restricted to 6 hours per night for 14 days showed cognitive impairment equivalent to two full nights of total sleep deprivation (24+ hours awake). Their subjective sleepiness ratings plateaued after a few days — they stopped feeling as sleepy as they actually were.
+Hans Van Dongen at Penn conducted the seminal sleep restriction study. Subjects restricted to 6 hours per night for 14 days showed cognitive impairment equivalent to two full nights of total sleep deprivation (48+ hours awake). Their subjective sleepiness ratings plateaued after a few days — they stopped feeling as sleepy as they actually were.
 
 This is the most dangerous aspect of sleep deprivation: **metacognitive blindness**. You do not feel as impaired as you are. The subjective sense of "feeling fine" decouples from actual cognitive performance. People on 6-hour nights consistently rate themselves as only slightly impaired while their measured reaction time, decision quality, and working memory performance are at a catastrophic level.
 
@@ -170,9 +170,9 @@ The fix is not discipline — it is structural. Close the gap between your biolo
 
 ## Sleep and Athletic Performance
 
-Matthew Walker's research on NBA and other professional athletes:
+What the research on athletes shows:
 
-- Injury rates are 1.7x higher on 6 hours of sleep vs. 8 hours
+- Milewski et al. (2014): adolescent athletes who slept under 8 hours had about 1.7 times the injury risk (self-reported sleep)
 - Reaction time, peak muscular strength, sprint speed, cardiovascular output, and lactate clearance all degrade measurably on restricted sleep
 - Cognitive errors in sport (wrong reads, poor decisions under pressure) increase significantly
 - **Testosterone:** One week of 5-hour nights reduces testosterone levels by 10–15% — equivalent to aging 10–15 years. Sleep is the primary driver of testosterone production; this is not a supplementation problem, it's a sleep problem.
@@ -239,7 +239,7 @@ Napping is not a sign of inadequate nighttime sleep when done correctly. It is a
 
 **Glycine (3g before bed):** One of the most evidence-backed sleep supplements. Glycine is an amino acid that reduces core body temperature by dilating blood vessels, supports SWS quality directly, and does not produce dependency. Research by Makoto Bannai showed glycine supplementation improved sleep quality in subjects with sleep complaints without altering sleep architecture negatively. 3g in water 30 minutes before bed.
 
-**Magnesium glycinate mechanism:** Magnesium is a cofactor in GABA synthesis (the brain's primary inhibitory neurotransmitter). GABA is what most sleep medications attempt to mimic pharmacologically. Magnesium supports endogenous GABA production and activity, producing relaxation without the sleep architecture disruption of pharmacological GABA agonists. The glycinate chelate form is superior for sleep specifically — higher bioavailability and the glycine component contributes additional sleep-promoting effects. 300–400mg 30–60 minutes before bed.
+**Magnesium glycinate mechanism:** Magnesium may support relaxation through its effects on GABA receptors (GABA is the brain's primary inhibitory neurotransmitter) and NMDA receptors — proposed mechanisms, with modest evidence. GABA is what most sleep medications attempt to mimic pharmacologically. The hoped-for upside is relaxation without the sleep architecture disruption of pharmacological GABA agonists. The glycinate chelate form is superior for sleep specifically — higher bioavailability and the glycine component contributes additional sleep-promoting effects. 300–400mg 30–60 minutes before bed.
 
 **Alcohol: the final word.** Alcohol impairs sleep architecture regardless of subjective feeling. No alcohol within 3 hours of sleep is the minimum. Zero is better on nights when recovery matters most.
 

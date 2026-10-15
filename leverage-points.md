@@ -19,7 +19,7 @@ Donella Meadows, a systems scientist and lead author of *The Limits to Growth*, 
 10. **Stock-and-flow structure.** The physical plumbing: roads, org structure, supply chains. Hard to change once built.
 9. **Delays.** Time lags relative to the rate of change. Systems oscillate when you react to delayed feedback as if it were instant.
 8. **Negative feedback loops.** The correcting mechanisms: thermostats, audits, immune systems. Strength matters relative to the thing being corrected.
-7. **Positive feedback loops.** Reinforcing growth or collapse: compounding, snowballing, vicious cycles. Slowing a runaway loop is usually more powerful than boosting a strong one.
+7. **Positive feedback loops.** Reinforcing growth or collapse: compounding, snowballing, vicious cycles. Slowing a runaway loop is usually more powerful than strengthening the loops that resist it.
 6. **Information flows.** Who has access to what information, and when. Adding a missing feedback to people who lack it is cheap and often transformative.
 5. **Rules.** Incentives, punishments, constraints. Whoever sets the rules holds great power.
 4. **Self-organization.** The power to add, change, or evolve the system's own structure. The source of adaptation and evolution.

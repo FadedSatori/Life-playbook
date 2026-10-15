@@ -55,7 +55,7 @@ Ranges below are commonly cited reference points. Labs and guidelines differ. Us
 ### Other routine blood markers
 - **Complete blood count and metabolic panel:** red and white cells, liver and kidney function, electrolytes.
 - **Ferritin and iron studies:** low ferritin can cause fatigue; high can signal inflammation or iron overload.
-- **Vitamin D (25-OH):** commonly, 30 ng/mL or above is considered sufficient by some bodies; others use 20. Don't megadose without testing.
+- **Vitamin D (25-OH):** commonly, 30 ng/mL or above is considered sufficient by some bodies; others use 20. The Endocrine Society's 2024 guideline withdrew its 30 ng/mL threshold and advises against routine testing in healthy adults. Don't megadose without testing.
 - **Thyroid (TSH, with free T4 if abnormal):** common cause of fatigue, weight, and mood changes.
 - **Testosterone (men, with symptoms):** total and free, morning and fasting sample, ideally repeated. Low levels often reflect sleep loss, excess body fat, alcohol, or illness. Treat causes first and involve a clinician before any therapy. See [masculinity.md](../masculinity.md) and [sexuality.md](../sexuality.md).
 - **B12 and folate,** particularly if you eat little animal food.

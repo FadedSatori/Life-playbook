@@ -31,12 +31,12 @@ Gloria Mark (UC Irvine) — the most important researcher you've never heard of 
 
 Mark spent years following knowledge workers in their natural habitat, measuring what they actually did versus what they thought they did. Her findings:
 
-- **After a digital interruption, it takes an average of 23 minutes and 15 seconds to return to the original task**
+- **After an interruption — any interruption, not only digital — it took people about 23 minutes on average to return to the original task**, and they often did other work in between
 - Workers are interrupted or self-interrupt every 3–5 minutes in a normal office environment
 - The more deeply absorbed a person is in a task, the longer the recovery time after interruption
 - After repeated interruptions, people *adapt* — by working faster, with higher self-reported stress, frustration, and effort, but no improvement in output quality
 
-The math: if you receive 15 significant interruptions in a workday, and each costs you 23 minutes of recovery time, you have consumed 345 minutes — nearly 6 hours — in recovery overhead alone. A "productive" 8-hour workday contains approximately 2 hours of actual deep work.
+The math: if you receive 15 significant interruptions in a workday, and each takes 23 minutes to get back from, that's up to 345 minutes — nearly 6 hours — before you're back on the original task. The 23 minutes isn't all dead time (people work on other things before returning), so treat this as an illustration of the upper bound, not a measurement. The point stands: a "productive" 8-hour workday can hold far less deep work than it appears to.
 
 This is not a discipline failure. It is an environmental mismatch. Your attention architecture was built for a world that no longer exists. You are running prehistoric hardware in a context designed to exploit its vulnerabilities.
 
@@ -108,7 +108,7 @@ The hypothesis: voluntary (directed) attention — the System 2 attention we dep
 **The implications:**
 - Schedule genuine downtime — not productive leisure, not passive entertainment. Walk in a natural environment, sit outside, do something physically absorbing with no cognitive output requirement.
 - The recovery period is not optional. Directed attention is the mechanism; restoration is maintenance.
-- A 20-minute walk in a natural environment measurably restores directed attention capacity (Kaplan studies). The walk in the city does not produce the same effect.
+- Berman, Jonides & Kaplan (2008): a walk of about 50 minutes in an arboretum improved directed-attention performance compared with an urban walk.
 
 ---
 
@@ -220,7 +220,7 @@ If your peer group operates at an average of 2 hours of genuine focused work per
 This is why the training matters. Not for any single day's productivity — but because the person you are building through daily attention practice is compounding over years. The attention you protect today is not just today's output. It is the edge that accumulates into mastery.
 
 *"The successful warrior is the average man, with laser-like focus."*
-— Bruce Lee
+— attributed to Bruce Lee (no primary source)
 
 ---
 

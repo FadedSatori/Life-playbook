@@ -46,11 +46,11 @@ The striking art that adds the full weapons arsenal: elbows, knees, kicks, and c
 
 ### Brazilian Jiu-Jitsu (BJJ)
 
-The submission grappling art. Developed from Kodokan Judo via Mitsuyo Maeda and the Gracie family in Brazil across the 20th century, stress-tested in no-rules fights and ultimately proven globally via Royce Gracie's performance in UFC 1–4.
+The submission grappling art. Developed from Kodokan Judo via Mitsuyo Maeda and the Gracie family in Brazil across the 20th century, stress-tested in no-rules fights and ultimately proven globally via Royce Gracie's performance in the early UFC — he won UFC 1, 2 and 4, and withdrew from UFC 3.
 
 **What it develops:** Control of the body on the ground — positional hierarchy (mount, back, guard, side control), the submission game (joint locks and chokes), the ability to survive and escape from inferior positions, the ability to force inferior positions onto opponents.
 
-**Why it is mandatory for the complete martial artist:** Most real fights end up on the ground. Most people have no training for that context. BJJ training produces people who are comfortable, functional, and dangerous in the position most fighters dread. The psychological effect: being taken down is no longer a disaster. It's a familiar environment.
+**Why it is mandatory for the complete martial artist:** Many fights, especially when someone grabs or tackles, end up on the ground. Most people have no training for that context. BJJ training produces people who are comfortable, functional, and dangerous in the position most fighters dread. The psychological effect: being taken down is no longer a disaster. It's a familiar environment.
 
 **The other argument:** BJJ training is contact-intensive from day one. You roll (spar) constantly, against resisting partners, in close physical contact. There is no theory without practice. The tap-out system (submitting before the joint breaks or the choke puts you to sleep) makes it safe enough to train hard. Regular rolling is the most accessible form of live, genuinely resisting sparring available to most people.
 

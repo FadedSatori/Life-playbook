@@ -17,6 +17,8 @@ Skills are the currency of capability. Every significant skill you build compoun
 
 Anders Ericsson's decades of research on expertise produced one central finding: expert performance is not primarily the product of talent, IQ, or passion. It is the product of deliberate practice — a specific type of practice with specific characteristics.
 
+Deliberate practice matters, but it is not the whole story. A 2014 meta-analysis (Macnamara et al.) found it explained about 26% of performance differences in games, 21% in music, 18% in sports, 4% in education and under 1% in professions.
+
 **The characteristics of deliberate practice:**
 
 1. **Working at the edge of current ability** — not in the comfort zone (too easy, no growth) and not beyond the ability zone (too hard, overwhelmed). At the outer edge — difficult enough to require full concentration and produce errors.
@@ -26,9 +28,9 @@ Anders Ericsson's decades of research on expertise produced one central finding:
 
 **What deliberate practice is not:**
 - **Naive practice:** doing the same thing you've always done, hoping to get better through repetition. Most people's "practice" is naive practice. It maintains performance but does not improve it.
-- **Purposeful practice:** Hard, specific, effortful — but without systematic feedback or coaching. Better than naive; still missing the mechanism.
+- **Purposeful practice:** Hard, specific, effortful, with feedback — but without what deliberate practice adds: an established field and an expert teacher who designs the training. Better than naive; still missing the mechanism.
 
-**The 10,000-hour clarification:** Ericsson's research was widely misinterpreted as "10,000 hours of doing something makes you an expert." The actual finding: 10,000 hours of *deliberate practice* — not just doing, not just time on task — is associated with expert performance in specific fields. The hours are necessary but the type of practice within those hours is what actually drives performance.
+**The 10,000-hour clarification:** Ericsson's research was widely misinterpreted as "10,000 hours of doing something makes you an expert" — Malcolm Gladwell popularized it as a rule. The actual finding: 10,000 hours was roughly the average practice time accumulated by the best violinists by age 20 in Ericsson's study. An average, not a threshold. The hours matter, but the type of practice within those hours is what actually drives performance.
 
 ---
 
@@ -91,7 +93,7 @@ John Sweller's cognitive load theory explains why expert instruction often fails
 Learning is not linear. Knowing the shape of the curve prevents premature abandonment and false peaks.
 
 **The typical learning curve:**
-1. **Initial rapid improvement** — the first 20 hours (Kaufman's research). Moving from zero to functional competence is fast because any improvement represents a large percentage gain from baseline.
+1. **Initial rapid improvement** — the first 20 hours (the claim of Josh Kaufman's popular book *The First 20 Hours*, not research). Moving from zero to functional competence is fast because any improvement represents a large percentage gain from baseline.
 2. **First plateau** — the beginner's plateau. Progress slows because the early gains were from eliminating the most basic errors. The next level requires addressing subtler deficiencies.
 3. **Intermediate valley** — the most dangerous phase. Enough knowledge to be frustrated by inadequacy, not enough to feel competent. Most people quit here. This is where the constraint identification method applies.
 4. **Reorganization** — after a period of deliberate focused practice on the constraint, performance sometimes drops before it improves. The new pattern is being integrated; old patterns are being overwritten. Trust the process.
@@ -125,7 +127,7 @@ Options for feedback: a coach or mentor, video review, direct performance data (
 
 ### Step 4: Practice at the Edge
 
-The optimal difficulty zone: hard enough that you fail regularly (30–50% of attempts), but within range enough that you understand why you failed and can adjust. Below this zone, you're maintaining. Above it, you're demoralized without learning.
+The optimal difficulty zone: hard enough that you fail regularly, but within range enough that you understand why you failed and can adjust. Below this zone, you're maintaining. Above it, you're demoralized without learning. As a rough guide, a modeling study (Wilson et al., 2019) put the ideal error rate for learning near 15% — the "85% rule."
 
 If a practice session feels entirely comfortable, increase the difficulty. If it feels entirely out of reach, break it into a smaller sub-skill and attack that first.
 
@@ -176,7 +178,7 @@ A learning sprint is a structured period of intensive skill development with def
 
 Skills decay at different rates depending on type:
 
-**Motor skills** (writing, playing an instrument, martial arts, sport mechanics) — decay slowly. Research on the "reminiscence effect" suggests motor patterns encoded in procedural memory survive months or years without practice. They return quickly once practice resumes.
+**Motor skills** (writing, playing an instrument, martial arts, sport mechanics) — decay slowly. Research suggests motor patterns encoded in procedural memory survive months or years without practice. They return quickly once practice resumes.
 
 **Cognitive skills** (programming language syntax, mathematical procedures, language vocabulary) — decay faster, particularly declarative knowledge. The spacing effect is more critical here.
 

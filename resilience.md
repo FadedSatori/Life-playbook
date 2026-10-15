@@ -170,7 +170,7 @@ See [Transformation Science](transformation-science.md) for the neurological and
 
 Three traditions, three frameworks. Each true. Each incomplete without the others.
 
-**The Stoic frame:** What happens to you is not in your control. Your response is. Adversity is neither good nor bad — it is material. The Stoics called this *amor fati* — love of fate: not resigned acceptance but active embrace of what is, because what is is what you have to work with. Marcus Aurelius, Epictetus (a slave), and Seneca each faced significant external difficulty. Their resilience was not denial. It was the consistent practice of directing attention toward what was actionable and releasing attachment to what was not. Read [Stoic Practice](stoic-practice.md).
+**The Stoic frame:** What happens to you is not in your control. Your response is. Adversity is neither good nor bad — it is material. The phrase *amor fati* — love of fate — is Nietzsche's (*The Gay Science*, 1882), but the attitude has Stoic roots in Epictetus and Marcus Aurelius: not resigned acceptance but active embrace of what is, because what is is what you have to work with. Marcus Aurelius, Epictetus (a slave), and Seneca each faced significant external difficulty. Their resilience was not denial. It was the consistent practice of directing attention toward what was actionable and releasing attachment to what was not. Read [Stoic Practice](stoic-practice.md).
 
 **The Japanese frame — Wabi-Sabi and Kintsugi:** *Wabi-sabi* is the Japanese aesthetic of imperfection and transience — finding beauty not despite impermanence and incompleteness but within it. The broken thing is more beautiful for its history than the pristine thing that has not yet lived.
 

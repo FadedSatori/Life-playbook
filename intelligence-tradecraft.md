@@ -84,7 +84,7 @@ His method, ACH, forces you to fight it:
 - **"What would have to be true?"** For a claim you doubt, ask what the world would look like if it were true, then check those implications.
 - **Outside view / base rates:** Before the details of your case, ask how cases like this typically turn out. See [mental-models/probabilistic-thinking.md](mental-models/probabilistic-thinking.md).
 - **Separate facts, inferences, and assumptions.** Label each. Most "facts" in conversation are inferences.
-- **Estimative language:** Use calibrated words and numbers. "Likely" should mean something specific to you and your readers (roughly 65–80%), not a mood.
+- **Estimative language:** Use calibrated words and numbers. "Likely" should mean something specific to you and your readers (the US intelligence standard, ICD 203, defines it as 55–80%), not a mood.
 - **Chronology and link analysis:** Lay events in order; map who is connected to whom and how. Patterns that are invisible in prose appear on a timeline or diagram.
 
 ---

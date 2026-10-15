@@ -42,7 +42,7 @@ The reference class is the category of situations relevantly similar to this one
 
 **The error without base rates:** you are asked to estimate the probability that a new restaurant will succeed. You know the chef is talented, the location is good, the concept is fresh. This inside-view information feels compelling. Your estimate: 70%.
 
-**The correction with base rates:** approximately 60% of restaurants fail in the first year. Approximately 80% fail within five years. Your talented chef in a good location is not typical of the average restaurant — but the base rate anchors you to reality before the inside view inflates your estimate. A more calibrated estimate: 40–50%, with uncertainty.
+**The correction with base rates:** one study of Columbus, Ohio restaurants (Parsa et al., 2005) found about 26% closed in their first year and about 60% within three years. (The often-quoted 90% failure figure is a myth.) Your talented chef in a good location is not typical of the average restaurant — but the base rate anchors you to reality before the inside view inflates your estimate. A more calibrated estimate: 40–50%, with uncertainty.
 
 The inside-view information matters. But it is a *modifier* on the base rate, not a replacement for it. People systematically ignore base rates in favor of inside-view information, which produces consistent overoptimism about new ventures, relationships, interventions, and plans.
 
@@ -151,7 +151,7 @@ Nassim Taleb's contribution: the events that matter most are often outside the n
 
 **The Gaussian assumption:** most probabilistic modeling assumes a normal distribution, where extreme outcomes become exponentially rare. For many natural phenomena, this is accurate. For financial markets, geopolitical events, technological breakthroughs, pandemics, and individual life trajectories, it is catastrophically wrong.
 
-**Fat tails:** in distributions with fat tails, extreme events occur far more frequently than the normal distribution predicts. The tails are "fat" — there is more probability mass in the extremes. The 2008 financial crisis, COVID-19, the invention of the internet, the fall of the Soviet Union — these are all events that conventional probabilistic models assigned near-zero probability and that fundamentally altered the landscape.
+**Fat tails:** in distributions with fat tails, extreme events occur far more frequently than the normal distribution predicts. The tails are "fat" — there is more probability mass in the extremes. The 2008 financial crisis, the invention of the internet, the fall of the Soviet Union — these are all events that conventional probabilistic models assigned near-zero probability and that fundamentally altered the landscape.
 
 **The practical implication:** conventional probability thinking systematically underestimates the likelihood of extreme events. This has two consequences:
 

@@ -8,7 +8,7 @@ Not resilience — resilience bounces back to the same state. Antifragility *get
 
 ## The Full Taxonomy: Four States, Not Three
 
-Most presentations of Taleb's framework give you three states. The full picture has four — and the difference between resilient and antifragile is where most people stop short.
+Taleb's own triad is fragile, robust, antifragile — he groups resilience with robustness. This playbook extends his triad to four states, splitting resilience out, because the difference between resilient and antifragile is where most people stop short.
 
 | State | Response to stress | Example | The trap |
 |-------|--------------------|---------|----------|
@@ -17,7 +17,7 @@ Most presentations of Taleb's framework give you three states. The full picture 
 | **Resilient** | Returns to baseline after shock, absorbs damage | Good immune system, antifragile communities | A step beyond robust — recovery, not just resistance |
 | **Antifragile** | Gets stronger from shock | Muscles, immune systems exposed to pathogens, great artists, cities | The actual target |
 
-The crucial insight: most personal development advice is aimed at making you robust. "Handle adversity better." "Be more resilient." That's level two. The target is level four — the architecture where volatility, stress, and disorder are not enemies to minimize but fuels to harness.
+The crucial insight: most personal development advice is aimed at making you robust. "Handle adversity better." "Be more resilient." That's levels two and three. The target is level four — the architecture where volatility, stress, and disorder are not enemies to minimize but fuels to harness.
 
 The difference between robust and antifragile: the robust person survives the storm unchanged. The antifragile person emerges from the storm with a higher ceiling. One absorbs. The other metabolizes.
 
@@ -73,7 +73,7 @@ Hormesis is the biological principle that small doses of stressors produce benef
 
 **Biological examples:**
 - **Exercise:** Lifting a weight creates microtrauma in the muscle fiber. The repair process overcompensates, building the fiber thicker than it was. Zero stress = atrophy. Appropriate stress = growth. Too much stress = injury.
-- **Fasting:** Short fasting periods (16–24 hours) activate autophagy — the cellular clean-up process — upregulate BDNF, improve insulin sensitivity, and reduce systemic inflammation. Extended starvation causes catabolism and damage. The dose is everything.
+- **Fasting:** Short fasting periods (16–24 hours) activate autophagy — the cellular clean-up process — upregulate BDNF, improve insulin sensitivity, and reduce systemic inflammation. The autophagy and BDNF evidence comes mostly from animal studies; human evidence is thin. Extended starvation causes catabolism and damage. The dose is everything.
 - **Cold exposure:** Brief cold exposure (cold shower, ice bath, 2–10 minutes) triggers norepinephrine release, increases brown fat activation, improves cardiovascular function, and sharpens mood. Hypothermia kills. The gap between therapeutic and harmful is managed by duration and temperature.
 - **Sunlight:** Appropriate UV exposure activates vitamin D synthesis, improves circadian regulation, elevates serotonin. Chronic overexposure causes skin damage. The dose determines the outcome.
 - **Pathogens and the immune system:** An immune system that has never been challenged by pathogens is underdeveloped. The hygiene hypothesis: children raised in excessively sterile environments have higher rates of allergy and autoimmunity precisely because the immune system was not trained by low-level exposure.
@@ -165,7 +165,7 @@ Antifragility has one absolute override: never expose yourself to catastrophic, 
 **Why expected value calculations break down at the tails:**
 - Expected value assumes you can average outcomes across many trials. If a bet has a 1% chance of killing you and a 99% chance of doubling your wealth, the expected value calculation says: take the bet. But you only have one life. You cannot average the outcome across 100 trials of your existence. The tail event that kills you is not recoverable.
 - At the tails, you are not averaging outcomes — you are selecting among paths. One of those paths is irrecoverable. The mathematical expectation is irrelevant when the downside is ruin.
-- Taleb: "For a sequence of bets, you must survive to play the next round. Ruin removes you from the sequence."
+- Taleb, paraphrased: for a sequence of bets, you must survive to play the next round. Ruin removes you from the sequence.
 
 **What constitutes ruin:**
 - Financial ruin: debt that cannot be serviced without selling essential assets; total loss of capital reserves that would eliminate recovery capacity
@@ -264,7 +264,7 @@ Antifragility is not only a personal philosophy. It is a systems property that e
 
 **Why cities are antifragile:** Cities have survived fires, plagues, bombing, floods, and economic collapse — and have, in many cases, emerged larger and more vital afterward. The reason: cities have redundant structure, heterogeneous populations, dense economic connectivity, and the ability to rebuild with better knowledge than before. London was devastated by plague and fire in the 17th century. Both events produced urban reorganization that made the city more functional. The diversity of a city's population, economy, and physical structure is its antifragility.
 
-**Silicon Valley's failure culture:** The concentration of venture-backed startups that fail at rates exceeding 90% produces, at the ecosystem level, an extraordinary rate of innovation. Individual failures are information that gets recycled — failed founders return as investors or join other companies carrying the lessons of failure. Failed companies release talent that recombines into new ventures. The ecosystem is antifragile precisely because failure is survivable for individuals and productive for the system. Compare to the Japanese keiretsu model, where failure is catastrophic and prevented by mutual support — the result is less dynamism and less innovation.
+**Silicon Valley's failure culture:** The concentration of venture-backed startups — Shikhar Ghosh found about 75% never return cash to investors — produces, at the ecosystem level, an extraordinary rate of innovation. Individual failures are information that gets recycled — failed founders return as investors or join other companies carrying the lessons of failure. Failed companies release talent that recombines into new ventures. The ecosystem is antifragile precisely because failure is survivable for individuals and productive for the system. Compare to the Japanese keiretsu model, where failure is catastrophic and prevented by mutual support — the result is less dynamism and less innovation.
 
 **The immune system as the model:** The immune system is the clearest biological illustration of antifragility. It learns from each pathogen encounter. It builds specific antibodies. After a sufficient history of challenges, it is vastly more capable than a naive system. An immune system that has never been challenged is weak — this is the autoimmunity epidemic in sterile modern environments. The immune system requires challenge to develop. The same is true of psychological resilience, social cohesion, and intellectual rigor.
 
