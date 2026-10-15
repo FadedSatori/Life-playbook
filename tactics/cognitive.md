@@ -17,7 +17,7 @@ Most adults default to spotlight almost exclusively and treat lantern as distrac
 
 **The failure mode:** spending 8 hours in spotlight mode and calling the result "deep work" when you've actually been in shallow-focus task-switching the whole time.
 
-**Deliberate mode-switching protocol:** Schedule lantern time explicitly — walks without headphones, shower thinking, sitting with a problem without engaging with it directly. The brain doesn't create connections on demand; it creates them when you step back from demand. See also: [flow-states.md](flow-states.md) and the incubation mechanism below.
+**Deliberate mode-switching protocol:** Schedule lantern time explicitly — walks without headphones, shower thinking, sitting with a problem without engaging with it directly. The brain doesn't create connections on demand; it creates them when you step back from demand. See also: [flow-states.md](../flow-states.md) and the incubation mechanism below.
 
 ### Controlled vs. Automatic Attention
 
@@ -90,7 +90,7 @@ Peretz Lavie and Nathaniel Kleitman: the brain operates on approximately 90-minu
 
 ### Entering Flow Deliberately
 
-Mihaly Csikszentmihalyi's flow conditions: challenge slightly exceeds skill, clear goals and immediate feedback, full absorption. Flow is not a gift — it's an architecture problem. See [flow-states.md](flow-states.md) for the full protocol.
+Mihaly Csikszentmihalyi's flow conditions: challenge slightly exceeds skill, clear goals and immediate feedback, full absorption. Flow is not a gift — it's an architecture problem. See [flow-states.md](../flow-states.md) for the full protocol.
 
 Critical preconditions:
 1. **Eliminate interruption vectors** before starting — not during. Once you're in, any disruption restarts the entry process.
