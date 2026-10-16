@@ -119,7 +119,7 @@ Modern longevity science (Lopez-Otin et al.) identifies 12 hallmarks of aging �
 - **Cellular senescence** — exercise and fasting both stimulate clearance of senescent cells (zombie cells that drive inflammation)
 - **Chronic inflammation** — addressed by diet quality, sleep, exercise, and stress management; the common pathway through which most longevity-shortening behaviors cause damage
 
-The Morgan Levine biological age clock ("Phenotypic Age"): a blood test (phenoAge) estimates biological age from inflammatory and metabolic markers. People who follow longevity protocols consistently run 5–15 years biologically younger than their chronological age.
+Morgan Levine's "Phenotypic Age" (PhenoAge, 2018) estimates biological age from routine blood markers, and a higher PhenoAge relative to your calendar age has been linked to higher mortality risk. Whether lifestyle changes lower it, and by how much, is not well established, so treat it as a rough indicator, not a score to chase.
 
 ---
 
@@ -151,7 +151,7 @@ Evidence-based supplementation — not optimization theater. These have the stro
 **Evidence B (moderate, growing):**
 - Creatine for brain (growing evidence for cognitive benefit at standard doses)
 - Berberine: 500mg with meals. Insulin sensitization; mechanism similar to metformin.
-- Collagen + Vitamin C: joint health, skin, tendon integrity. 15–20g collagen with 1g Vitamin C prior to loading exercise.
+- Collagen + Vitamin C: joint health, skin, tendon integrity. One small study (Shaw et al., 2017) found that 15g of gelatin with about 50mg of vitamin C, taken an hour before exercise, increased a marker of collagen synthesis. The evidence for real joint or tendon benefits is early.
 - Coenzyme Q10: 100–200mg. Mitochondrial function; particularly relevant for those on statins.
 
 **NMN/NAD+ precursors:** Growing evidence for metabolic and longevity benefits; cost vs. benefit still being established. Rhonda Patrick and David Sinclair supplement; Peter Attia is more skeptical. Monitor the research.

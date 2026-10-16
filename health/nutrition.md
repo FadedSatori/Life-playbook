@@ -26,7 +26,7 @@ Most chronic disease in the developed world — Type 2 diabetes, cardiovascular 
 - High-fiber foods (slow glucose absorption)
 - Adequate sleep (one night of poor sleep measurably impairs insulin sensitivity)
 
-**The inflammatory pathway:** Chronic low-grade inflammation is the common mechanism through which poor nutrition damages every system — cardiovascular, neurological, immune, hormonal. The most inflammatory nutritional factors: refined seed oils (omega-6 excess), refined carbohydrates, ultra-processed food, and excess added sugar. The most anti-inflammatory: fatty fish, olive oil, colorful vegetables, fermented foods, and fiber. The diet that reduces inflammation is not exotic. It is the diet closest to what food was before the 20th century.
+**The inflammatory pathway:** Chronic low-grade inflammation is the common mechanism through which poor nutrition damages every system — cardiovascular, neurological, immune, hormonal. The nutritional factors most consistently linked to inflammation and poor health: ultra-processed food, refined carbohydrates, and excess added sugar. (Seed oils are often added to this list, but trials of omega-6 intake have not shown it raising inflammatory markers; the case against them is weaker than the case against ultra-processed food.) The most anti-inflammatory: fatty fish, olive oil, colorful vegetables, fermented foods, and fiber. The diet that reduces inflammation is not exotic. It is the diet closest to what food was before the 20th century.
 
 See [longevity-protocols.md](../longevity-protocols.md) for the full metabolic health framework.
 
@@ -67,11 +67,11 @@ Carbohydrates are not the enemy. Their quality, quantity, and timing determine t
 
 Dietary fat is not the cause of cardiovascular disease (the research that proposed this was oversimplified, and the sugar industry funded a 1967 review that downplayed sugar's role — Kearns et al., 2016). Fat is a structural component of cell membranes, the substrate for steroid hormones including testosterone and cortisol, the carrier for fat-soluble vitamins (A, D, E, K), and a primary energy source for many tissues.
 
-**The omega-6 / omega-3 balance:** The ancestral human ratio of omega-6 to omega-3 fatty acids is estimated at around 1:1 (some estimates run up to 4:1). Modern Western diets run roughly 15–17:1. The imbalance is pro-inflammatory. The primary driver: ubiquitous refined seed oils (canola, corn, soybean, sunflower) in all processed food. Correction: increase omega-3 intake (fatty fish, walnuts, flaxseed, quality supplements) and reduce omega-6 from refined oils.
+**The omega-6 / omega-3 balance:** The ancestral human ratio of omega-6 to omega-3 fatty acids is estimated at around 1:1 (some estimates run up to 4:1). Modern Western diets run roughly 15–17:1. Whether the ratio itself matters is debated: the American Heart Association advises that omega-6 intake is associated with lower cardiovascular risk, and controlled trials haven't shown omega-6 raising inflammation. The practical, safe move is the same either way: eat more omega-3 (fatty fish, walnuts, flaxseed) and less ultra-processed food, where refined oils mostly live.
 
 **Saturated fat:** The evidence is more nuanced than the 1980s guidelines suggested. Replacing saturated fat with refined carbohydrates (what actually happened during the low-fat era) increased cardiovascular disease rates. Context matters: saturated fat in whole food sources (beef, eggs, full-fat dairy) behaves differently than saturated fat in ultra-processed food. Red-line: trans fats are unambiguously harmful — avoid all hydrogenated oils.
 
-**Practical fat strategy:** Prioritize olive oil, fatty fish, avocado, eggs, nuts, and quality animal fats. Avoid seed oils in cooking (heat oxidizes them to harmful compounds); use butter, ghee, or coconut oil for high-heat cooking.
+**Practical fat strategy:** Prioritize olive oil, fatty fish, avocado, eggs, nuts, and quality animal fats. For cooking, olive oil and avocado oil are good all-rounders. Butter, ghee, and coconut oil are high in saturated fat, which raises LDL cholesterol, so use them in moderation; other vegetable oils are reasonable choices if you aren't heating them to smoking or reusing them repeatedly.
 
 ---
 

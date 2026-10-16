@@ -100,7 +100,7 @@ The most widely underestimated sleep disruptor. Alcohol is a sedative, not a sle
 ### Sleep Aids (Ambien/Zolpidem Class)
 Benzodiazepines and z-drugs (Ambien, Lunesta) sedate rather than produce natural sleep. The distinction is neurologically significant:
 - Sedation-induced unconsciousness lacks the brain wave signatures of natural sleep stages
-- These drugs suppress both SWS and REM — you are unconscious but not truly sleeping in the biological sense
+- Sedative-hypnotics can change sleep architecture, including reducing REM or slow-wave sleep, depending on the drug. They do produce sleep, but not necessarily restorative sleep. Talk to a doctor before starting or stopping them
 - The memory consolidation and emotional processing functions do not occur at normal efficiency
 - Dependency develops quickly; rebound insomnia on cessation reinforces dependency
 - For genuine insomnia, CBT-I (Cognitive Behavioral Therapy for Insomnia) has superior long-term outcomes to pharmacological intervention and is the recommended first-line treatment
@@ -175,7 +175,7 @@ What the research on athletes shows:
 - Milewski et al. (2014): adolescent athletes who slept under 8 hours had about 1.7 times the injury risk (self-reported sleep)
 - Reaction time, peak muscular strength, sprint speed, cardiovascular output, and lactate clearance all degrade measurably on restricted sleep
 - Cognitive errors in sport (wrong reads, poor decisions under pressure) increase significantly
-- **Testosterone:** One week of 5-hour nights reduces testosterone levels by 10–15% — equivalent to aging 10–15 years. Sleep is the primary driver of testosterone production; this is not a supplementation problem, it's a sleep problem.
+- **Testosterone:** One week of 5-hour nights reduces testosterone levels by 10–15% — equivalent to aging 10–15 years. (That result comes from a small study of 10 young men.) Sleep is one of the major influences on testosterone, along with body fat, illness, and age. If yours is low and your sleep is poor, fix the sleep first and see a doctor before considering supplements.
 - **Cardiovascular health:** Insufficient sleep (under 6 hours) is associated with significantly elevated cardiovascular disease risk across multiple large population studies
 
 The athlete who stays up late watching film, then cuts sleep, is making a direct trade: less recovery for more information. The information does not compensate for the degraded physical and cognitive output the next day and over the season.
