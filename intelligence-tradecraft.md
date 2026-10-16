@@ -174,3 +174,6 @@ Counter with the techniques above and with a record of your past calls ([decisio
 - Social engineering and counter-moves: [counter-strategies.md](counter-strategies.md), [dark-psychology.md](dark-psychology.md)
 - Reading people: [tactics/social.md](tactics/social.md)
 - Digital security: [technology-leverage.md](technology-leverage.md)
+- The defensive half of this craft: [counterintelligence.md](counterintelligence.md), [opsec-and-privacy.md](opsec-and-privacy.md), [personal-security.md](personal-security.md)
+- Cases and patterns: [intelligence-history.md](intelligence-history.md)
+- Deception and influence operations: [deception-and-active-measures.md](deception-and-active-measures.md)

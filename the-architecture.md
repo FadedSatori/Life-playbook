@@ -79,6 +79,7 @@ The outer game. Taking everything built below and applying it with precision.
 - **Choosing a partner:** [dating-and-courtship.md](dating-and-courtship.md) — finding a partner with honesty and respect
 - **Execution and work:** [execution-systems.md](execution-systems.md), [craftsmanship.md](craftsmanship.md), [career-strategy.md](career-strategy.md) — turning intent into finished work, doing it well, and navigating a career over decades
 - **Argument and persuasion:** [rhetoric.md](rhetoric.md) — building, delivering, and defending against arguments
+- **Intelligence and counter-intelligence:** [counterintelligence.md](counterintelligence.md), [intelligence-history.md](intelligence-history.md), [deception-and-active-measures.md](deception-and-active-measures.md), [opsec-and-privacy.md](opsec-and-privacy.md), [personal-security.md](personal-security.md) — protecting what you know, resisting manipulation, and learning from the history of spies and deception
 - **Better information and judgment:** [intelligence-tradecraft.md](intelligence-tradecraft.md), [decision-journal.md](decision-journal.md), [memory-systems.md](memory-systems.md) — evaluating sources, tracking your own calls, and retaining what you learn
 - **Force multiplication:** [force-multipliers.md](force-multipliers.md) — the highest-leverage capabilities
 - **Antifragility:** [antifragility.md](antifragility.md) — building systems that get stronger from stress

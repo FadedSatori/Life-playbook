@@ -128,6 +128,19 @@ The synthesis. Everything in this playbook builds toward this.
 | [Dark Psychology](dark-psychology.md) | Dark Triad (narcissism/Machiavellianism/psychopathy), manipulation arsenal, coercive control, social engineering |
 | [Counter-Strategies](counter-strategies.md) | Gray rock, DARVO counter, gaslighting defense, frame control, organizational power counter-moves |
 
+## Intelligence & Counter-Intelligence
+
+Defensive and educational: understand how information is gathered, protected, and manipulated, so you can think clearly and protect what matters.
+
+| File | What's in it |
+|------|-------------|
+| [Intelligence Tradecraft](intelligence-tradecraft.md) | Intelligence cycle, source evaluation, Analysis of Competing Hypotheses, lateral reading, open-source diligence |
+| [Counterintelligence](counterintelligence.md) | Threat modeling, the human factor, MICE, elicitation and how to deflect it, insider risk, vetting, what to do if targeted, the ethics line |
+| [Intelligence History](intelligence-history.md) | Case studies with lessons: Double Cross, Venona, the Cambridge Five, Ames, Hanssen, the Stasi, Pearl Harbor and 9/11, Snowden |
+| [Deception and Active Measures](deception-and-active-measures.md) | Misinformation vs. disinformation, military deception doctrine, the modern information environment, what helps, a personal defense protocol |
+| [OPSEC and Privacy](opsec-and-privacy.md) | The five OPSEC steps applied to a person, threat tiers, what you leak, account security, footprint reduction, baseline and elevated checklists |
+| [Personal Security](personal-security.md) | The realistic threat picture, pattern-of-life exposure, home security, recognizing stalking, what to do, doxxing response, de-escalation, family safety |
+
 ## Health
 
 | File | What's in it |
