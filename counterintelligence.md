@@ -54,18 +54,17 @@ The fix is not distrust of everyone. It is verification where the stakes are hig
 US counterintelligence training and public writing often use the mnemonic **MICE** to explain why people are drawn into helping an adversary:
 
 - **Money:** debt, greed, lifestyle pressure, a sense of being underpaid.
-- **Ideology:** belief in a cause or opposition to one's own side.
+- **Ideology:** belief in a cause.
 - **Coercion / Compromise:** leverage over a secret, a vulnerability, or a threat to someone the person loves.
 - **Ego:** the need to feel important, recognized, or vindicated; resentment at being passed over.
 
 **Use it carefully.**
-
 - The origin of the acronym is murky. Sources variously credit US counterintelligence, the FBI, or a Soviet-era formulation. Do not repeat a confident attribution.
 - Real motives are mixed and shift over time.
 - Critics say MICE describes surface labels rather than root causes. A common alternative view is that ego-type injuries (feeling unrecognized, wronged, or small) sit under many of the other categories.
 - It is a lens for self-examination and for understanding how a manipulator thinks. It is not a profile for diagnosing coworkers. Plenty of people with debts or grievances never do anything wrong.
 
-**Defensive use on yourself:** list your own pressure points, honestly and privately. Debt, an unrecognized contribution, a secret you fear exposed, a cause you feel strongly about. Anyone running a manipulation, from a romance scammer to a recruiter-for-hire, will look for exactly these. Knowing yours makes you harder to move. The government version of this advice, including the NCSC's "Think Before You Link" campaign on fake professional-network approaches, applies directly to career and online life.
+**Defensive use on yourself:** privately list your own pressure points: debt, an unrecognized contribution, a feared secret, a cause. Any manipulator will look for exactly these, and knowing yours makes you harder to move. The government version of this advice, including the NCSC's "Think Before You Link" campaign on fake professional-network approaches, applies directly to career and online life.
 
 **Typical shape of a recruitment-style approach:** a friendly contact appears; builds rapport; flatters your expertise; asks small, harmless favors; offers something (a consulting fee, a paid talk, a "job interview," a trip); and gradually asks for more specific or sensitive information while making the relationship feel valuable. The tell is not any single step. It is a pattern of escalating requests combined with reluctance to be transparent about who they are and who is paying.
 
@@ -90,9 +89,7 @@ Elicitation is getting information from someone through ordinary-seeming convers
 2. **Redirect.** "That's outside my area. What are you working on?"
 3. **Ask "why do you ask?"** Said lightly, it often ends the line of questioning or reveals the purpose.
 4. **Defer to authority or policy.** "I'd need to check with legal," "Our policy covers that." This is true and unarguable.
-5. **Be vague on purpose.** "It depends" and "I haven't thought about it" are honest and give nothing.
-6. **Say nothing.** A pause is allowed. Most people fill silence; you do not have to.
-7. **Leave.** You may end any conversation.
+5. **Be vague, or say nothing.** "It depends" is honest. Most people fill silence; you need not. You may also end any conversation.
 
 **Rules of thumb.** You do not have to lie; declining to answer is not lying. Do not correct strangers who misstate your work. Before any conference or networking event, decide in advance what you will not discuss. Notice who circles the same topic from different angles.
 
@@ -189,8 +186,6 @@ Counterintelligence is a defensive craft. It does not give you license.
 - **No vigilantism.** Take real threats to those authorized to act.
 - **Honesty.** Declining to share is fine. Lying, impersonating, or manipulating to get information is not. See [ethics.md](ethics.md) and [warrior-codes.md](warrior-codes.md).
 
-A person who defends well and treats others honestly keeps both his security and his integrity.
-
 ---
 
 ## One-Page Personal Counterintelligence Checklist
@@ -210,7 +205,7 @@ A person who defends well and treats others honestly keeps both his security and
 
 ## Quarterly Review
 
-Set a 60-minute block each quarter.
+Set a 60-minute block.
 
 1. **Update the threat model** for any new job, project, relationship, or attention.
 2. **Audit access** to your accounts, files, and money; remove what is stale.
