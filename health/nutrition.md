@@ -26,7 +26,7 @@ Most chronic disease in the developed world — Type 2 diabetes, cardiovascular 
 - High-fiber foods (slow glucose absorption)
 - Adequate sleep (one night of poor sleep measurably impairs insulin sensitivity)
 
-**The inflammatory pathway:** Chronic low-grade inflammation is the common mechanism through which poor nutrition damages every system — cardiovascular, neurological, immune, hormonal. The most inflammatory nutritional factors: refined seed oils (omega-6 excess), refined carbohydrates, ultra-processed food, and excess added sugar. The most anti-inflammatory: fatty fish, olive oil, colorful vegetables, fermented foods, and fiber. The diet that reduces inflammation is not exotic. It is the diet closest to what food was before the 20th century.
+**The inflammatory pathway:** Chronic low-grade inflammation is the common mechanism through which poor nutrition damages every system — cardiovascular, neurological, immune, hormonal. The nutritional factors most consistently linked to inflammation and poor health: ultra-processed food, refined carbohydrates, and excess added sugar. (Seed oils are often added to this list, but trials of omega-6 intake have not shown it raising inflammatory markers; the case against them is weaker than the case against ultra-processed food.) The most anti-inflammatory: fatty fish, olive oil, colorful vegetables, fermented foods, and fiber. The diet that reduces inflammation is not exotic. It is the diet closest to what food was before the 20th century.
 
 See [longevity-protocols.md](../longevity-protocols.md) for the full metabolic health framework.
 
@@ -65,13 +65,13 @@ Carbohydrates are not the enemy. Their quality, quantity, and timing determine t
 
 ## Fat: Structure and Function
 
-Dietary fat is not the cause of cardiovascular disease (the research that proposed this was deeply flawed and is largely retracted). Fat is a structural component of cell membranes, the substrate for steroid hormones including testosterone and cortisol, the carrier for fat-soluble vitamins (A, D, E, K), and a primary energy source for many tissues.
+Dietary fat is not the cause of cardiovascular disease (the research that proposed this was oversimplified, and the sugar industry funded a 1967 review that downplayed sugar's role — Kearns et al., 2016). Fat is a structural component of cell membranes, the substrate for steroid hormones including testosterone and cortisol, the carrier for fat-soluble vitamins (A, D, E, K), and a primary energy source for many tissues.
 
-**The omega-6 / omega-3 balance:** Pre-industrial humans consumed omega-6 to omega-3 fatty acids in approximately a 4:1 ratio. Modern Western diets run approximately 20:1. The imbalance is pro-inflammatory. The primary driver: ubiquitous refined seed oils (canola, corn, soybean, sunflower) in all processed food. Correction: increase omega-3 intake (fatty fish, walnuts, flaxseed, quality supplements) and reduce omega-6 from refined oils.
+**The omega-6 / omega-3 balance:** The ancestral human ratio of omega-6 to omega-3 fatty acids is estimated at around 1:1 (some estimates run up to 4:1). Modern Western diets run roughly 15–17:1. Whether the ratio itself matters is debated: the American Heart Association advises that omega-6 intake is associated with lower cardiovascular risk, and controlled trials haven't shown omega-6 raising inflammation. The practical, safe move is the same either way: eat more omega-3 (fatty fish, walnuts, flaxseed) and less ultra-processed food, where refined oils mostly live.
 
 **Saturated fat:** The evidence is more nuanced than the 1980s guidelines suggested. Replacing saturated fat with refined carbohydrates (what actually happened during the low-fat era) increased cardiovascular disease rates. Context matters: saturated fat in whole food sources (beef, eggs, full-fat dairy) behaves differently than saturated fat in ultra-processed food. Red-line: trans fats are unambiguously harmful — avoid all hydrogenated oils.
 
-**Practical fat strategy:** Prioritize olive oil, fatty fish, avocado, eggs, nuts, and quality animal fats. Avoid seed oils in cooking (heat oxidizes them to harmful compounds); use butter, ghee, or coconut oil for high-heat cooking.
+**Practical fat strategy:** Prioritize olive oil, fatty fish, avocado, eggs, nuts, and quality animal fats. For cooking, olive oil and avocado oil are good all-rounders. Butter, ghee, and coconut oil are high in saturated fat, which raises LDL cholesterol, so use them in moderation; other vegetable oils are reasonable choices if you aren't heating them to smoking or reusing them repeatedly.
 
 ---
 
@@ -79,12 +79,12 @@ Dietary fat is not the cause of cardiovascular disease (the research that propos
 
 **The circadian nutrition insight:** The body's metabolic machinery is synchronized to the light-dark cycle. Metabolic enzymes, insulin sensitivity, and digestive efficiency all follow circadian rhythms — performing optimally in the morning and early afternoon, declining in the evening. Eating late at night is metabolically disadvantageous regardless of total calories.
 
-**Time-restricted eating (TRE):** Confining food intake to a consistent 8–12 hour window, aligned with daylight hours. The evidence: Satchidananda Panda's research at the Salk Institute demonstrated that TRE in mice reversed obesity, diabetes, liver disease, and cardiovascular disease even without caloric restriction. Human studies show improvements in metabolic markers, body composition, and inflammatory markers.
+**Time-restricted eating (TRE):** Confining food intake to a consistent 8–12 hour window, aligned with daylight hours. The evidence: Satchidananda Panda's research at the Salk Institute found that TRE in mice prevented and reversed obesity, glucose intolerance, and fatty liver even without caloric restriction (the heart findings came from fruit flies). Human trials are mixed: some show modest improvements in metabolic markers and body composition, but Liu et al. (NEJM, 2022) found that adding an 8-hour eating window to calorie restriction gave no significant extra weight or metabolic benefit over a year.
 
 **Practical implementation:** 
 - Eat within an 8–12 hour window (e.g., 8am–6pm or 9am–7pm)
 - Stop eating 2–3 hours before sleep (see [sleep.md](sleep.md) — late eating disrupts sleep architecture)
-- The fast begins when the last meal ends — 8–10 hours of overnight fasting is sufficient for most of the metabolic benefits
+- The fast begins when the last meal ends — an 8–12 hour eating window means a 12–16 hour overnight fast
 
 **Fasting protocols (more intensive):** 
 - **16:8:** 16-hour fast, 8-hour eating window. The most accessible TRE format; most people can achieve this by delaying breakfast or advancing dinner
@@ -111,13 +111,13 @@ Dietary fat is not the cause of cardiovascular disease (the research that propos
 
 The following five nutrients are chronically deficient in modern populations and have evidence-based connections to performance, mood, and long-term health. Address them before optimizing anything else.
 
-**Vitamin D:** The most prevalent deficiency in the developed world. Synthesized through sun exposure but most people — particularly in northern latitudes or desk-based jobs — don't get enough. Affects mood, immune function, testosterone levels, bone density, and cognitive function. Supplement: 2,000–5,000 IU daily, preferably with vitamin K2 (which guides calcium to bones rather than arteries). Test blood levels annually; target 40–60 ng/mL.
+**Vitamin D:** The most prevalent deficiency in the developed world. Synthesized through sun exposure but most people — particularly in northern latitudes or desk-based jobs — don't get enough. Affects mood, immune function, testosterone levels, bone density, and cognitive function. Supplement: 2,000–4,000 IU daily, preferably with vitamin K2 (which guides calcium to bones rather than arteries). 4,000 IU/day is the US tolerable upper intake for adults; don't go higher without testing and a clinician. The 2024 Endocrine Society guideline no longer endorses a target blood level for healthy adults and advises against routine testing (some clinicians still use 40–60 ng/mL).
 
-**Magnesium:** Involved in over 300 enzymatic reactions. Approximately 68% of Americans are deficient. Deficiency impairs sleep quality, muscle function, and stress response. Three forms matter for different purposes: glycinate (best for sleep and relaxation), malate (best for energy and muscle recovery), threonate (crosses the blood-brain barrier; cognitive benefit). 300–400mg daily of glycinate is the practical default.
+**Magnesium:** Involved in over 300 enzymatic reactions. About 68% of Americans have intake below the recommended amount (King et al., 2005) — low intake, not the same as clinical deficiency. Deficiency impairs sleep quality, muscle function, and stress response. Three forms matter for different purposes: glycinate (best for sleep and relaxation), malate (best for energy and muscle recovery), threonate (crosses the blood-brain barrier; cognitive benefit). 300–400mg daily of glycinate is the practical default.
 
 **Omega-3 fatty acids (EPA and DHA):** The long-chain fatty acids found in fatty fish, not the ALA found in flaxseed (conversion from ALA to EPA/DHA is poor in humans). EPA and DHA are structural components of brain cell membranes and precursors to anti-inflammatory compounds. Most diets are severely omega-3 deficient relative to omega-6. 2–3g combined EPA+DHA daily from fish oil or algae-based omega-3. Refrigerate to prevent oxidation.
 
-**Zinc:** Essential for testosterone production, immune function, and protein synthesis. Depleted by stress and intense training. Found in meat and shellfish (oysters are the richest source). Supplementation: 15–30mg zinc as picolinate or citrate, taken with food to avoid nausea. Don't exceed 40mg without monitoring (high zinc impairs copper absorption).
+**Zinc:** Essential for testosterone production, immune function, and protein synthesis. Depleted by stress and intense training. Found in meat and shellfish (oysters are the richest source). Supplementation: keep it low — around 15mg zinc as picolinate or citrate, taken with food to avoid nausea. The 40mg/day adult upper limit counts food plus supplements, so a 30mg supplement plus the zinc in your diet can exceed it (high zinc impairs copper absorption).
 
 **Creatine monohydrate:** Technically not a vitamin, but the most evidence-backed performance supplement in existence. Increases phosphocreatine stores in muscle, enhancing high-intensity output. Increasingly studied for cognitive benefits — the brain uses phosphocreatine; supplementation improves working memory and processing speed, particularly under sleep deprivation or cognitive stress. 3–5g daily, any time. No loading phase required.
 
@@ -125,12 +125,12 @@ The following five nutrients are chronically deficient in modern populations and
 
 ## The Gut-Brain Axis
 
-The gut microbiome — the 100 trillion bacteria, fungi, and other organisms inhabiting the digestive system — communicates bidirectionally with the brain via the vagus nerve. This is not speculative; it is established physiology. The microbiome produces neurotransmitter precursors (including approximately 90% of the body's serotonin is made in the gut), regulates inflammation, and influences mood and cognitive function.
+The gut microbiome — roughly 38 trillion bacteria (about one per human cell — Sender, Fuchs & Milo, 2016), plus fungi and other organisms inhabiting the digestive system — communicates bidirectionally with the brain via the vagus nerve. This is not speculative; it is established physiology. The microbiome influences neurotransmitter production (about 90% of the body's serotonin is made in the gut, by gut-lining cells that bacteria help regulate — though gut serotonin does not cross into the brain), regulates inflammation, and influences mood and cognitive function.
 
 **Practical interventions:**
-- **Eat 30 different plants per week.** The diversity of plant consumption is the strongest predictor of microbiome diversity. A varied microbiome is associated with better metabolic health, immune function, and mood. This sounds like a lot — it includes herbs, spices, legumes, nuts, seeds, vegetables, and fruits.
-- **Fermented foods daily:** Yogurt (live cultures), kefir, kimchi, sauerkraut, miso. A 2021 Stanford study found that a high-fermented-food diet increased microbiome diversity and decreased inflammatory markers better than a high-fiber diet alone.
-- **Minimize antibiotic use where not medically necessary.** Antibiotics damage the microbiome indiscriminately. After necessary antibiotic courses, targeted probiotic supplementation and high-prebiotic food intake (garlic, onions, leeks, asparagus) support recovery.
+- **Eat 30 different plants per week.** In the American Gut Project (McDonald et al., 2018), people eating more than 30 plant types a week had more diverse gut microbiomes than those eating 10 or fewer — an association from self-reported diets, not a tested dose. A varied microbiome is associated with better metabolic health, immune function, and mood. This sounds like a lot — it includes herbs, spices, legumes, nuts, seeds, vegetables, and fruits.
+- **Fermented foods daily:** Yogurt (live cultures), kefir, kimchi, sauerkraut, miso. A 2021 Stanford trial (Wastyk et al., 36 adults, 10 weeks) found that a high-fermented-food diet increased microbiome diversity and lowered 19 inflammatory markers, while a high-fiber diet did neither over that period. Small and short, but promising.
+- **Minimize antibiotic use where not medically necessary.** Antibiotics damage the microbiome indiscriminately. After necessary antibiotic courses, high-prebiotic food (garlic, onions, leeks, asparagus) supports recovery. Evidence on probiotic supplements is mixed: in one small study (Suez et al., 2018), they delayed the gut microbiome's return to normal.
 
 ---
 
@@ -153,8 +153,8 @@ See [reality-engineering.md](../reality-engineering.md) for the general framewor
 Alcohol is the most socially accepted metabolic disruptor. If you drink, know what it does:
 
 - **Sleep architecture:** Even moderate alcohol consumption suppresses REM sleep, the most cognitively restorative sleep stage. "Better sleep after a drink" is sedation, not rest — sleep quality degrades even when subjective experience improves (see [sleep.md](sleep.md))
-- **Muscle protein synthesis:** Suppressed for approximately 24 hours after significant alcohol consumption
-- **Liver priority:** The liver prioritizes alcohol metabolism above all other tasks — fat oxidation is halted during processing
+- **Muscle protein synthesis:** In Parr et al. (2014), heavy drinking after training (about 12 standard drinks) cut muscle protein synthesis by roughly a quarter to a third over the next 8 hours, even when taken with protein (8 men)
+- **Liver priority:** The body prioritizes clearing alcohol — fat burning drops sharply while it does (Siler et al., 1999: about two drinks cut whole-body fat oxidation by roughly 73% in 8 men)
 - **Cognitive function:** Measurable impairment persists significantly longer than the subjective feeling of impairment
 - **Testosterone:** Acutely suppressed for 12–24 hours after consumption; chronically suppressed with regular drinking
 
@@ -167,6 +167,6 @@ This is not prohibition. It is accounting. Make the trade consciously.
 - Track food for 2 weeks per year to recalibrate intuition. People's estimates of their caloric and protein intake are reliably inaccurate without periodic anchoring.
 - Eat slowly enough to notice fullness — it lags 15–20 minutes behind actual satiety. Use this lag, don't fight it.
 - Limit liquid calories: alcohol, juice, and sweetened coffee drinks are a reliable path to unintentional overconsumption. Liquids don't trigger the same satiety signaling as solid food.
-- The 80/20 rule applied to nutrition: what you do consistently is more determinative than what you do occasionally. The diet on 90% of days is the diet; what you eat at parties and restaurants on the remaining 10% is irrelevant.
+- The 80/20 rule applied to nutrition: what you do consistently is more determinative than what you do occasionally. The diet on 80% of days is the diet; what you eat at parties and restaurants on the remaining 20% matters far less.
 - Never eat standing in front of an open refrigerator. Sit down, use a plate, eat intentionally.
 - Eat from a limited repertoire of default meals you can make without thinking, and save variety for occasions. Decision fatigue applied to food is real and causes deterioration to whatever is easy and available.

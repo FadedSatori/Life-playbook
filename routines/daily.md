@@ -6,7 +6,7 @@ The morning is not a gentle suggestion. It is an operational window. Protect it 
 
 ## The Science: Why the First Hour Matters
 
-**The cortisol awakening response (CAR).** Cortisol spikes 50–100% within 30–45 minutes of waking. This is not stress — it is the body's ignition sequence. It mobilizes energy, sharpens focus, and primes immune function. You do not want to blunt this spike with passive content consumption. Bad news and social media activate threat circuits, corrupt the signal, and spike cortisol beyond its natural range — creating anxiety without purpose.
+**The cortisol awakening response (CAR).** Cortisol rises, typically by about 50%, within 30–45 minutes of waking. This is not stress — it is the body's ignition sequence. It mobilizes energy, sharpens focus, and primes immune function. You do not want to blunt this spike with passive content consumption. Bad news and social media activate threat circuits, corrupt the signal, and spike cortisol beyond its natural range — creating anxiety without purpose.
 
 **Adenosine clearance.** Adenosine is the sleep pressure molecule — it accumulates during waking hours and is cleared during sleep. The hour after waking is the tail end of clearance. Physical movement accelerates the process. The brain fog of early morning is largely residual adenosine. Move through it, do not wait it out.
 
@@ -36,15 +36,15 @@ The phone ban is about who sets the first frame of the day. Set it yourself.
 
 The mechanism is simple: 7–8 hours without water creates measurable dehydration. A 1–2% deficit in body water impairs cognitive performance — reaction time, attention, short-term memory. The first act of the day is rehydration. Not coffee. Not food. Water.
 
-Delay coffee 90–120 minutes after waking. The caffeine adenosine-blocking mechanism is more effective after the CAR has completed. Early coffee competes with the body's own cortisol ignition, reduces the peak, and typically necessitates a larger afternoon dose to compensate — which then disrupts sleep.
+Optional: delay coffee 90–120 minutes after waking if you like how it feels. Treat it as a personal preference, not a rule — no trial shows early caffeine blunts the morning cortisol rise.
 
 ### T+5 to T+15 Minutes: Light Exposure
 
 Step outside. Five to ten minutes of direct or indirect natural light. No sunglasses. Overcast sky still works — outdoor light on a grey day is 1,000–10,000 lux; indoor lighting is 100–500 lux. The difference is a full order of magnitude.
 
-If outdoor exposure is impossible (winter, travel, north latitudes): a 10,000-lux light therapy lamp positioned within 18–24 inches of the face for 10–20 minutes does the same job.
+If outdoor exposure is impossible (winter, travel, north latitudes): a 10,000-lux light therapy lamp positioned within 18–24 inches of the face for about 30 minutes (the standard clinical dose for seasonal depression) does the same job.
 
-What this does: melanopsin-containing retinal ganglion cells absorb blue-spectrum light and fire directly to the SCN. This starts the 14–16 hour countdown to melatonin release. Consistent morning light exposure produces consistent sleep onset, deeper sleep architecture, and more stable daytime energy — compounding over weeks.
+What this does: melanopsin-containing retinal ganglion cells absorb blue-spectrum light and fire directly to the SCN. This helps set the clock that times evening melatonin release, which in young adults on a regular schedule comes roughly 14 hours after waking (Burgess and colleagues, 2003; individuals vary by hours). Consistent morning light exposure produces consistent sleep onset, deeper sleep architecture, and more stable daytime energy — compounding over weeks.
 
 Combine with the first movement segment if possible: a short walk outside achieves hydration, light, and movement in one action.
 
@@ -54,8 +54,8 @@ Minimum: 10–20 minutes. Effective forms include walking, running, bodyweight c
 
 **What this does biologically:**
 - Releases BDNF (brain-derived neurotrophic factor) — the brain's growth hormone. BDNF promotes neuroplasticity, accelerates learning, and lifts mood. 20 minutes of moderate aerobic movement triggers measurable BDNF release.
-- Finishes clearing residual adenosine. The fog lifts.
-- Elevates dopamine and serotonin baseline for 4–6 hours.
+- Raises arousal and alertness, so the fog lifts. (Adenosine itself is cleared by sleep, not movement.)
+- Lifts mood, often for hours afterward. That exercise improves mood is well established; precise neurotransmitter timelines are not.
 - Raises core body temperature, which increases alertness and reduces reaction time.
 
 This is not the formal training session. That has its own place in the schedule. This is the ignition. Even on rest days, some form of morning movement is non-negotiable.
@@ -68,11 +68,11 @@ Two to three minutes of cold water immersion or cold shower at the end of the mo
 
 Optional, but the upside is large enough to make it a default.
 
-**The mechanism:** cold water exposure activates the sympathetic nervous system, releases norepinephrine (NE) by 200–300%) and dopamine (250%), both lasting 3–4 hours. This is not the jittery stimulation of caffeine — it is a clean, sustained elevation of alertness, focus, and mood.
+**The mechanism:** cold water exposure activates the sympathetic nervous system. Šrámek et al. (2000): an hour of head-out immersion in 14°C water raised norepinephrine (NE) about 530% and dopamine about 250%. Short plunges haven't been shown to do the same, and the study didn't measure how long the effect lasted. This is not the jittery stimulation of caffeine — it is a clean elevation of alertness, focus, and mood.
 
-Andrew Huberman's lab has documented the protocol: 11 minutes per week total, broken into 2–4 sessions, is the effective threshold. Cold enough to want to get out. Not cold enough to be dangerous.
+The often-cited target — 11 minutes per week total, broken into 2–4 sessions — comes from Søberg et al. (2021), a study of 8 winter-swimming men vs. 8 controls. It describes what those swimmers did, not a tested minimum dose. Cold enough to want to get out. Not cold enough to be dangerous.
 
-Additional effects: cold-induced norepinephrine reduces inflammatory markers, accelerates metabolic rate, and — for men — supports testosterone production over time with consistent practice.
+Additional effects: cold-induced norepinephrine reduces inflammatory markers and accelerates metabolic rate. The popular claim that it boosts testosterone isn't supported — small studies show no rise, or a short drop, after cold immersion.
 
 The first 30 seconds are the hardest. Then the system adapts. The discomfort is precisely the point: controlled stress exposure, voluntary, in a safe context. The practice of doing hard things before the day begins.
 
@@ -111,7 +111,7 @@ The evening determines tomorrow's baseline. How you end determines how you begin
 
 Pick a time and honor it. The specific time matters less than the consistency. 9:00 PM, 10:00 PM — choose one.
 
-**The incomplete work problem:** the Zeigarnik effect describes the brain's tendency to continue processing unfinished tasks. Unclosed loops produce intrusive thoughts, impair sleep onset, and generate the low-grade anxiety of a mental background process running without permission. The shutdown ritual is the instruction to the brain: close all tabs.
+**The incomplete work problem:** the Zeigarnik effect describes the brain's tendency to continue processing unfinished tasks. (Its original memory claim — that unfinished tasks are remembered better — failed in a 2025 meta-analysis by Ghibellini and Meier; what held up is the pull to resume unfinished tasks.) Unclosed loops produce intrusive thoughts, impair sleep onset, and generate the low-grade anxiety of a mental background process running without permission. The shutdown ritual is the instruction to the brain: close all tabs.
 
 Without a deliberate shutdown, work simply fades into the evening without a clear boundary. The body is in the house but the mind is still at the desk.
 
@@ -140,7 +140,7 @@ Begin 2 hours before target sleep time.
 
 No screens 1 hour before bed. Or use blue-light blocking glasses that actually filter the relevant wavelengths (orange-tinted, not yellow). Half-measures do not work.
 
-**The mechanism:** blue-spectrum light (450–490 nm) directly suppresses melatonin production via the same melanopsin system that anchors the circadian clock in the morning. One hour of screen exposure before bed can suppress melatonin by 50% and delay sleep onset by 1–2 hours. The irony is complete: the same light that starts your day well also ends it badly.
+**The mechanism:** blue-spectrum light (450–490 nm) directly suppresses melatonin production via the same melanopsin system that anchors the circadian clock in the morning. Chang et al. (2015): reading on a light-emitting e-reader for about 4 hours before bed for 5 nights suppressed melatonin about 55%, shifted the body clock about 1.5 hours later, and delayed sleep onset by about 10 minutes. The irony is complete: the same light that starts your day well also ends it badly.
 
 The phone goes in another room. This solves two problems: the pre-sleep scroll and the morning grab reflex.
 

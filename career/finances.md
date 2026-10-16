@@ -22,7 +22,7 @@ Wealth = Income − Spending + (Investments × Time × Returns)
 
 The three levers: income, spending, and the compounding factor. Most people try to pull only the income lever. The spending lever is faster to move and more reliable. The compounding factor is the multiplier that rewards both.
 
-**The savings rate is the variable that matters most early.** At a 5% savings rate, you need approximately 66 working years to retire. At a 50% savings rate, you need 17 years. At a 75% savings rate, 7 years. These numbers come from the math of financial independence, not from optimism — they follow directly from what your savings can replace in spending.
+**The savings rate is the variable that matters most early.** At a 5% savings rate, you need approximately 66 working years to retire. At a 50% savings rate, you need 17 years. At a 75% savings rate, 7 years (assuming about 5% real returns, a 4% withdrawal rate, and starting from zero). These numbers come from the math of financial independence, not from optimism — they follow directly from what your savings can replace in spending.
 
 **Net worth tracking:** Calculate once per month: (assets) − (liabilities) = net worth. Track the direction, not just the number. A rising number — even slowly — means the system is working. A flat or declining number with rising income means spending is consuming the gains. The number reveals what the story cannot.
 
@@ -44,13 +44,13 @@ Any debt above approximately 6–7% annualized interest rate should be paid off 
 **Debt payoff method:** Two approaches — the avalanche (pay off highest interest rate first: mathematically optimal) and the snowball (pay off smallest balance first: psychologically optimal). The avalanche saves more money. The snowball produces faster wins that sustain motivation. If you need motivation to continue, use the snowball. If your systems are solid, use the avalanche.
 
 **Step 4: Health Savings Account (HSA) — if available**
-The HSA is the most tax-advantaged account available in the US: contributions are pre-tax, growth is tax-free, and withdrawals for qualified medical expenses are tax-free. Triple tax advantage. After age 65, withdrawals for any purpose are taxed as ordinary income — making it effectively a second traditional IRA. Max it. Let the balance grow invested; pay current medical expenses out of pocket when possible to let the account compound.
+The HSA is the most tax-advantaged account available in the US: contributions are pre-tax, growth is tax-free, and withdrawals for qualified medical expenses are tax-free. Triple tax advantage. After age 65, withdrawals for any purpose are taxed as ordinary income — making it effectively a second traditional IRA. Max it: $4,400 self-only or $8,750 family coverage in 2026, plus $1,000 at age 55+. Let the balance grow invested; pay current medical expenses out of pocket when possible to let the account compound.
 
 **Step 5: Roth IRA (or Traditional IRA)**
-$7,000/year (2024 limit; increases with inflation). Roth contributions are post-tax; growth and qualified withdrawals are tax-free. See the Roth vs. Traditional decision framework below.
+$7,500/year in 2026, plus a $1,100 catch-up at age 50+ (limits rise with inflation; check each year). Roth contributions are post-tax; growth and qualified withdrawals are tax-free. See the Roth vs. Traditional decision framework below.
 
 **Step 6: Max the 401(k)**
-$23,000/year (2024 limit). Pre-tax contributions reduce current taxable income and grow tax-deferred. The compound interest runs on the pre-tax dollar — a meaningful advantage over time.
+$24,500/year in 2026, plus an $8,000 catch-up at 50+ ($11,250 at ages 60–63). Pre-tax contributions reduce current taxable income and grow tax-deferred. The compound interest runs on the pre-tax dollar — a meaningful advantage over time.
 
 **Step 7: Taxable brokerage account**
 Once tax-advantaged accounts are maxed, invest additional savings in a taxable brokerage account. Use the same index fund approach; be aware of tax-loss harvesting opportunities (selling positions at a loss to offset capital gains).
@@ -65,7 +65,7 @@ Once tax-advantaged accounts are maxed, invest additional savings in a taxable b
 - Index funds provide diversification, low cost (expense ratios of 0.03–0.10% vs. 0.5–1.5%+ for active funds), and tax efficiency
 
 **The three-fund portfolio:**
-1. **Total US stock market** (e.g., VTI): ownership of approximately 4,000 US companies across all market caps
+1. **Total US stock market** (e.g., VTI): ownership of roughly 3,500 US companies across all market caps
 2. **Total international stock market** (e.g., VXUS): ownership of international developed and emerging markets
 3. **Bond index** (e.g., BND): government and corporate bonds; stabilizes the portfolio and provides rebalancing opportunity
 
@@ -94,7 +94,7 @@ Selling a position at a loss to realize a capital loss, which offsets capital ga
 - REITs and other high-distribution assets belong in tax-advantaged accounts
 
 **Business structure:**
-If self-employed, a single-member LLC provides liability protection with minimal additional tax complexity. An S-Corp election (typically at ~$80k+ net self-employment income) can reduce self-employment tax by allowing reasonable salary + distribution structure. A solo 401(k) allows contributions up to $66,000/year (2024) as both employee and employer — far exceeding IRA limits. Consult a tax professional before implementing; the leverage is real.
+If self-employed, a single-member LLC provides liability protection with minimal additional tax complexity. An S-Corp election (typically at ~$80k+ net self-employment income) can reduce self-employment tax by allowing reasonable salary + distribution structure. A solo 401(k) allows combined employee and employer contributions up to $72,000/year in 2026 (more with catch-up contributions at 50+) — far exceeding IRA limits. Consult a tax professional before implementing; the leverage is real.
 
 ---
 
@@ -125,6 +125,91 @@ The wealth sequence assumes income. Growing income is as important as managing i
 **Multiple income streams:** The vulnerability of single-income dependency is a financial risk. A second income stream — consulting, a side business, intellectual property, investment income — reduces the consequences of any single disruption. Start building the second stream while the first is stable; don't wait for necessity.
 
 **The business asset threshold:** A business that requires your constant physical presence is a job you own. The financial leverage of entrepreneurship comes from building systems that generate revenue without requiring your presence. If you're self-employed, the question to keep asking: "What would need to be true for this to run without me?" The answer is the path to genuine financial leverage.
+
+---
+
+## Financial Independence: The Numbers in Depth
+
+The FI number is (annual essential expenses) × 25, based on a 4% initial withdrawal rate. Understand what that rule is and is not.
+
+**Origin:** Bengen (1994) and the Trinity Study found that a 4% initial withdrawal, adjusted yearly for inflation, from a diversified stock-and-bond portfolio historically survived 30-year retirements in U.S. data. It is a historical rule of thumb, not a guarantee.
+
+**Caveats:**
+- **Longer horizons:** If you retire at 40 or 45 and need 50+ years, many planners use 3.25–3.5% (a multiple of ~29–31×) for a larger margin.
+- **Sequence-of-returns risk:** Poor market returns in the first years of withdrawals do disproportionate damage, because you are selling assets while they are down. Mitigations: hold 1–3 years of expenses in cash or short-term bonds as a buffer, keep spending flexible (cut back in down years), or earn some income in early retirement.
+- **Taxes and healthcare:** Plan for taxes on withdrawals and for health insurance before Medicare eligibility. These are the two most commonly underestimated costs.
+- **Inflation:** Use real (inflation-adjusted) figures throughout.
+
+**The FI spectrum:**
+- **Lean FI:** Portfolio covers a frugal baseline. Freedom with a tight budget.
+- **FI:** Covers your current essential lifestyle.
+- **Fat FI:** Covers a generous lifestyle with a wide margin.
+- **Coast FI:** The point at which your existing investments, left alone to compound until traditional retirement age, will reach your FI number without further contributions. You then only need to earn enough to cover current expenses, which opens up lower-paying, more meaningful work. Compute it: FI number ÷ (1 + expected real return)^(years to retirement age).
+- **Barista FI:** Investments plus part-time income cover expenses.
+
+Pick the target that matches your life and [purpose](../purpose.md), not someone else's. The point is options, not an arbitrary finish line.
+
+---
+
+## Net Worth Milestones
+
+A rough orientation, not a judgment. The multiples are of annual salary saved, from Fidelity's guidelines, which assume saving 15% of salary a year from age 25. Individual variation is wide.
+
+| Approximate age | Retirement savings target (× salary) |
+|---|---|
+| 30 | ~1× annual income |
+| 40 | ~3× |
+| 50 | ~6× |
+| 60 | ~8× |
+| 67 | ~10× |
+
+Track your own trajectory. A high savings rate (30–50%+) can put you far ahead of these figures; a late start can be recovered by raising the savings rate and income. The direction and the savings rate matter more than any single benchmark.
+
+---
+
+## The Annual Money Review
+
+Once per year, alongside [routines/annual-review.md](../routines/annual-review.md), spend two to three hours:
+
+1. **Net worth:** Total assets minus liabilities. Compare to last year.
+2. **Savings rate:** (Income − spending) ÷ income. Target it up, not down.
+3. **Spending audit:** Top categories, subscriptions, and what produced real value versus what did not.
+4. **Allocation and rebalance:** Check against target; rebalance if drift exceeds your threshold.
+5. **Contributions:** Confirm automatic contributions are maxed to the limits you can afford. Note that contribution and income limits change annually; the figures cited earlier are for 2026 and must be rechecked each year.
+6. **Insurance:** Does coverage still match your life? New dependents, a home, or a business change the need.
+7. **Beneficiaries:** Confirm designations on every retirement, brokerage, and insurance account. These override a will, and outdated ones cause real harm.
+8. **Income plan:** What is the plan to raise earnings this year? Raise, role change, negotiation, or a second stream. See [negotiation.md](../negotiation.md) and [wealth-building.md](../wealth-building.md).
+9. **Risk scan:** What single event would hurt most? Is it covered or hedged?
+
+---
+
+## Estate and Protective Basics
+
+Everyone with assets or dependents needs the minimum set of documents. Laws vary by jurisdiction; use a qualified attorney.
+
+- **Will:** Directs assets and names guardians for minor children. Without it, the state decides.
+- **Durable power of attorney:** Names who can handle your finances if you are incapacitated.
+- **Healthcare directive and healthcare proxy:** States your wishes and who decides for you.
+- **Beneficiary designations:** Kept current, as above.
+- **Trusts:** Useful in specific situations (larger estates, avoiding probate, protecting heirs, special circumstances). Not necessary for everyone.
+- **A letter of instruction:** A plain document telling your family where everything is: accounts, passwords manager, documents, advisors, and your wishes. This is a gift to the people who will be grieving. See [mortality-integration.md](../mortality-integration.md).
+
+---
+
+## Common Money Mistakes
+
+- **Waiting to start.** The first decade's contributions have the longest to compound. Start now with whatever you can.
+- **Lifestyle creep.** Treating raises as permission to spend.
+- **High-fee products.** Expense ratios, advisory fees, and sales loads quietly consume a large share of lifetime returns.
+- **Panic selling.** Locks in losses. Automate to keep emotion out of the loop.
+- **Concentration.** Putting too much in one stock, one employer, or one property.
+- **Ignoring taxes and inflation.** The nominal number flatters you.
+- **Treating a house as an automatic investment.** Run the numbers.
+- **No emergency buffer,** leading to forced selling or high-interest debt at the worst time.
+- **Chasing hot tips and complexity.** If you cannot explain it plainly, do not buy it.
+- **Under-insuring the biggest risks** (disability, liability) while over-insuring trivia.
+
+For going beyond security into ownership, see [wealth-building.md](../wealth-building.md).
 
 ---
 

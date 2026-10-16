@@ -135,11 +135,11 @@ Patterns from people who operated at the integrated level across multiple domain
 
 **Marcus Aurelius:** Emperor, philosopher, general, father. Held the highest public power in the world while maintaining private virtue that required no audience. His journals were never intended to be read — they were the record of a man holding himself accountable to a standard no one else could enforce. He failed at some of it. He held most of it. The record is honest.
 
-**Miyamoto Musashi:** Master swordsman who won 60 duels without losing, then retired to write philosophy and paint. Not just a warrior — a man who turned extreme mastery of one domain into the discipline to master others. His *Dokkodo* (21 precepts written nine days before his death) are not the rules of a fighter. They are the code of a complete man.
+**Miyamoto Musashi:** Master swordsman who won 60 duels without losing, then retired to write philosophy and paint. Not just a warrior — a man who turned extreme mastery of one domain into the discipline to master others. His *Dokkodo* (21 precepts written about a week before his death) are not the rules of a fighter. They are the code of a complete man.
 
 **Frederick Douglass:** Born into slavery. Taught himself to read against explicit prohibition. Used language as the path from object to subject. Built moral authority, political influence, and intellectual stature from the most constrained possible starting position. Every pillar developed from zero, under opposition, with no institutional support.
 
-**Theodore Roosevelt:** The sickly child who deliberately built a body to match his ambition. Rancher, soldier, naturalist, historian, politician, president. His range was genuine — not performance. He wrote serious books on naval history and ornithology. He took what was available and turned it toward what mattered.
+**Theodore Roosevelt:** The sickly child who deliberately built a body to match his ambition. Rancher, soldier, naturalist, historian, politician, president. His range was genuine — not performance. He wrote a serious naval history and, as a young naturalist, published lists of birds. He took what was available and turned it toward what mattered.
 
 These are not models to worship. They are evidence that the standard is reachable — that the integration is possible — in the actual world, under actual conditions.
 

@@ -96,7 +96,7 @@ The shadow is where most original creative material lives.
 
 The persona — the carefully constructed self-image — produces approved, expected, safe creative work. The shadow contains the raw, the strange, the disturbing, the genuinely original. Every artist who has done major work has found ways into their shadow and drawn from it.
 
-Jung: "The gold is in the shadow." Not metaphorically. The energy that was suppressed and pushed underground does not disappear — it is stored there. Accessing it is accessing creative power. The poet who writes only what is acceptable produces technically competent verse that moves no one. The poet who goes into the basement — into the grief, the rage, the desire, the terror — produces work that recognizes readers to themselves.
+Robert A. Johnson's "golden shadow" (*Owning Your Own Shadow*, 1991): the gold is in the shadow. Not metaphorically. The energy that was suppressed and pushed underground does not disappear — it is stored there. Accessing it is accessing creative power. The poet who writes only what is acceptable produces technically competent verse that moves no one. The poet who goes into the basement — into the grief, the rage, the desire, the terror — produces work that recognizes readers to themselves.
 
 The block is almost always the persona protecting itself from the shadow. The breakthrough is almost always the shadow finally being permitted to speak.
 
@@ -165,6 +165,6 @@ The person who has done shadow work is not safer — they are freer. They have m
 
 *"One does not become enlightened by imagining figures of light, but by making the darkness conscious."* — Carl Jung
 
-*"The most dangerous man is the one who knows himself completely."* — adapted from Jung
+*"The most dangerous man is the one who knows himself completely."* — attributed to Jung (no primary source)
 
-*"Until you make the unconscious conscious, it will direct your life and you will call it fate."* — Carl Jung
+*"Until you make the unconscious conscious, it will direct your life and you will call it fate."* — popular paraphrase of Carl Jung, *Aion* (his text says that when an inner situation is not made conscious, it happens outside, as fate)

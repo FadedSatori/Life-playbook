@@ -16,7 +16,7 @@ This is the main event. Everything else — meetings, messages, admin, coordinat
 - The value of deep work compounds: insights connect, skills sharpen, output accelerates
 - Rarity + value = leverage. The person who can produce four hours of genuine deep work daily outperforms most teams
 
-**The attention residue problem** (Sophie Leroy's research): When you switch from one task to another, cognitive resources tied to the first task don't immediately transfer. A residue of attention remains on the previous task, impairing performance on the new one. The implication: every interruption — even a brief one — does not cost only the time of the interruption. It costs the transition cost on each side. A 30-second check of email in the middle of deep work can cost 20 minutes of re-engagement. The shallow work doesn't just interrupt — it degrades.
+**The attention residue problem** (Sophie Leroy's research): When you switch from one task to another, cognitive resources tied to the first task don't immediately transfer. A residue of attention remains on the previous task, impairing performance on the new one. The implication: every interruption — even a brief one — does not cost only the time of the interruption. It costs the transition cost on each side. Gloria Mark's field research found that people took about 23 minutes on average to get back to an interrupted task, often doing other things in between. The shallow work doesn't just interrupt — it degrades.
 
 ---
 
@@ -46,7 +46,7 @@ A to-do list cannot produce depth. A list of tasks is structurally incapable of 
 
 2. **Fixed-schedule productivity:** Set your shutdown time first. Let the constraint compress the work to fit. An 8-hour day with no end time will consume itself with Parkinson's Law. A 6-hour day with a hard stop produces the same or more output through forced prioritization.
 
-3. **The shutdown ritual:** At the end of every workday, complete a shutdown ritual that signals the brain that work is done for the day. This is not optional — the brain generates intrusive work-related thoughts during off hours specifically because open loops feel unresolved. The Zeigarnik effect: the brain actively maintains incomplete tasks in working memory, generating intrusive thoughts until they're closed. The ritual closes the loops. Components: review open tasks, set tomorrow's first deep work task, capture everything in a trusted system (not memory), say the phrase "shutdown complete" (or your equivalent). This prevents work thoughts from colonizing recovery time.
+3. **The shutdown ritual:** At the end of every workday, complete a shutdown ritual that signals the brain that work is done for the day. This is not optional — unfinished work tends to resurface during off hours as intrusive thoughts. The classic explanation, the Zeigarnik effect (unfinished tasks stay active in memory), is weaker than usually claimed: a 2025 meta-analysis found no reliable memory advantage for unfinished tasks. What does have support is plan-making: writing a concrete plan for an unfinished goal reduced intrusive thoughts about it (Masicampo and Baumeister, 2011). The ritual works by making that plan. Components: review open tasks, set tomorrow's first deep work task, capture everything in a trusted system (not memory), say the phrase "shutdown complete" (or your equivalent). This prevents work thoughts from colonizing recovery time.
 
 **Replanning is not failure.** When the plan changes during the day (and it will), reblock the remaining time on paper. You haven't lost the system — you've updated the map.
 
@@ -86,7 +86,7 @@ The environment is not neutral. It either supports deep work or undermines it. D
 
 **Physical space:**
 - Deep work requires an environment your brain associates with depth. If you do shallow work in the same location, your brain will route to shallow-work mode. Create a separate space for deep work if possible — or at minimum, consistent rituals that signal the transition
-- Remove all phones from the room during deep work sessions. Not silenced — removed. The mere presence of a smartphone within reach (even face-down, even off) measurably reduces available cognitive capacity (Ward et al., 2017 study)
+- Remove all phones from the room during deep work sessions. Not silenced — removed. One study found the mere presence of a smartphone within reach (even face-down, even off) reduced available cognitive capacity (Ward et al., 2017). Direct replications have mostly failed, so treat that as unproven — removing the phone also removes the temptation, which is reason enough
 - Noise policy: ambient background noise at café levels (~70dB) has modest benefits for creative work (see [creativity.md](../creativity.md)). For analytical deep work, silence is superior. Match the environment to the task type
 
 **Digital environment:**
@@ -146,7 +146,7 @@ Depth applied to the wrong things is wasted. Before asking "how do I do this wel
 
 Recovery is not wasted time. It is the other half of the system.
 
-The brain cannot sustain deep concentration indefinitely. The research on elite performers (musicians, athletes, chess players) consistently shows that the highest performers practice for 4–5 focused hours per day — not 12 hours. Beyond the sustainable concentration ceiling, additional time produces diminishing returns, then negative returns (fatigue compounds, insight degrades, errors increase).
+The brain cannot sustain deep concentration indefinitely. In Ericsson's 1993 study of violinists, the best students practiced deliberately for about 3.5 hours a day (roughly 24 hours a week) — not 12. Later research replicated the findings only in part, but the ceiling of a few hours of truly focused work a day is a sound working assumption. Beyond the sustainable concentration ceiling, additional time produces diminishing returns, then negative returns (fatigue compounds, insight degrades, errors increase).
 
 **Protect the off-switch:** When work ends for the day, it ends. No checking messages during dinner. No "just one more thing" after shutdown ritual. The shutdown ritual exists specifically to make this psychologically possible. The brain that doesn't fully recover doesn't fully perform.
 

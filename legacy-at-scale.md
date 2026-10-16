@@ -113,7 +113,7 @@ The distinction:
 
 These are not identical. Ego-driven legacy optimizes for name recognition. Service-driven legacy optimizes for transmission fidelity and sustained impact. The latter often produces more of the former, as a side effect — while the former often produces neither.
 
-Marcus Aurelius wrote *Meditations* as a private journal. He was not trying to build a legacy. He was trying to think clearly. Two thousand years later, it remains one of the most read books in the world.
+Marcus Aurelius wrote *Meditations* as a private journal. He was not trying to build a legacy. He was trying to think clearly. Nearly two thousand years later, it remains one of the most read books in the world.
 
 The ego trap is solved by the same move as everything else in this playbook: ground in the work, not the outcome. Build the thing well. Let the transmission happen.
 
@@ -150,7 +150,7 @@ Receive well. Transmit faithfully. Improve the signal in transit.
 
 That is legacy at scale.
 
-*"We do not inherit the earth from our ancestors; we borrow it from our children."* — Antoine de Saint-Exupéry
+*"We do not inherit the earth from our ancestors; we borrow it from our children."* — Origin uncertain (often called a proverb)
 
 We do not inherit these ideas from the dead. We borrow them from the unborn. Pass them forward — better, clearer, more useful than you received them.
 

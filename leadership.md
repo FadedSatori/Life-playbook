@@ -146,12 +146,13 @@ You can lose all other resources and rebuild. Lose trust and you have nothing to
 
 **Trust is not likability.** These are different things and often in tension. You can be liked without being trusted. You can be trusted without being liked. Trusted-not-liked is the stronger position. Never sacrifice trust to preserve likability.
 
-**Trust is built on three pillars** (from Charles Feltman's framework):
-1. **Competence:** I believe you can do what you say you can do. Demonstrated, not claimed.
-2. **Character:** I believe you will act with integrity even when it costs you. Especially then.
-3. **Consistency:** I can predict your behavior. You are the same in all conditions — public and private, when it's convenient and when it's not.
+**Trust is built on four elements** (Charles Feltman, *The Thin Book of Trust*):
+1. **Care:** I believe you have my interests in mind, not only your own.
+2. **Sincerity:** I believe you mean what you say and act with integrity, even when it costs you. Especially then.
+3. **Reliability:** I can count on you to do what you commit to. You are the same in all conditions — public and private, when it's convenient and when it's not.
+4. **Competence:** I believe you can do what you say you can do. Demonstrated, not claimed.
 
-All three. Not two of three. A competent liar burns bridges. A person of character who cannot execute loses the team a different way. A person who is excellent and honest but unpredictable generates anxiety rather than confidence.
+All four. A competent liar burns bridges. A sincere person who cannot execute loses the team a different way. A person who is excellent and honest but unreliable generates anxiety rather than confidence. A person who delivers but doesn't care is followed only as far as the paycheck goes.
 
 **Trust is destroyed by:**
 - Breaking explicit commitments.
@@ -162,7 +163,7 @@ All three. Not two of three. A competent liar burns bridges. A person of charact
 
 The math is asymmetric. Trust deposits are small and slow. Trust withdrawals are large and fast. One act of cowardice or self-dealing can undo months of construction. This is not negotiable.
 
-**The repair of broken trust** is possible but slow. It requires the same three pillars — demonstrated, over time, not declared. The apology does not restore trust. The consistent behavior afterward does.
+**The repair of broken trust** is possible but slow. It requires the same four elements — demonstrated, over time, not declared. The apology does not restore trust. The consistent behavior afterward does.
 
 ---
 
@@ -234,9 +235,9 @@ At each stage, the effective range of your leadership depends on your own develo
 
 **George S. Patton — Aggressive Command.** The 3rd Army's movement across France is a study in what happens when an organization is animated by a leader's total conviction. Patton believed in offensive action with a fervor that made his whole command believe in it. Speed as a weapon. Decision over perfection. The lesson: a leader's certainty in the mission is transmissible — it raises the operating tempo of everyone who catches it. The cautionary tale is equally instructive: Patton's aggression without Eisenhower's constraint produced spectacular failures of judgment. Conviction without wisdom is dangerous. Read *Patton: A Genius for War* by Carlo D'Este.
 
-**Marcus Aurelius — Leadership from Values.** Emperor of Rome, commander of legions, administrator of an empire of 60 million — who spent his private journals reminding himself to be better than he was. Not recording his victories. Diagnosing his failures of character. The *Meditations* are not inspirational content. They are a disciplined interrogation of the gap between who he was and who he intended to be, conducted in private, repeatedly, for decades. The lesson: power does not corrupt the person with an anchor. The anchor is values practiced daily, with full honesty about where you fell short. Read *Meditations*, translated by Gregory Hays.
+**Marcus Aurelius — Leadership from Values.** Emperor of Rome, commander of legions, administrator of an empire of 60 million — who spent his private journals reminding himself to be better than he was. Not recording his victories. Diagnosing his failures of character. The *Meditations* are not inspirational content. They are a disciplined interrogation of the gap between who he was and who he intended to be, conducted in private, repeatedly, over roughly a decade, much of it on military campaign. The lesson: power does not corrupt the person with an anchor. The anchor is values practiced daily, with full honesty about where you fell short. Read *Meditations*, translated by Gregory Hays.
 
-**Ernest Shackleton — Leading Through Catastrophe.** When the *Endurance* was crushed by Antarctic ice in 1915, Shackleton spent 20 months keeping 27 men alive with no possibility of rescue, no external support, and no certainty of survival. Every man came home. The lessons: morale is a mission-critical variable, not a soft concern. Physical hardship is survivable when people believe that someone competent is working on their behalf and genuinely cares whether they live. Shackleton managed individual morale, prevented factional division, projected certainty he did not fully feel, and kept men productive when they had every reason to despair. His composure under genuine catastrophe is the clearest large-scale demonstration of the "calm is contagious" principle in the historical record. Read *Endurance* by Alfred Lansing.
+**Ernest Shackleton — Leading Through Catastrophe.** The *Endurance* was trapped in Antarctic pack ice in January 1915 and crushed that October. From the trapping to the final rescue in August 1916, Shackleton spent about 20 months keeping his 27 men alive with no possibility of outside rescue, no external support, and no certainty of survival. Every man of the *Endurance* party came home. The lessons: morale is a mission-critical variable, not a soft concern. Physical hardship is survivable when people believe that someone competent is working on their behalf and genuinely cares whether they live. Shackleton managed individual morale, prevented factional division, projected certainty he did not fully feel, and kept men productive when they had every reason to despair. His composure under genuine catastrophe is the clearest large-scale demonstration of the "calm is contagious" principle in the historical record. Read *Endurance* by Alfred Lansing.
 
 ---
 

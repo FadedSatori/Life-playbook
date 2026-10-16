@@ -12,7 +12,7 @@ Go further: you fall to the level of your environment. Systems are downstream of
 
 ## The Principle
 
-Willpower is a limited resource. It depletes. The person relying on willpower to maintain their identity is burning high-octane fuel for low-gear output.
+Willpower is unreliable. It fluctuates with fatigue, stress and mood, so don't build systems that depend on it. (The popular "ego depletion" idea — that willpower is a tank that runs dry — failed large preregistered replications: Hagger et al., 2016; Vohs et al., 2021.) The person relying on willpower to maintain their identity is burning high-octane fuel for low-gear output.
 
 The alternative: make the desired behavior automatic by making it the easiest available option. Make the undesired behavior inconvenient by introducing friction. The result: the same net output, at a fraction of the cognitive cost.
 
@@ -131,7 +131,7 @@ Peter Gollwitzer's research on goal achievement identified a simple intervention
 
 The mechanism: implementation intentions create a conditional association in memory that makes the behavior semi-automatic when the condition is met. You have pre-decided. In the moment, you are executing a decision already made, not deliberating anew.
 
-The research: implementation intentions increase follow-through rates by 200–300% across domains (exercise, diet, medication adherence, study habits). The intervention is costless and the effect is robust. There is no reason not to use it for every habit you are trying to build.
+The research: across about 94 studies, Gollwitzer & Sheeran (2006) found a medium-to-large effect on goal attainment across domains (exercise, diet, medication adherence, study habits), and individual studies have shown large increases in follow-through. The intervention is costless and the effect is robust. There is no reason not to use it for every habit you are trying to build.
 
 **Temptation bundling** (Katy Milkman, Wharton): Pair a behavior you want to do with a behavior you need to do. Only listen to your preferred podcast while walking. Only watch your preferred show while exercising. The desired activity becomes the reward and the cue for the necessary one. You want the bundle; you get both.
 

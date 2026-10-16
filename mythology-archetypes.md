@@ -10,7 +10,7 @@ The ancient myths are not children's stories. They are instruction manuals for n
 
 The same story appears in every culture across all of recorded human history. That is not coincidence. It is a map of the psyche's development under pressure.
 
-**The 12 stages — compressed:**
+**The 12 stages — compressed.** This 12-stage version is Christopher Vogler's adaptation (*The Writer's Journey*); Campbell's original monomyth has 17 stages.
 
 1. **The Ordinary World** — You in your current comfortable state
 2. **The Call to Adventure** — Something disrupts the status quo. An opportunity, a crisis, a summons
@@ -18,13 +18,14 @@ The same story appears in every culture across all of recorded human history. Th
 4. **Meeting the Mentor** — A guide, a book, a teaching, an experience — something equips you
 5. **Crossing the Threshold** — Committing. Leaving the ordinary world. No return to who you were
 6. **Tests, Allies, Enemies** — The journey reveals who you actually are and who is actually with you
-7. **The Ordeal** — The central death-and-rebirth. Your deepest fear confronted. You die to a smaller self
-8. **The Reward** — You claim what you came for. The capability, the insight, the thing
-9. **The Road Back** — Returning is its own challenge. The world hasn't changed, but you have
-10. **Resurrection** — A final test where the transformation is proven under maximum pressure
-11. **Return with the Elixir** — You bring the gift back to the world. This is the point of the journey
+7. **Approach to the Inmost Cave** — Closing in on the thing you fear most. Preparation, doubt, the last chance to turn back
+8. **The Ordeal** — The central death-and-rebirth. Your deepest fear confronted. You die to a smaller self
+9. **The Reward** — You claim what you came for. The capability, the insight, the thing
+10. **The Road Back** — Returning is its own challenge. The world hasn't changed, but you have
+11. **Resurrection** — A final test where the transformation is proven under maximum pressure
+12. **Return with the Elixir** — You bring the gift back to the world. This is the point of the journey
 
-**The practice:** When you face a major life transition — career change, relationship ending, identity crisis, loss — map it onto this structure. You are not lost. You are in stage 3, or stage 7, or stage 9. Knowing where you are changes everything.
+**The practice:** When you face a major life transition — career change, relationship ending, identity crisis, loss — map it onto this structure. You are not lost. You are in stage 3, or stage 8, or stage 10. Knowing where you are changes everything.
 
 ---
 
@@ -98,7 +99,7 @@ The three primary engines of refusal:
 
 ### The Cost of Refusal
 
-Campbell: "The call is not going away. It changes form, escalates, and eventually produces a life crisis proportional to the size of the refused call."
+Campbell (attributed; no known source): "The call is not going away. It changes form, escalates, and eventually produces a life crisis proportional to the size of the refused call."
 
 The soft cost: a low-grade awareness that you are not living the life available to you. The background hum of unlived potential. The comparison to others who went when called. The wondering.
 
@@ -147,9 +148,9 @@ Myths are not history. They are concentrated truth about the human condition, en
 
 ### Odysseus: The Cunning Survivor
 
-**The myth:** Ten years after winning the Trojan War, Odysseus spends another ten years trying to get home. He faces gods, monsters, temptations, and his own failures. He survives when stronger heroes do not — not through force, but through cunning, adaptability, and the absolute clarity of his purpose: homecoming.
+**The myth:** After ten years fighting the Trojan War, Odysseus spends another ten years trying to get home. He faces gods, monsters, temptations, and his own failures. He survives when stronger heroes do not — not through force, but through cunning, adaptability, and the absolute clarity of his purpose: homecoming.
 
-**The operative principle:** Intelligence over force. Odysseus is not the strongest hero — Achilles is. He is not the most pious — that is Ajax. He is the most adaptive. He reads the situation and responds to what is actually happening rather than what he wishes were happening. When he cannot fight, he hides. When he cannot hide, he deceives. When he can fight, he fights. He does what the moment requires, without ego attached to the method.
+**The operative principle:** Intelligence over force. Odysseus is not the strongest hero — Achilles is. He is the most adaptive. He reads the situation and responds to what is actually happening rather than what he wishes were happening. When he cannot fight, he hides. When he cannot hide, he deceives. When he can fight, he fights. He does what the moment requires, without ego attached to the method.
 
 **Homecoming as the real quest:** The journey is the outer form; the return is the purpose. Odysseus never forgets where he is going. Every distraction — Circe, the Sirens, Calypso — is a seduction to forget the homecoming. He is tempted. He delays. But he does not abandon the destination. The clarity of final purpose is what makes each adaptation possible without getting lost in it.
 
@@ -268,13 +269,13 @@ The Masochist in modern life: the person who accepts mistreatment without respon
 **Mature:** Knowledge, transformation, initiation. Holds knowledge that others don't have access to, and uses it in service of growth. Can see behind the curtain — understands how systems, people, and situations actually work.
 
 **Shadow — The Manipulator:** Uses knowledge to deceive, control, and exploit.
-**Shadow — The Naive:** Refuses to engage with the complexity of how things actually work. Willfully ignorant.
+**Shadow — The Denying "Innocent" One:** Refuses to engage with the complexity of how things actually work. Willfully ignorant.
 
 **Modern manifestations of the Magician shadow:**
 
 The Manipulator in modern life: the consultant who creates dependency rather than capability; the therapist who subtly undermines the client's other relationships; the advisor who withholds the simple solution to maintain their relevance; the partner who uses psychological knowledge to control rather than connect. The Manipulator is the Magician who has turned the knowledge toward personal gain rather than toward the service of transformation.
 
-The Naive in modern life: the idealist who refuses to account for human nature in their planning; the person who insists on trusting everyone equally despite evidence; the leader who cannot understand why their clearly good idea is being resisted politically. The Naive is not innocent — they are willfully ignorant. They know the complexity is there; they refuse to look at it.
+The Denying "Innocent" One in modern life: the idealist who refuses to account for human nature in their planning; the person who insists on trusting everyone equally despite evidence; the leader who cannot understand why their clearly good idea is being resisted politically. The Denying "Innocent" One is not innocent — they are willfully ignorant. They know the complexity is there; they refuse to look at it.
 
 ---
 
@@ -367,8 +368,8 @@ The archetypes do not disappear when they are not integrated. They go undergroun
 
 Work with the myths. Not as belief, but as tool. Know which stage you are in. Know which archetype is dominant and which is starved. Know which mythic figure most resembles your current challenge. Then act accordingly — with the cunning of Odysseus, the endurance of Hercules, the self-sacrifice of Odin, and the purpose that Achilles lacked.
 
-*"The cave you fear to enter holds the treasure you seek."* — Joseph Campbell
+*"The very cave you are afraid to enter turns out to be the source of what you were looking for."* — Joseph Campbell, *Reflections on the Art of Living* (compiled by Diane Osbon, 1991)
 
-*"We must be willing to let go of the life we planned so as to have the life that is waiting for us."* — Joseph Campbell
+*"We must let go of the life we have planned, so as to accept the one that is waiting for us."* — Joseph Campbell, *Reflections on the Art of Living* (1991)
 
-*"I am not what happened to me. I am what I choose to become."* — Carl Jung
+*"I am not what happened to me. I am what I choose to become."* — attributed to Carl Jung (no source in his writings)

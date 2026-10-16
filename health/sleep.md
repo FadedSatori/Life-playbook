@@ -6,7 +6,7 @@ Sleep is the highest-leverage health intervention available. Every other protoco
 
 ## Why It's the Priority
 
-During sleep, the brain clears metabolic waste via the glymphatic system — the same waste that accumulates in Alzheimer's pathology. Growth hormone is released in its largest daily pulse. Memory consolidates. Emotional processing occurs. Immune function runs maintenance. Muscle protein synthesis peaks.
+During sleep, the brain clears metabolic waste via the glymphatic system — the same waste that accumulates in Alzheimer's pathology. Growth hormone is released in its largest daily pulse. Memory consolidates. Emotional processing occurs. Immune function runs maintenance. Muscle repair and recovery run on the deep-sleep growth hormone pulse.
 
 There is no biohack, supplement, or protocol that compensates for chronic sleep deprivation. Everything else depends on this.
 
@@ -27,10 +27,10 @@ Understanding the mechanism makes the rules obvious rather than arbitrary.
 **Chronotype:** Morning types (larks) have circadian rhythms set slightly early. Evening types (owls) run slightly late. Chronotype is partly genetic — the PER3 gene is one of several identified contributors. The prescription is not to fight your chronotype but to work with it — scheduling your high-cognitive-demand work during your natural peak, and not expecting 6am productivity from an 11pm circadian rhythm. Forcing a night owl to operate on a lark schedule creates chronic social jet lag with real metabolic consequences.
 
 **Light as the primary zeitgeber (time-giver):**
-- Morning bright light exposure (10–15 minutes outside within the first hour of waking, or 1,000+ lux from a light therapy box) is the strongest signal for anchoring the circadian rhythm to the desired wake time
+- Morning bright light exposure (10–15 minutes outside within the first hour of waking, or a 10,000-lux light therapy box) is the strongest signal for anchoring the circadian rhythm to the desired wake time
 - Evening light of any wavelength suppresses melatonin — it is not only blue light but total lux that matters
 - The practical rule: maximize bright light exposure in the morning; minimize all light (not just blue light) in the 2 hours before bed
-- An overcast day outside produces 10,000+ lux. A typical indoor room produces 100–500 lux. Morning light is not optional for circadian health — it cannot be replicated by indoor lighting at normal intensities
+- Even an overcast day outside typically produces 1,000+ lux, and a clear day tens of thousands. A typical indoor room produces 100–500 lux. Morning light is not optional for circadian health — it cannot be replicated by indoor lighting at normal intensities
 
 ---
 
@@ -62,7 +62,7 @@ SWS is the body's primary restoration phase. During SWS:
 - Cerebral glucose replenishment occurs
 - The glymphatic system runs its clearance function at maximum efficiency (see below)
 
-SWS is concentrated in the early part of the night. An alcohol-impaired early night preferentially destroys SWS, which is why drinking before bed produces the twin effects of easier sleep onset but profoundly degraded physical recovery.
+SWS is concentrated in the early part of the night. Alcohol doesn't wipe it out there — it tends to deepen early-night SWS — but it fragments the second half of the night as it's metabolized (Ebrahim et al., 2013), which is why drinking before bed produces the twin effects of easier sleep onset and worse overall sleep.
 
 ### REM Sleep — The Emotional and Creative Processor
 
@@ -75,7 +75,7 @@ During REM:
 - Motor skill learning consolidation continues
 - Emotional regulation capacity is rebuilt for the next day
 
-REM is concentrated in the last third of the night. Cutting 8 hours to 6 hours removes approximately 50% of your total REM sleep — not 25% — because of the disproportionate distribution across the night.
+REM is concentrated in the last hours of the night. Cutting 8 hours to 6 hours cuts disproportionately into REM — the hours you lose are the REM-richest of the night.
 
 **SWS and REM are non-substitutable.** You cannot get extra SWS to compensate for missing REM, or vice versa. Both are necessary and serve categorically different functions.
 
@@ -100,7 +100,7 @@ The most widely underestimated sleep disruptor. Alcohol is a sedative, not a sle
 ### Sleep Aids (Ambien/Zolpidem Class)
 Benzodiazepines and z-drugs (Ambien, Lunesta) sedate rather than produce natural sleep. The distinction is neurologically significant:
 - Sedation-induced unconsciousness lacks the brain wave signatures of natural sleep stages
-- These drugs suppress both SWS and REM — you are unconscious but not truly sleeping in the biological sense
+- Sedative-hypnotics can change sleep architecture, including reducing REM or slow-wave sleep, depending on the drug. They do produce sleep, but not necessarily restorative sleep. Talk to a doctor before starting or stopping them
 - The memory consolidation and emotional processing functions do not occur at normal efficiency
 - Dependency develops quickly; rebound insomnia on cessation reinforces dependency
 - For genuine insomnia, CBT-I (Cognitive Behavioral Therapy for Insomnia) has superior long-term outcomes to pharmacological intervention and is the recommended first-line treatment
@@ -122,9 +122,9 @@ Benzodiazepines and z-drugs (Ambien, Lunesta) sedate rather than produce natural
 
 ## The Glymphatic System: The Alzheimer's Prevention Mechanism
 
-In 2012, neuroscientist Maiken Nedergaard at the University of Rochester discovered the glymphatic system — a network of channels surrounding brain blood vessels through which cerebrospinal fluid flows to clear metabolic waste products from brain tissue. This was not known to exist in humans before this discovery.
+In 2012, neuroscientist Maiken Nedergaard at the University of Rochester discovered the glymphatic system — a network of channels surrounding brain blood vessels through which cerebrospinal fluid flows to clear metabolic waste products from brain tissue. It was first described in mice; human evidence has followed but is less direct.
 
-The glymphatic system runs primarily during sleep, and specifically during slow-wave sleep. During sleep, brain cells shrink by approximately 60%, creating larger gaps between cells that allow cerebrospinal fluid to flow more freely and clear waste at a rate roughly 2x faster than during wakefulness.
+The glymphatic system runs primarily during sleep, and specifically during slow-wave sleep. In mice, the space between brain cells grew by about 60% during sleep (Xie et al., 2013), allowing cerebrospinal fluid to flow more freely and clear waste roughly 2x faster than during wakefulness — a rate also measured in mice.
 
 **What it clears:** Among the key waste products cleared by the glymphatic system during sleep is amyloid beta — the protein fragment that forms the plaques characteristic of Alzheimer's disease. It also clears tau protein and other metabolic byproducts of the brain's activity during waking hours.
 
@@ -138,15 +138,15 @@ The glymphatic system runs primarily during sleep, and specifically during slow-
 
 ### Van Dongen's Research: The Impairment You Can't Feel
 
-Hans Van Dongen at Penn conducted the seminal sleep restriction study. Subjects restricted to 6 hours per night for 14 days showed cognitive impairment equivalent to two full nights of total sleep deprivation (24+ hours awake). Their subjective sleepiness ratings plateaued after a few days — they stopped feeling as sleepy as they actually were.
+Hans Van Dongen at Penn conducted the seminal sleep restriction study. Subjects restricted to 6 hours per night for 14 days showed cognitive impairment equivalent to two full nights of total sleep deprivation (48+ hours awake). Their subjective sleepiness ratings plateaued after a few days — they stopped feeling as sleepy as they actually were.
 
 This is the most dangerous aspect of sleep deprivation: **metacognitive blindness**. You do not feel as impaired as you are. The subjective sense of "feeling fine" decouples from actual cognitive performance. People on 6-hour nights consistently rate themselves as only slightly impaired while their measured reaction time, decision quality, and working memory performance are at a catastrophic level.
 
 The practical implication: you cannot use your subjective sense of tiredness to calibrate your sleep need. You need a target (8 hours for most adults) and you need to hit it regardless of how you feel, because the instrument you would use to gauge whether you need more sleep is itself impaired by the deprivation.
 
-### The "Only 8 Nights" Rule
+### Recovery Takes Longer Than You Think
 
-The good news from the research: acute sleep debt (accumulated over a week or two) can be largely recovered. Full recovery of cognitive performance from 1–2 weeks of restriction appears to require approximately 8 nights of adequate sleep, not weeks. However, this requires full nights of 8–9 hours, not partial recovery.
+The good news from the research: acute sleep debt (accumulated over a week or two) can be largely recovered. The bad news: not in a weekend. In the Need for Sleep study (Lo et al., 2016), adolescents restricted to 5-hour nights for a week still hadn't regained baseline attention or alertness after two recovery nights. There is no established number of nights; plan on a week or more of full 8–9 hour nights, not partial recovery.
 
 What does not recover quickly: the long-term cumulative effects of years of chronic restriction. Short-term debt is recoverable. Years of insufficient sleep produce structural changes that take much longer, if they fully recover at all.
 
@@ -170,12 +170,12 @@ The fix is not discipline — it is structural. Close the gap between your biolo
 
 ## Sleep and Athletic Performance
 
-Matthew Walker's research on NBA and other professional athletes:
+What the research on athletes shows:
 
-- Injury rates are 1.7x higher on 6 hours of sleep vs. 8 hours
+- Milewski et al. (2014): adolescent athletes who slept under 8 hours had about 1.7 times the injury risk (self-reported sleep)
 - Reaction time, peak muscular strength, sprint speed, cardiovascular output, and lactate clearance all degrade measurably on restricted sleep
 - Cognitive errors in sport (wrong reads, poor decisions under pressure) increase significantly
-- **Testosterone:** One week of 5-hour nights reduces testosterone levels by 10–15% — equivalent to aging 10–15 years. Sleep is the primary driver of testosterone production; this is not a supplementation problem, it's a sleep problem.
+- **Testosterone:** One week of 5-hour nights reduces testosterone levels by 10–15% — equivalent to aging 10–15 years. (That result comes from a small study of 10 young men.) Sleep is one of the major influences on testosterone, along with body fat, illness, and age. If yours is low and your sleep is poor, fix the sleep first and see a doctor before considering supplements.
 - **Cardiovascular health:** Insufficient sleep (under 6 hours) is associated with significantly elevated cardiovascular disease risk across multiple large population studies
 
 The athlete who stays up late watching film, then cuts sleep, is making a direct trade: less recovery for more information. The information does not compensate for the degraded physical and cognitive output the next day and over the season.
@@ -190,7 +190,7 @@ Core body temperature drop is a mechanical requirement for sleep initiation and 
 
 **The hot bath/sauna paradox:** A hot bath or sauna 60–90 minutes before bed paradoxically improves sleep quality, despite raising body temperature. The mechanism: heat drives blood flow to the skin surface (vasodilation), which radiates heat and accelerates the drop in core body temperature once you exit the heat exposure. The net effect is a faster and deeper core temperature decline, which accelerates sleep onset and deepens early SWS.
 
-**Cold socks:** Warming the feet (thick socks, or the hot foot bath equivalent) produces vasodilation in the extremities, which accelerates heat loss from the core through the skin surface. The feet and hands are primary heat-dissipation zones. This is not folklore — the mechanism is vasodilation-driven heat transfer.
+**Warm socks:** Warming the feet (thick socks, or the hot foot bath equivalent) produces vasodilation in the extremities, which accelerates heat loss from the core through the skin surface. The feet and hands are primary heat-dissipation zones. This is not folklore — the mechanism is vasodilation-driven heat transfer.
 
 **Core temperature management through the night:**
 - Keep the room cold
@@ -217,7 +217,7 @@ Napping is not a sign of inadequate nighttime sleep when done correctly. It is a
 - Do not do after 3pm — it will reduce sleep pressure enough to impair that night's sleep
 
 **The Caffeine Nap:**
-- Consume 100–200mg caffeine (one shot of espresso, or a caffeine capsule)
+- Consume 100–200mg caffeine (a double espresso, a mug of brewed coffee, or a caffeine capsule; a single espresso shot is only about 60–75mg)
 - Set an alarm for 20 minutes
 - Lie down and sleep immediately
 - Adenosine is cleared from receptors during the nap, and caffeine's receptor-blocking effect kicks in precisely as you wake, producing an amplified alertness rebound
@@ -239,7 +239,7 @@ Napping is not a sign of inadequate nighttime sleep when done correctly. It is a
 
 **Glycine (3g before bed):** One of the most evidence-backed sleep supplements. Glycine is an amino acid that reduces core body temperature by dilating blood vessels, supports SWS quality directly, and does not produce dependency. Research by Makoto Bannai showed glycine supplementation improved sleep quality in subjects with sleep complaints without altering sleep architecture negatively. 3g in water 30 minutes before bed.
 
-**Magnesium glycinate mechanism:** Magnesium is a cofactor in GABA synthesis (the brain's primary inhibitory neurotransmitter). GABA is what most sleep medications attempt to mimic pharmacologically. Magnesium supports endogenous GABA production and activity, producing relaxation without the sleep architecture disruption of pharmacological GABA agonists. The glycinate chelate form is superior for sleep specifically — higher bioavailability and the glycine component contributes additional sleep-promoting effects. 300–400mg 30–60 minutes before bed.
+**Magnesium glycinate mechanism:** Magnesium may support relaxation through its effects on GABA receptors (GABA is the brain's primary inhibitory neurotransmitter) and NMDA receptors — proposed mechanisms, with modest evidence. GABA is what most sleep medications attempt to mimic pharmacologically. The hoped-for upside is relaxation without the sleep architecture disruption of pharmacological GABA agonists. The glycinate chelate form is superior for sleep specifically — higher bioavailability and the glycine component contributes additional sleep-promoting effects. 300–400mg 30–60 minutes before bed.
 
 **Alcohol: the final word.** Alcohol impairs sleep architecture regardless of subjective feeling. No alcohol within 3 hours of sleep is the minimum. Zero is better on nights when recovery matters most.
 
@@ -252,12 +252,12 @@ Morning bright light is not optional for circadian health. It is the primary inp
 **The mechanism:** Light hits melanopsin-containing retinal ganglion cells in the eye, which signal the suprachiasmatic nucleus (SCN) in the hypothalamus — the master circadian clock. This signal resets the clock to the current time-of-day and triggers a cascade: cortisol rises appropriately (morning cortisol peak supports alertness and energy), melatonin onset is set for approximately 14–16 hours later, and body temperature starts rising.
 
 **Lux requirements:**
-- Outdoor light on a clear sunny day: 100,000+ lux
-- Outdoor light on an overcast day: 10,000–25,000 lux
+- Direct sunlight on a clear day: roughly 30,000–100,000+ lux
+- Outdoor light on an overcast day: roughly 1,000–10,000 lux (a dark, stormy sky can be lower); open shade on a clear day: 10,000–25,000 lux
 - Typical indoor room with overhead lights: 100–500 lux
 - Light therapy box (10,000 lux rated): ~10,000 lux at 30cm distance
 
-The morning light signal requires a minimum of approximately 1,000 lux to produce meaningful circadian setting. This is why indoor light, even bright indoor light, is insufficient — you need outdoor light or a clinical-grade light therapy box.
+The circadian response scales with intensity. Ordinary room light does have an effect — at night, about 100 lux produced more than half the phase shift of 9,000 lux (Zeitzer et al., 2000), which is why evening room light matters — but outdoor light is tens to hundreds of times brighter. For a strong morning signal, you need outdoor light or a clinical-grade light therapy box.
 
 **Protocol:** Minimum 10 minutes within the first 30–60 minutes of waking. Go outside — through glass significantly reduces the lux (glass filters UV and reduces intensity). Don't wear sunglasses during this window. If outside is impossible, a 10,000-lux light therapy box at 30cm for 20–30 minutes is the practical substitute.
 
@@ -382,4 +382,4 @@ Fix the critical tier before spending time or money on anything below it. Most p
 
 ## Cross-Reference
 
-Sleep is the recovery mechanism for everything else in the playbook. See [fitness.md](fitness.md) for training periodization and deload structure that governs physical recovery. See [nutrition.md](nutrition.md) for the pre-sleep nutrition protocol and the interaction between circadian biology and meal timing. See [longevity-protocols.md](../longevity-protocols.md) for the full science on sleep's role in cognitive longevity, immune function, and Alzheimer's prevention. See [consciousness-technologies.md](../consciousness-technologies.md) for the coherent breathing protocol (5.5 breaths per minute) which has strong evidence for reducing sleep onset time.
+Sleep is the recovery mechanism for everything else in the playbook. See [fitness.md](fitness.md) for training periodization and deload structure that governs physical recovery. See [nutrition.md](nutrition.md) for the pre-sleep nutrition protocol and the interaction between circadian biology and meal timing. See [longevity-protocols.md](../longevity-protocols.md) for the full science on sleep's role in cognitive longevity, immune function, and Alzheimer's prevention. See [consciousness-technologies.md](../consciousness-technologies.md) for the coherent breathing protocol (5.5 breaths per minute), a useful wind-down tool (evidence that it shortens sleep onset is limited).

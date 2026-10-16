@@ -15,7 +15,7 @@ Reading without retention is an expensive hobby. The goal is not to finish books
 
 ## The Forgetting Problem
 
-Ebbinghaus's forgetting curve: without any active review, approximately 70% of new information is forgotten within 24 hours. Within a month, up to 80% is gone. This is the baseline condition for any reading practice that doesn't include deliberate retrieval.
+Ebbinghaus's forgetting curve: without any active review, forgetting is steep at first and then levels off. How fast depends heavily on the material — his nonsense-syllable figures don't translate into a "percent of information forgotten." This is the baseline condition for any reading practice that doesn't include deliberate retrieval.
 
 This is not a memory failure — it is normal neural housekeeping. The brain retains information it encounters repeatedly and forgets information it encounters once. The reading system exists to defeat this default.
 
@@ -144,7 +144,7 @@ Different goals require different reading configurations.
 
 **Primary:** Books that build durable mental models. Not news, not trending takes, not content that will be irrelevant in two years.
 
-**Mix:** ~60% nonfiction, ~40% fiction. Fiction is not a leisure indulgence — it builds the capacity for inhabiting perspectives other than your own. The reader of literary fiction consistently outperforms non-readers on theory of mind tests and empathic accuracy.
+**Mix:** ~60% nonfiction, ~40% fiction. Fiction is not a leisure indulgence — it builds the capacity for inhabiting perspectives other than your own. Kidd & Castano (2013) reported that reading literary fiction improved scores on theory-of-mind tests, but later replications failed (Panero et al., 2016). Some correlational evidence links lifetime fiction reading to social understanding.
 
 **Bias toward classics and books >5 years old.** The filter of time is ruthless. A book that has been read and discussed for 20 years has survived because it contains something real. A book published last month has not been tested. Trust the time filter.
 

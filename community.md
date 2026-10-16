@@ -8,7 +8,7 @@ This file is about building what was dismantled deliberately.
 
 ## Why This Is Not Optional
 
-Robin Dunbar's research on social group sizes across primate species found a direct correlation between neocortical ratio and typical group size. For humans, the number is approximately 150 — the cognitive limit on the number of people with whom a person can maintain stable social relationships. This is not a preference. It is a neurological constraint.
+Robin Dunbar's research on social group sizes across primate species found a direct correlation between neocortical ratio and typical group size. For humans, the number is approximately 150 — the cognitive limit on the number of people with whom a person can maintain stable social relationships. This is not a preference. It is a neurological constraint. The exact number is contested — Lindenfors and colleagues (2021) found very wide uncertainty around it — so treat 150 as an order of magnitude, not a precise limit.
 
 The Dunbar layers:
 - **5 — The intimates:** The inner circle. The people you call in a crisis. The people whose deaths would devastate you. Maintained by frequent, high-investment contact.
@@ -18,7 +18,7 @@ The Dunbar layers:
 
 Above 150, an organization requires formal hierarchy, explicit rules, and enforcement mechanisms to maintain cohesion. Below 150, reputation, social reciprocity, and shared identity can do it. Most meaningful communities operate in the 50–150 range.
 
-**The epidemic:** Research on social connection consistently finds that the size and quality of social networks has declined dramatically in the post-industrial West. The percentage of Americans reporting having no close friends has tripled since 1990. The absence of tribe produces: elevated cortisol, impaired immune function, shortened lifespan, and a specific kind of meaninglessness that no amount of career success or entertainment consumption addresses.
+**The epidemic:** Research on social connection consistently finds that the size and quality of social networks has declined dramatically in the post-industrial West. The percentage of Americans reporting having no close friends rose from 3% in 1990 to 12% in 2021 — a fourfold increase (Survey Center on American Life; the 2021 survey ran during COVID). The absence of tribe produces: elevated cortisol, impaired immune function, shortened lifespan, and a specific kind of meaninglessness that no amount of career success or entertainment consumption addresses.
 
 ---
 
@@ -74,7 +74,7 @@ How does genuine belonging form? Not through proximity alone — proximity witho
 
 **Shared vulnerability and stakes.** Groups that face something real together — difficulty, risk, uncertainty, genuine challenge — form bonds that groups who share only enjoyment do not. The military unit, the intensive program cohort, the startup founding team, the religious community under external pressure. Shared hardship is the most reliable accelerant of belonging.
 
-**Repeated, unstructured time.** Daniel Kahneman's research on relationship formation: it requires approximately 50 hours of time to move from acquaintance to casual friend; 200 hours to close friend. This time cannot be manufactured through scheduled, agenda-driven interactions alone. Unstructured time — time without a specific purpose, where conversations go where they go — is what produces genuine knowing. Most modern social infrastructure doesn't provide it.
+**Repeated, unstructured time.** Jeffrey Hall's research on relationship formation (2018): it takes about 50 hours of time to move from acquaintance to casual friend, about 90 hours to friend, and more than 200 hours to close friend. This time cannot be manufactured through scheduled, agenda-driven interactions alone. Unstructured time — time without a specific purpose, where conversations go where they go — is what produces genuine knowing. Most modern social infrastructure doesn't provide it.
 
 **Genuine mutual investment.** You belong to a community when you have given something to it — time, effort, care, resources — that you didn't have to give. The investment creates the relationship. The person who only receives from a community has an audience relationship with it. The person who has served the community has a belonging relationship with it.
 
@@ -178,9 +178,9 @@ A person without sufficient belonging is operating with a handicap that affects 
 
 **Addressing it:** Not by joining more things — by going deeper in fewer things. The belonging debt is not solved by quantity of connections. It is solved by the depth of a few — by being genuinely known, genuinely accountable, and genuinely invested in a small set of people who are the same with you.
 
-*"The most important things in life are not things."* — Anthony J. D'Angelo
+*"The most important things in life are not things."* — Proverb
 
-*"In everyone's life, at some time, our inner fire goes out. It is then burst into flame by an encounter with another human being."* — Albert Schweitzer
+*"Often, too, our own light goes out, and is rekindled by some experience we go through with a fellow-man."* — Albert Schweitzer (1924)
 
 *"No man is an island, entire of itself; every man is a piece of the continent, a part of the main."* — John Donne
 

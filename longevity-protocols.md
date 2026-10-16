@@ -8,7 +8,7 @@ The goal: not just to live long, but to be physically and cognitively exceptiona
 
 ## The Four Horsemen — What Actually Kills You
 
-95%+ of deaths in the developed world come from four diseases:
+By Peter Attia's figure, about 80% of deaths among non-smokers over 50 come from four diseases:
 1. Cardiovascular disease
 2. Cancer
 3. Neurodegenerative disease (Alzheimer's, dementia)
@@ -22,7 +22,7 @@ Everything in this file targets the *upstream causes* of these four — years an
 
 ## The #1 Longevity Lever: Cardiorespiratory Fitness
 
-**VO2 max** — the maximum rate at which your body can use oxygen during exercise — is the single strongest predictor of longevity across all-cause mortality studies. Moving from "low" to "above average" VO2 max reduces all-cause mortality by approximately 45%. Moving from "average" to "elite" reduces it by a further 50%+. No drug, supplement, or other intervention comes close to this effect size.
+**VO2 max** — the maximum rate at which your body can use oxygen during exercise — is the single strongest predictor of longevity across all-cause mortality studies. In Mandsager et al. (2018, about 122,000 patients), the least-fit 25% had about five times the adjusted mortality of the elite (hazard ratio 5.04), and below-average fitness carried about 41% higher risk than above-average. No drug, supplement, or other intervention comes close to this effect size.
 
 **How to build it:**
 - **Zone 2 cardio:** 150–180 min/week of low-intensity steady-state (conversational pace, nose breathing possible). Builds mitochondrial density — the engine of every cell. Substrate: fat oxidation. Marker: you can hold a full conversation. Zone 2 is the foundation.
@@ -56,9 +56,9 @@ Muscle mass is one of the strongest predictors of longevity after 50. Sarcopenia
 Every longevity protocol fails without sleep. See [sleep.md](health/sleep.md) for the full protocol.
 
 **Longevity-specific mechanisms:**
-- **Glymphatic system activation:** During deep sleep (N3), the glymphatic system expands and flushes amyloid beta and tau proteins — the precursors of Alzheimer's plaques. Matthew Walker's research: just one night of sleep deprivation produces a measurable increase in amyloid beta burden in the brain. Chronically insufficient sleep is among the strongest modifiable risk factors for Alzheimer's.
-- **Growth hormone release:** The majority of GH secretion occurs during the first slow-wave sleep cycles. Critical for cellular repair, muscle recovery, and metabolic health. Disrupting sleep structure (alcohol is the most common disruptor of slow-wave sleep) suppresses GH.
-- **Immune function:** One night of 5 hours vs. 8 hours reduces NK (natural killer) cell activity by 70%. NK cells are the primary defense against cancerous cell proliferation. Chronically short sleep (6 hours or less) is associated with dramatically elevated cancer risk.
+- **Glymphatic system activation:** During deep sleep (N3), the glymphatic system expands and flushes amyloid beta and tau — the proteins behind Alzheimer's plaques and tangles. Shokri-Kojori et al. (2018, NIH): one night without sleep raised amyloid beta about 5% in the hippocampus and thalamus in 20 people. Chronically short sleep is linked to higher dementia risk in observational studies, though the 2024 Lancet Commission judged the evidence too thin to put sleep on its core list of 14 modifiable risk factors.
+- **Growth hormone release:** The majority of GH secretion occurs during the first slow-wave sleep cycles. Critical for cellular repair, muscle recovery, and metabolic health. Disrupting sleep structure suppresses GH.
+- **Immune function:** In Irwin's studies, one night cut to about 4 hours reduced NK (natural killer) cell activity by roughly a quarter (to about 72% of baseline). NK cells are the primary defense against cancerous cell proliferation. Whether chronically short sleep raises cancer risk is unclear: a meta-analysis of 65 studies covering about 1.5 million people (Chen et al., 2018) found no overall association.
 - **Telomere maintenance:** Sleep deprivation accelerates telomere shortening — one of the molecular hallmarks of aging.
 
 7–9 hours is not optional. It is medicine.
@@ -67,11 +67,11 @@ Every longevity protocol fails without sleep. See [sleep.md](health/sleep.md) fo
 
 ## Metabolic Health — The Foundation
 
-**Insulin sensitivity** is the metabolic master variable. Poor insulin sensitivity is upstream of cardiovascular disease, cancer, neurodegeneration, and obesity. The alarming statistic: approximately 93% of American adults have at least one marker of metabolic dysfunction.
+**Insulin sensitivity** is the metabolic master variable. Poor insulin sensitivity is upstream of cardiovascular disease, cancer, neurodegeneration, and obesity. The alarming statistic: only about 12% of US adults had optimal levels across standard metabolic markers (Araújo et al., 2019), and only 6.8% had optimal cardiometabolic health in 2017–2018 (O'Hearn et al., 2022). Roughly 88–93% fall short somewhere.
 
 **What controls it:**
 - Exercise (the most powerful lever — muscle is the primary glucose sink; resistance training is particularly powerful)
-- Sleep (one week of 6-hour nights induces near-diabetic insulin resistance in healthy adults)
+- Sleep (Spiegel et al., 1999: six nights limited to 4 hours in bed markedly reduced glucose tolerance in 11 young men; "prediabetic" was a later description, not the paper's finding)
 - Diet composition (minimize ultra-processed food, refined carbohydrates, vegetable oils; see [nutrition.md](health/nutrition.md))
 - Time-restricted eating (8–10 hour eating window — the evidence for longer fasting is thinner)
 
@@ -93,17 +93,17 @@ Brief, controlled exposure to stressors that activate the body's adaptive respon
 
 **Cold exposure:**
 - Cold shower: 2–3 min, 3–4x/week. Activates brown adipose tissue (BAT), improves mood via norepinephrine surge, modest metabolic benefit.
-- Cold plunge: 11 min/week total (across sessions) at approximately 55°F is the evidence-based target for metabolic and mood benefit. The norepinephrine increase from cold exposure is 200–300%, and persists for hours after exposure — providing sustained improvement in focus, mood, and pain tolerance.
-- Timing: morning cold exposure increases alertness and provides sustained dopamine. Avoid immediately post-training — blunts the training adaptation signal.
+- Cold plunge: the often-cited 11 min/week total (across sessions) comes from what a small group of winter swimmers did (Søberg et al., 2021), not from a tested dose. A reasonable starting point, not a proven target. Šrámek et al. (2000): an hour of head-out immersion in 14°C water raised norepinephrine about 530% and dopamine about 250%. Short plunges haven't been shown to do the same, and the study didn't measure how long the effect lasted.
+- Timing: morning cold exposure increases alertness. Avoid immediately post-training — blunts the training adaptation signal.
 
 **Heat exposure (sauna):**
-- 4x/week, 20 min at 175°F+ → 40% reduction in cardiovascular mortality (Finnish cohort study, 25 years, 2,300 men)
+- Laukkanen et al. (2015): 2,315 Finnish men followed a median of about 20 years; 4–7 sessions a week vs. once a week was associated with about 48% lower fatal coronary disease and about 40% lower all-cause mortality. Observational.
 - Mechanism: cardiovascular conditioning (heart rate reaches 120–150 bpm), heat shock protein activation (cellular cleanup and quality control), growth hormone release (post-sauna GH is 16x baseline in some studies)
 - Post-workout sauna extends the GH spike from training
-- Cognitive benefit: sauna use 4–7x/week reduces Alzheimer's and dementia risk by 65% (same Finnish cohort)
+- Cognitive benefit: in the same Finnish cohort, 4–7 sessions a week vs. once was associated with about 66% lower dementia and 65% lower Alzheimer's risk (Laukkanen et al., 2017; observational, men only)
 
 **Fasting:**
-- Time-restricted eating (16:8) — solid metabolic evidence with minimal downside for most healthy adults
+- Time-restricted eating (16:8) — modest, mixed evidence in human trials (no extra benefit over the same calorie cut in Liu et al., 2022); minimal downside for most healthy adults
 - Extended fasting (24–72 hours, 2–4x/year) — activates autophagy (cellular self-cleaning), mTOR suppression, metabolic reset; requires medical consideration if taking medications or with metabolic disease
 
 ---
@@ -119,7 +119,7 @@ Modern longevity science (Lopez-Otin et al.) identifies 12 hallmarks of aging �
 - **Cellular senescence** — exercise and fasting both stimulate clearance of senescent cells (zombie cells that drive inflammation)
 - **Chronic inflammation** — addressed by diet quality, sleep, exercise, and stress management; the common pathway through which most longevity-shortening behaviors cause damage
 
-The Morgan Levine biological age clock ("Phenotypic Age"): a blood test (phenoAge) estimates biological age from inflammatory and metabolic markers. People who follow longevity protocols consistently run 5–15 years biologically younger than their chronological age.
+Morgan Levine's "Phenotypic Age" (PhenoAge, 2018) estimates biological age from routine blood markers, and a higher PhenoAge relative to your calendar age has been linked to higher mortality risk. Whether lifestyle changes lower it, and by how much, is not well established, so treat it as a rough indicator, not a score to chase.
 
 ---
 
@@ -128,13 +128,13 @@ The Morgan Levine biological age clock ("Phenotypic Age"): a blood test (phenoAg
 The brain is not separate from the body. Every physical intervention above also protects the brain. But specific cognitive interventions add additional protection.
 
 **Specific to neurological protection:**
-- **Aerobic exercise** → the most evidence-backed intervention for Alzheimer's prevention; exercise is the only intervention that reliably grows new neurons (hippocampal neurogenesis) in adults
+- **Aerobic exercise** → the most evidence-backed intervention for Alzheimer's prevention; exercise raises BDNF and supports hippocampal health (whether adult humans grow new neurons is contested)
 - **Sleep** → glymphatic clearance (see above); the non-negotiable
-- **Social connection** → loneliness is as damaging as smoking 15 cigarettes/day (Holt-Lunstad meta-analysis); social engagement is strongly protective against cognitive decline
+- **Social connection** → Holt-Lunstad's 2010 meta-analysis found weak social ties carry a mortality risk comparable to smoking (the "up to 15 cigarettes a day" comparison is an extrapolation popularized by the 2023 US Surgeon General advisory); social engagement is strongly protective against cognitive decline
 - **Cognitive challenge** → lifelong learning, novel skill acquisition, complex problem-solving delays neurodegeneration; "cognitive reserve" — the brain's redundancy built through learning — is protective against clinical manifestation even when pathology is present
 - **Omega-3 supplementation** → DHA is the primary structural fat of the brain; 2g EPA/DHA/day; brain volume is higher in regular consumers
-- **Sauna** → reduces dementia risk independently and synergistically with exercise
-- **Hearing protection** → hearing loss in midlife is the largest modifiable risk factor for dementia; use ear protection in loud environments
+- **Sauna** → associated with lower dementia risk in the Finnish cohort above (observational)
+- **Hearing protection** → in the 2024 Lancet Commission update, midlife hearing loss ties with high LDL cholesterol as the largest modifiable risk factor for dementia (about 7% each); use ear protection in loud environments
 
 ---
 
@@ -145,13 +145,13 @@ Evidence-based supplementation — not optimization theater. These have the stro
 **Evidence A (strong):**
 - Creatine monohydrate: 3–5g daily. Muscle performance, cognitive benefit under stress/deprivation. No need to cycle.
 - Omega-3 (EPA + DHA): 2–3g combined daily. Cardiovascular, neurological, anti-inflammatory.
-- Vitamin D3 + K2: 2,000–5,000 IU D3, 100–200mcg K2. Test levels; target 40–60 ng/mL serum 25(OH)D.
+- Vitamin D3 + K2: 2,000–4,000 IU D3, 100–200mcg K2. 4,000 IU/day is the US tolerable upper intake for adults; don't go higher without testing and a clinician. The 2024 Endocrine Society guideline no longer endorses a target blood level for healthy adults and advises against routine testing (some clinicians still use 40–60 ng/mL).
 - Magnesium glycinate: 300–400mg before sleep. Sleep quality, muscle function, 300+ enzymatic processes.
 
 **Evidence B (moderate, growing):**
 - Creatine for brain (growing evidence for cognitive benefit at standard doses)
 - Berberine: 500mg with meals. Insulin sensitization; mechanism similar to metformin.
-- Collagen + Vitamin C: joint health, skin, tendon integrity. 15–20g collagen with 1g Vitamin C prior to loading exercise.
+- Collagen + Vitamin C: joint health, skin, tendon integrity. One small study (Shaw et al., 2017) found that 15g of gelatin with about 50mg of vitamin C, taken an hour before exercise, increased a marker of collagen synthesis. The evidence for real joint or tendon benefits is early.
 - Coenzyme Q10: 100–200mg. Mitochondrial function; particularly relevant for those on statins.
 
 **NMN/NAD+ precursors:** Growing evidence for metabolic and longevity benefits; cost vs. benefit still being established. Rhonda Patrick and David Sinclair supplement; Peter Attia is more skeptical. Monitor the research.

@@ -8,9 +8,9 @@ The person who treats creativity as something they either have or don't will be 
 
 ## What Creativity Actually Is
 
-Steve Johnson's research on innovation across centuries (*Where Good Ideas Come From*): most creative breakthroughs are not moments of individual genius but combinatorial events — existing ideas from different domains colliding in a way that produces something genuinely new.
+Steven Johnson's research on innovation across centuries (*Where Good Ideas Come From*): most creative breakthroughs are not moments of individual genius but combinatorial events — existing ideas from different domains colliding in a way that produces something genuinely new.
 
-The printing press + the wine press = moveable type. Darwin's natural selection = Malthus's population economics + geological time + years of observational biology. The personal computer = the microprocessor + the typewriter + the television + the counterculture's distrust of centralized information. The combinatorial view does not diminish the achievement. It explains the mechanism — and makes it replicable.
+Moveable type + a screw press adapted from the wine press = Gutenberg's printing press. Darwin's natural selection = Malthus's population economics + geological time + years of observational biology. The personal computer = the microprocessor + the typewriter + the television + the counterculture's distrust of centralized information. The combinatorial view does not diminish the achievement. It explains the mechanism — and makes it replicable.
 
 **The adjacent possible:** Stuart Kauffman's concept, applied by Johnson to creativity: at any moment, only certain combinations are possible given what currently exists. Each new combination opens new adjacent possibilities that were not accessible before. Creativity operates at the frontier of the adjacent possible — which means the more you know (more elements available for combination) and the more domains you inhabit (wider frontier), the more creative output you can generate.
 
@@ -82,7 +82,7 @@ Leonardo's notebooks: 7,000+ pages of observations, anatomical studies, engineer
 
 **The serendipity file:** A dedicated collection of unexpected juxtapositions — two ideas from different domains that produce a spark when placed next to each other. Maintained actively, revisited regularly. Some of these sparks will never amount to anything. Some will be the best thing you ever make.
 
-**The incubation walk:** When stuck — when active effort is producing nothing — leave the problem and walk for 20 minutes with no inputs. The Stanford study on creativity (Oppezzo and Schwartz) found an 81% increase in creative output during and immediately after walking compared to sitting. The mechanism: walking activates a mild form of the diffuse mind-wandering state while providing rhythmic physical input that occupies enough of the brain to quiet the problem-solving executive network.
+**The incubation walk:** When stuck — when active effort is producing nothing — leave the problem and walk for 20 minutes with no inputs. The Stanford study on creativity (Oppezzo and Schwartz, 2014) found that in one experiment, 81% of participants produced more creative ideas walking than sitting. The boost was in divergent thinking — generating ideas. The mechanism: walking activates a mild form of the diffuse mind-wandering state while providing rhythmic physical input that occupies enough of the brain to quiet the problem-solving executive network.
 
 ---
 
@@ -164,7 +164,7 @@ Every artist who has a distinct voice went through this process, whether they kn
 ## The Creative Environment
 
 **What the research says:**
-- **Mild background noise (~70dB):** Coffee shop levels of background ambient sound modestly improve creative performance compared to silence (better for analytical tasks) and loud noise (impairs both). The mechanism: ambient noise induces mild distraction that loosens focused processing, enabling more diffuse associations.
+- **Mild background noise (~70dB):** Coffee shop levels of background ambient sound modestly improve creative performance compared to quieter 50dB noise and loud 85dB noise (Mehta et al., 2012). The study did not test silence. The mechanism: ambient noise induces mild distraction that loosens focused processing, enabling more diffuse associations.
 - **Extended uninterrupted blocks:** Creative work requires long warm-up periods before the best material surfaces. The first 20–30 minutes are typically preparation. Interruptions reset the warm-up entirely. Minimum 90-minute blocks; 2–4 hours is better for generating original material.
 - **Walking before and after:** Pre-session walk (15–20 minutes) primes the creative state by activating the DMN. Post-session walk captures insights from the immediate aftermath of deep creative work, which often surfaces unexpected connections.
 - **Mild positive affect:** Creativity is higher when people are in a mildly positive state, not an intensely positive or negative one. The threat-and-anxiety state associated with "creative pressure" actually suppresses the neurochemical conditions for creative work.
@@ -200,6 +200,6 @@ The creative act is a public assertion that you have something worth attending t
 
 **The "close enough" principle:** A finished thing at 80% is worth more than an unfinished thing at 100% quality. The unfinished thing at 100% does not exist — it is a fiction used to justify not finishing. The finished thing at 80% can be responded to, learned from, and used as the foundation for the next work. Perfection is the enemy of creativity because it is the enemy of completion.
 
-*"The enemy of art is the absence of limitations."* — Orson Welles
+*"The enemy of art is the absence of limitations."* — attributed to Orson Welles
 
 *"Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep."* — Scott Adams

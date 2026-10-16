@@ -28,7 +28,7 @@ The anger response is functional: it mobilizes energy, narrows focus, and produc
 
 **The physiological signature:** Anger activates the sympathetic nervous system: heart rate increases (often past 95–100 bpm), blood pressure rises, muscles tense, breathing quickens, cortisol and adrenaline flood the system. At this level of physiological activation, Gottman's research shows that the brain's capacity for nuanced communication degrades. You cannot have a productive conversation — with yourself or others — in this state.
 
-**The resolution physiology:** The sympathetic arousal activated by anger takes time to dissipate even after the trigger is resolved — typically 20–40 minutes for the cortisol and adrenaline to metabolize. The common mistake: believing you've calmed down because the immediate trigger has passed, when the physiology is still activated. Decisions and conversations initiated within this window are still compromised.
+**The resolution physiology:** The sympathetic arousal activated by anger takes time to dissipate even after the trigger is resolved — Gottman's estimate is at least 20 minutes of genuine calming before the body settles. The common mistake: believing you've calmed down because the immediate trigger has passed, when the physiology is still activated. Decisions and conversations initiated within this window are still compromised.
 
 ---
 
@@ -84,7 +84,9 @@ The goal is not to reduce anger. It is to have anger be in service of something 
 
 **For accumulated anger (the slow burn):**
 
-Regular anger discharge prevents the buildup that produces explosions. Physical channels: intense exercise, martial arts, heavy lifting (not as punishment — as release); aggressive movement processes the hormones that anger produces. The body stores unexpressed emotion. Give it a physical outlet before it finds a psychological one.
+Regular physical outlets lower the baseline arousal that makes explosions more likely: intense exercise, martial arts, heavy lifting. They work by burning off the stress response and improving regulation, not by "getting the anger out."
+
+**A correction worth knowing:** The old idea that venting anger discharges it (catharsis) is not supported. In Brad Bushman's experiments (2002), people who hit a punching bag while thinking about someone who had angered them became *more* aggressive afterwards, not less. Rehearsing the grievance while physically aroused rehearses the anger. So: use exercise to lower arousal, and keep your mind on the movement, not on the person you're angry at. Process the substance later, calm, through writing or conversation.
 
 **The expression conversation:**
 
@@ -136,16 +138,67 @@ Integrating the shadow anger does not mean becoming an angry person. It means th
 
 ---
 
+## Seneca on Anger
+
+Seneca's *De Ira* ("On Anger"), written in the first century CE, is the most thorough ancient treatment and still reads as practical. His main points:
+
+- **Anger is a brief madness.** It distorts judgment while it runs, and it cannot be trusted to guide action. Seneca held that the wise man does not act from anger at all, since reason can do what is needed more reliably. Aristotle took a different view, allowing a measured anger. The practical overlap: whatever you call it, don't act from the peak.
+- **Delay is the greatest remedy.** "The greatest remedy for anger is delay." Don't ask anger to calm instantly; ask it to wait. Time lets the first wave pass and reason return.
+- **Anger begins with an impression, and you can intercept it.** The first jolt is involuntary. What happens next is the "assent" you give: the judgment "I've been wronged and must retaliate." Withhold the assent. See [stoic-practice.md](stoic-practice.md).
+- **Assume less bad intent.** Most offenses are error, ignorance, or thoughtlessness. Marcus Aurelius' morning rehearsal for difficult people (see [quotes.md](quotes.md)) is the same tool.
+- **Look at the costs.** Marcus Aurelius makes the same point (*Meditations* 11.18): "How much more grievous are the consequences of anger than the causes of it." Calculate what acting on it will cost.
+- **Evening review.** Seneca describes (*De Ira* 3.36) how the philosopher Sextius ended each day asking himself what bad habit he had cured, what fault he had resisted, and in what respect he was better, and Seneca adopted the practice himself. Anger, he wrote, will cease or grow milder once it knows it must come before a judge every day. Add anger to the nightly review in [routines/daily.md](routines/daily.md).
+
+**Aristotle's standard,** in the *Nicomachean Ethics*: anyone can become angry, which is easy, but to be angry with the right person, to the right degree, at the right time, for the right purpose, and in the right way is not easy. Use it as a checklist for deciding whether your anger is fit for use.
+
+---
+
+## Techniques That Work
+
+**Lower the physiology first.** Anger is a body event before a thought event.
+- **Slow exhale breathing:** inhale through the nose, exhale longer than you inhale (for example 4 in, 6–8 out) for a minute or two. Longer exhales raise vagal tone and slow the heart.
+- **Physiological sigh:** two inhales through the nose, one long exhale through the mouth, a few repetitions. Evidence from Stanford breathing research supports quick calming effects.
+- **Cold water on the face or a cold shower** can slow the heart rate through the dive reflex.
+- **Leave the room or walk.** Movement and a change of scene both help.
+- **The 20-minute rule:** Gottman found that after flooding (heart rate above roughly 100 bpm), people need at least about 20 minutes of genuinely calming activity, not rehearsing the argument, before they can engage productively. Say "I'm flooded. I need 20 minutes, and I will come back." Then actually come back.
+
+**Change the thought.**
+- **Cognitive reappraisal:** deliberately reinterpret the situation. Research on emotion regulation (Gross) finds reappraisal generally more effective and less costly than suppression. "What else could explain this?" "What would I say to a friend?"
+- **Self-distancing:** talk to yourself in the third person or ask how this will look in a week or a year. Ethan Kross' research shows it reduces reactivity.
+- **Check HALT:** hungry, angry, lonely, tired. Physical states lower the threshold. Fix the state; the offense often shrinks.
+
+**Work on the pattern, not the incident.** Keep an **anger log** for a few weeks: trigger, body signals, thought, what you did, what it cost, what you'd do differently. Triggers cluster (feeling disrespected, being rushed, unfairness, loss of control). Once you know your top three, you can prepare for them. Use the format in [decision-journal.md](decision-journal.md).
+
+**Build the early-warning system.** Learn your personal first signs: jaw, chest, hands, heat, a certain tone. Intervene at 3 out of 10, not at 9.
+
+**Cut chronic irritability at its source:** sleep ([health/sleep.md](health/sleep.md)), exercise, alcohol, blood sugar, and overload. Chronic low-grade anger often points to depletion or unaddressed stress. Persistent, intense, or frightening anger, or any violence, calls for professional help. Seeking it is strength.
+
+---
+
+## Anger in Close Quarters
+
+**In partnerships:** Gottman's "Four Horsemen" predict relationship breakdown: **criticism** (attacking character), **contempt** (superiority and disgust, the strongest predictor), **defensiveness**, and **stonewalling** (shutting down). The antidotes are, respectively: a gentle start-up using "I" statements about a specific behavior; building a culture of appreciation and respect; taking responsibility for your part; and physiological self-soothing with a break. See [relationships/intimate-partnership.md](relationships/intimate-partnership.md).
+
+**With children:** Children learn how to manage anger by watching you. Anger at a child is rarely about the child's offense; it's usually about your depletion. Pause, lower your voice, repair afterward. See [parenting.md](parenting.md).
+
+**At work:** Anger aimed at colleagues costs trust for years. Write the furious email and don't send it. Wait a day. State the issue and the request. See [communication.md](communication.md).
+
+**On the road, online:** Anonymous and mediated settings strip cues that normally restrain us. Assume the worst of no one; don't answer in the heat; step away. Outrage content is built to capture you. See [attention.md](attention.md).
+
+---
+
 ## What Anger Is Not For
 
-Anger is not a relationship management tool. It does not produce compliance through fear — it produces compliance through fear, and fear is not the same as respect. The leader or partner who relies on anger to produce results has traded short-term compliance for long-term resentment, and is building a relationship that exists only until the dependent party has better options.
+Anger is not a relationship management tool. It does not produce respect — it produces compliance through fear, and fear is not the same as respect. The leader or partner who relies on anger to produce results has traded short-term compliance for long-term resentment, and is building a relationship that exists only until the dependent party has better options.
 
 Anger is not an argument. "I feel strongly about this" is not evidence that you are right. Anger does not establish truth; it signals investment. The person who confuses the emotional intensity of their position for the quality of their reasoning will be wrong with great conviction.
 
 Anger is not a substitute for grief. They are neighbors in the emotional range — both activated by loss, both responding to what cannot be controlled. Anger has a target and an action component; grief does not. Some of what presents as anger is actually grief that has been redirected to a target because anger feels more powerful and less vulnerable. The misdirection prolongs both.
 
-*"Speak when you are angry and you will make the best speech you will ever regret."* — Ambrose Bierce
+*"Speak when you are angry and you will make the best speech you will ever regret."* — usually credited to Ambrose Bierce, but not found in his works; the earliest known version is Groucho Marx's, 1954 (Quote Investigator)
 
-*"For every minute you remain angry, you give up sixty seconds of peace of mind."* — Ralph Waldo Emerson
+*"For every minute you remain angry, you give up sixty seconds of peace of mind."* — commonly attributed to Ralph Waldo Emerson (source unverified)
 
-*"Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured."* — Marcus Aurelius (attributed)
+*"Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured."* — often attributed to Mark Twain or Marcus Aurelius; the attribution to either is unverified. The idea is sound; the credit is doubtful.
+
+*"The greatest remedy for anger is delay."* — Seneca, *De Ira*

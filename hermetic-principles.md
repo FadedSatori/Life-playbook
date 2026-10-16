@@ -1,6 +1,6 @@
 # Hermetic Principles
 
-Seven laws from the ancient Hermetic tradition — attributed to Hermes Trismegistus, preserved in *The Kybalion* (1908), rooted in Egyptian and Greek philosophy. Not mysticism. A set of operating principles that describe how reality is structured. Every serious tradition — Stoic, Buddhist, Sufi, modern systems science — converges on variations of these.
+Seven laws from *The Kybalion* (1908) — a New Thought book usually credited to William Walker Atkinson, which presents them as ancient Hermetic teaching from Hermes Trismegistus. The seven principles originate there; only "as above, so below" echoes an older source, the Emerald Tablet. Not mysticism. A set of operating principles that describe how reality is structured. Every serious tradition — Stoic, Buddhist, Sufi, modern systems science — converges on variations of these.
 
 Understand them not as beliefs to adopt but as lenses to see with.
 
@@ -27,7 +27,7 @@ Everything that exists has a mental component. Consciousness is not a byproduct 
 
 *"As it is above, so it is below; as it is below, so it is above."*
 
-The same patterns appear at every scale. The structure of the atom mirrors the structure of the solar system. The structure of a cell mirrors the structure of an organism. The structure of an individual mirrors the structure of a civilization. The macro reflects the micro.
+The same patterns appear at every scale. (The old picture of the atom as a miniature solar system is outdated physics — don't lean on it.) The structure of a cell mirrors the structure of an organism. The structure of an individual mirrors the structure of a civilization. The macro reflects the micro.
 
 **Modern translation:** Cross-domain thinking is not analogy — it is correspondence. The same laws govern all systems at all scales. Learn the pattern at one level, and you've learned it at every level. This is why Munger's latticework works — it is a practical application of the Principle of Correspondence.
 
@@ -118,7 +118,7 @@ Every complete thing contains both generative (masculine) and receptive (feminin
 
 ## Scientific Convergence
 
-The Hermetic tradition is ancient. But it is not obsolete — because every serious modern discipline converges on versions of the same principles.
+The Hermetic tradition is old, though this seven-principle form dates only to 1908. But it is not obsolete — because every serious modern discipline converges on versions of the same principles.
 
 **Mentalism:** Cognitive science, neuroscience, and psychology all confirm that the brain constructs reality rather than perceiving it directly. Predictive processing (Karl Friston): the brain is primarily a prediction engine, constantly generating and updating models of what it expects to encounter. You don't perceive the world — you perceive your model of the world, updated by sensory input. Change the model; change the perceived reality.
 
@@ -126,11 +126,11 @@ The Hermetic tradition is ancient. But it is not obsolete — because every seri
 
 **Vibration:** Quantum field theory describes matter as excitations in underlying quantum fields — everything is, at its foundation, vibrating energy. Neuroscience describes emotional states as physiological patterns (vagal tone, cortisol levels, HRV) that can be deliberately shifted through breath, movement, and environmental design. The Vibration principle is the ancient formulation of what modern psychophysiology confirms.
 
-**Polarity:** Dialectical thinking in philosophy (thesis → antithesis → synthesis), polarity therapy in psychology, the Jungian understanding of the shadow as the opposite of the conscious identity — all describe the same underlying structure. The most stable psychological states are integrated polarities, not suppressed ones.
+**Polarity:** Dialectical thinking in philosophy (thesis → antithesis → synthesis), the Jungian understanding of the shadow as the opposite of the conscious identity — all describe the same underlying structure. The most stable psychological states are integrated polarities, not suppressed ones.
 
 **Rhythm:** Chronobiology has mapped ultradian rhythms (90-minute cycles of alertness), circadian rhythms (24-hour wake-sleep), and infradian rhythms (seasonal, monthly). Every biological system operates in rhythms. Recovery is not optional — it is the mechanism by which the system consolidates and grows.
 
-**Cause and Effect:** Chaos theory (deterministic systems producing unpredictable outcomes due to sensitivity to initial conditions) and complexity science both confirm: nothing is truly random. Causality runs deeper than visible correlation. The practical implication: trace effects back to causes. The causes can be modified; the effects follow.
+**Cause and Effect:** Chaos theory shows that deterministic systems can behave unpredictably because of sensitivity to initial conditions — what looks like chance can be cause too fine to trace. It does not show that nothing is random. Causality runs deeper than visible correlation. The practical implication: trace effects back to causes. The causes can be modified; the effects follow.
 
 **Gender:** Yin/yang in Taoism, Shiva/Shakti in Hinduism, anima/animus in Jungian psychology, the masculine/feminine principles in every wisdom tradition — all describe the same structural polarity. Neither force is superior. Neither alone is creative. All generation requires both directed will and receptive space.
 
