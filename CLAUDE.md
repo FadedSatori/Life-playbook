@@ -43,3 +43,26 @@ Root-level topic files are grouped into sections in `index.md` (Operator, Depth,
 - Update `the-architecture.md` when adding a major new file so the system map stays current.
 - Update this file if the folder structure changes significantly.
 - Verify factual claims, numbers, and attributions before writing them in. Prefer named, checkable sources; flag anything uncertain rather than inventing precision.
+- Read `HANDOFF.md` at the start of a session for the current state, open items, and known unverified claims.
+
+## Accuracy Standards
+
+Two fact-check passes found roughly 250 errors in earlier content. Hold new writing to these rules:
+
+1. **Name only real, correctly attributed sources.** Researcher + year in prose; no URLs or footnotes in the text. Give a year or number only when sure; prefer "about" or "roughly."
+2. **Quotation marks only for verified wording.** Otherwise paraphrase. Popular internet quotes credited to Einstein, Churchill, Lincoln, Marcus Aurelius, Bruce Lee, Jung, and similar figures are often fake; mark them "attributed (unverified)" or find the real source.
+3. **Flag contested and failed-to-replicate findings.** Known problem claims, already corrected in the repo, include power-posing hormones, ego depletion, 10,000 hours as a threshold, Mehrabian's 7-38-55 as a general rule, the backfire effect as common, "21 days to form a habit" (Lally 2010: median about 66), the Zeigarnik memory effect, Ward 2017 phone presence, MBTI validity, and lie detection by cues (about 54% accuracy). Don't reintroduce them.
+4. **Health, legal, safety, and financial content** stays conservative, general, and points to professionals. Crisis lines and hotlines must be verified; they change (1-800-GAMBLER was reassigned in 2025).
+5. **Don't revert earlier corrections.** Wording such as "attributed to," "paraphrase," "unverified," "observational," and "in mice" is deliberate.
+6. **Defensive framing** for the intelligence, manipulation, and security files: recognize, resist, report. No how-tos for surveilling, tracking, deceiving, or harming people.
+
+## Working Notes for Claude Sessions
+
+- **Personal files:** don't rewrite `about/levi-satori.md` or `principles.md` without the owner asking; propose edits instead.
+- **Web access:** WebSearch works; WebFetch and direct HTTP to most hosts are blocked by this environment's network policy, so the `deep-research` workflow returns nothing. Use agents with WebSearch instead. Web searches share a budget of about 200 per turn across all agents.
+- **Workflow that works:** parallel agents for writing or checking, each owning separate files; review every diff yourself before committing; commit per group with a descriptive message.
+- **Before every commit**, check that relative links resolve:
+
+  ```bash
+  find . -name '*.md' -not -path './.git/*' -not -name CLAUDE.md | while read f; do d=$(dirname "$f"); grep -o '\]([^)#]*\.md[^)]*)' "$f" | sed 's/^](//; s/)$//; s/#.*//' | sort -u | while read l; do [ -f "$d/$l" ] || echo "BROKEN in $f: $l"; done; done
+  ```
