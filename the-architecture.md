@@ -25,6 +25,8 @@ The bedrock. If this is unstable, nothing above it holds.
 - **Who you are:** [principles.md](principles.md) — the value system, the decision filter, the non-negotiables
 - **The physical substrate:** [health/fitness.md](health/fitness.md), [health/sleep.md](health/sleep.md), [health/nutrition.md](health/nutrition.md) — the body as instrument and weapon
 - **The daily practice:** [routines/daily.md](routines/daily.md) — the structure that keeps everything else alive
+- **The moral spine:** [ethics.md](ethics.md) — how to reason about right and wrong when the rules run out
+- **Command of appetite and limits:** [addiction-and-vices.md](addiction-and-vices.md), [boundaries.md](boundaries.md) — keeping appetites, and other people's demands, from running your life
 
 These are not optional. They are the ground floor. An impeccable daily routine with a compromised body and confused values produces inconsistent results. Get the foundation right before optimizing anything else.
 
@@ -37,7 +39,10 @@ The programmable layer. How you process reality, make decisions, and govern your
 - **Ancient code:** [warrior-codes.md](warrior-codes.md), [stoic-practice.md](stoic-practice.md) — the ethical and philosophical firmware
 - **Cognitive architecture:** [mental-models/decision-making.md](mental-models/decision-making.md), [cross-domain-thinking.md](cross-domain-thinking.md), [polymath-system.md](polymath-system.md) — how you think
 - **Reality protection:** [epistemic-self-defense.md](epistemic-self-defense.md) — how you protect the mind from manipulation
+- **Thinking clearly about evidence:** [scientific-thinking.md](scientific-thinking.md), [cognitive-biases.md](cognitive-biases.md), [problem-solving.md](problem-solving.md) — reading research without being fooled, catching your own errors, and a method for hard problems
 - **Pattern recognition:** [heuristics.md](heuristics.md), [maxims.md](maxims.md) — compressed wisdom for fast deployment
+- **Attention and time:** [attention.md](attention.md), [time.md](time.md) — the two scarce resources every other capability draws on
+- **Meaning and expression:** [purpose.md](purpose.md), [writing.md](writing.md) — what you are for, and thinking made precise on the page
 
 The operating system determines what you do with any input. Two people can receive the same experience and produce different outcomes based purely on the OS running beneath the surface.
 
@@ -52,6 +57,9 @@ The inner game. Most people skip this layer entirely. It is the difference betwe
 - **Transformation:** [transformation-science.md](transformation-science.md) — the mechanics of identity-level change
 - **Consciousness:** [consciousness-technologies.md](consciousness-technologies.md) — precision instruments for expanding awareness
 - **Hermetic laws:** [hermetic-principles.md](hermetic-principles.md) — the deep structure of reality and self
+- **Inner instruments:** [emotions.md](emotions.md), [self-knowledge.md](self-knowledge.md) — reading and regulating what you feel, and seeing yourself accurately
+- **Repair:** [forgiveness-and-apology.md](forgiveness-and-apology.md) — apologizing well, and forgiving without enabling
+- **Expanding the frame:** [nature-and-awe.md](nature-and-awe.md), [travel.md](travel.md) — awe, wilderness, and travel as education and rites of passage
 
 This is where most personal development systems fail people. They offer techniques without the inner architecture to sustain them. Depth work is what makes everything else stick.
 
@@ -61,8 +69,18 @@ This is where most personal development systems fail people. They offer techniqu
 
 The outer game. Taking everything built below and applying it with precision.
 
-- **Tactics:** [tactics/social.md](tactics/social.md), [tactics/field.md](tactics/field.md), [tactics/cognitive.md](tactics/cognitive.md) — specific moves for specific situations
-- **Strategy:** [strategy.md](strategy.md) — long-game positioning and accumulated advantage
+- **Tactics:** [tactics/social.md](tactics/social.md), [tactics/field.md](tactics/field.md), [tactics/cognitive.md](tactics/cognitive.md), [tactics/public-speaking.md](tactics/public-speaking.md) — specific moves for specific situations
+- **Strategy and conflict:** [strategy.md](strategy.md), [warfare.md](warfare.md) — long-game positioning, and the strategic tradition from Sun Tzu to Boyd
+- **Influence and defense:** [negotiation.md](negotiation.md), [sales.md](sales.md), [power-dynamics.md](power-dynamics.md), [dark-psychology.md](dark-psychology.md), [counter-strategies.md](counter-strategies.md) — moving people toward decisions, understanding power, and recognizing and neutralizing manipulation
+- **Wealth and leverage:** [wealth-building.md](wealth-building.md), [technology-leverage.md](technology-leverage.md), [networks.md](networks.md), [career/finances.md](career/finances.md) — ownership, code and AI as leverage, and reputation as a compounding asset
+- **The physical edge:** [martial-arts.md](martial-arts.md), [preparedness.md](preparedness.md), [health/health-intelligence.md](health/health-intelligence.md) — live combat training, practical readiness, and measuring the body early
+- **Finding leverage and seeing the game:** [leverage-points.md](leverage-points.md), [game-theory.md](game-theory.md) — where to intervene in a system, and the structure of strategic interaction
+- **Passing it on:** [mentorship.md](mentorship.md), [parenting.md](parenting.md) — teaching and raising the next generation; the highest-leverage use of what you have built
+- **Choosing a partner:** [dating-and-courtship.md](dating-and-courtship.md) — finding a partner with honesty and respect
+- **Execution and work:** [execution-systems.md](execution-systems.md), [craftsmanship.md](craftsmanship.md), [career-strategy.md](career-strategy.md) — turning intent into finished work, doing it well, and navigating a career over decades
+- **Argument and persuasion:** [rhetoric.md](rhetoric.md) — building, delivering, and defending against arguments
+- **Intelligence and counter-intelligence:** [counterintelligence.md](counterintelligence.md), [intelligence-history.md](intelligence-history.md), [deception-and-active-measures.md](deception-and-active-measures.md), [opsec-and-privacy.md](opsec-and-privacy.md), [personal-security.md](personal-security.md) — protecting what you know, resisting manipulation, and learning from the history of spies and deception
+- **Better information and judgment:** [intelligence-tradecraft.md](intelligence-tradecraft.md), [decision-journal.md](decision-journal.md), [memory-systems.md](memory-systems.md) — evaluating sources, tracking your own calls, and retaining what you learn
 - **Force multiplication:** [force-multipliers.md](force-multipliers.md) — the highest-leverage capabilities
 - **Antifragility:** [antifragility.md](antifragility.md) — building systems that get stronger from stress
 - **Peak performance:** [flow-states.md](flow-states.md) — accessing maximum capability on demand
@@ -112,6 +130,12 @@ Some connections between files are especially critical:
 **Identity → habit.** [transformation-science.md](transformation-science.md) explains why Level 1 (behavioral) change fails without Level 3 (identity) change. Any habit you're trying to build needs to be grounded in who you are becoming, not just what you want to do.
 
 **Cross-domain thinking → strategy.** The latticework from [cross-domain-thinking.md](cross-domain-thinking.md) is the cognitive engine of [strategy.md](strategy.md). Strategic insight is pattern recognition across domains. Build the latticework first.
+
+**Attention → everything.** [attention.md](attention.md) is the resource the other files spend. Deep work, training, relationships, and reflection all draw on the same finite faculty. Protect it first.
+
+**Defense before offense.** [dark-psychology.md](dark-psychology.md) and [counter-strategies.md](counter-strategies.md) come before [power-dynamics.md](power-dynamics.md) and [sales.md](sales.md) in practice. Learn to recognize manipulation before you learn to influence, so the same tools are not used against you, and so you hold the ethical line when you use them.
+
+**Wealth → freedom → purpose.** [wealth-building.md](wealth-building.md) and [career/finances.md](career/finances.md) buy time and options; [purpose.md](purpose.md) decides what they are for. Money without purpose is a pile.
 
 **Consciousness → depth.** The tools in [consciousness-technologies.md](consciousness-technologies.md) are the delivery mechanisms for [shadow-work.md](shadow-work.md) and [transformation-science.md](transformation-science.md). The practices are the vehicle; the map tells you where to drive.
 

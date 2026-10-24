@@ -118,7 +118,7 @@ Format: **Rule** — *Why it works.*
 
 - **Parkinson's Law:** Work expands to fill the time available. Set tighter deadlines. — *Effort spent on a task is not proportional to the quality of output — it is proportional to the time allocated. Tighter constraints produce equivalent or better results with less time.*
 
-- **The single-tasking advantage:** Do one thing at a time. Context-switching costs 20–40% of productive time. — *Every context switch carries a reloading cost — the time to restore the mental state needed for the prior task. Multitasking is high-frequency switching that never allows full restoration.*
+- **The single-tasking advantage:** Do one thing at a time. Context-switching can cost up to 40% of productive time. — *Every context switch carries a reloading cost — the time to restore the mental state needed for the prior task. Multitasking is high-frequency switching that never allows full restoration.*
 
 - **The weekly review:** Schedule 60 minutes at the end of every week to review what you shipped, what slipped, and what the next week requires. — *Without a structured review, the week's unfinished business bleeds into the next week as low-level cognitive noise. The review closes the loop and resets the system.*
 
@@ -150,7 +150,7 @@ Format: **Rule** — *Why it works.*
 
 - **The nutrition simplification:** Before optimizing macros or timing, first ensure: no processed food for the majority of meals, adequate protein, adequate vegetables, adequate water. — *Most nutritional problems are problems of basics, not optimization. People seek complexity before the simple things are locked in.*
 
-- **The mental health / physical health inseparability:** Persistent low mood, high anxiety, and inability to concentrate are medical conditions with physical inputs. Treat the body first; the mind follows. — *Brain function is a physiological process. Sleep, diet, exercise, and social connection have effect sizes that rival pharmaceutical intervention for most mood and anxiety conditions.*
+- **The mental health / physical health inseparability:** Persistent low mood, high anxiety, and inability to concentrate are medical conditions with physical inputs. Treat the body first; the mind follows. — *Brain function is a physiological process. Sleep, diet, exercise, and social connection all affect mood; for mild to moderate depression, exercise shows effects comparable to standard treatments in many trials. They complement professional care; they don't replace it when symptoms are serious.*
 
 - **The recovery measurement:** If your resting heart rate is elevated and heart rate variability is suppressed, reduce training load before adding to it. — *The nervous system records cumulative load even when subjective feeling has adapted to it. Biometric markers that diverge from subjective perception are the more reliable signal.*
 

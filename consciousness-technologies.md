@@ -23,7 +23,7 @@ Treat each technology as a tool with specific applications. Use the right tool f
 Not relaxation. Not spirituality. A training protocol for the attentional system and the default mode network.
 
 **What it actually does (neuroscience):**
-- Thickens the prefrontal cortex — the seat of executive function, decision-making, impulse control
+- Thickens the prefrontal cortex — the seat of executive function, decision-making, impulse control. *Caveat: this rests on small early studies (Lazar et al., 2005, comparing about 20 long-term meditators with non-meditators; Hölzel et al., 2011, 16 people after an 8-week course). A larger 2022 randomized trial (Kral et al., 218 people) found no structural brain changes from 8 weeks of training. Treat brain-structure claims as unsettled.*
 - Reduces amygdala reactivity — the threat response becomes proportional rather than hair-trigger
 - Strengthens meta-cognition — the ability to observe your own thoughts without being fused to them
 - Reduces default mode network over-activity — quiets the compulsive self-referential narrative
@@ -36,7 +36,7 @@ Not relaxation. Not spirituality. A training protocol for the attentional system
 
 The practice is not "not thinking." It is noticing you've drifted and returning. The difficulty is the workout. The effortlessness you eventually develop is the adaptation.
 
-**Minimum effective dose:** 20 minutes daily. Effects are measurable at 8 weeks. Structural changes at 6–12 months.
+**Minimum effective dose:** 20 minutes daily. Effects on stress and attention show up in trials of about 8 weeks; claims of structural brain change on any timeline are unsettled (see above).
 
 **Advanced protocols:**
 - **Open monitoring** — instead of focusing on breath, rest in open awareness. Notice everything arising without attaching to anything. Trains the witness state.
@@ -51,25 +51,25 @@ Breath is the only autonomic function you can voluntarily control — and throug
 
 **Box breathing (parasympathetic activation):**
 - 4 counts in → 4 hold → 4 out → 4 hold
-- 4 rounds = measurable heart rate reduction, cortisol decrease, prefrontal activation
+- 4 rounds is a common dose. Slow breathing like this tends to lower heart rate; claims of fast cortisol drops or "prefrontal activation" from a few rounds aren't established
 - Use: before high-stakes events, after triggers, to enter focus states
 - See [tactics/field.md](tactics/field.md) for deployment under pressure
 
-**Physiological sigh (fastest stress reset):**
+**Physiological sigh (quick stress reset):**
 - Double inhale through the nose (two quick sniffs) → long exhale through the mouth
-- Deflates the air sacs in the lungs, triggering the strongest parasympathetic response available
-- Works in 1–2 breaths. The fastest known reset.
+- The double inhale is said to reinflate collapsed air sacs in the lungs (mechanism unproven). Balban et al. (2023) found daily cyclic sighing gave the largest mood improvement of four 5-minute practices over a month.
+- Works in 1–2 breaths.
 
 **Wim Hof / Cyclic hyperventilation (sympathetic activation + resilience training):**
 - 30 deep, rhythmic breaths → exhale and hold
-- Produces alkalinity, altered state, cold tolerance, immune activation
-- Research: measurable suppression of inflammatory response; increased cold exposure tolerance
+- Produces respiratory alkalosis, an adrenaline surge, and an altered state
+- Research: Kox et al. (2014) gave bacterial endotoxin to 24 men; the 12 trained in this breathing plus cold exposure and meditation had higher adrenaline, fewer flu-like symptoms, and a dampened inflammatory response. Small study; the effect is immune suppression, not "immune boosting"
 - Use: morning activation, resilience training, before cold exposure
 - *Caution: never in water, never while driving. Can cause brief loss of consciousness.*
 
 **Coherent breathing (heart rate variability optimization):**
 - 5.5 breaths per minute (approximately 5.5 seconds in, 5.5 seconds out)
-- Maximizes HRV — the single strongest predictor of cardiovascular health and stress resilience
+- Maximizes HRV in the moment (resonance breathing). HRV is a useful marker of autonomic recovery and stress resilience, but not the strongest predictor of cardiovascular health; cardiorespiratory fitness has a far better claim (see [longevity-protocols.md](longevity-protocols.md))
 - 20 minutes daily produces measurable HRV improvements in 4–6 weeks
 
 ---
@@ -109,6 +109,8 @@ Removing external sensory input forces the brain to process internal state. In t
 - Profound body awareness without visual input
 - Some report experiences analogous to meditation states requiring years of practice
 
+*Evidence check: the data are small. In Feinstein et al. (2018), a single 1-hour float reduced anxiety, stress, and depression in 50 people with anxiety-related disorders, but there was no control group. The theta, creativity, and insight claims rest on older, smaller studies and personal reports.*
+
 **Protocol:**
 - 60–90 minutes per session
 - Don't force anything — let whatever arises, arise
@@ -136,7 +138,7 @@ Every meditation practice builds this. The moment of noticing you've drifted —
 
 Over time, the observer becomes the dominant mode of self-experience. You are the awareness that watches the thoughts, not the thoughts themselves. This is one of the most significant shifts a human being can make.
 
-*"Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom."* — Viktor Frankl
+*"Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom."* — often attributed to Viktor Frankl, but no source exists in his writings; it was popularized by Stephen Covey
 
 ---
 
@@ -144,8 +146,8 @@ Over time, the observer becomes the dominant mode of self-experience. You are th
 
 Non-sleep deep rest (NSDR) is a family of protocols — Yoga Nidra, hypnagogic states, and structured relaxation techniques — that produce the neural benefits of sleep without unconsciousness.
 
-Andrew Huberman's research group and others have shown that NSDR:
-- Restores dopamine levels in the striatum (measured via neuroimaging)
+Research suggests that NSDR:
+- Increases dopamine release — Kjaer et al. (2002): in 8 people practicing Yoga Nidra, PET imaging suggested about 65% higher dopamine release in the ventral striatum. A small study.
 - Consolidates motor learning acquired in the preceding session
 - Reduces cortisol without the inertia of full sleep
 - Improves subsequent cognitive performance comparably to a short nap
@@ -169,8 +171,7 @@ Yoga Nidra (the ancient practice that NSDR draws from) follows the same protocol
 Cold exposure is not primarily about physical hardship. It is a precision tool for neurochemistry and mental discipline.
 
 **What happens physiologically:**
-- **Norepinephrine spike** — Andrew Huberman's research shows a brief cold exposure (1–3 minutes at 14°C/57°F or lower) produces a 200–300% increase in norepinephrine — the neurotransmitter of alertness, focus, and mood regulation.
-- **Dopamine increase** — unlike the short spike from most stimuli, the dopamine released by cold exposure is sustained 2–3 hours post-exposure (Søberg et al., 2021). This is distinct from caffeine, exercise, or food rewards.
+- **Norepinephrine and dopamine increase** — Šrámek et al. (2000): an hour of head-out immersion in 14°C/57°F water raised norepinephrine — the neurotransmitter of alertness, focus, and mood regulation — about 530% and dopamine about 250%. Short plunges haven't been shown to do the same, and the study didn't measure how long the effect lasted.
 - **Resilience training** — the deliberate choice to remain in discomfort trains the same prefrontal regulation that meditation trains. You are practicing choosing behavior over sensation.
 
 **Protocol (Huberman):**
@@ -190,7 +191,7 @@ Cold exposure is not primarily about physical hardship. It is a precision tool f
 Acoustic inputs alter brainwave states with surprising precision. The mechanisms are not fully understood, but the effects are reproducible.
 
 **Binaural beats:**
-When two slightly different frequencies are played separately into each ear (via headphones), the brain produces a third frequency corresponding to the mathematical difference. The brain then tends to entrain to this frequency.
+When two slightly different frequencies are played separately into each ear (via headphones), the brain produces a third frequency corresponding to the mathematical difference. The brain then tends to entrain to this frequency — that's the theory; the evidence for entrainment is mixed and weak.
 
 - **Delta (0.5–4 Hz):** deep sleep, regeneration. Used before sleep or during NSDR.
 - **Theta (4–8 Hz):** deep relaxation, creativity, hypnagogic states. The state just before sleep. Useful for visualization, creative problem-solving, meditation deepening.
@@ -280,4 +281,4 @@ Every meditation practice builds this. The moment of noticing you've drifted —
 
 Over time, the observer becomes the dominant mode of self-experience. You are the awareness that watches the thoughts, not the thoughts themselves. This is one of the most significant shifts a human being can make.
 
-*"Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom."* — Viktor Frankl
+*"Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom."* — often attributed to Viktor Frankl, but no source exists in his writings; it was popularized by Stephen Covey

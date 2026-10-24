@@ -32,7 +32,7 @@ Work the left column with full force. Release the right column completely. Most 
 2. How will I respond if it happens?
 3. What is within my control in that scenario?
 
-This practice does two things: it removes the shock of adversity (you've already rehearsed it) and it reveals that most feared things are survivable. The Stoics called this *negative visualization*. It is not pessimism — it is preparation.
+This practice does two things: it removes the shock of adversity (you've already rehearsed it) and it reveals that most feared things are survivable. The Stoics called this *premeditatio malorum*; *negative visualization* is William Irvine's modern term for it (2009). It is not pessimism — it is preparation.
 
 *"Rehearse death. To say this is to rehearse freedom. A person who has learned how to die has unlearned how to be a slave."* — Seneca
 
@@ -71,7 +71,7 @@ The distinction between acceptance and amor fati: acceptance is tolerance — I 
 
 ---
 
-## Evening Review — Marcus Aurelius's Method
+## Evening Review — The Nightly Examination
 
 End each day with three questions (write the answers, don't just think them):
 
@@ -79,7 +79,7 @@ End each day with three questions (write the answers, don't just think them):
 2. **What did I do well?** — reinforce what worked
 3. **What was left undone?** — carry it forward with intention, not guilt
 
-The Stoics called this *the evening examination*. It closes the day cleanly and prevents the unconscious accumulation of unprocessed experience.
+The Stoics called this *the evening examination*. It closes the day cleanly and prevents the unconscious accumulation of unprocessed experience. The three questions come from the Pythagorean *Golden Verses*, which Epictetus quotes (*Discourses* 3.10); Seneca describes his own nightly review in *On Anger* (3.36).
 
 **Why writing matters:** Thinking about these questions is not the same as writing the answers. Writing forces specificity. Vague self-examination produces vague self-knowledge. The discipline of completing the sentences — "What I did wrong today was specifically..." — produces the kind of precision that generates change.
 
@@ -94,7 +94,7 @@ The practice: once a week, spend 60 seconds genuinely contemplating that this da
 - What would I regret leaving undone?
 - Who matters to me that I haven't told?
 
-Used by Roman generals who had a slave stand behind them during triumph parades, whispering *"memento mori"* — remember you will die — to prevent ego inflation and keep perspective.
+Used by Roman generals who had a slave stand behind them during triumph parades, whispering a reminder of mortality to prevent ego inflation and keep perspective. The ancient source (Tertullian) gives the words as *"Look behind you; remember you are a man"*; *memento mori* is a later phrase for the practice.
 
 *"You could leave life right now. Let that determine what you do and say and think."* — Marcus Aurelius
 
@@ -121,7 +121,7 @@ Your problem is real. It is also invisible from 10,000 feet and will be unknown 
 - **Seek discomfort on purpose.** Voluntary hardship prevents the horror of involuntary hardship. Fast occasionally. Sleep on the floor. Wear less. The practice shows you need less than you think.
 - **Judge yourself, not others.** You have no access to their interior. You have full access to yours. Focus there.
 - **The present is all you have.** The past is fixed. The future is uncertain. The only place to act is now.
-- **Be useful.** Marcus Aurelius asked himself every morning: *"What am I still needed for?"* That question is the antidote to self-pity, ego, and drift.
+- **Be useful.** Marcus Aurelius is said to have asked himself every morning: *"What am I still needed for?"* (attributed; no *Meditations* source located). That question is the antidote to self-pity, ego, and drift.
 - **Say less than you want to.** Every unnecessary word is noise. Every unnecessary complaint is weakness rehearsed.
 - **Treat insults as experiments.** See if they can land. If someone's contempt moves you, it has found a hook. Find the hook and remove it.
 

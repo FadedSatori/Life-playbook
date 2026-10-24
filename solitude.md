@@ -39,13 +39,13 @@ Most people never hear it.
 
 Every serious tradition has a solitude practice. This is not coincidence.
 
-**Musashi** wrote the *Dokkodo* (The Way of Walking Alone) in a cave, five days before his death. After sixty undefeated duels and a lifetime of mastery, he chose aloneness as his final statement. The title is the teaching.
+**Musashi** wrote the *Dokkodo* (The Way of Walking Alone) about a week before his death, while giving away his possessions. (The cave, Reigandō, is where he wrote *The Book of Five Rings*.) After sixty undefeated duels and a lifetime of mastery, he chose aloneness as his final statement. The title is the teaching.
 
 **Thoreau** at Walden Pond. Not a hermit — a deliberate experimenter. He wanted to find out what life reduced to essentials actually felt like. The experiment lasted two years, two months, two days. The lesson: most of what we think we need, we don't.
 
 **The Desert Fathers** — early Christian monastics who withdrew to the Egyptian desert in the 3rd century AD. Their psychology of *acedia* (the noon-day demon — spiritual restlessness, the inability to stay still) is the earliest detailed account of what happens when a person first sits alone. The prescription: stay in your cell. The restlessness passes. What's on the other side of it is what you came for.
 
-**Nietzsche**: *"I am a forest, and a night of dark trees: but he who is not afraid of my darkness will find banks full of roses under my cypresses."* His decades of productive solitude — walking alone, writing alone, thinking alone — produced some of the densest philosophy in the Western tradition.
+**Nietzsche**: *"I am a forest, and a night of dark trees: but he who is not afraid of my darkness will find banks full of roses under my cypresses."* His decade of productive solitude (1879–1889) — walking alone, writing alone, thinking alone — produced some of the densest philosophy in the Western tradition.
 
 The pattern: serious people create serious solitude. The work is downstream of it, not the point of it.
 
@@ -102,7 +102,7 @@ The usual answers: the gap between who you are and who you want to be. The failu
 
 These things don't go away when you fill the silence. They accumulate. Solitude is how you meet them on your own terms, rather than having them surface at 3am or in a relationship argument.
 
-*"All of humanity's problems stem from man's inability to sit quietly in a room alone."* — Blaise Pascal (1654)
+*"All of humanity's problems stem from man's inability to sit quietly in a room alone."* — Blaise Pascal, *Pensées* (written about 1656–1662, published 1670). The original French says a person cannot stay quietly in a room; "alone" is a later addition.
 
 The problem isn't new. Neither is the solution.
 
@@ -137,7 +137,7 @@ The specific mechanism: the smartphone has eliminated the previously involuntary
 - The capacity for solitude atrophies like any unused capability
 - The anxiety many people experience at the thought of putting the phone down is withdrawal from continuous social input, not introversion or misanthropy
 
-**The minimum viable solitude requirement:** Phone in another room for at least one hour per day. Not airplane mode. Another room. The presence of the device — even silenced — activates anticipatory monitoring in the nervous system that prevents the DMN from operating freely.
+**The minimum viable solitude requirement:** Phone in another room for at least one hour per day. Not airplane mode. Another room. The presence of the device — even silenced — activates anticipatory monitoring in the nervous system that prevents the DMN from operating freely. (This phone-presence effect comes from Ward et al., 2017 — a finding that has replicated poorly.)
 
 ---
 
@@ -188,7 +188,7 @@ Not all solitude is equal. The benefit scales with depth.
 
 ## The Fear of Silence
 
-Pascal's observation remains correct 370 years later: the inability to sit quietly in a room alone is among the most universal human problems.
+Pascal's observation remains correct more than 350 years later: the inability to sit quietly in a room is among the most universal human problems.
 
 The fear operates at several levels:
 

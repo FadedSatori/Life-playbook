@@ -17,7 +17,7 @@ Most adults default to spotlight almost exclusively and treat lantern as distrac
 
 **The failure mode:** spending 8 hours in spotlight mode and calling the result "deep work" when you've actually been in shallow-focus task-switching the whole time.
 
-**Deliberate mode-switching protocol:** Schedule lantern time explicitly — walks without headphones, shower thinking, sitting with a problem without engaging with it directly. The brain doesn't create connections on demand; it creates them when you step back from demand. See also: [flow-states.md](flow-states.md) and the incubation mechanism below.
+**Deliberate mode-switching protocol:** Schedule lantern time explicitly — walks without headphones, shower thinking, sitting with a problem without engaging with it directly. The brain doesn't create connections on demand; it creates them when you step back from demand. See also: [flow-states.md](../flow-states.md) and the incubation mechanism below.
 
 ### Controlled vs. Automatic Attention
 
@@ -39,7 +39,7 @@ George Miller's 1956 paper: working memory holds 7 ± 2 items simultaneously. La
 
 **Implications for your work setup:**
 - Complex problems that exceed 4–7 variables should be externalized — written, diagrammed, or mapped — not held in your head. Your working memory is not a reliable scratch pad for multivariable analysis.
-- Interruptions are expensive precisely because they wipe the working memory whiteboard. A 30-second interruption during deep work can cost 15–20 minutes of re-entry time.
+- Interruptions are expensive precisely because they wipe the working memory whiteboard. Gloria Mark found people took about 23 minutes on average to return to an interrupted task (often doing other work in between), and Sophie Leroy's "attention residue" research means even brief switches carry a cost.
 - When you're stuck: don't try harder to hold it in your head. Write it out. Draw it. The act of externalization often produces the insight.
 
 ### Chunking
@@ -90,7 +90,7 @@ Peretz Lavie and Nathaniel Kleitman: the brain operates on approximately 90-minu
 
 ### Entering Flow Deliberately
 
-Mihaly Csikszentmihalyi's flow conditions: challenge slightly exceeds skill, clear goals and immediate feedback, full absorption. Flow is not a gift — it's an architecture problem. See [flow-states.md](flow-states.md) for the full protocol.
+Mihaly Csikszentmihalyi's flow conditions: challenge slightly exceeds skill, clear goals and immediate feedback, full absorption. Flow is not a gift — it's an architecture problem. See [flow-states.md](../flow-states.md) for the full protocol.
 
 Critical preconditions:
 1. **Eliminate interruption vectors** before starting — not during. Once you're in, any disruption restarts the entry process.
@@ -124,7 +124,7 @@ Both eustress (productive stress) and distress (degrading stress) involve cortis
 - Cognitively: *"I can handle this. My resources meet the demands."*
 
 **The threat state** (distress):
-- Cardiac output increases, vascular resistance also increases — the cardiovascular response to a threat (preparing for damage)
+- Cardiac output stays lower than in the challenge state, and vascular resistance rises — the cardiovascular response to a threat (preparing for damage)
 - Cortisol dominates — helpful short-term, toxic long-term
 - Attention tunnel-narrows, working memory contracts
 - Cognitively: *"This is going to hurt. The demands exceed my resources."*
@@ -254,9 +254,9 @@ This is not positive thinking — you're not arguing that the thought is wrong. 
 
 ### Surfing Urges
 
-For impulse control (checking phone, breaking from deep work, reactive messaging): the urge is a wave. It will peak and decline whether you act on it or not. Most urges peak within 20–90 seconds.
+For impulse control (checking phone, breaking from deep work, reactive messaging): the urge is a wave. It will rise, peak and fade whether you act on it or not — usually within minutes. This is urge surfing, from Alan Marlatt's relapse-prevention work.
 
-**Protocol:** when the urge arises, note it. Don't fight it, don't comply with it. Observe it as a physical sensation. Where is it in your body? What does it feel like? Curiosity about the urge is incompatible with being swept away by it. Within 60–90 seconds, it will diminish without being acted upon. This is trainable and compounds over time.
+**Protocol:** when the urge arises, note it. Don't fight it, don't comply with it. Observe it as a physical sensation. Where is it in your body? What does it feel like? Curiosity about the urge is incompatible with being swept away by it. Ride it out and it will diminish without being acted upon. This is trainable and compounds over time.
 
 ---
 
@@ -331,6 +331,6 @@ Matthew Walker (*Why We Sleep*): sleep is not rest — it's an active, essential
 
 ### Active Recovery Techniques
 
-- **NSDR (Non-Sleep Deep Rest) / Yoga Nidra:** 20-minute protocol of body scan and directed attention. Measurably restores dopamine levels in the striatum and improves afternoon cognitive performance. Use at lunch.
+- **NSDR (Non-Sleep Deep Rest) / Yoga Nidra:** 20-minute protocol of body scan and directed attention. A small PET study (Kjaer et al., 2002) of 8 people practicing Yoga Nidra suggested about 65% higher dopamine release in the ventral striatum. Use at lunch to reset for the afternoon.
 - **Physical movement:** walking specifically increases BDNF (brain-derived neurotrophic factor), improves mood and cognitive flexibility. Not the gym — low-intensity movement. The afternoon walk is not laziness; it is neurologically productive.
 - **Structured downtime:** plan your rest the same way you plan your work. A recovery block with a defined start and end is psychologically and physiologically more restorative than passive half-attention to entertainment.

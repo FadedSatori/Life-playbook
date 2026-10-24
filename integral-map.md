@@ -73,19 +73,19 @@ Integral Theory uses color coding borrowed from Spiral Dynamics. The colors are 
 
 **Green — Pluralistic/Egalitarian:** Sensitivity to all perspectives, rejection of hierarchy, communal values, social justice, ecological awareness. The shadow: relativism that cannot make value judgments; paralysis in the face of necessary hierarchy. Found in: progressive academia, social movements, therapy culture.
 
-**Teal — Integral/Systemic:** Ability to hold multiple levels simultaneously. Systems thinking. Integration of the previous levels rather than rejection of any. The beginning of genuine second-tier thinking. Found in: advanced leadership, complex systems theorists, certain wisdom traditions.
+**Yellow — Integral/Systemic:** Ability to hold multiple levels simultaneously. Systems thinking. Integration of the previous levels rather than rejection of any. The beginning of genuine second-tier thinking. Found in: advanced leadership, complex systems theorists, certain wisdom traditions.
 
 **Turquoise — Holistic:** Collective mind, global systems, integration of spiritual and rational, care for the whole. Rare. Found in: figures like Gandhi, Nelson Mandela (at their best), certain contemplative traditions.
 
 **Critical note:** Most people operate primarily at one or two levels, with the capacity to access adjacent levels in favorable conditions. Development is not linear — stress pulls toward lower levels, growth pulls toward higher ones.
 
-**The key developmental insight:** You cannot skip levels. Blue order must be integrated before Orange rationality is stable. Orange must be integrated before Green pluralism doesn't collapse into relativism. Green must be integrated before Teal integral thinking becomes available. Each level includes and transcends the previous.
+**The key developmental insight:** You cannot skip levels. Blue order must be integrated before Orange rationality is stable. Orange must be integrated before Green pluralism doesn't collapse into relativism. Green must be integrated before Yellow integral thinking becomes available. Each level includes and transcends the previous.
 
 ---
 
 ## Lines of Development
 
-Development is not uniform across all capacities. A person can be highly developed cognitively (Orange-Teal) while emotionally arrested at Red. A person can be deeply spiritually developed while interpersonally unskilled.
+Development is not uniform across all capacities. A person can be highly developed cognitively (Orange-Yellow) while emotionally arrested at Red. A person can be deeply spiritually developed while interpersonally unskilled.
 
 The major developmental lines:
 - **Cognitive** — how you think, what you can conceptualize
@@ -129,9 +129,9 @@ The technologies in [consciousness-technologies.md](consciousness-technologies.m
 
 Horizontal differences within the same level — personality patterns that persist across development. Myers-Briggs, Enneagram, Big Five, and similar typologies capture types.
 
-Types are not stages. A Red-level personality and a Teal-level personality can both be introverted. A Green-level feminine type and a Green-level masculine type both operate within the same level of development but with different characteristic emphases.
+Types are not stages. A Red-level personality and a Yellow-level personality can both be introverted. A Green-level feminine type and a Green-level masculine type both operate within the same level of development but with different characteristic emphases.
 
-The Integral approach: don't confuse types with stages. The ENFJ who is operating from Orange achieves different (and more limited) outcomes than the ENFJ who is operating from Teal — despite having the same typological profile.
+The Integral approach: don't confuse types with stages. The ENFJ who is operating from Orange achieves different (and more limited) outcomes than the ENFJ who is operating from Yellow — despite having the same typological profile.
 
 **Practical note:** Type frameworks (especially the Enneagram) are most useful for understanding the characteristic defense mechanisms and growth edges of specific personality structures. Use them as diagnostic tools, not as identities.
 

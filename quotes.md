@@ -7,7 +7,7 @@ Compressed philosophy from people who earned their perspective. Read slowly.
 ## On Discipline & The Inner Life
 
 > *"You have power over your mind, not outside events. Realize this, and you will find strength."*
-> — **Marcus Aurelius**
+> — **Marcus Aurelius** (modern paraphrase; compare *Meditations* 8.47)
 
 The Stoic core: control the controllable. Everything else is noise.
 
@@ -28,14 +28,14 @@ Discussion is not action. The argument ends where the behavior begins.
 ---
 
 > *"It's not that I'm so smart. It's that I stay with problems longer."*
-> — **Albert Einstein**
+> — Attributed to **Albert Einstein** (unverified)
 
 Persistence masquerading as intelligence. The bottleneck is usually endurance, not brilliance.
 
 ---
 
-> *"A ship is always safe at shore, but that is not what it's built for."*
-> — **Albert Einstein**
+> *"A ship in harbor is safe, but that is not what ships are built for."*
+> — **John A. Shedd**, *Salt from My Attic* (1928)
 
 Safety is a slow form of death for anyone built to move.
 
@@ -43,22 +43,22 @@ Safety is a slow form of death for anyone built to move.
 
 ## On Action & Courage
 
-> *"Do not pray for an easy life. Pray for the strength to endure a difficult one."*
-> — **Bruce Lee**
+> *"Do not pray for easy lives. Pray to be stronger men."*
+> — **Phillips Brooks** (sermon, 1886)
 
 Strength is built through resistance. Wishing for less resistance is wishing to stay weak.
 
 ---
 
 > *"I fear not the man who has practiced 10,000 kicks once. I fear the man who has practiced one kick 10,000 times."*
-> — **Bruce Lee**
+> — Attributed to **Bruce Lee** (the Bruce Lee Foundation vouches for it from family archives)
 
 Depth annihilates breadth in any real confrontation.
 
 ---
 
 > *"Appear weak when you are strong, and strong when you are weak."*
-> — **Sun Tzu**
+> — **Sun Tzu** (paraphrase)
 
 Information asymmetry is a weapon. Never reveal your actual state.
 
@@ -74,7 +74,7 @@ Preparation is the strategy. The battle is just confirmation.
 ## On Identity & Potential
 
 > *"There is no spoon."*
-> — **Neo, The Matrix**
+> — **The Matrix**
 
 The constraints you believe in are the only constraints that bind you. Question the frame before accepting its limits.
 
@@ -88,7 +88,7 @@ When you commit to the download — to truly learning something — it changes y
 ---
 
 > *"The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion."*
-> — **Albert Camus**
+> — Attributed to **Albert Camus** (no known source in his writing)
 
 Freedom is a posture before it's a circumstance.
 
@@ -103,8 +103,8 @@ Failure is not the opposite of success. It's the substrate it grows from.
 
 ---
 
-> *"The cave you fear to enter holds the treasure you seek."*
-> — **Joseph Campbell**
+> *"The very cave you are afraid to enter turns out to be the source of what you were looking for."*
+> — **Joseph Campbell**, *Reflections on the Art of Living* (compiled by Diane Osbon, 1991)
 
 The resistance pointing at a thing is a signal, not a stop sign.
 
@@ -143,7 +143,7 @@ Growth requires shedding old identity. Clinging to who you were is how you fail 
 ## On War, Pressure & Adversity
 
 > *"If you're going through hell, keep going."*
-> — **Winston Churchill**
+> — Attributed to **Winston Churchill** (unverified)
 
 The only correct response to the middle of something hard is forward motion.
 
@@ -157,14 +157,14 @@ The cycle is real. Which part are you in? Which part are you creating?
 ---
 
 > *"Smooth seas do not make skillful sailors."*
-> — **African proverb**
+> — **Nautical proverb**
 
 Difficulty is not punishment. It's training.
 
 ---
 
-> *"I am not afraid of an army of lions led by a sheep; I am afraid of an army of sheep led by a lion."*
-> — **Alexander the Great**
+> *"An army of deer led by a lion is more to be feared than an army of lions led by a deer."*
+> — **Chabrias**, Athenian general (as recorded by Plutarch)
 
 Leadership multiplies the capability of those beneath it. A single person with clarity changes the entire system.
 
@@ -186,14 +186,14 @@ The ego that needs to be protected cannot see the situation clearly. See clearly
 
 ---
 
-> *"Be willing to part with yourself on the path."*
+> *"You may abandon your own body but you must preserve your honor."*
 > — **Miyamoto Musashi, Dokkodo**
 
-Every version of yourself you refuse to release is a ceiling on the version you could become.
+The body is expendable. What you stand for is not. Know which one you're actually protecting.
 
 ---
 
-> *"I have not failed. I've just found 10,000 ways that won't work."*
+> *"I have gotten lots of results! I know several thousand things that won't work."*
 > — **Thomas Edison**
 
 Failure as data, not verdict. The person who understands this reframes the entire process.
@@ -201,7 +201,7 @@ Failure as data, not verdict. The person who understands this reframes the entir
 ---
 
 > *"Under pressure, you don't rise to the occasion. You sink to the level of your training."*
-> — **Navy SEAL maxim**
+> — **Military training maxim**, often credited to the Navy SEALs (origin unverified; also misattributed to Archilochus)
 
 This is why protocol matters. The gap between what you intend and what you do under stress is exactly the gap your training has not closed.
 
@@ -224,23 +224,127 @@ Identity is prior to behavior. Know who you are first; the actions follow.
 ---
 
 > *"It is not death that a man should fear, but he should fear never beginning to live."*
-> — **Marcus Aurelius**
+> — **Marcus Aurelius** (paraphrase of *Meditations* XII.1)
 
 The real risk is not ending. It's spending years in a holding pattern, waiting for the real life to start.
 
 ---
 
 > *"The object of life is not to be on the side of the majority, but to escape finding oneself in the ranks of the insane."*
-> — **Marcus Aurelius**
+> — Attributed to **Marcus Aurelius** (not found in the *Meditations*)
 
 Social consensus is not a reliability signal. Most people are running someone else's program.
+
+---
+
+## Marcus Aurelius — *Meditations*
+
+*Aurelius was emperor of Rome, commander of armies, and keeper of a private journal he never intended to publish. He wrote for himself — as a self-administered discipline, not as literature. That is why it is literature. The quotes elsewhere in this file are from many voices. This section belongs to one.*
+
+---
+
+> *"The soul becomes dyed with the color of its thoughts."*
+> — **Meditations, Book V**
+
+Your character is not what you declare. It is the accumulated residue of what you repeatedly dwell on. Guard the inputs.
+
+---
+
+> *"Nowhere can man find a quieter or more untroubled retreat than in his own soul."*
+> — **Meditations, Book IV**
+
+Equanimity is not a circumstance. It is an interior state that can be inhabited regardless of what is happening outside.
+
+---
+
+> *"Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present."*
+> — **Meditations, Book VII**
+
+The anxiety about what hasn't happened yet is paid in advance against a debt that may never come due.
+
+---
+
+> *"Think of yourself as dead. You have lived your life. Now take what's left and live it properly."*
+> — **Meditations, Book VII**
+
+Not morbidity — clarification. The life you've already spent cannot be recovered. The remainder can.
+
+---
+
+> *"Confine yourself to the present."*
+> — **Meditations, Book VII**
+
+The past is fixed; the future is uncertain; the present is where agency actually lives. Three words. An entire practice.
+
+---
+
+> *"If someone is able to show me that what I think or do is not right, I will happily change, for I seek the truth, by which no one was ever truly harmed."*
+> — **Meditations, Book VI**
+
+The person who cannot change their mind when shown they are wrong is defending a persona, not seeking truth.
+
+---
+
+> *"It never ceases to amaze me: we all love ourselves more than other people, but care more about their opinion than our own."*
+> — **Meditations, Book XII**
+
+The fundamental paradox of social anxiety. The contradiction is not subtle; most people simply never notice it.
+
+---
+
+> *"How much more grievous are the consequences of anger than the causes of it."*
+> — **Meditations, Book XI**
+
+Before acting from anger: calculate what the anger will cost. The arithmetic almost always favors restraint.
+
+---
+
+> *"Accept without arrogance, relinquish without a struggle."*
+> — **Meditations, Book VIII**
+
+The complete instruction for relating to circumstance. Pride at acquisition and grief at loss are the same error in opposite directions.
+
+---
+
+> *"Accept the things to which fate binds you, and love the people with whom fate brings you together, and do so with all your heart."*
+> — **Meditations, Book VI**
+
+Amor fati applied not just to events but to people. The relationships in your life are not obstacles to the life you want. They are the life you have.
+
+---
+
+> *"How much time he gains who does not look to see what his neighbor says or does or thinks, but only at what he himself does — to make it just and holy."*
+> — **Meditations, Book IV**
+
+Comparison is a tax on attention. It always costs more than it yields.
+
+---
+
+> *"Everything that happens is either endurable or not. If it's endurable, then endure it. Stop complaining. If it's unendurable — then stop complaining. Your destruction will mean its end as well."*
+> — **Meditations, Book X**
+
+The most unsentimental prescription for suffering that has ever been written. Not harsh — precise.
+
+---
+
+> *"When you wake up in the morning, tell yourself: The people I deal with today will be meddling, ungrateful, arrogant, dishonest, jealous, and surly. They are this way because they cannot tell good from evil. But I have seen the beauty of good, and the ugliness of evil, and recognized that the wrongdoer has a nature related to my own — so none of them can hurt me."*
+> — **Meditations, Book II**
+
+Written for 5 AM before the day begins. Not pessimism — preparation. And the ending carries everything: *they cannot hurt me.* Because injury requires consent.
+
+---
+
+> *"Loss is nothing else than change. But the universal nature delights in change."*
+> — **Meditations, Book IX**
+
+Every ending is transformation. The thing lost becomes something else. Grief is real; permanence was never promised.
 
 ---
 
 ## On Legacy and Time
 
 > *"The best time to plant a tree was 20 years ago. The second best time is now."*
-> — **Chinese proverb**
+> — **Anonymous** (often called a Chinese proverb)
 
 The past is not recoverable. The present always is. Begin.
 
@@ -270,7 +374,7 @@ Not as guilt — as urgency. The finite nature of time makes it the scarcest res
 ## On Relationships and Brotherhood
 
 > *"The most important things in life are the connections you make with others."*
-> — **Tom Ford**
+> — Attributed to **Tom Ford** (exact wording unverified)
 
 No achievement in any other domain substitutes for genuine belonging. Optimize accordingly.
 
@@ -291,7 +395,7 @@ The social environment is a developmental intervention. Choose it with that seri
 ---
 
 > *"Tell me and I forget. Teach me and I remember. Involve me and I learn."*
-> — **Benjamin Franklin**
+> — Often attributed to **Benjamin Franklin** (unverified)
 
 Participation is the pedagogy. The observer learns abstractions; the participant learns capability.
 
@@ -302,7 +406,7 @@ Participation is the pedagogy. The observer learns abstractions; the participant
 > *"Man is not fully conditioned and determined but rather determines himself whether he gives in to conditions or stands up to them. In other words, man is ultimately self-determining."*
 > — **Viktor Frankl**
 
-Between stimulus and response: a space. In that space: freedom. Everything else depends on what you do with it.
+Between stimulus and response: a space. In that space: freedom. Everything else depends on what you do with it. (The "stimulus and response" line is often attributed to Viktor Frankl but is not found in his writings; Stephen Covey popularized it.)
 
 ---
 

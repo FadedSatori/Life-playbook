@@ -8,7 +8,7 @@ Universal laws appear in every field simultaneously. Learn them once in one doma
 
 Charlie Munger's core insight: a single mental model is a tool. A hundred mental models from a hundred different domains, held simultaneously and connected, is a weapon.
 
-*"You've got to have models in your head. And you've got to array your experience — both vicarious and direct — on this latticework of models. You may have noticed students who just try to remember and pound back what is remembered. Well, they fail in school and in life."*
+*"You've got to have models in your head. And you've got to array your experience — both vicarious and direct — on this latticework of models. You may have noticed students who just try to remember and pound back what is remembered. Well, they fail in school and in life."* — Munger, USC Business School, 1994
 
 The goal is not to memorize frameworks. It is to internalize universal principles so deeply that when new information arrives, it automatically hooks into multiple models at once — producing insight that no single-domain thinker can reach.
 
@@ -22,7 +22,7 @@ What follows are the most cross-transferable principles in the latticework. Each
 
 **Where it appears:**
 - Economics: 20% of customers → 80% of revenue (Pareto)
-- Physics: earthquake magnitudes, solar flare intensities, city sizes
+- Nature and cities: earthquake magnitudes, solar flare intensities, city sizes
 - Biology: a few species dominate most ecosystems
 - Social networks: a few nodes have most of the connections
 - Your own life: a few relationships, habits, and decisions produce most of your results
@@ -84,7 +84,7 @@ What follows are the most cross-transferable principles in the latticework. Each
 **Where it appears:**
 - Technology: telephone, internet, social media, language itself
 - Biology: neural networks (more connections = more capability), immune system memory
-- Social capital: the person with 500 high-trust connections is not 5x as connected as the person with 100 — they're exponentially more connected
+- Social capital: the person with 500 high-trust connections is not just 5x as connected as the person with 100 — the possible links among their contacts grow with the square of the count (about 25x)
 - Ideas: a meme spreads faster in a denser network of believers
 - Markets: more buyers and sellers = better price discovery = more participants
 
@@ -120,7 +120,7 @@ What follows are the most cross-transferable principles in the latticework. Each
 
 **Core concepts:**
 - **Prisoner's Dilemma:** Rational self-interest produces collectively bad outcomes. Cooperation requires either communication, trust, or repeated games.
-- **Repeated games:** In a one-shot game, defection is rational. In repeated games, cooperation becomes the dominant strategy because reputation matters.
+- **Repeated games:** In a one-shot game, defection is rational. In repeated games, cooperation can become the rational strategy (an equilibrium, not a dominant strategy) because reputation matters.
 - **Nash Equilibrium:** The stable state where no player can improve their outcome by changing strategy alone. Doesn't mean it's optimal — just stable.
 - **Schelling Points:** Coordination solutions that emerge without communication, based on salience. People converge on them because they expect others to.
 
@@ -142,7 +142,7 @@ What follows are the most cross-transferable principles in the latticework. Each
 
 **The principle:** Many problems are solved more easily backward than forward. Instead of asking "how do I achieve X?" ask "what would guarantee I fail at X?" Then avoid those things.
 
-*"Invert, always invert."* — Carl Jacobi (mathematician; Munger's most-cited source)
+*"Invert, always invert."* — Munger's rendering of the mathematician Carl Jacobi's maxim ("man muss immer umkehren")
 
 **Where it appears:**
 - Mathematics: proof by contradiction

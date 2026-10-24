@@ -120,7 +120,7 @@ The sexually integrated person:
 
 *"The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed."* — Carl Jung
 
-*"Eroticism is not only about sex. It's about aliveness, mystery, and play."* — Esther Perel
+*"Eroticism is not only about sex. It's about aliveness, mystery, and play."* — Esther Perel (paraphrase of a recurring theme; exact wording unverified)
 
 ---
 
@@ -130,7 +130,7 @@ Sexual experience is not primarily a mental event — it is a nervous system eve
 
 **Polyvagal theory (Stephen Porges) applied to sexuality:**
 
-Porges identified three autonomic states:
+Porges identified three autonomic states. (Polyvagal theory is scientifically contested — use it as a working map, not settled physiology.)
 
 1. **Ventral vagal (safe and social):** The state of genuine safety, warmth, and engagement. Parasympathetic dominance. This is the state in which genuine sexual presence, vulnerability, and connection are possible. The face is mobile and expressive. The voice is warm. The body is accessible. This state cannot be willed — it can only be entered through actual felt safety.
 
@@ -152,11 +152,11 @@ Porges identified three autonomic states:
 
 The energy that drives sexual desire — call it libido, eros, *jing*, creative life force — is the same energy that drives artistic creation, philosophical inquiry, and the relentless pursuit of mastery.
 
-This is not metaphor. The research on sublimation (Freud's original observation, later refined) suggests that sexual energy can be consciously redirected — not suppressed, but channeled — into creative and intellectual work. Conversely, creative and intellectual engagement activates the same vitality systems as sexual engagement.
+Freud called this sublimation: sexual energy consciously redirected — not suppressed, but channeled — into creative and intellectual work. Caveat: Freud's sublimation lacks empirical support (Baumeister et al., 1998), so treat it as a metaphor for channeling energy, not a mechanism. Conversely, creative and intellectual engagement activates the same vitality systems as sexual engagement.
 
 The practical consequence: the person who has fully separated their sexuality from their creative and intellectual life has lost access to both. The sexual energy that is fully suppressed does not become productive — it becomes pathological or depressive. The creative energy that is fully intellectualized loses its erotic charge.
 
-**Rilke**, writing to Franz Xaver Kappus: *"The sexual is so extraordinarily difficult and complex, it is not of elementary simplicity, but rather of complex and incomprehensible multiplicity."* His advice: treat sexuality not as a problem to be solved or an appetite to be managed, but as a teacher — one that reveals something about the nature of creativity, connection, and aliveness.
+**Rilke**, in his fourth letter to Franz Xaver Kappus (1903, *Letters to a Young Poet*): *"Sex is difficult; yes."* Almost everything serious is difficult, he adds, and everything is serious. His advice: treat sexuality not as a problem to be solved or an appetite to be managed, but as a teacher — one that reveals something about the nature of creativity, connection, and aliveness.
 
 The fully alive person is sensual in the broader sense — fully present to sensation, moved by beauty, in contact with the body's intelligence. This is the Lover archetype at its mature expression: not sexual compulsiveness but full-spectrum aliveness.
 

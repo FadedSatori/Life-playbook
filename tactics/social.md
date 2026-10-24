@@ -20,7 +20,7 @@ Baseline questions to answer silently:
 
 ### Paul Ekman's Microexpressions (FACS)
 
-Paul Ekman's Facial Action Coding System (FACS) identified seven universal emotions that flash across the face in 1/25 to 1/5 of a second — fast enough to be missed, slow enough to be trained to catch. These are pre-voluntary; they express before the conscious mind can suppress them.
+Paul Ekman's cross-cultural research identified seven universal emotions (his Facial Action Coding System, FACS, built with Wallace Friesen, catalogs the facial muscle movements behind them). As microexpressions they flash across the face in 1/25 to 1/5 of a second — fast enough to be missed, slow enough to be trained to catch. These are pre-voluntary; they express before the conscious mind can suppress them.
 
 The seven universals: happiness, sadness, surprise, fear, disgust, anger, contempt.
 
@@ -51,7 +51,7 @@ Never accuse based on one signal. Never ignore three consistent signals from the
 
 **Pacifying gestures:** The limbic system activates under stress or deception and produces self-soothing behaviors — touching the neck, stroking the hair, rubbing the thigh, adjusting clothing. These are the body's attempt to self-regulate. Baseline everyone first; then note what increases. The pacifying gesture tells you *something* is stressful — it doesn't tell you what.
 
-**Speech disfluencies under stress:** "Um," "uh," "you know," "like" — filler rates increase under cognitive load. Lying requires maintaining false narratives, which is cognitively expensive. Filler rates spike. Also watch for: excessive detail (over-explaining unprompted), detail changes across tellings, unusual formality ("I did not do that" instead of "I didn't"), and the use of distance language ("that woman" instead of "she").
+**Speech disfluencies under stress:** "Um," "uh," "you know," "like" — filler rates increase under cognitive load. Lying requires maintaining false narratives, which is cognitively expensive. But don't read fillers as a lie signal: DePaulo et al.'s 2003 meta-analysis found filled pauses don't reliably signal lying, and that liars tend to give fewer details, not more. Also watch for: thin detail, detail changes across tellings, unusual formality ("I did not do that" instead of "I didn't"), and the use of distance language ("that woman" instead of "she"). No single cue is reliable.
 
 **The too-perfect answer:** Rehearsed lies are often cleaner than the truth. When the story is suspiciously smooth, coherent, and complete, probe the edges. Ask about peripheral details — what they were wearing, what time it was, what happened before. Rehearsal only covers the core narrative.
 
@@ -155,7 +155,7 @@ Build your BATNA *before* the negotiation begins. The better your alternatives, 
 
 ### Cialdini's Six Principles
 
-Robert Cialdini (*Influence*) identified six principles that trigger compliance automatically — they short-circuit deliberate analysis and produce near-automatic agreement responses.
+Robert Cialdini (*Influence*) identified six principles that trigger compliance automatically — they short-circuit deliberate analysis and produce near-automatic agreement responses. In 2016 he added a seventh, Unity.
 
 **1. Reciprocity:** People repay what they receive. Give first, give genuinely, and give unexpectedly. The unsolicited gift creates the most powerful obligation. In professional contexts: share useful information freely, make introductions without being asked, solve problems they didn't ask you to solve. The obligation this creates is real.
 
@@ -189,7 +189,7 @@ Stories bypass analytical defenses. The brain processes narrative differently th
 
 **The single character identification:** the most persuasive stories have one character the audience identifies with (not a team, not a concept — a person). That person has a problem, takes action, faces setback, and reaches resolution. This is the Hero's Journey in 15 seconds.
 
-**Case studies beat statistics.** One identifiable victim moves more resources than aggregate data about thousands (Kahneman's "singularity effect"). This is a bias you should recognize and work against in your own reasoning, but use when persuading.
+**Case studies beat statistics.** One identifiable victim moves more resources than aggregate data about thousands (the "singularity effect," Kogut & Ritov, 2005). This is a bias you should recognize and work against in your own reasoning, but use when persuading.
 
 ### Loaded Framing and the Overton Window
 
@@ -211,7 +211,7 @@ Most decisions are not individual — they're tribal. The question isn't "is thi
 - When you're the outsider trying to influence a group, find an insider champion before you make the case yourself — social proof from a trusted peer is worth more than any external logic
 - The fastest way to create belonging: shared adversity, shared language, shared ritual. Groups that have been through something together have stronger bonds than groups that have merely agreed about something.
 
-**The boomerang effect:** directly challenging someone's tribal belief triggers reactive reassertion — they hold it more strongly. Don't attack the belief. Acknowledge the legitimate concern behind it, then address that concern.
+**The boomerang effect:** directly challenging someone's tribal belief can, in some cases, trigger reactive reassertion — they hold it more strongly — though large studies find this backfire effect is rare (Wood & Porter, 2019). Don't attack the belief. Acknowledge the legitimate concern behind it, then address that concern.
 
 ---
 
@@ -219,7 +219,7 @@ Most decisions are not individual — they're tribal. The question isn't "is thi
 
 ### The High-Conflict Personality Pattern
 
-Bill Eddy's high-conflict personality (HCP) pattern: approximately 10–15% of people have persistent patterns of all-or-nothing thinking, unmanaged emotional reactivity, crisis-generating behavior, and unresolved trauma that they project outward. They are not bad people — they are genuinely in pain — but they require a different operating protocol.
+Bill Eddy's high-conflict personality (HCP) pattern: a minority of people have persistent patterns of all-or-nothing thinking, unmanaged emotional reactivity, crisis-generating behavior, and unresolved trauma that they project outward. They are not bad people — they are genuinely in pain — but they require a different operating protocol.
 
 **HCP markers:**
 - Every conflict is existential to them
@@ -253,19 +253,21 @@ Triangulation: the HCP or manipulative person introduces a third party to create
 
 ---
 
-## Building Deep Rapport: The FBI RAVEN Model
+## Building Deep Rapport: The FBI Behavioral Change Stairway
 
-FBI hostage negotiators use RAVEN as a rapport framework:
+The FBI's published Behavioral Change Stairway Model runs in order: active listening → empathy → rapport → influence → behavioral change. Each step rests on the one below it.
 
-**R — Rapport:** Establish before you need it. You cannot build rapport in crisis. Rapport is built in the ordinary moments. Find genuine commonality: background, interest, experience. Commonality → trust → openness → cooperation.
+**1. Active Listening:** Active listening is not waiting for your turn. It's full attention on the other person's meaning, subtext, and emotional state — not just their words. Behavioral markers of active listening: matching posture subtly, nodding on emphasis (not constantly), asking follow-up questions about what they said, not about what you want to know next.
 
-**A — Active Listening:** Active listening is not waiting for your turn. It's full attention on the other person's meaning, subtext, and emotional state — not just their words. Behavioral markers of active listening: matching posture subtly, nodding on emphasis (not constantly), asking follow-up questions about what they said, not about what you want to know next.
+**2. Empathy:** Not sympathy (feeling what they feel) — empathy (accurately understanding and naming what they feel without judgment). Demonstrated through labels, questions, and behavioral adjustment based on their emotional state. Empathy does not require agreement. You can empathize with a position you disagree with completely.
 
-**V — Verbal Communication:** Use their language. Match vocabulary register (formal/informal). Refer back to things they said earlier. Verbal callback signals you were genuinely listening and elevates their sense of being understood.
+**3. Rapport:** Establish before you need it. You cannot build rapport in crisis. Rapport is built in the ordinary moments. Find genuine commonality: background, interest, experience. Commonality → trust → openness → cooperation.
 
-**E — Empathy:** Not sympathy (feeling what they feel) — empathy (accurately understanding and naming what they feel without judgment). Demonstrated through labels, questions, and behavioral adjustment based on their emotional state. Empathy does not require agreement. You can empathize with a position you disagree with completely.
+**4–5. Influence → Behavioral Change:** Only now do you earn the right to suggest a path. Change follows from being understood, not from being argued at.
 
-**N — Nonverbal Communication:** 55–65% of communication is nonverbal (Mehrabian's approximate figures, often oversimplified but directionally valid). Posture, pace, physical proximity, gesture, facial expression. Deliberate nonverbal adjustments: lean in slightly when they're sharing something important, create appropriate physical space when they seem pressured, slow your own pace to bring down an accelerating conversation.
+**Verbal tools:** Use their language. Match vocabulary register (formal/informal). Refer back to things they said earlier. Verbal callback signals you were genuinely listening and elevates their sense of being understood.
+
+**Nonverbal tools:** Mehrabian's famous percentages apply only to feelings and attitudes when words and nonverbal cues conflict — he rejects using them for communication in general. Still, the nonverbal channel matters: posture, pace, physical proximity, gesture, facial expression. Deliberate nonverbal adjustments: lean in slightly when they're sharing something important, create appropriate physical space when they seem pressured, slow your own pace to bring down an accelerating conversation.
 
 **The rapport shortcut: reflective listening loop.** Listen → label → pause → let them correct or expand → label again. Four cycles of this and you know more about what someone actually thinks than they've consciously articulated.
 

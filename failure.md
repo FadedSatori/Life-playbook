@@ -24,9 +24,9 @@ Most people conflate failure with incompetence, foolishness, or inadequacy. This
 
 Failure activates the same neural systems as physical threat. Understanding the mechanism explains why failure feels worse than it should and what to do about it.
 
-**The social pain network:** Naomi Eisenberger's fMRI research showed that social rejection and failure — including public failure — activate the dorsal anterior cingulate cortex and anterior insula: the same regions activated by physical pain. This is why failure literally hurts. "It felt like a punch in the gut" is not metaphor. The brain processes social threat through the same hardware it uses for physical danger.
+**The social pain network:** Naomi Eisenberger's fMRI research on social exclusion showed that rejection activates the dorsal anterior cingulate cortex and anterior insula: the same regions activated by physical pain. Public failure carries the same threat of rejection. This is why failure literally hurts. "It felt like a punch in the gut" is not metaphor. The brain processes social threat through the same hardware it uses for physical danger.
 
-**The shame-cortisol cascade:** Failure triggers cortisol release, which at elevated levels impairs hippocampal memory consolidation, activates amygdala-driven threat-scanning, and suppresses prefrontal cortex function — precisely the strategic and perspective-taking capacity needed to debrief well. The cruel irony: the physiological state failure produces is the state in which learning from failure is hardest. This is why the debrief protocol specifies 48 hours — not to forget, but to let the cortisol metabolize before attempting to extract the lesson.
+**The shame-cortisol cascade:** Failure triggers cortisol release, which at elevated levels impairs hippocampal memory consolidation, activates amygdala-driven threat-scanning, and suppresses prefrontal cortex function — precisely the strategic and perspective-taking capacity needed to debrief well. The cruel irony: the physiological state failure produces is the state in which learning from failure is hardest. This is why the debrief protocol waits about 48 hours — not to forget, but to let the emotional charge settle before attempting to extract the lesson. (Cortisol itself clears within hours; the 48 hours is a rule of thumb for the sting, not a measured hormone timeline.)
 
 **The threat-to-identity response:** When failure threatens the self-concept — particularly for people who have fused their identity with their competence or output — the brain responds as if the self is under existential attack. Defensive responses (rationalization, blame displacement, memory editing to make yourself look better in retrospect) are not character flaws. They are the brain's protection of something it treats as survival-relevant. They can be overridden by deliberate practice — but they must be understood before they can be worked with.
 
@@ -98,7 +98,7 @@ The error most people make: they try to jump from Phase 1 to Phase 3, or from Ph
 
 The capacity to attempt difficult things is bounded by the capacity to tolerate failure. Expand the tolerance; expand the attempt.
 
-**The rate of failure as an indicator:** Peter Thiel's observation: if your failure rate is zero, you're not trying hard enough. The absence of failure in a portfolio of attempts means you're only attempting things you know you can do. The appropriate failure rate depends on the domain — in surgery, near zero; in product innovation, significant; in learning new skills, expected and necessary.
+**The rate of failure as an indicator:** If your failure rate is zero, you're not trying hard enough. The absence of failure in a portfolio of attempts means you're only attempting things you know you can do. The appropriate failure rate depends on the domain — in surgery, near zero; in product innovation, significant; in learning new skills, expected and necessary.
 
 **The failure resume:** Keep a record of significant failures — what happened, what was learned, what changed as a result. This practice does several things: it normalizes failure as part of the process, it makes the pattern of failures legible (are they all the same type? are they teaching the same lesson repeatedly?), and it provides evidence that failure does not end the story. The person who can look at a list of 20 significant failures and see a trajectory of growth has integrated failure in the most useful way.
 
@@ -118,7 +118,7 @@ The capacity to attempt difficult things is bounded by the capacity to tolerate 
 
 ## Failure in High-Stakes Professional Contexts
 
-**Entrepreneurial failure:** The expected failure rate in venture-backed startups is approximately 90% within 10 years. This is not a statement about founder incompetence — it is a description of the operating environment. Building something new under conditions of radical uncertainty, with incomplete information, against established incumbents, while also building the organization capable of delivering it: failure is the statistically expected outcome.
+**Entrepreneurial failure:** Shikhar Ghosh (Harvard Business School) found that about 75% of venture-backed companies never return cash to investors, and 30–40% liquidate. (The popular "90% of startups fail" figure refers to all startups and is loosely sourced.) This is not a statement about founder incompetence — it is a description of the operating environment. Building something new under conditions of radical uncertainty, with incomplete information, against established incumbents, while also building the organization capable of delivering it: failure is the statistically expected outcome.
 
 The investor who understands this does not treat each failure as a separate catastrophe. They treat the portfolio as a whole — 10 investments expect 7–8 to fail, 1–2 to produce moderate returns, and 1 to produce the return that justifies the rest. Applied to your own entrepreneurial attempts: a single failure is not a verdict on your capability. It is one data point in a required sample size.
 
@@ -151,9 +151,9 @@ The public record of success is biased toward the endpoint. The full record incl
 
 **J.K. Rowling:** Harry Potter was rejected by 12 publishers before Bloomsbury accepted it. In the year before the submission process, Rowling was a single parent on welfare, recently divorced, and clinically depressed. The gap between the idea arriving (on a train from Manchester to London) and the published book was seven years of difficulty, rejection, and persistence. The difficulty was not adjacent to the achievement — it was constitutive of it. The story would not exist in its current form without the seven years.
 
-**Abraham Lincoln** lost eight elections, failed in two businesses, and experienced a breakdown severe enough to be described by contemporaries as a complete psychological collapse, before winning the presidency at 51. The biographical record is not a story of resilience *despite* failure. It is a story of a person who had found something worth the failures required to pursue it.
+**Abraham Lincoln** suffered several political defeats, including two US Senate bids, and experienced a breakdown severe enough to be described by contemporaries as a complete psychological collapse, before being elected president at 51. The biographical record is not a story of resilience *despite* failure. It is a story of a person who had found something worth the failures required to pursue it.
 
-**Steve Jobs** was fired from Apple — the company he founded — in 1985, at 30 years old, at what appeared to be the peak of his career. He spent 12 years building NeXT and Pixar before returning to Apple in 1997. He said later that getting fired was the best thing that happened to him — not because the firing was good, but because the intervening years produced learning and range that his original Apple tenure could not have provided. The failure created the conditions for what followed.
+**Steve Jobs** was fired from Apple — the company he co-founded — in 1985, at 30 years old, at what appeared to be the peak of his career. He spent 12 years building NeXT and Pixar before returning to Apple in 1997. He said later that getting fired was the best thing that happened to him — not because the firing was good, but because the intervening years produced learning and range that his original Apple tenure could not have provided. The failure created the conditions for what followed.
 
 The pattern: in none of these cases was the failure an obstacle to the achievement. The specific failures produced specific information and specific growth that could not have been acquired otherwise. This is not a rationalization — it is an accurate accounting of the causal chain. The counterfactual version (where the failure didn't happen) does not produce the same outcome.
 
@@ -171,8 +171,8 @@ When a failure is large enough — bankruptcy, public disgrace, the collapse of 
 
 **The new story:** The narrative that eventually forms is not a minimization of the failure ("it was actually fine") or a dramatization of it ("the worst thing that could have happened"). It is an integration: the failure happened, it mattered, it changed something, and the version of you that exists now — with the specific learning the failure produced — is engaged with what comes next. This story is not available at day 1. It develops over time. Give it the time it needs.
 
-*"I have not failed. I've just found 10,000 ways that won't work."* — Thomas Edison
+*"I know several thousand things that won't work."* — Thomas Edison (earliest source, 1910; the popular "10,000 ways" version is a later embellishment)
 
 *"Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."* — Samuel Beckett
 
-*"Success is stumbling from failure to failure with no loss of enthusiasm."* — Winston Churchill
+*"Success is stumbling from failure to failure with no loss of enthusiasm."* — Anonymous (often misattributed to Winston Churchill)

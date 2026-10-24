@@ -52,7 +52,7 @@ Identify the top 5 genuine lessons. Not "I learned I need to be better at X" —
 
 ## Part 2: The Four-Question Life Audit
 
-These four questions, adapted from Clayton Christensen's framework and expanded, produce more honest data than any goal review:
+These four questions, inspired by Clayton Christensen's *How Will You Measure Your Life?* (his own three questions were about career happiness, relationships, and staying out of jail), produce more honest data than any goal review:
 
 **1. Am I allocating time to what matters most?**
 Look at your actual calendar for the past 12 months (not your intended calendar). Where did your hours actually go? The calendar reveals what you actually prioritized, not what you said you prioritized. Is there alignment?

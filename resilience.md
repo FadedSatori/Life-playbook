@@ -74,11 +74,11 @@ Going through rather than around is the only path. Not because suffering is nobl
 
 ## The Role of Narrative
 
-**James Pennebaker** (University of Texas) conducted a series of studies in the 1980s and 1990s that produced one of the most replicated findings in trauma research: writing about traumatic experiences for 15-20 minutes a day, four days in a row, produces measurable improvements in immune function, reduced medical visits, improved mood, and accelerated cognitive processing of the event.
+**James Pennebaker** (University of Texas) conducted a series of studies in the 1980s and 1990s showing that writing about traumatic experiences for 15-20 minutes a day, four days in a row, produces measurable improvements in immune function, reduced medical visits, improved mood, and accelerated cognitive processing of the event. The finding has been replicated many times, though a meta-analysis of 146 studies put the average benefit as small (Frattaroli, 2006).
 
 The mechanism: narrative forces the construction of causal and temporal structure. The event moves from raw experience — fragmented, intrusive, unprocessed — to story: it had a beginning, middle, and end; it had causes; it has a relationship to other events; it can be understood, if not controlled. The story does not erase the pain. It contains it.
 
-**Viktor Frankl** (Man's Search for Meaning): "Everything can be taken from a man but one thing: the last of the human freedoms — to choose one's attitude in any given set of circumstances." This is not positive thinking. Frankl watched it demonstrated in Auschwitz. The prisoners who survived — who did not merely survive biologically but survived psychologically — were those who found or constructed meaning in their suffering. Not comfort. Not false hope. Meaning.
+**Viktor Frankl** (Man's Search for Meaning): "Everything can be taken from a man but one thing: the last of the human freedoms — to choose one's attitude in any given set of circumstances." This is not positive thinking. Frankl watched it demonstrated in the Nazi camps. The prisoners who survived — who did not merely survive biologically but survived psychologically — were those who found or constructed meaning in their suffering. Not comfort. Not false hope. Meaning.
 
 The story you tell about the adversity determines its outcome more than the adversity itself.
 
@@ -170,7 +170,7 @@ See [Transformation Science](transformation-science.md) for the neurological and
 
 Three traditions, three frameworks. Each true. Each incomplete without the others.
 
-**The Stoic frame:** What happens to you is not in your control. Your response is. Adversity is neither good nor bad — it is material. The Stoics called this *amor fati* — love of fate: not resigned acceptance but active embrace of what is, because what is is what you have to work with. Marcus Aurelius, Epictetus (a slave), and Seneca each faced significant external difficulty. Their resilience was not denial. It was the consistent practice of directing attention toward what was actionable and releasing attachment to what was not. Read [Stoic Practice](stoic-practice.md).
+**The Stoic frame:** What happens to you is not in your control. Your response is. Adversity is neither good nor bad — it is material. The phrase *amor fati* — love of fate — is Nietzsche's (*The Gay Science*, 1882), but the attitude has Stoic roots in Epictetus and Marcus Aurelius: not resigned acceptance but active embrace of what is, because what is is what you have to work with. Marcus Aurelius, Epictetus (a slave), and Seneca each faced significant external difficulty. Their resilience was not denial. It was the consistent practice of directing attention toward what was actionable and releasing attachment to what was not. Read [Stoic Practice](stoic-practice.md).
 
 **The Japanese frame — Wabi-Sabi and Kintsugi:** *Wabi-sabi* is the Japanese aesthetic of imperfection and transience — finding beauty not despite impermanence and incompleteness but within it. The broken thing is more beautiful for its history than the pristine thing that has not yet lived.
 

@@ -6,9 +6,9 @@ Situational awareness, environmental intelligence, improvised problem-solving, p
 
 ## Situational Awareness
 
-### Jeff Cooper's Full Color Code
+### Jeff Cooper's Color Code (Plus Black)
 
-Jeff Cooper's color code defines mental readiness states with specific behavioral protocols at each level. Most people conflate this with a threat-detection system; it's actually a preparedness state management system.
+Jeff Cooper's color code had four colors — White, Yellow, Orange, Red — describing states of mind, with specific behavioral protocols at each level. Condition Black was added later by others. Most people conflate this with a threat-detection system; it's actually a preparedness state management system.
 
 **White — Unaware/Switched Off:**
 Mentally elsewhere. Attention fully internalized. No environmental scanning occurring. Normal for sleep, trusted private environments, established routines in genuinely safe contexts.
@@ -48,9 +48,9 @@ You've decided to act or act is already required. The decision was made in yello
 
 Performance in red is determined almost entirely by what was done in yellow and orange (positioning, awareness, pre-loaded decision) and by training. Under real threat conditions, fine motor control degrades, tunnel vision narrows, time perception distorts. Only gross motor patterns that have been drilled to automaticity are reliable.
 
-*The Cooper principle:* "You do not rise to the occasion — you fall to your training." This is why the work happens in white and yellow, not red.
+*The training principle:* "You do not rise to the occasion — you fall to your training." A common saying of uncertain origin — not traceable to Cooper, and often misattributed to the Greek poet Archilochus. This is why the work happens in white and yellow, not red.
 
-**Black — Overwhelm:**
+**Black — Overwhelm (a later addition, not Cooper's):**
 Cortical function severely degraded. Freeze response or panic. Occurs when the event exceeds training, when conditions are beyond any schema in memory, or when physical state (exhaustion, injury) has degraded the nervous system. The exit from black is a single action commitment: pick the one most important thing and do only that until the immediate crisis is resolved.
 
 ---
@@ -185,7 +185,7 @@ An SDR is a deliberate movement route designed to reveal whether you're being fo
 
 ### The ABC Model
 
-In counter-surveillance: **A (Attacker)** is the primary threat, **B (Blocker)** is a team member controlling your movement options, **C (Cover)** is rear surveillance. Knowing this model lets you recognize coordinated surveillance rather than just individual followers. If you see two people who seem to be coordinating their positions relative to you, you're potentially seeing A and B or A and C of a surveillance team. The third person you don't see yet is the indicator to act on.
+ABC is a police foot-surveillance formation: one follower **(A)** directly behind the subject, others **(B and C)** trailing and on the opposite side of the street, rotating positions to avoid detection. Knowing this model lets you recognize coordinated surveillance rather than just individual followers. If you see two people who seem to be coordinating their positions relative to you — or the person behind you hands off and someone else takes their place — you're potentially seeing part of a surveillance team. The third person you don't see yet is the indicator to act on.
 
 ### What Follows You
 
@@ -208,16 +208,13 @@ MARCH is the Tactical Combat Casualty Care (TCCC) framework for managing life th
 The leading preventable cause of death in trauma is exsanguination (bleeding out). Address first.
 
 **Tourniquet application:**
-- High and tight: apply 2–3 inches above the wound, as high on the limb as possible for extremity wounds
+- If you can see the wound, place it 2–3 inches above it, never over a joint. If you can't quickly find the wound, or you're under threat, go "high and tight" — as high on the limb as possible — and reassess when safe.
 - Tighten until bleeding stops — not just reduced, but stopped
 - Note the time of application (critical for the receiving medical team)
 - Do not remove in the field once applied — removal can restart bleeding and dislodge clots
-- CAT (Combat Application Tourniquet) or SOFTT-W are the standard training tools; know how to improvise with a belt, cloth, and rigid stick as windlass
+- CAT (Combat Application Tourniquet) or SOFTT-W are the standard training tools. Carry a commercial tourniquet — improvised ones usually fail. If you must improvise, use a wide band plus a rigid windlass; a belt tightened by hand rarely stops arterial bleeding.
 
-**The 3-30-300 rule for bleeding:**
-- Uncontrolled arterial bleeding: 3 minutes to unconsciousness
-- Standard blood loss reserve: 30% of blood volume (approximately 1.5L in an adult) before hemodynamic compromise
-- Time to irreversible organ failure from uncontrolled hemorrhage: approximately 300 seconds (5 minutes) in severe cases
+Severe limb bleeding can kill within minutes. Control it first.
 
 Hemostatic gauze (QuikClot, Celox) for junctional wounds that cannot be tourniqueted (neck, groin, armpit): pack the wound firmly, maintain direct pressure for minimum 3 minutes. This is not gentle — you need to pack the gauze into the wound and hold pressure hard.
 
@@ -234,9 +231,9 @@ A simple nasopharyngeal airway (NPA) is a field-deployable device that takes 5 m
 Assess breathing quality and rate. Normal: 12–20 breaths per minute. Signs of respiratory distress:
 - Rate >30 or <8
 - Asymmetric chest rise (tension pneumothorax — needle decompression is the field intervention)
-- Sucking chest wound: seal with an occlusive dressing (commercial or improvised — plastic, tape three sides to create a flutter valve)
+- Sucking chest wound: cover the wound with a vented chest seal (or a non-vented seal or improvised airtight material if that's all you have). If breathing worsens, burp or remove the seal and suspect tension pneumothorax.
 
-**Needle decompression for tension pneumothorax** (requires training — do not improvise without it): 14-gauge needle, second intercostal space, mid-clavicular line. This is a skills course, not a field improvisation.
+**Needle decompression for tension pneumothorax** (requires training — do not improvise without it): 14-gauge needle, second intercostal space, mid-clavicular line. Current tactical guidance also uses the 4th/5th intercostal space at the anterior axillary line with a longer (3.25-inch) needle. This is a skill for trained providers only — a skills course, not a field improvisation.
 
 ### C — Circulation
 
@@ -250,7 +247,7 @@ Shock management in the field: lay flat, elevate legs if no spinal or lower extr
 
 The trauma triad of death: hypothermia + acidosis + coagulopathy. Hypothermia impairs coagulation directly — a hypothermic patient bleeds more. Even in warm environments, trauma patients lose heat rapidly.
 
-Field protocol: wet clothing off, insulate from the ground first (ground draws heat fastest), wrap in any available insulation, cover the head. The goal is prevent further heat loss, not warm the patient rapidly. Rapid rewarming of a hypothermic trauma patient can precipitate cardiac arrhythmia.
+Field protocol: wet clothing off, insulate from the ground first (ground draws heat fastest), wrap in any available insulation, cover the head. Prevent further heat loss first, and also add external heat where available (for example an active warming blanket to the chest and armpits). Warm the trunk, not the arms and legs. Handle a severely hypothermic person gently and keep them horizontal; rough movement can trigger dangerous heart rhythms.
 
 ---
 
@@ -343,7 +340,7 @@ Signal discipline: transmitting only what is necessary, when it is necessary, us
 The principle: **any object can be a tool if you understand its properties.** Mass, edge, reach, hardness, heat resistance, electrical conductivity. Constraints force creativity. Function is primary; form is secondary.
 
 **Utility under constraint:**
-- A belt: tourniquet, restraint, carry strap, anchor point, makeshift rope, weapon
+- A belt: tourniquet (last resort — carry a commercial tourniquet, because improvised ones usually fail; if you must improvise, use a wide band plus a rigid windlass, since a belt tightened by hand rarely stops arterial bleeding), restraint, carry strap, anchor point, makeshift rope, weapon
 - A pen: lever, probe, pressure tool, window breaker (glass-breaker end), improvised weapon (kubaton function)
 - Paracord / shoelaces: tie, hang, measure distance, trip, drag, improvised sling, clothesline
 - A phone: flashlight, mirror/reflective surface, timer, noise maker, map (offline), recording device, level
@@ -408,7 +405,7 @@ Actionable and specific. Not "be more aware" (unmeasurable) but "I will conduct 
 
 The adrenaline dump (sympathetic nervous system activation) following a high-stress incident produces a predictable sequence: peak activation → action → comedown. The comedown is characterized by:
 
-- Shaking (fine motor tremor as the muscles deplete stored glycogen)
+- Shaking (fine motor tremor — mainly an effect of adrenaline itself)
 - Nausea
 - Emotional release (crying, laughter, anger — often disproportionate to the moment)
 - Cognitive fog and difficulty sequencing thoughts
@@ -419,10 +416,10 @@ The adrenaline dump (sympathetic nervous system activation) following a high-str
 1. Move to safety first — the recovery cannot happen in the hot zone
 2. Tactical breathing to initiate parasympathetic response: 4-count in, 4-hold, 4-out, 4-hold. Four cycles minimum.
 3. Sit or lie down if possible — prevents injury from the involuntary shaking
-4. Eat something with simple carbohydrates if available — the shaking is partly glycogen depletion
+4. Eat something with simple carbohydrates if available
 5. Do not make significant decisions for 15–30 minutes if avoidable — cognition is degraded and emotional regulation is temporarily compromised
 
-**Memory and documentation:** incident memory consolidates over the first 24–48 hours. Adrenaline impairs accurate encoding of sequence and detail. The window for accurate documentation is the first 2 hours; after that, memory begins to reconstruct rather than recall. Write a factual account as soon as you are safe and cognitively capable. Write facts, not interpretations. Date and time it.
+**Memory and documentation:** incident memory consolidates over the first 24–48 hours. Adrenaline impairs accurate encoding of sequence and detail, and memory begins to reconstruct rather than recall. Write a factual account as soon as practical, once you're safe and have calmed down. Write facts, not interpretations. Date and time it.
 
 ### What to Document and When
 

@@ -15,7 +15,7 @@ What you're defending against:
 - **Manufactured consensus** — manufactured urgency, false dichotomies, Overton window manipulation
 - **Identity-based epistemics** — believing things because your tribe believes them, not because they're true
 - **Synthetic media and deep fakes** — video, audio, and text that appears real but is fabricated; increasingly indistinguishable at first exposure
-- **Firehosing** — the deliberate tactic (documented in Russian information warfare doctrine) of flooding the information environment with contradictory claims until the target gives up trying to determine truth and retreats to their existing priors
+- **Firehosing** — the deliberate tactic of flooding the information environment with contradictory claims until the target gives up trying to determine truth and retreats to their existing priors. "Firehose of falsehood" is RAND's label (Paul & Matthews, 2016) for a Russian propaganda pattern
 
 The goal of many of these tactics is not to convince you of something specific. It is to destroy your confidence in the possibility of knowing what is true — leaving you manipulable, nihilistic, or tribally dependent on "your side" to tell you what to believe.
 
@@ -31,7 +31,7 @@ Don't start from what you've been told. Start from what you can verify.
 3. Identify where the gap is
 4. Fill the gap from primary sources, not summaries of summaries
 
-*"I would rather have questions that can't be answered than answers that can't be questioned."* — Feynman
+*"I would rather have questions that can't be answered than answers that can't be questioned."* — Anonymous
 
 **Ask of every important belief you hold:** How would I know if this were wrong? If you cannot answer that question, you don't hold a belief — a belief holds you.
 
@@ -51,7 +51,7 @@ The practice:
 
 The anti-pattern: treating every piece of new evidence as either total confirmation or total invalidation. That's not updating — it's oscillating.
 
-**The calibration practice:** Good epistemics requires calibration — your confidence levels should correspond to your actual accuracy. If you say you're 90% confident in something and you're wrong 30% of the time when you express 90% confidence, you're systematically overconfident. Tracking predictions and comparing them to outcomes calibrates your confidence levels. Philip Tetlock's superforecasters — the people who are measurably best at predicting world events — are distinguished not by superior intelligence but by superior calibration.
+**The calibration practice:** Good epistemics requires calibration — your confidence levels should correspond to your actual accuracy. If you say you're 90% confident in something and you're wrong 30% of the time when you express 90% confidence, you're systematically overconfident. Tracking predictions and comparing them to outcomes calibrates your confidence levels. Philip Tetlock's superforecasters — the people who are measurably best at predicting world events — scored above average on intelligence tests but weren't geniuses. Open-mindedness, practice, training and teamwork set them apart (Mellers et al., 2015).
 
 **Updating publicly:** The person who never publicly changes their mind in response to evidence is not admirably consistent. They are managing a persona rather than tracking truth. Publicizing your updates ("I was wrong about X because of Y") signals epistemic health, not weakness.
 
@@ -64,7 +64,7 @@ The most dangerous biases to know and watch for in yourself:
 - **Confirmation bias** — seeking evidence that confirms what you already believe. Counter: actively seek disconfirming evidence. Read the best argument against your position.
 - **Availability heuristic** — judging likelihood by how easily an example comes to mind. Counter: look for base rates, not vivid examples.
 - **In-group bias** — trusting sources more because they share your identity. Counter: evaluate the argument, not the arguer.
-- **Dunning-Kruger** — peak confidence at low competence. Counter: the more certain you feel, the more carefully you should verify.
+- **Dunning-Kruger** — low performers overestimate their relative standing (the 1999 finding; the popular "Mount Stupid" curve isn't from the paper, and part of the effect may be a statistical artifact). Counter: the more certain you feel, the more carefully you should verify.
 - **Sunk cost fallacy** — continuing a losing path because of past investment. Counter: ask "would I start this today knowing what I know?"
 - **Narrative bias** — preferring a coherent story over accurate probability. Counter: facts don't owe you a satisfying arc.
 - **Anchoring** — the first number or claim you hear disproportionately influences subsequent judgments. Counter: deliberately generate an alternative anchor before evaluating.
@@ -87,15 +87,14 @@ Memes — ideas, frames, slogans — are the viruses of the mind. Some are usefu
 
 **The quarantine protocol:** when encountering content that triggers strong immediate emotion, don't share it for 24 hours. The urgency to spread it is almost always manufactured.
 
-**Inoculation theory** (Sander van der Linden): Exposing people to weakened forms of manipulation techniques — showing them the structure of a manipulation before they encounter it in force — dramatically reduces susceptibility. This is epistemic inoculation. The practices below function as inoculation: once you've seen the mechanisms, you recognize them in the wild.
+**Inoculation theory** (developed by William McGuire in 1961; applied to misinformation by Sander van der Linden and colleagues): Exposing people to weakened forms of manipulation techniques — showing them the structure of a manipulation before they encounter it in force — reduces susceptibility. The effects are real but modest and debated. This is epistemic inoculation. The practices below function as inoculation: once you've seen the mechanisms, you recognize them in the wild.
 
-**Six manipulation techniques to recognize:**
+**Five manipulation techniques to recognize** (John Cook's FLICC model):
 1. **Fake experts** — citing people with the appearance of credentials who don't actually represent the evidence
-2. **Logical fallacies** — ad hominem, strawman, appeal to emotion disguised as argument
+2. **Logical fallacies** — ad hominem, strawman, appeal to emotion disguised as argument. Misrepresentation — deliberately taking quotes or findings out of context to reverse their meaning — falls here too
 3. **Impossible expectations** — demanding a level of certainty from opposing claims that you don't require from your own
 4. **Cherry-picking** — selecting individual studies or data points that support a position while ignoring the weight of evidence
 5. **Conspiracy theories** — unfalsifiable claims that can absorb all disconfirming evidence as part of the conspiracy
-6. **Misrepresentation** — deliberately taking quotes or findings out of context to reverse their meaning
 
 ---
 
@@ -162,7 +161,7 @@ Ask these in private, in writing. The answers matter more than the questions.
 What does epistemic health look like in practice?
 
 **Daily:**
-- No social media first thing in the morning — the mind is most suggestible before cortisol has risen; protect those first 30 minutes
+- No social media first thing in the morning — protect those first 30 minutes
 - One day's delay before forming and sharing opinions on breaking news
 - Emotions as flags: when something makes you feel strongly, investigate more carefully, not less
 

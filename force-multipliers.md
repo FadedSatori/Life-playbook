@@ -29,7 +29,7 @@ Writing sharpens argumentation. You will construct better arguments in conversat
 
 ### Second Language Acquisition
 
-A second language is a cognitive multiplier — not primarily for communication, but for what the process does to your brain. Language acquisition rewires neural architecture. It makes you more cognitively flexible, slows age-related mental decline, and literally builds more gray matter.
+A second language is a cognitive multiplier — but not the way it's usually sold. The popular claim that bilingualism sharpens cognitive control didn't survive a large meta-analysis that corrected for publication bias (Lehtonen and colleagues, 2018), and the evidence that it slows age-related decline is mixed.
 
 The operational payoff: a second language gives you access to a different conceptual vocabulary. Some ideas exist fully formed in one language and only partially in another. German has *Weltanschauung* (worldview as a total perceptual framework). Japanese has *Ma* (the strategic use of negative space). These are not translatable — they are conceptual tools that only exist inside their language.
 
@@ -44,7 +44,7 @@ Target: choose the language most useful for your professional or personal ambiti
 
 ### Speed Reading and Comprehension
 
-Most people read at the speed they were taught to read in elementary school — around 200-300 words per minute. With deliberate training, 600-900 wpm is achievable with retained comprehension.
+Most people read at the speed they were taught to read in elementary school — around 200-300 words per minute. Speed reading trades comprehension for speed (Rayner et al., 2016); there's no shortcut beyond practice and vocabulary.
 
 What matters is not raw speed but efficient information extraction. Most non-fiction books contain 3-5 core ideas surrounded by 200 pages of supporting evidence, anecdote, and repetition.
 
@@ -57,7 +57,7 @@ Speed extraction protocol:
 
 ### Building a Mental Model Library
 
-Charlie Munger: "The man with only a hammer sees every problem as a nail." The antidote is a latticework of mental models drawn from multiple disciplines. Each model is a lens. More lenses = more reality.
+The law of the instrument (Abraham Kaplan 1964, Abraham Maslow 1966), which Charlie Munger quoted: "The man with only a hammer sees every problem as a nail." The antidote is a latticework of mental models drawn from multiple disciplines. Each model is a lens. More lenses = more reality.
 
 Core library — minimum viable mental model set:
 - **First Principles Thinking (physics):** Decompose to fundamentals. Don't accept received answers.
@@ -75,7 +75,7 @@ Build the library deliberately. When you encounter a new model, write it down in
 
 ### The Feynman Technique
 
-Richard Feynman: the test of whether you understand something is whether you can explain it to a twelve-year-old. Not because children are the audience — but because the explanation strips out jargon and forces you to confront what you actually know versus what you have memorized.
+Named for Richard Feynman, though the step-by-step method and the "twelve-year-old" framing were packaged by later writers; Feynman's own recorded test, per his colleague David Goodstein, was whether an idea could be reduced to a freshman lecture. The test: can you explain it to a twelve-year-old? Not because children are the audience — but because the explanation strips out jargon and forces you to confront what you actually know versus what you have memorized.
 
 Protocol:
 1. Pick a concept you want to understand.
@@ -164,7 +164,7 @@ How to develop mentor relationships:
 
 ### Sleep as the #1 Cognitive Lever
 
-Matthew Walker's research: 17-19 hours without sleep produces cognitive impairment equivalent to legal intoxication. People chronically sleeping 6 hours perform as if they haven't slept at all — and they don't notice the degradation. The sleepless mind is the last to know.
+Being awake 17–19 hours impairs performance roughly like a 0.05% blood alcohol level (Williamson & Feyer, 2000). Fourteen days of 6-hour nights impaired performance about as much as one night of total sleep deprivation (Van Dongen et al., 2003) — and the subjects didn't notice the degradation. The sleepless mind is the last to know.
 
 Sleep is not recovery from the day. Sleep is when the brain:
 - Consolidates procedural and declarative memory (learning happens during sleep, not during learning)
@@ -190,7 +190,7 @@ Protocols:
 
 ### Body Language as Force Multiplier on Presence
 
-Your body communicates before your words do. The research (Amy Cuddy, Joe Navarro) demonstrates that posture and movement affect not just how others perceive you but how you perceive yourself. Adopting powerful postures for 2 minutes before high-stakes situations measurably alters hormonal state.
+Your body communicates before your words do. Posture and movement shape how others perceive you (see Joe Navarro's work on nonverbal behavior), and may affect how you feel about yourself. The claim that 2 minutes of power posing measurably alters hormonal state failed to replicate (Ranehill et al., 2015), and co-author Dana Carney disavowed it in 2016. At most, upright posture may make some people feel more confident.
 
 The fundamentals:
 - **Uprightness:** Posture is status signaling at the primate level. Upright, open posture signals confidence and triggers correspondent internal states. Collapsed, closed posture signals submission.
@@ -355,7 +355,7 @@ The math makes the point starkly. $10,000 invested at age 25, compounding at 8% 
 The same $10,000 invested at 35:
 - At age 65: $100,626
 
-Ten years of delay halves the outcome. The lesson: start, however modestly. The amount matters less than the timeline.
+Ten years of delay more than halves the outcome — it cuts it to about 46%. The lesson: start, however modestly. The amount matters less than the timeline.
 
 Interrupt compounding as rarely as possible. Pulling money out of compounding vehicles for lifestyle expenses destroys wealth-building machinery. Understand what you're trading when you do it.
 

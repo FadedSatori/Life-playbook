@@ -12,13 +12,15 @@ Most bad decisions are made in one of three states: under time pressure, under e
 
 Before applying any framework, identify what kind of decision you're making. Different types require different approaches.
 
-**Type 1 — Reversible and low-stakes:** Make it fast. Any reasonable answer is fine. The cost of time spent overthinking exceeds the cost of a mediocre choice. Default to action.
+Bezos's version, from his 2015 shareholder letter, has two types: **Type 1** decisions are irreversible (one-way doors); **Type 2** decisions are reversible (two-way doors). Split each by stakes and you get four:
 
-**Type 2 — Reversible and high-stakes:** Spend time on framing, gather relevant data, but preserve the ability to course-correct. Commit enough to learn something, not so much that reversal is costly.
+**Reversible (Type 2) and low-stakes:** Make it fast. Any reasonable answer is fine. The cost of time spent overthinking exceeds the cost of a mediocre choice. Default to action.
 
-**Type 3 — Irreversible and low-stakes:** Most of these don't actually exist. If it's irreversible and low-stakes, it doesn't warrant significant deliberation.
+**Reversible (Type 2) and high-stakes:** Spend time on framing, gather relevant data, but preserve the ability to course-correct. Commit enough to learn something, not so much that reversal is costly.
 
-**Type 4 — Irreversible and high-stakes:** These are the decisions that warrant the full toolkit. These are also the ones people most often make hastily, under emotional pressure, or by default. Slow down, apply multiple frameworks, get outside input, and give yourself time.
+**Irreversible (Type 1) and low-stakes:** Most of these don't actually exist. If it's irreversible and low-stakes, it doesn't warrant significant deliberation.
+
+**Irreversible (Type 1) and high-stakes:** These are the decisions that warrant the full toolkit. These are also the ones people most often make hastily, under emotional pressure, or by default. Slow down, apply multiple frameworks, get outside input, and give yourself time.
 
 Most decisions feel more permanent and more consequential than they are. Calibrating which type you're actually in — rather than which type it feels like — saves significant cognitive resources.
 
@@ -39,9 +41,9 @@ Useful for: decisions driven by short-term emotion (fear, excitement, anger). Th
 ### Regret Minimization
 Imagine yourself at 80, looking back. Which choice would you regret more — doing it, or not doing it?
 
-Useful for: big life decisions, risky bets, things you've been putting off. Jeff Bezos used this explicitly to decide to leave his investment banking job and start Amazon.
+Useful for: big life decisions, risky bets, things you've been putting off. Jeff Bezos used this explicitly to decide to leave his job as a senior vice president at D. E. Shaw, a quantitative hedge fund, and start Amazon.
 
-The asymmetry: research on hedonic adaptation consistently shows that people adapt to bad outcomes (they become less bad over time) more than they expected, but that the pain of inaction — of never having tried — does not adapt in the same way. "I tried and failed" loses its sting. "I never tried" doesn't.
+The asymmetry: regret research (Gilovich & Medvec, 1994–95) found that regrets about actions dominate in the short term, but regrets about inaction dominate in the long term. The evidence comes from people's retrospective reports. "I tried and failed" loses its sting. "I never tried" doesn't.
 
 ---
 
@@ -60,7 +62,7 @@ Assume the decision fails spectacularly. What caused it?
 
 Gary Klein's technique: take the group forward in time to the imagined failure and ask everyone to write down all the reasons it failed. This surfaces risks that optimism and social pressure suppress in normal group decision-making.
 
-**Why it works:** In normal planning, social dynamics (deference to authority, desire for consensus, not wanting to be the pessimist) suppress legitimate risk identification. Pre-mortem creates explicit permission to identify failure modes — and the imagination of failure activates different neural pathways than the imagination of success.
+**Why it works:** In normal planning, social dynamics (deference to authority, desire for consensus, not wanting to be the pessimist) suppress legitimate risk identification. Pre-mortem creates explicit permission to identify failure modes — and imagining the outcome has already happened ("prospective hindsight") increased the number of reasons people could generate by about 30% (Mitchell, Russo & Pennington, 1989).
 
 ---
 
@@ -94,7 +96,7 @@ Gary Klein's research on expert decision-makers (firefighters, military commande
 4. **A good process with a bad outcome is still a good process.** Don't let results bias your evaluation of how you decided.
 5. **When genuinely torn between two options, flip a coin — then notice how you feel about the result.** Your gut has an answer.
 6. **The quality of decisions degrades with fatigue.** Make the highest-stakes decisions in your peak cognitive window, not at the end of the day.
-7. **Multiple options is not the same as better decisions.** More choices produce decision paralysis and lower satisfaction. Set a decision deadline and abide by it.
+7. **Multiple options is not the same as better decisions.** More choices can, under some conditions, produce decision paralysis and lower satisfaction — though a 2010 meta-analysis (Scheibehenne et al.) found the average choice-overload effect was close to zero. Set a decision deadline and abide by it.
 
 ---
 
@@ -116,7 +118,7 @@ Apply this especially to: long-running projects that have lost their rationale, 
 
 **The pattern:** When evaluating a plan or project, focusing on its specific features (the inside view) while ignoring how projects like this typically perform (the outside view).
 
-**The mechanism:** Kahneman and Lovallo's research on planning fallacy. When asked to forecast outcomes for their own projects, people systematically produce optimistic estimates that ignore the base rate for comparable projects. The entrepreneur who believes their restaurant will succeed despite 60% industry failure rates in year one is committing base rate neglect.
+**The mechanism:** Kahneman and Lovallo's research on planning fallacy. When asked to forecast outcomes for their own projects, people systematically produce optimistic estimates that ignore the base rate for comparable projects. The entrepreneur who believes their restaurant will succeed despite failure rates of about 26% in year one and about 60% by year three (Parsa et al., 2005) is committing base rate neglect.
 
 **The fix — reference class forecasting:**
 1. Identify the reference class: all projects of this type, in comparable conditions, attempted by comparable people
@@ -161,13 +163,13 @@ Before any significant decision, explicitly write:
 
 Second and third-order effects are where decisions differentiate. Most people in most competitive contexts are operating at first-order. The person consistently thinking one level deeper has a durable advantage — in investing, strategy, relationships, and life design.
 
-*"The problem with most people's thinking is that they consider only the first-order consequences."* — Howard Marks
+*The problem with most people's thinking is that they consider only the first-order consequences.*
 
 ---
 
 ## Fermi Estimation for Decisions
 
-When a decision requires a number you don't have, build an estimate from what you do know. Enrico Fermi could estimate the number of piano tuners in Chicago from first principles (population → households → pianos per household → frequency of tuning → hours per tuning → tuners per city).
+When a decision requires a number you don't have, build an estimate from what you do know. Enrico Fermi is said to have challenged his University of Chicago students to estimate the number of piano tuners in Chicago from first principles: population → households → pianos per household → frequency of tuning → hours per tuning → tuners per city. (The story is widely told but undocumented.)
 
 **The decision application:**
 - Never refuse to estimate because the data is unavailable
