@@ -302,3 +302,7 @@ FBI hostage negotiators use RAVEN as a rapport framework:
 **Professional email discipline:** The quality of your written communication is a constant status signal. Grammar, precision, appropriate length, and logical structure are read as indicators of how you think. A sloppy email to a senior person is a status deduction. Reread before sending anything consequential.
 
 **Never write what you wouldn't say.** The permanence of written communication means anything in writing can be screenshotted, forwarded, quoted, and used outside context. If you wouldn't say it in a room, don't write it. This is not timidity — it's strategic self-preservation.
+
+---
+
+**Related:** [Public Speaking](public-speaking.md) · [Community and Tribe](../community.md) — from reading rooms to building one

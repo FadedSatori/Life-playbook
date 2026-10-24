@@ -282,3 +282,7 @@ Antifragility is not only a personal philosophy. It is a systems property that e
 8. **The noise-signal check:** Is this worth intervening in, or is it oscillation within normal variance? Default to non-intervention.
 
 *"What doesn't kill me makes me stronger."* — Nietzsche. Taleb's most-quoted philosopher for a reason — but only under the condition that you don't encounter the thing that does kill you. Hence the ruin condition overrides everything.
+
+---
+
+**Related:** [Failure](failure.md) — turning losses into information · [Courage](courage.md) — voluntary exposure to stressors

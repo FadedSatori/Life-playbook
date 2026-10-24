@@ -147,3 +147,7 @@ From 3,000 years of warrior tradition, across cultures, filtered through the pre
 6. **Die to the small version of yourself regularly. Growth is a series of controlled deaths.**
 7. **Your reputation is built by what you do when no one is watching.**
 8. **Be useful. Be present. Be honest. Everything else follows.**
+
+---
+
+**Related:** [Courage](courage.md) — the five types and the exposure protocol · [Masculinity](masculinity.md) — initiation and brotherhood · [The UNIT](the-unit.md) — where the codes are synthesized

@@ -144,24 +144,9 @@ The pre-parade is not about optimism — it is about success architecture. It su
 
 ## Second-Order Thinking
 
-**The principle:** Most people stop at first-order effects — the direct, immediate consequence of a decision. Second-order thinking asks: what is the consequence of that consequence?
+Most people stop at first-order effects. Before any significant decision, write the first-, second-, and third-order effects explicitly — "and then what?" three times.
 
-Howard Marks (investor): *"First-level thinking is simplistic and superficial... Second-level thinking is deep, complex and convoluted."*
-
-**Example:**
-- First order: "Raise the price" → revenue per unit increases
-- Second order: "At higher prices, some customers leave" → volume decreases
-- Third order: "Lower volume weakens market position and network effects" → competitive moat erodes
-
-**How to use it:**
-Before any significant decision, explicitly write:
-- **First-order effect:** What happens directly and immediately?
-- **Second-order effect:** What happens as a result of that?
-- **Third-order effect:** What happens as a result of that?
-
-Second and third-order effects are where decisions differentiate. Most people in most competitive contexts are operating at first-order. The person consistently thinking one level deeper has a durable advantage — in investing, strategy, relationships, and life design.
-
-*"The problem with most people's thinking is that they consider only the first-order consequences."* — Howard Marks
+The full model — Howard Marks, feedback loops, unintended consequences, the "and then what?" drill, and when *not* to use it — lives in [Second-Order Thinking](second-order-thinking.md).
 
 ---
 

@@ -2,95 +2,122 @@
 
 A personal operating system — principles, protocols, and frameworks for living well.
 
+Organized by the five layers in [The Architecture](the-architecture.md): each layer builds on the one below. Start with [Core Principles](principles.md) and [The UNIT](the-unit.md).
+
+Health and science files tag empirical claims by evidence strength — `[E: strong]`, `[E: moderate]`, `[E: weak]`, `[E: contested]`.
+
 ---
 
-## About
+## Layer 1 — Foundation
+
+Identity and body. If this is unstable, nothing above it holds.
+
+### Identity
 
 | File | What's in it |
 |------|-------------|
 | [Levi Satori](about/levi-satori.md) | The names, the origin, the mission, the beliefs — who this playbook was built by and why |
+| [Core Principles](principles.md) | The values, the conflict hierarchy, the decision filter, the non-negotiables — everything else is filtered through this |
 
----
-
-## The UNIT
-
-The synthesis. Everything in this playbook builds toward this.
+### Body
 
 | File | What's in it |
 |------|-------------|
-| [The UNIT](the-unit.md) | **U**nited · **N**oble · **I**ntelligent · **T**acticians — the complete individual doctrine, the five pillars, the special operations ethos, the sovereign self |
+| [Fitness](health/fitness.md) | Periodization architecture, Zone 2 + VO2 max science, HRV recovery, training age progression |
+| [Sleep](health/sleep.md) | Circadian biology, sleep architecture, 60-min wind-down, debt recovery, jet lag protocol |
+| [Nutrition](health/nutrition.md) | Metabolic health, protein timing, micronutrient defaults, gut-brain axis, food environment |
 
----
-
-## Foundation
-
-- [Core Principles](principles.md) — the values that drive every decision
-
-## Polymath & Cross-Domain
+### Practice
 
 | File | What's in it |
 |------|-------------|
-| [Polymath System](polymath-system.md) | T→π→Renaissance shapes of knowledge, domain selection, the learning sequence, connective tissue practice |
-| [Cross-Domain Thinking](cross-domain-thinking.md) | Munger's latticework, power laws, feedback loops, emergence, entropy, game theory, inversion |
+| [Daily](routines/daily.md) | Morning and evening anchors, non-negotiables |
+| [Weekly Review](routines/weekly-review.md) | Full weekly reset template |
+| [Annual Review](routines/annual-review.md) | Year-in-review and year-ahead planning |
 
-## Ancient & Legendary
+---
+
+## Layer 2 — Operating System
+
+Mind and code. How you process reality, decide, and govern yourself.
+
+### Ancient code
 
 | File | What's in it |
 |------|-------------|
 | [Warrior Codes](warrior-codes.md) | Bushido, Spartan agoge, Stoic warrior, Norse virtues, Musashi — synthesized into one modern code |
 | [Stoic Practice](stoic-practice.md) | The full Stoic OS: premeditatio malorum, dichotomy of control, amor fati, memento mori, evening review |
-| [Mythology & Archetypes](mythology-archetypes.md) | Hero's Journey as life map, the four archetypes (Warrior/King/Magician/Lover), Campbell applied |
 
-## Operator
+### Thinking
 
 | File | What's in it |
 |------|-------------|
-| [Maxims](maxims.md) | Compressed truth — one line each, on character, action, war, time, mind, relationships, money, learning, health, and courage |
-| [Heuristics](heuristics.md) | Rules of thumb with mechanisms — people, decisions, risk, time/energy, health/recovery, learning/skill, relationships, wealth/money |
-| [Strategy](strategy.md) | Positioning, asymmetric leverage, patience as a weapon, narrative control |
-| [Force Multipliers](force-multipliers.md) | The highest-leverage skills — cognitive, social, physical, systems |
-| [Leadership](leadership.md) | Stewardship, commander's intent, SBI feedback, trust architecture, debrief culture, Eisenhower/Patton/Aurelius/Shackleton |
-| [Communication](communication.md) | Writing as thinking, verbal precision, listening, difficult conversations, storytelling, digital hygiene, cross-cultural |
-| [Masculinity](masculinity.md) | The six drives, initiation and the missing rite, brotherhood, masculine wound, integrated aggression, the four archetypes |
-| [Resilience](resilience.md) | PTG vs. PTSD (Tedeschi), anatomy of collapse, Pennebaker/Frankl, acute protocol, kintsugi, deliberate hardship |
+| [Decision Making](mental-models/decision-making.md) | 10/10/10, regret minimization, pre-mortem, sunk cost, base rate neglect, second-order thinking |
+| [Second-Order Thinking](mental-models/second-order-thinking.md) | Multi-level consequence tracing, feedback loops, unintended consequences, the "and then what?" drill |
+| [Probabilistic Thinking](mental-models/probabilistic-thinking.md) | Base rates, Bayesian updating, calibration, expected value, fat tails, ergodicity, Kelly sizing |
+| [Cross-Domain Thinking](cross-domain-thinking.md) | Munger's latticework, power laws, feedback loops, emergence, entropy, game theory, inversion |
+| [Polymath System](polymath-system.md) | T→π→Renaissance shapes of knowledge, domain selection, the learning sequence, connective tissue practice |
+| [Epistemic Self-Defense](epistemic-self-defense.md) | Protecting your mind from manipulation — first principles, Bayesian updating, memetic hygiene |
 
-## Depth
+### Learning
+
+| File | What's in it |
+|------|-------------|
+| [Reading System](learning/reading-system.md) | How to read for retention and behavior change |
+| [Skill Building](learning/skill-building.md) | How to learn deliberately, meta-skills, when to stop |
+
+### Compressed wisdom
+
+| File | What's in it |
+|------|-------------|
+| [Heuristics](heuristics.md) | Rules of thumb with mechanisms — people, decisions, risk, time/energy, health/recovery, learning/skill, relationships, wealth/money |
+| [Maxims](maxims.md) | Compressed truth — one line each, on character, action, war, time, mind, relationships, money, learning, health, and courage |
+| [Quotes](quotes.md) | Compressed philosophy from people who earned it |
+
+---
+
+## Layer 3 — Depth Work
+
+Shadow and integration. The difference between knowing something and being changed by it.
+
+### Maps of the psyche
 
 | File | What's in it |
 |------|-------------|
 | [Shadow Work](shadow-work.md) | Jungian shadow integration — projection test, inner child work, Voice Dialogue, shadow in creativity and leadership |
-| [Antifragility](antifragility.md) | Building a life that gets stronger from shocks — barbell strategy, optionality, ruin conditions |
-| [Flow States](flow-states.md) | Peak performance on demand — four-stage cycle, domain-specific triggers, group flow, recovery protocol |
-| [Grief and Loss](grief-and-loss.md) | The oscillation model, neuroscience of grief, PTG, warrior tradition, integration protocol |
-| [Creativity](creativity.md) | The four creative modes, creative metabolism, Resistance, the taste-reality gap |
-| [Solitude](solitude.md) | Aloneness vs. loneliness, the historical models (Musashi/Thoreau/Desert Fathers), signal amplification, daily/monthly/annual protocol |
-| [Humor and Play](humor-and-play.md) | Stuart Brown's play research, humor as social technology, the warrior tradition of play, cultivating genuine levity |
-| [Mortality Integration](mortality-integration.md) | Beyond memento mori — Yalom's awakening experience, the deathbed test, annual mortality meditation, living eulogy |
-| [Sexuality](sexuality.md) | Sexuality as life force, the Lover archetype, separating desire from validation, Perel's intimacy/desire tension, presence as the core practice |
-| [Anger](anger.md) | Anger as signal, amygdala hijack, integrated vs destructive anger, righteous anger, shadow connection |
-| [Courage](courage.md) | Five types of courage, progressive exposure protocol, moral courage, fear as compass, courage audit |
-| [Failure](failure.md) | Three failure types, the debrief protocol, failure psychology, asymmetric payoffs, the failure-success asymmetry |
-
-## Next-Gen
-
-| File | What's in it |
-|------|-------------|
-| [Epistemic Self-Defense](epistemic-self-defense.md) | Protecting your mind from manipulation — first principles, Bayesian updating, memetic hygiene |
-| [Longevity Protocols](longevity-protocols.md) | VO2 max, strength for lifespan, sauna/cold, metabolic health, cognitive longevity, centenarian decathlon |
-
-## Transcendent
-
-| File | What's in it |
-|------|-------------|
+| [Mythology & Archetypes](mythology-archetypes.md) | Hero's Journey as life map, the four archetypes (Warrior/King/Magician/Lover), Campbell applied |
 | [Transformation Science](transformation-science.md) | Three levels of change, neuroplasticity, liminal space, identity death and rebirth, deliberate metamorphosis |
 | [Consciousness Technologies](consciousness-technologies.md) | Meditation, breathwork, visualization, float tanks — treated as precision engineering, not spirituality |
 | [Hermetic Principles](hermetic-principles.md) | Seven laws of reality: Mentalism, Correspondence, Vibration, Polarity, Rhythm, Cause & Effect, Gender |
-| [Reality Engineering](reality-engineering.md) | Designing the physical, information, social, and time environments that make the target identity automatic |
-| [Legacy at Scale](legacy-at-scale.md) | Memetic propagation, century-scale thinking, building what outlasts you |
-| [Integral Map](integral-map.md) | Ken Wilber's AQAL — four quadrants, levels of development, lines, states, types |
-| [The Architecture](the-architecture.md) | The unified field theory of this playbook — how every file connects and builds on every other |
 
-## Tactics
+### Hard terrain
+
+| File | What's in it |
+|------|-------------|
+| [Anger](anger.md) | Anger as signal, amygdala hijack, integrated vs destructive anger, righteous anger, shadow connection |
+| [Courage](courage.md) | Five types of courage, progressive exposure protocol, moral courage, fear as compass, courage audit |
+| [Failure](failure.md) | Three failure types, the debrief protocol, failure psychology, asymmetric payoffs, the failure-success asymmetry |
+| [Resilience](resilience.md) | PTG vs. PTSD (Tedeschi), anatomy of collapse, Pennebaker/Frankl, acute protocol, kintsugi, deliberate hardship |
+| [Grief and Loss](grief-and-loss.md) | The oscillation model, neuroscience of grief, PTG, warrior tradition, integration protocol |
+| [Mortality Integration](mortality-integration.md) | Beyond memento mori — Yalom's awakening experience, the deathbed test, annual mortality meditation, living eulogy |
+
+### Aliveness
+
+| File | What's in it |
+|------|-------------|
+| [Masculinity](masculinity.md) | The six drives, initiation and the missing rite, brotherhood, masculine wound, integrated aggression, the four archetypes |
+| [Sexuality](sexuality.md) | Sexuality as life force, the Lover archetype, separating desire from validation, Perel's intimacy/desire tension, presence as the core practice |
+| [Creativity](creativity.md) | The four creative modes, creative metabolism, Resistance, the taste-reality gap |
+| [Humor and Play](humor-and-play.md) | Stuart Brown's play research, humor as social technology, the warrior tradition of play, cultivating genuine levity |
+| [Solitude](solitude.md) | Aloneness vs. loneliness, the historical models (Musashi/Thoreau/Desert Fathers), signal amplification, daily/monthly/annual protocol |
+
+---
+
+## Layer 4 — Deployment
+
+Tactics and strategy. Everything below, applied with precision.
+
+### Tactics
 
 | File | What's in it |
 |------|-------------|
@@ -99,15 +126,27 @@ The synthesis. Everything in this playbook builds toward this.
 | [Cognitive](tactics/cognitive.md) | On-demand focus, stress inoculation, self-talk, pattern recognition |
 | [Public Speaking](tactics/public-speaking.md) | Presence before content, structure architecture, nerves protocol, vocal mechanics, media/broadcast |
 
-## Health
+### Strategy and leverage
 
 | File | What's in it |
 |------|-------------|
-| [Fitness](health/fitness.md) | Periodization architecture, Zone 2 + VO2 max science, HRV recovery, training age progression |
-| [Sleep](health/sleep.md) | Circadian biology, sleep architecture, 60-min wind-down, debt recovery, jet lag protocol |
-| [Nutrition](health/nutrition.md) | Metabolic health, protein timing, micronutrient defaults, gut-brain axis, food environment |
+| [Strategy](strategy.md) | Positioning, asymmetric leverage, patience as a weapon, narrative control |
+| [Force Multipliers](force-multipliers.md) | The highest-leverage skills — cognitive, social, physical, systems |
+| [Antifragility](antifragility.md) | Building a life that gets stronger from shocks — barbell strategy, optionality, ruin conditions |
+| [Flow States](flow-states.md) | Peak performance on demand — four-stage cycle, domain-specific triggers, group flow, recovery protocol |
+| [Longevity Protocols](longevity-protocols.md) | VO2 max, strength for lifespan, sauna/cold, metabolic health, cognitive longevity, centenarian decathlon |
 
-## Career & Finances
+### People
+
+| File | What's in it |
+|------|-------------|
+| [Communication](communication.md) | Writing as thinking, verbal precision, listening, difficult conversations, storytelling, digital hygiene, cross-cultural |
+| [Leadership](leadership.md) | Stewardship, commander's intent, SBI feedback, trust architecture, debrief culture, Eisenhower/Patton/Aurelius/Shackleton |
+| [Principles](relationships/principles.md) | How to show up, intimacy architecture, Dunbar's layers, conflict and repair |
+| [Intimate Partnership](relationships/intimate-partnership.md) | Gottman framework, differentiation vs. fusion, limerence, conflict protocol, shadow in partnership |
+| [Community and Tribe](community.md) | Why belonging is biological, Dunbar layers, how genuine community forms, curation role, cult dynamics, belonging debt |
+
+### Work and money
 
 | File | What's in it |
 |------|-------------|
@@ -115,37 +154,23 @@ The synthesis. Everything in this playbook builds toward this.
 | [Finances](career/finances.md) | Wealth sequence, index fund evidence, tax strategy, insurance, wealth psychology |
 | [Entrepreneurship](entrepreneurship.md) | Validation sequence, business phases, entrepreneurial psychology, positioning, team and capital |
 
-## Relationships
+---
+
+## Layer 5 — Synthesis
+
+The UNIT and legacy. Where everything integrates.
 
 | File | What's in it |
 |------|-------------|
-| [Principles](relationships/principles.md) | How to show up, intimacy architecture, Dunbar's layers, conflict and repair |
-| [Intimate Partnership](relationships/intimate-partnership.md) | Gottman framework, differentiation vs. fusion, limerence, conflict protocol, shadow in partnership |
-| [Community and Tribe](community.md) | Why belonging is biological, Dunbar layers, how genuine community forms, curation role, cult dynamics, belonging debt |
+| [The UNIT](the-unit.md) | **U**nited · **N**oble · **I**ntelligent · **T**acticians — the complete individual doctrine, the five pillars, the special operations ethos, the sovereign self |
+| [Reality Engineering](reality-engineering.md) | Designing the physical, information, social, and time environments that make the target identity automatic |
+| [Legacy at Scale](legacy-at-scale.md) | Memetic propagation, century-scale thinking, building what outlasts you |
+| [Integral Map](integral-map.md) | Ken Wilber's AQAL — four quadrants, levels of development, lines, states, types |
 
-## Learning
+---
 
-| File | What's in it |
-|------|-------------|
-| [Reading System](learning/reading-system.md) | How to read for retention and behavior change |
-| [Skill Building](learning/skill-building.md) | How to learn deliberately, meta-skills, when to stop |
-
-## Routines
+## Meta
 
 | File | What's in it |
 |------|-------------|
-| [Daily](routines/daily.md) | Morning and evening anchors, non-negotiables |
-| [Weekly Review](routines/weekly-review.md) | Full weekly reset template |
-| [Annual Review](routines/annual-review.md) | Year-in-review and year-ahead planning |
-
-## Mental Models
-
-| File | What's in it |
-|------|-------------|
-| [Decision Making](mental-models/decision-making.md) | 10/10/10, regret minimization, pre-mortem, sunk cost, base rate neglect, second-order thinking |
-| [Second-Order Thinking](mental-models/second-order-thinking.md) | Multi-level consequence tracing, feedback loops, unintended consequences, the "and then what?" drill |
-| [Probabilistic Thinking](mental-models/probabilistic-thinking.md) | Base rates, Bayesian updating, calibration, expected value, fat tails, ergodicity, Kelly sizing |
-
-## Reference
-
-- [Quotes](quotes.md) — compressed philosophy from people who earned it
+| [The Architecture](the-architecture.md) | The unified field theory of this playbook — how every file connects and builds on every other |

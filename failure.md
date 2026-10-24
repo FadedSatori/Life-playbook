@@ -176,3 +176,7 @@ When a failure is large enough — bankruptcy, public disgrace, the collapse of 
 *"Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."* — Samuel Beckett
 
 *"Success is stumbling from failure to failure with no loss of enthusiasm."* — Winston Churchill
+
+---
+
+**Related:** [Courage](courage.md) — acting before you know you'll succeed · [Entrepreneurship](entrepreneurship.md) — failure at company scale · [Resilience](resilience.md)

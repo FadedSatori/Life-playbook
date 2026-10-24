@@ -238,3 +238,7 @@ The third variable is often underweighted: **how each person handles conflict.**
 The question is not "do I love this person" — that question is almost always yes, or you wouldn't be considering partnership. The question is: "Is this person someone I want to grow alongside? Do I respect how they move through difficulty? Do they make me want to be better, or do they make me want to manage them?"
 
 The answer to those questions is visible in ordinary moments, over months, before any commitment that changes the calculus of departure.
+
+---
+
+**Related:** [Sexuality](../sexuality.md) — Perel's intimacy/desire tension · [Anger](../anger.md) — anger in conflict and repair · [Community and Tribe](../community.md)

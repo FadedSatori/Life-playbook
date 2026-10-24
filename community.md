@@ -10,11 +10,7 @@ This file is about building what was dismantled deliberately.
 
 Robin Dunbar's research on social group sizes across primate species found a direct correlation between neocortical ratio and typical group size. For humans, the number is approximately 150 — the cognitive limit on the number of people with whom a person can maintain stable social relationships. This is not a preference. It is a neurological constraint.
 
-The Dunbar layers:
-- **5 — The intimates:** The inner circle. The people you call in a crisis. The people whose deaths would devastate you. Maintained by frequent, high-investment contact.
-- **15 — The trusted:** The people you genuinely trust and turn to for support. Can call on for significant favors. Require regular meaningful contact.
-- **50 — The alliance:** The extended inner network — people you're genuinely glad to see, can pick up with after months away, would help if they needed it.
-- **150 — The tribe:** Everyone you know well enough to trust, collaborate with, and call on in lower-stakes ways. This is the functional limit for cohesive community.
+The layers — 5, 15, 50, 150 — and what each one requires are defined in [Network Architecture: Dunbar's Layers](relationships/principles.md#network-architecture-dunbars-layers). That is the canonical version; this file covers what the layers mean for *building community*.
 
 Above 150, an organization requires formal hierarchy, explicit rules, and enforcement mechanisms to maintain cohesion. Below 150, reputation, social reciprocity, and shared identity can do it. Most meaningful communities operate in the 50–150 range.
 
@@ -116,15 +112,7 @@ The curator must also know when to pass the curation role to someone else. Commu
 
 ## Dunbar Maintenance Protocols
 
-Different layers of the Dunbar hierarchy require different investment levels to maintain.
-
-**Maintaining the inner 5:** Frequent deep contact. Real conversations (not updates) multiple times per month. Explicit attention to the relationship itself — not just the transaction. The people at this level deserve your most honest, present engagement.
-
-**Maintaining the trusted 15:** Substantive contact at least monthly. Track significant events in their lives and reach out. The goal is not coordination but genuine interest. These relationships can withstand gaps of a few months if the contact quality is high when it occurs.
-
-**Maintaining the alliance 50:** Real contact 2–4 times per year. A genuine note when something makes you think of them. Showing up when they need something. The 50 layer is the most underinvested and most valuable for long-term life quality — these are the people who open doors, make introductions, and show up when your inner circle can't.
-
-**Maintaining the tribe 150:** Irregular but genuine contact. A yearly check-in. Remembering who they are. Being someone they can call on. This layer requires almost no investment per person but enormous total investment across 150 people — which is why most people don't maintain it and why this layer of most people's networks degrades.
+Contact cadence per layer lives in [relationships/principles.md](relationships/principles.md#network-architecture-dunbars-layers). The community-specific point: the 50 and 150 layers are where community actually lives, and they are the layers that decay first because no single relationship in them ever feels urgent.
 
 **The proactive outreach protocol:** Once a week, send one genuine message to someone in the 50 or 150 layer — something that would matter to them specifically, with no ask attached. Done consistently, this maintains relationships at a level that would otherwise require manufactured crisis to access.
 

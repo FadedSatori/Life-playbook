@@ -197,3 +197,7 @@ Progressive overload for the soul. The principle is identical to training: apply
 **Long-game resilience** — the kind that sustains decades of operation in high-difficulty conditions — is not built in one training cycle. It is the accumulated result of thousands of individual encounters with hardship, each of which added a small increment of capacity. The man at sixty who has been forged by a life of genuine challenge is structurally different from the man who avoided difficulty. The difference is visible in how each one meets what comes.
 
 Build the capacity now. Not because you know what's coming. Because you don't.
+
+---
+
+**Related:** [Failure](failure.md) — the debrief protocol · [Grief and Loss](grief-and-loss.md) · [Courage](courage.md) — progressive exposure · [Anger](anger.md) — anger as signal under pressure

@@ -168,3 +168,7 @@ The person who has done shadow work is not safer — they are freer. They have m
 *"The most dangerous man is the one who knows himself completely."* — adapted from Jung
 
 *"Until you make the unconscious conscious, it will direct your life and you will call it fate."* — Carl Jung
+
+---
+
+**Related:** [Anger](anger.md) — the most commonly disowned emotion · [Sexuality](sexuality.md) — the shadow of desire · [Masculinity](masculinity.md) — the masculine wound

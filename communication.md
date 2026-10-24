@@ -229,3 +229,7 @@ The failure mode is treating communication as transmission — "I said it, there
 Take responsibility for the gap. Not by hedging and over-qualifying — by developing the precision to close it. Think more clearly. Write more precisely. Listen more completely. Speak with greater exactness. Adjust for the room, the person, the stakes.
 
 The communicator who takes this responsibility seriously develops a leverage point over their entire life. Everything they build, earn, teach, repair, and transmit goes through this channel. Make it excellent.
+
+---
+
+**Related:** [Public Speaking](tactics/public-speaking.md) — communication at the front of the room · [Social Tactics](tactics/social.md)

@@ -187,6 +187,8 @@ Robin Dunbar's research on social cognitive capacity: the human brain can mainta
 - Social group (50): Quarterly contact; annual in-person when possible; warm and real but not intensive
 - 150 layer: Annual or opportunistic; keep the connection alive without requiring it to be something it isn't
 
+**The underinvested layer:** The 50 is the most neglected and most valuable for long-term life quality — these are the people who open doors, make introductions, and show up when your inner circle can't. For the weekly outreach protocol that maintains the 50 and 150 layers, and for how the layers become community, see [Community and Tribe](../community.md).
+
 ---
 
 ## Managing Relationship Transitions

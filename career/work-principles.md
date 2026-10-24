@@ -164,3 +164,7 @@ The brain cannot sustain deep concentration indefinitely. The research on elite 
 - Reputation is built slowly and lost quickly. Act accordingly.
 - Do work that would matter even if no one was watching.
 - The depth metric doesn't lie. Hours of genuine deep work per day is the number that matters.
+
+---
+
+**Related:** [Entrepreneurship](../entrepreneurship.md) — when the work becomes your own company · [Finances](finances.md) · [Daily Routine](../routines/daily.md) — the deep work block in practice

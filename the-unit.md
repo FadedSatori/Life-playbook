@@ -207,3 +207,7 @@ Everything feeds everything. This is the point.
 The playbook you're holding is the instruction manual for building each pillar. This file is the doctrine that ties them together.
 
 *"The purpose of a warrior is not to make war. It is to make war unnecessary — by being the kind of person who cannot be reasonably challenged."*
+
+---
+
+**Related:** [Levi Satori](about/levi-satori.md) — who this doctrine was built by · [The Architecture](the-architecture.md) — how every file in the playbook fits the five layers

@@ -157,3 +157,7 @@ Csikszentmihalyi's research identified group flow as one of the highest availabl
 5. **Communication that is short and specific** — in group flow, unnecessary words fragment the state; people in shared peak performance communicate with economy
 
 **The debrief as recovery ritual:** After any high-performance team session — a creative collaboration, a competition, a difficult shared challenge — a structured debrief preserves both the learning and the transition. Components: what worked (specific), what to do differently, what each person is carrying forward. The debrief ritualizes the return to normal operations and prevents the abrupt emotional crash of just... stopping.
+
+---
+
+**Related:** [Humor and Play](humor-and-play.md) — play as a flow trigger · [Creativity](creativity.md)

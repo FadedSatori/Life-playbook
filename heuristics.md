@@ -4,6 +4,8 @@ Rules of thumb that work 80%+ of the time. Faster than full frameworks. Use when
 
 Format: **Rule** — *Why it works.*
 
+Values and the decision filter live in [Core Principles](principles.md), which wins any conflict. One-line versions for memorization live in [Maxims](maxims.md).
+
 ---
 
 ## People

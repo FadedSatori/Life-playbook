@@ -322,3 +322,7 @@ Periodically: strip the metrics and ask if you're actually achieving the underly
 Jeff Bezos: when deciding whether to take a significant risk, project yourself to age 80 and ask which you would regret more — trying and failing, or not trying. The calculus shifts when viewed from the end.
 
 Most people overweight current comfort and underweight long-run regret. The regret minimization framework corrects this bias. The risks that look large now look different from 80.
+
+---
+
+**Related:** [Entrepreneurship](entrepreneurship.md) — strategy applied to building a company · [Failure](failure.md) — asymmetric payoffs · [Public Speaking](tactics/public-speaking.md) — narrative control in the room

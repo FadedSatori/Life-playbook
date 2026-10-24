@@ -203,3 +203,7 @@ The creative act is a public assertion that you have something worth attending t
 *"The enemy of art is the absence of limitations."* — Orson Welles
 
 *"Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep."* — Scott Adams
+
+---
+
+**Related:** [Humor and Play](humor-and-play.md) — play as the creative state · [Flow States](flow-states.md) · [Failure](failure.md) — the taste-reality gap is a failure loop

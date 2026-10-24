@@ -22,9 +22,9 @@ The playbook is structured in five ascending layers. Each layer builds on the on
 
 The bedrock. If this is unstable, nothing above it holds.
 
-- **Who you are:** [principles.md](principles.md) — the value system, the decision filter, the non-negotiables
+- **Who you are:** [principles.md](principles.md) — the value system, the decision filter, the non-negotiables; [about/levi-satori.md](about/levi-satori.md) — the person the system is built for
 - **The physical substrate:** [health/fitness.md](health/fitness.md), [health/sleep.md](health/sleep.md), [health/nutrition.md](health/nutrition.md) — the body as instrument and weapon
-- **The daily practice:** [routines/daily.md](routines/daily.md) — the structure that keeps everything else alive
+- **The practice:** [routines/daily.md](routines/daily.md), [routines/weekly-review.md](routines/weekly-review.md), [routines/annual-review.md](routines/annual-review.md) — the daily, weekly, and annual structure that keeps everything else alive
 
 These are not optional. They are the ground floor. An impeccable daily routine with a compromised body and confused values produces inconsistent results. Get the foundation right before optimizing anything else.
 
@@ -35,9 +35,10 @@ These are not optional. They are the ground floor. An impeccable daily routine w
 The programmable layer. How you process reality, make decisions, and govern yourself.
 
 - **Ancient code:** [warrior-codes.md](warrior-codes.md), [stoic-practice.md](stoic-practice.md) — the ethical and philosophical firmware
-- **Cognitive architecture:** [mental-models/decision-making.md](mental-models/decision-making.md), [cross-domain-thinking.md](cross-domain-thinking.md), [polymath-system.md](polymath-system.md) — how you think
+- **Cognitive architecture:** [mental-models/decision-making.md](mental-models/decision-making.md), [mental-models/second-order-thinking.md](mental-models/second-order-thinking.md), [mental-models/probabilistic-thinking.md](mental-models/probabilistic-thinking.md), [cross-domain-thinking.md](cross-domain-thinking.md), [polymath-system.md](polymath-system.md) — how you think
+- **Learning:** [learning/reading-system.md](learning/reading-system.md), [learning/skill-building.md](learning/skill-building.md) — how the operating system upgrades itself
 - **Reality protection:** [epistemic-self-defense.md](epistemic-self-defense.md) — how you protect the mind from manipulation
-- **Pattern recognition:** [heuristics.md](heuristics.md), [maxims.md](maxims.md) — compressed wisdom for fast deployment
+- **Pattern recognition:** [heuristics.md](heuristics.md), [maxims.md](maxims.md), [quotes.md](quotes.md) — compressed wisdom for fast deployment
 
 The operating system determines what you do with any input. Two people can receive the same experience and produce different outcomes based purely on the OS running beneath the surface.
 
@@ -52,6 +53,8 @@ The inner game. Most people skip this layer entirely. It is the difference betwe
 - **Transformation:** [transformation-science.md](transformation-science.md) — the mechanics of identity-level change
 - **Consciousness:** [consciousness-technologies.md](consciousness-technologies.md) — precision instruments for expanding awareness
 - **Hermetic laws:** [hermetic-principles.md](hermetic-principles.md) — the deep structure of reality and self
+- **Hard terrain:** [anger.md](anger.md), [courage.md](courage.md), [failure.md](failure.md), [resilience.md](resilience.md), [grief-and-loss.md](grief-and-loss.md), [mortality-integration.md](mortality-integration.md) — the emotions and events that either forge or fracture you
+- **Aliveness:** [masculinity.md](masculinity.md), [sexuality.md](sexuality.md), [creativity.md](creativity.md), [humor-and-play.md](humor-and-play.md), [solitude.md](solitude.md) — the life force the depth work is meant to free
 
 This is where most personal development systems fail people. They offer techniques without the inner architecture to sustain them. Depth work is what makes everything else stick.
 
@@ -61,12 +64,14 @@ This is where most personal development systems fail people. They offer techniqu
 
 The outer game. Taking everything built below and applying it with precision.
 
-- **Tactics:** [tactics/social.md](tactics/social.md), [tactics/field.md](tactics/field.md), [tactics/cognitive.md](tactics/cognitive.md) — specific moves for specific situations
+- **Tactics:** [tactics/social.md](tactics/social.md), [tactics/field.md](tactics/field.md), [tactics/cognitive.md](tactics/cognitive.md), [tactics/public-speaking.md](tactics/public-speaking.md) — specific moves for specific situations
 - **Strategy:** [strategy.md](strategy.md) — long-game positioning and accumulated advantage
 - **Force multiplication:** [force-multipliers.md](force-multipliers.md) — the highest-leverage capabilities
 - **Antifragility:** [antifragility.md](antifragility.md) — building systems that get stronger from stress
 - **Peak performance:** [flow-states.md](flow-states.md) — accessing maximum capability on demand
 - **Longevity:** [longevity-protocols.md](longevity-protocols.md) — sustaining the game over decades
+- **People:** [communication.md](communication.md), [leadership.md](leadership.md), [relationships/principles.md](relationships/principles.md), [relationships/intimate-partnership.md](relationships/intimate-partnership.md), [community.md](community.md) — the outer game is played with and for other people
+- **Work and money:** [career/work-principles.md](career/work-principles.md), [career/finances.md](career/finances.md), [entrepreneurship.md](entrepreneurship.md) — converting capability into output and resources
 
 Tactics without foundation are brittle. Strategy without depth is hollow. This layer is where the foundation and depth work translate into real-world leverage.
 
