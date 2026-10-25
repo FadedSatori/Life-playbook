@@ -17,7 +17,7 @@ principles.md                   # Core values and decision filter (the foundatio
 the-unit.md                     # Layer 5 synthesis doctrine
 *.md (root)                     # Most topic files live at the root
 about/                          # Who the playbook is built by
-aspergers/                      # The Asperger's profile: energy, sensory, social decoding, work, user manual (Layer 1, "Wiring")
+aspergers/                      # The Asperger's profile — inner wiring, the world, self; start at overview.md (Layer 1, "Wiring")
 health/                         # Fitness, sleep, nutrition protocols
 career/                         # Work principles and financial rules
 relationships/                  # Relationship principles and intimate partnership
@@ -37,7 +37,7 @@ tactics/                        # Social, field, cognitive, public speaking
   - Moore & Gillette's four archetypes → `mythology-archetypes.md`
   - Second-order thinking → `mental-models/second-order-thinking.md`
   - Sleep science (light, temperature, caffeine timing) → `health/sleep.md`
-  - The Asperger's profile — masking, burnout, sensory, double empathy, autism-specific social and work strategy → `aspergers/` (general social and work tactics stay in `tactics/social.md` and `career/work-principles.md`)
+  - The Asperger's profile — masking, burnout, sensory, alexithymia, executive function, uncertainty, double empathy, and autism-specific social, relationship, work, and healthcare strategy → `aspergers/` (general tactics stay in `tactics/social.md`, `relationships/`, `career/work-principles.md`, and `health/`)
   - Values vs. rules of thumb vs. one-liners → `principles.md` / `heuristics.md` / `maxims.md` (principles wins conflicts)
 - **Asperger's naming.** The section uses "Asperger's" deliberately: it names a distinct profile within autism, even though DSM-5 and ICD-11 merged the diagnoses. `aspergers/overview.md` explains the distinction and the name's history — keep that framing; never treat the distinction as a ranking.
 - **Cross-link liberally.** Use relative Markdown links (e.g. `[sleep protocol](../health/sleep.md)`) when one file references another. Every file should have at least one inbound link besides `index.md`; files without a natural inline link get a `**Related:**` footer.

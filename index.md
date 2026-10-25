@@ -34,8 +34,15 @@ Identity and body. If this is unstable, nothing above it holds.
 | [Asperger's](aspergers/overview.md) | The Asperger's/autism distinction, the profile, what comes with it, diagnosis and self-identification, the playbook through this lens |
 | [Energy and Burnout](aspergers/energy-and-burnout.md) | The energy budget, the cost of masking, meltdown vs. shutdown, autistic burnout and recovery, inertia |
 | [Sensory](aspergers/sensory.md) | The eight-sense audit, environment design, the sensory kit, stimming, overload recovery |
-| [Social Decoding](aspergers/social-decoding.md) | Double empathy, small talk as protocol, a subtext translation table, honesty delivered well, finding your people |
+| [Emotions](aspergers/emotions.md) | Alexithymia, the delayed signal, body-first emotion reading, vocabulary ladder, trainable interoception, empathy accurately |
+| [Executive Function](aspergers/executive-function.md) | Externalize everything, physical first steps, checklists, time, fewer decisions, life admin |
+| [Uncertainty and Change](aspergers/uncertainty-and-change.md) | Intolerance of uncertainty, if–then plans, the change protocol, big transitions, travel |
+| [Special Interests](aspergers/special-interests.md) | Interests as joy, regulation, identity, and mastery; protecting them; managing the tunnel |
+| [Social Decoding](aspergers/social-decoding.md) | Double empathy, small talk as protocol, subtext and sarcasm, saying no, phone and text, finding your people |
+| [Relationships](aspergers/relationships.md) | Making the implicit explicit, mixed-neurotype partnership, alone time, sharing a home, intimacy, dating, friendship, family |
 | [Work and Career](aspergers/work-and-career.md) | Depth as career capital, environment fit, accommodations, disclosure, interviews, office politics as a system |
+| [Health and Care](aspergers/health-and-care.md) | Appointments, describing symptoms, therapy that fits, medication, sleep, substances, a crisis plan |
+| [Identity and Unmasking](aspergers/identity-and-unmasking.md) | Late recognition, re-reading the past, unmasking in stages, language and identity, the useless tree, self-advocacy |
 | [User Manual](aspergers/user-manual-template.md) | A one-page "how to work with me" template to fill in and hand to people |
 
 ### Practice

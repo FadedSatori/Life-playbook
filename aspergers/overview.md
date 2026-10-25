@@ -6,11 +6,21 @@ Know your wiring before you optimize anything built on it. This section is the o
 
 **The section:**
 - **Overview** (this file) — the distinction, the profile, what comes with it, the playbook through this lens
-- [Energy and Burnout](energy-and-burnout.md) — the energy budget, masking, meltdown and shutdown, burnout recovery
-- [Sensory](sensory.md) — your sensory profile and how to design around it
-- [Social Decoding](social-decoding.md) — social life as a learnable system, without accepting that you are the broken half
-- [Work and Career](work-and-career.md) — depth as career capital, environment fit, accommodations, disclosure
-- [User Manual](user-manual-template.md) — a one-page "how to work with me" you fill in and hand to people
+- **Inner wiring**
+  - [Energy and Burnout](energy-and-burnout.md) — the energy budget, masking, meltdown and shutdown, burnout recovery
+  - [Sensory](sensory.md) — your sensory profile and how to design around it
+  - [Emotions](emotions.md) — alexithymia, the delayed signal, reading the body, building emotional vocabulary
+  - [Executive Function](executive-function.md) — planning, starting, time, and life admin with the system outside your head
+  - [Uncertainty and Change](uncertainty-and-change.md) — why the unknown costs so much, and protocols for change and transitions
+  - [Special Interests](special-interests.md) — joy, regulation, identity, mastery — and managing the tunnel
+- **Out in the world**
+  - [Social Decoding](social-decoding.md) — social life as a learnable system, without accepting that you are the broken half
+  - [Relationships](relationships.md) — partnership, mixed-neurotype dynamics, intimacy, dating, friendship, family
+  - [Work and Career](work-and-career.md) — depth as career capital, environment fit, accommodations, disclosure
+  - [Health and Care](health-and-care.md) — appointments, therapy that fits, medication, sleep, a crisis plan
+- **Self**
+  - [Identity and Unmasking](identity-and-unmasking.md) — late recognition, re-reading the past, unmasking, self-advocacy
+  - [User Manual](user-manual-template.md) — a one-page "how to work with me" you fill in and hand to people
 
 ---
 
@@ -60,7 +70,7 @@ A map of the territory, not a self-diagnosis checklist. Not everyone has every f
 
 `[E: moderate]` Co-occurring conditions are the rule more than the exception. A meta-analysis of autistic people found pooled rates of about 28% for ADHD, 20% for anxiety disorders, and 11% for depression (Lai et al., 2019, *Lancet Psychiatry*); studies of adults without intellectual disability often find anxiety and depression considerably higher.
 
-**Alexithymia** — difficulty identifying and naming your own emotions. `[E: moderate]` About half of autistic people score in the alexithymic range, compared with about 5% of the general population (Kinnaird et al., 2019 meta-analysis). This is practical, not abstract: you may not know you are anxious, angry, or exhausted until your body tells you loudly. The fix is external checks rather than waiting for the feeling — see [Energy and Burnout](energy-and-burnout.md#building-it-into-the-routine).
+**Alexithymia** — difficulty identifying and naming your own emotions. `[E: moderate]` About half of autistic people score in the alexithymic range, compared with about 5% of the general population (Kinnaird et al., 2019 meta-analysis). This is practical, not abstract: you may not know you are anxious, angry, or exhausted until your body tells you loudly. The fix is external checks rather than waiting for the feeling — see [Emotions](emotions.md).
 
 **Interoception** — sensing hunger, thirst, fatigue, temperature, illness. `[E: contested]` Many autistic people report weak or delayed internal signals; lab results are mixed and may be explained partly by alexithymia rather than autism itself. Either way, scheduled body checks work.
 
@@ -85,7 +95,7 @@ Every one of these has a shadow: focus becomes rigidity, honesty becomes bluntne
 
 ## Diagnosis and Self-Identification
 
-- **Late recognition is common.** Many adults see the profile in themselves after a child, partner, or colleague is diagnosed, or after a burnout forces the question.
+- **Late recognition is common.** Many adults see the profile in themselves after a child, partner, or colleague is diagnosed, or after a burnout forces the question. See [Identity and Unmasking](identity-and-unmasking.md).
 - **Who gets missed.** `[E: moderate]` Women and people who mask well are diagnosed later and less often; the male-to-female ratio is closer to 3:1 than the older 4:1 estimate once missed cases are accounted for (Loomes et al., 2017).
 - **Self-identification** is common and accepted in autistic communities. Nothing in this section requires a diagnosis to use.
 - **Formal assessment** is worth it if you want legal workplace protection and formal accommodations, clarity about co-occurring conditions such as ADHD or anxiety, or the relief of an outside answer. Adult assessment is done by clinical psychologists or psychiatrists experienced with adults; waitlists are often long, so start early if you want one.
@@ -109,7 +119,7 @@ Most of this playbook works for the Asperger's profile. Some of it reads differe
 | [Reality Engineering](../reality-engineering.md) | Design the environment first. It is cheaper than willpower and far cheaper than masking. |
 | [Probabilistic Thinking](../mental-models/probabilistic-thinking.md) | Treat social uncertainty as probabilities ("60% this was a joke") instead of mind-reading. |
 | [Community and Tribe](../community.md) | Interest-based communities are where belonging comes easiest. |
-| [Intimate Partnership](../relationships/intimate-partnership.md) | Make implicit expectations explicit. Hand your partner the [User Manual](user-manual-template.md). |
+| [Intimate Partnership](../relationships/intimate-partnership.md) | Make implicit expectations explicit. See [Relationships](relationships.md), and hand your partner the [User Manual](user-manual-template.md). |
 | [Epistemic Self-Defense](../epistemic-self-defense.md) | Literal trust — taking people at their word — is a virtue bad actors exploit. See [Protecting Yourself](social-decoding.md#protecting-yourself). |
 
 ---

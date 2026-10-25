@@ -20,7 +20,7 @@ The "spoon" model (Christine Miserandino, 2003 — originally written about chro
 |-------|-------------|---------|
 | Masking | Running a second process on top of the first | The networking event, the job interview |
 | Sensory load | Constant input that doesn't get filtered out | Open office, supermarket, fluorescent light |
-| Unexpected change | The plan in your head has to be torn down and rebuilt | Meeting moved, plans canceled last minute |
+| Unexpected change | The plan in your head has to be torn down and rebuilt ([more](uncertainty-and-change.md)) | Meeting moved, plans canceled last minute |
 | Task switching | Deep focus is expensive to redirect | Constant chat interruptions |
 | Ambiguity | Unspoken expectations have to be guessed, then second-guessed | Vague instructions, "let's play it by ear" |
 | Real-time social processing | Reading faces, tone, and subtext while also talking | Group conversation |
@@ -87,7 +87,7 @@ Neither is a character failure. Both are a fuse blowing.
 - Masking becoming impossible
 - Withdrawing from almost everything
 
-**Burnout or depression?** They overlap and can happen together. In autistic adults' accounts, burnout centers on exhaustion and lost capacity, and it eases with withdrawal and reduced demands. Depression centers on low mood, loss of pleasure, and hopelessness, and withdrawal alone does not fix it. If loss of pleasure or hopelessness is prominent, see a clinician — ideally one who understands autism.
+**Burnout or depression?** They overlap and can happen together. In autistic adults' accounts, burnout centers on exhaustion and lost capacity, and it eases with withdrawal and reduced demands. Depression centers on low mood, loss of pleasure, and hopelessness, and withdrawal alone does not fix it. If loss of pleasure or hopelessness is prominent, see a clinician — ideally one who understands autism (see [Health and Care](health-and-care.md#mental-health-support)).
 
 **Recovery protocol** (drawn from what autistic adults report helps):
 1. **Cut demands hard** — work, social, obligations — to the minimum. Use leave or accommodations if you have them.
@@ -100,7 +100,7 @@ Neither is a character failure. Both are a fuse blowing.
 
 Recovery takes weeks to months. Treat it like an injury, not a bad week.
 
-**When it gets dark.** `[E: strong]` Autistic adults — especially those without intellectual disability — die by suicide at several times the rate of the general population (Hirvikoski et al., 2016). If thoughts of not wanting to be here show up, treat them as an emergency signal, not a verdict on you: tell someone you trust today. In the US, call or text 988; elsewhere, your local crisis line.
+**When it gets dark.** `[E: moderate]` (large national register study) Autistic adults — especially those without intellectual disability — die by suicide at several times the rate of the general population (Hirvikoski et al., 2016). If thoughts of not wanting to be here show up, treat them as an emergency signal, not a verdict on you: tell someone you trust today. In the US, call or text 988; elsewhere, your local crisis line. Write a [crisis plan](health-and-care.md#write-a-crisis-plan-while-youre-well) while you're well.
 
 ---
 

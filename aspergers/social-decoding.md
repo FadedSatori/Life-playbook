@@ -127,14 +127,60 @@ Group conversation is the hardest format: several speakers, fast turn-taking, ov
 
 ---
 
+## Sarcasm, Jokes, and Teasing
+
+Non-literal language is the hardest kind of subtext: the words mean one thing and the speaker means another.
+
+**Clues that something isn't meant literally:**
+- The statement is obviously false or exaggerated in context ("Great, another Monday").
+- Tone is flat, exaggerated, or sing-song in a way that doesn't match the words.
+- Others laugh or smile.
+- It is said between people who know each other well — friends tease; strangers rarely do.
+
+**When you can't tell:** ask lightly. "Was that a joke? I take things literally." Most people will laugh with you, not at you.
+
+**Teasing between friends** is usually a sign of closeness — it says "we're secure enough to joke." Teasing from someone you don't trust, or that targets something you're sensitive about, isn't friendly. You can say so: "I know that's meant as a joke, but it doesn't land well for me."
+
+**Your own humor** may be dry, literal, pun-based, or deadpan. That's a real style with its own audience. If people miss it, a small smile or "(joking)" in text helps.
+
+---
+
+## Saying No and Holding Boundaries
+
+Many people with this profile say yes to avoid conflict or because they didn't have time to process the request — then pay for it in energy later.
+
+**Buy time first:** "Let me check and get back to you tonight." This is a complete answer and gives you room to decide.
+
+**Decline cleanly:**
+- "Thanks for thinking of me — I can't make it."
+- "That doesn't work for me, but I'd be glad to [alternative]."
+- "I'm not taking on anything new this month."
+
+**You don't owe a long explanation.** One clear reason or none at all. Long justifications invite negotiation.
+
+**Repeat if pushed:** say the same sentence again, calmly. You don't need a new argument each time.
+
+See [Courage](../courage.md) on the social cost being smaller than it feels.
+
+---
+
+## Phone Calls and Messages
+
+**Phone calls** combine real-time processing, no visual cues, and no time to think — which is why many people find them disproportionately hard.
+- Write a script before important calls: who you are, why you're calling, the one thing you need answered.
+- Ask for a follow-up email: "Could you send that to me in writing?"
+- Use email, chat, or online forms when you can. It is a legitimate preference.
+
+**Texts and messages** have their own unwritten rules:
+- Short replies can read as cold. A word of warmth or an exclamation point softens it ("Sounds good!" vs. "OK").
+- Not every message needs an immediate reply. "Saw this — will reply properly later" buys time without leaving people hanging.
+- Tone doesn't travel. If something matters emotionally, say it explicitly or talk in person.
+
+---
+
 ## Relationships
 
-- **Make expectations explicit:** how often you'll talk, how you'll signal you need alone time, what "I need space" means (it is not rejection).
-- **Alone time as a standing agreement,** not a request you have to make and justify each time.
-- **Parallel time counts.** Being together while each doing your own thing is connection. Say so, so your partner knows.
-- **Share your [User Manual](user-manual-template.md)** with partners and close friends.
-- **Show care in their language as well as yours.** See [Intimate Partnership](../relationships/intimate-partnership.md).
-- **Disclosure is yours to decide.** Tell people when it would help them understand you. You don't owe it to anyone.
+Partnership, mixed-neurotype dynamics, alone time, sharing a home, intimacy, dating, friendship, and family each have their own file: [Relationships](relationships.md).
 
 ---
 
