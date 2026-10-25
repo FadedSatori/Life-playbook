@@ -170,4 +170,4 @@ The brain cannot sustain deep concentration indefinitely. `[E: moderate]` The re
 
 ---
 
-**Related:** [Entrepreneurship](../entrepreneurship.md) — when the work becomes your own company · [Finances](finances.md) · [Daily Routine](../routines/daily.md) — the deep work block in practice
+**Related:** [Entrepreneurship](../entrepreneurship.md) — when the work becomes your own company · [Finances](finances.md) · [Daily Routine](../routines/daily.md) — the deep work block in practice · [Work and Career](../aspergers/work-and-career.md) — environment fit, accommodations, and disclosure for the Asperger's profile

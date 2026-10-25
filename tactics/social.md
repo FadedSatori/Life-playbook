@@ -308,4 +308,4 @@ FBI hostage negotiators use RAVEN as a rapport framework:
 
 ---
 
-**Related:** [Public Speaking](public-speaking.md) · [Community and Tribe](../community.md) — from reading rooms to building one
+**Related:** [Public Speaking](public-speaking.md) · [Community and Tribe](../community.md) — from reading rooms to building one · [Social Decoding](../aspergers/social-decoding.md) — these rules made explicit for the Asperger's profile, with double empathy

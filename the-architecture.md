@@ -24,6 +24,7 @@ The bedrock. If this is unstable, nothing above it holds.
 
 - **Who you are:** [principles.md](principles.md) — the value system, the decision filter, the non-negotiables; [about/levi-satori.md](about/levi-satori.md) — the person the system is built for
 - **The physical substrate:** [health/fitness.md](health/fitness.md), [health/sleep.md](health/sleep.md), [health/nutrition.md](health/nutrition.md) — the body as instrument and weapon
+- **The wiring:** [aspergers/overview.md](aspergers/overview.md) and the files it leads to — [energy and burnout](aspergers/energy-and-burnout.md), [sensory](aspergers/sensory.md), [social decoding](aspergers/social-decoding.md), [work and career](aspergers/work-and-career.md), [user manual](aspergers/user-manual-template.md) — the nervous system everything else runs on, for the Asperger's profile
 - **The practice:** [routines/daily.md](routines/daily.md), [routines/weekly-review.md](routines/weekly-review.md), [routines/annual-review.md](routines/annual-review.md) — the daily, weekly, and annual structure that keeps everything else alive
 
 These are not optional. They are the ground floor. An impeccable daily routine with a compromised body and confused values produces inconsistent results. Get the foundation right before optimizing anything else.

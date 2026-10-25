@@ -206,3 +206,7 @@ The deep level is why solitude is consistently described as both difficult and r
 **The gradual approach:** If genuine solitude is a new or uncomfortable practice, begin with 10 minutes daily of no stimulus, no task, no phone. Just existence. Tolerate the discomfort for those 10 minutes before adding anything else. Build gradually. The capacity develops with practice, like any other.
 
 *"Learn to be alone and to like it. There is nothing more freeing and empowering than learning to like your own company."* — Mandy Hale
+
+---
+
+**Related:** [Energy and Burnout](aspergers/energy-and-burnout.md) — solitude as recovery for the Asperger's profile

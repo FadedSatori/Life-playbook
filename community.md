@@ -183,3 +183,7 @@ A person without sufficient belonging is operating with a handicap that affects 
 - The host/curator function connects to [leadership.md](leadership.md) — community leadership is leadership applied in non-hierarchical contexts
 - The belonging requirement connects to [solitude.md](solitude.md) — the person with genuine belonging can be fully alone; the person without it cannot
 - Mission-driven community connects to [legacy-at-scale.md](legacy-at-scale.md) — the community is often the transmission mechanism for the legacy
+
+---
+
+**Related:** [Social Decoding](aspergers/social-decoding.md#finding-your-people) — finding your people with the Asperger's profile

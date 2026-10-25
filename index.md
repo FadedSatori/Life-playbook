@@ -27,6 +27,17 @@ Identity and body. If this is unstable, nothing above it holds.
 | [Sleep](health/sleep.md) | Circadian biology, sleep architecture, 60-min wind-down, debt recovery, jet lag protocol |
 | [Nutrition](health/nutrition.md) | Metabolic health, protein timing, micronutrient defaults, gut-brain axis, food environment |
 
+### Wiring
+
+| File | What's in it |
+|------|-------------|
+| [Asperger's](aspergers/overview.md) | The Asperger's/autism distinction, the profile, what comes with it, diagnosis and self-identification, the playbook through this lens |
+| [Energy and Burnout](aspergers/energy-and-burnout.md) | The energy budget, the cost of masking, meltdown vs. shutdown, autistic burnout and recovery, inertia |
+| [Sensory](aspergers/sensory.md) | The eight-sense audit, environment design, the sensory kit, stimming, overload recovery |
+| [Social Decoding](aspergers/social-decoding.md) | Double empathy, small talk as protocol, a subtext translation table, honesty delivered well, finding your people |
+| [Work and Career](aspergers/work-and-career.md) | Depth as career capital, environment fit, accommodations, disclosure, interviews, office politics as a system |
+| [User Manual](aspergers/user-manual-template.md) | A one-page "how to work with me" template to fill in and hand to people |
+
 ### Practice
 
 | File | What's in it |

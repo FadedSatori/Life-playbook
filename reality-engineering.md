@@ -214,3 +214,7 @@ Not through force — through design. Quiet, deliberate, systematic design. The 
 That is the difference between a life that happens to you and a life you build.
 
 Build deliberately.
+
+---
+
+**Related:** [Sensory](aspergers/sensory.md) — environment design for sensory differences
