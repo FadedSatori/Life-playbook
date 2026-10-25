@@ -6,6 +6,9 @@ Most people manage this knowledge by not thinking about it — a strategy that w
 
 This goes beyond the Stoic *memento mori*. That is a useful daily reminder. Integration is something deeper — making peace with the fact at the level of the body, not just the intellect.
 
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim.
+
 ---
 
 ## What Integration Is Not
@@ -19,7 +22,7 @@ This goes beyond the Stoic *memento mori*. That is a useful daily reminder. Inte
 
 ## The Psychology
 
-Irvin Yalom — the existential psychotherapist who spent fifty years working with terminally ill patients — identified death anxiety as the primary driver of most psychological dysfunction. Not childhood trauma (though that matters). Not attachment patterns (though those matter too). Underneath most compulsive behavior, status-chasing, and relationship dysfunction is unprocessed terror of nonexistence.
+`[E: weak]` (clinical observation, not trials) Irvin Yalom — the existential psychotherapist who spent decades working with terminally ill patients — identified death anxiety as the primary driver of most psychological dysfunction. Not childhood trauma (though that matters). Not attachment patterns (though those matter too). Underneath most compulsive behavior, status-chasing, and relationship dysfunction is unprocessed terror of nonexistence.
 
 Yalom's finding: **people who have confronted their mortality and integrated it are more alive.** They report higher life satisfaction, less compulsive striving, greater capacity for love, and more genuine presence. The confrontation doesn't diminish life — it clarifies it.
 
@@ -55,7 +58,7 @@ Regret minimization (Bezos) is useful but forward-looking — imagine yourself a
 
 Imagine yourself in the last hours. Not as a thought experiment about which choices to make, but as a felt experience: what would you want to have *felt* in your life? What aliveness would you want to have experienced? What connections would you want to have made?
 
-The answers reveal what actually matters at the level of being, not achievement. People on their deathbeds do not talk about promotions, possessions, or status. They talk about love, presence, and whether they lived with full engagement. This is the test.
+The answers reveal what actually matters at the level of being, not achievement. `[E: weak]` (palliative-care accounts such as Bronnie Ware's, not systematic data) People on their deathbeds do not talk about promotions, possessions, or status. They talk about love, presence, and whether they lived with full engagement. This is the test.
 
 Run it quarterly. Let it inform what gets your full attention.
 
@@ -133,7 +136,7 @@ Ernest Becker's *The Denial of Death* (Pulitzer Prize, 1974), extended by Jeff G
 
 Becker's central thesis: human culture is primarily a system of immortality projects and meaning structures designed to manage the existential terror of knowing we will die. Status-seeking, tribal identification, nationalism, religious belief, the drive to accumulate wealth and accomplishment — all are, in part, responses to the terror of non-existence. They offer symbolic or literal immunity from the awareness that we will cease to be.
 
-**The TMT research findings:**
+**The TMT research findings:** `[E: contested]` Hundreds of studies supported these effects, but a large multi-lab replication (Many Labs 4, Klein et al., 2022) failed to reproduce the core mortality-salience effect. Treat the findings below as a provocative model, not established fact.
 - Reminding people subliminally of their mortality (*mortality salience*) increases: in-group preference, out-group hostility, punishment of moral transgressors, nationalism, religiosity, and desire for cultural symbols and status
 - The same effect is seen in people who explicitly deny believing in any supernatural afterlife
 - The mechanism operates below conscious awareness — which is precisely the point. Integrated awareness of death is conscious. Unintegrated death terror operates as unconscious motivation, driving behavior that would be embarrassing to own as death avoidance

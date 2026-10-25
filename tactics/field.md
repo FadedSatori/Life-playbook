@@ -2,6 +2,9 @@
 
 Situational awareness, environmental intelligence, improvised problem-solving, performance under pressure. The body is in the field even when the mind thinks it's elsewhere.
 
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim.
+
 ---
 
 ## Situational Awareness
@@ -15,7 +18,7 @@ Mentally elsewhere. Attention fully internalized. No environmental scanning occu
 
 *The mistake:* defaulting to white in public, unfamiliar environments, transitions (entering/exiting buildings, parking structures, transport hubs). When something happens in white, reaction time is measured in surprised seconds.
 
-*The HALT condition:* awareness degrades predictably when you are Hungry, Angry, Lonely, or Tired. Under HALT conditions, you will drift toward white without noticing. Recognize when you're in a HALT state and compensate deliberately — slow down, take stock more frequently, make decisions more conservatively.
+*The HALT condition:* (`[E: weak]` — a recovery-program mnemonic; fatigue and hunger effects on attention are individually `[E: strong]`) awareness degrades predictably when you are Hungry, Angry, Lonely, or Tired. Under HALT conditions, you will drift toward white without noticing. Recognize when you're in a HALT state and compensate deliberately — slow down, take stock more frequently, make decisions more conservatively.
 
 **Yellow — Relaxed Alertness:**
 Externally aware, internally calm. Scanning is continuous but not tense. You're asking "What's here?" not "Where's the threat?" This is the default state for all public and unfamiliar environments.
@@ -406,7 +409,7 @@ Actionable and specific. Not "be more aware" (unmeasurable) but "I will conduct 
 
 ### Managing Adrenaline Dump Recovery
 
-The adrenaline dump (sympathetic nervous system activation) following a high-stress incident produces a predictable sequence: peak activation → action → comedown. The comedown is characterized by:
+`[E: moderate]` The adrenaline dump (sympathetic nervous system activation) following a high-stress incident produces a predictable sequence: peak activation → action → comedown. The comedown is characterized by:
 
 - Shaking (fine motor tremor as the muscles deplete stored glycogen)
 - Nausea

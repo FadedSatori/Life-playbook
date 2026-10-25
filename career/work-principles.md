@@ -2,6 +2,9 @@
 
 How you work determines what you produce. Most people treat work structure as secondary — they focus on what to work on and assume the how will take care of itself. The how is not secondary. The how is where the gap between potential and output lives.
 
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim.
+
 ---
 
 ## The Foundation: Deep Work
@@ -16,7 +19,7 @@ This is the main event. Everything else — meetings, messages, admin, coordinat
 - The value of deep work compounds: insights connect, skills sharpen, output accelerates
 - Rarity + value = leverage. The person who can produce four hours of genuine deep work daily outperforms most teams
 
-**The attention residue problem** (Sophie Leroy's research): When you switch from one task to another, cognitive resources tied to the first task don't immediately transfer. A residue of attention remains on the previous task, impairing performance on the new one. The implication: every interruption — even a brief one — does not cost only the time of the interruption. It costs the transition cost on each side. A 30-second check of email in the middle of deep work can cost 20 minutes of re-engagement. The shallow work doesn't just interrupt — it degrades.
+**The attention residue problem** (`[E: moderate]` Sophie Leroy's research, 2009): When you switch from one task to another, cognitive resources tied to the first task don't immediately transfer. A residue of attention remains on the previous task, impairing performance on the new one. The implication: every interruption — even a brief one — does not cost only the time of the interruption. It costs the transition cost on each side. A 30-second check of email in the middle of deep work can cost 20 minutes of re-engagement. The shallow work doesn't just interrupt — it degrades.
 
 ---
 
@@ -86,7 +89,7 @@ The environment is not neutral. It either supports deep work or undermines it. D
 
 **Physical space:**
 - Deep work requires an environment your brain associates with depth. If you do shallow work in the same location, your brain will route to shallow-work mode. Create a separate space for deep work if possible — or at minimum, consistent rituals that signal the transition
-- Remove all phones from the room during deep work sessions. Not silenced — removed. The mere presence of a smartphone within reach (even face-down, even off) measurably reduces available cognitive capacity (Ward et al., 2017 study)
+- Remove all phones from the room during deep work sessions. Not silenced — removed. `[E: contested]` The "brain drain" finding that a phone's mere presence reduces cognitive capacity (Ward et al., 2017) has failed in several replications (Ruiz Pardo & Minda, 2022; Hartmann et al., 2020) — the case for removal rests on interruption and temptation, not mere presence
 - Noise policy: ambient background noise at café levels (~70dB) has modest benefits for creative work (see [creativity.md](../creativity.md)). For analytical deep work, silence is superior. Match the environment to the task type
 
 **Digital environment:**
@@ -98,7 +101,7 @@ The environment is not neutral. It either supports deep work or undermines it. D
 
 ## Output vs. Consumption
 
-The ratio of time in creation mode vs. consumption mode is the most reliable predictor of productive output. Track it, if only approximately.
+The ratio of time in creation mode vs. consumption mode is a strong practical indicator of productive output `[E: weak]`. Track it, if only approximately.
 
 **Creation:** writing, building, designing, solving, analyzing, producing anything that didn't exist before the session
 **Consumption:** reading, meetings, reviewing, replying, browsing, absorbing
@@ -146,7 +149,7 @@ Depth applied to the wrong things is wasted. Before asking "how do I do this wel
 
 Recovery is not wasted time. It is the other half of the system.
 
-The brain cannot sustain deep concentration indefinitely. The research on elite performers (musicians, athletes, chess players) consistently shows that the highest performers practice for 4–5 focused hours per day — not 12 hours. Beyond the sustainable concentration ceiling, additional time produces diminishing returns, then negative returns (fatigue compounds, insight degrades, errors increase).
+The brain cannot sustain deep concentration indefinitely. `[E: moderate]` The research on elite performers (Ericsson's violinists, 1993, and later work) shows that the highest performers practice for about 4 focused hours per day — not 12 hours. Beyond the sustainable concentration ceiling, additional time produces diminishing returns, then negative returns (fatigue compounds, insight degrades, errors increase).
 
 **Protect the off-switch:** When work ends for the day, it ends. No checking messages during dinner. No "just one more thing" after shutdown ritual. The shutdown ritual exists specifically to make this psychologically possible. The brain that doesn't fully recover doesn't fully perform.
 

@@ -2,6 +2,9 @@
 
 How to think better, focus harder, and perform under pressure. The mind is trainable hardware. Upgrade it deliberately.
 
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim.
+
 ---
 
 ## Attention Architecture
@@ -82,7 +85,7 @@ Cal Newport (*Deep Work*) identifies four ways to schedule deep work:
 
 ### The 90-Minute Ultradian Rhythm
 
-Peretz Lavie and Nathaniel Kleitman: the brain operates on approximately 90-minute cycles of higher and lower neural arousal across the day (the Basic Rest-Activity Cycle, BRAC). These cycles govern sleep stages at night and, to a lesser extent, focus quality and alertness during the day.
+`[E: weak]` (strong at night, weak and inconsistent for daytime focus) Peretz Lavie and Nathaniel Kleitman: the brain operates on approximately 90-minute cycles of higher and lower neural arousal across the day (the Basic Rest-Activity Cycle, BRAC). These cycles govern sleep stages at night and, to a lesser extent, focus quality and alertness during the day.
 
 **Practical application:** structure deep work in 90-minute blocks followed by 15–20 minutes of genuine recovery (not scrolling — movement, rest, eyes unfocused). Don't power through the recovery window trying to sustain intensity. The trough is not failure — it's the biological rhythm. Work with it.
 
@@ -104,7 +107,7 @@ Critical preconditions:
 
 ### The Yerkes-Dodson Curve in Detail
 
-Yerkes and Dodson (1908): there is an inverted-U relationship between arousal (stress/activation) and performance. Too little arousal = boredom, low engagement, poor performance. Too much = panic, cognitive narrowing, poor performance. Peak performance occurs at an optimal arousal level in the middle.
+`[E: contested]` Yerkes and Dodson (1908, in mice, about task difficulty and shock strength — later generalized far beyond the data): there is an inverted-U relationship between arousal (stress/activation) and performance. Too little arousal = boredom, low engagement, poor performance. Too much = panic, cognitive narrowing, poor performance. Peak performance occurs at an optimal arousal level in the middle.
 
 **Critical nuance:** the optimal arousal level varies by task type.
 - **Complex cognitive tasks** (analysis, writing, strategy): optimal arousal is relatively low. High stress degrades performance on these tasks by consuming working memory and narrowing attention.
@@ -119,7 +122,7 @@ Both eustress (productive stress) and distress (degrading stress) involve cortis
 
 **The challenge state** (eustress):
 - Cardiac output increases, vascular resistance decreases — more blood flow, better oxygenation
-- DHEA (dehydroepiandrosterone) rises — a buffer hormone that improves resilience
+- `[E: moderate]` DHEA (dehydroepiandrosterone) rises relative to cortisol — associated with better performance under stress
 - Focus sharpens, peripheral attention maintained
 - Cognitively: *"I can handle this. My resources meet the demands."*
 
@@ -129,7 +132,7 @@ Both eustress (productive stress) and distress (degrading stress) involve cortis
 - Attention tunnel-narrows, working memory contracts
 - Cognitively: *"This is going to hurt. The demands exceed my resources."*
 
-**The reframe protocol (Jamieson et al., 2012):** telling yourself that your arousal is helpful — "My body is activating because this matters. That activation is preparing me to perform." — measurably shifts physiology from threat to challenge state. This is not positive thinking; it's a biologically validated intervention. Use it before high-stakes events.
+**The reframe protocol (Jamieson et al., 2012):** telling yourself that your arousal is helpful — "My body is activating because this matters. That activation is preparing me to perform." — measurably shifts physiology from threat to challenge state. This is not positive thinking. `[E: moderate]` Small trials show reappraisal improves cardiovascular stress responses and test performance; replications are mixed in size. Use it before high-stakes events.
 
 ### Deliberate Stress Inoculation
 
@@ -196,7 +199,7 @@ Continuing a course of action because of already-invested resources (time, money
 
 ### Mental Rehearsal: The Olympic Model
 
-Mental rehearsal is the cognitive simulation of a performance or scenario. Neuroscience basis: imagined actions activate similar neural pathways as executed actions — the brain doesn't perfectly distinguish vivid simulation from reality at the motor planning level. Used systematically by Olympic athletes, Special Forces operators, surgeons, and elite musicians.
+Mental rehearsal is the cognitive simulation of a performance or scenario. `[E: moderate]` Neuroscience basis: imagined actions activate similar neural pathways as executed actions — the brain doesn't perfectly distinguish vivid simulation from reality at the motor planning level. Used systematically by Olympic athletes, Special Forces operators, surgeons, and elite musicians.
 
 **Process rehearsal vs. outcome rehearsal:**
 - **Outcome rehearsal** (imagining crossing the finish line, making the sale, giving the perfect speech) feels good but has weak performance effects
@@ -206,7 +209,7 @@ Mental rehearsal is the cognitive simulation of a performance or scenario. Neuro
 
 ### Implementation Intentions
 
-Peter Gollwitzer's research: vague intentions ("I will work on this") have low execution rates. **Implementation intentions** — "If X, then I will Y" — have dramatically higher execution rates because they pre-load the decision into automatic processing.
+`[E: strong]` Peter Gollwitzer's research (meta-analysis of 94 studies, medium-to-large effect; Gollwitzer & Sheeran, 2006): vague intentions ("I will work on this") have low execution rates. **Implementation intentions** — "If X, then I will Y" — have dramatically higher execution rates because they pre-load the decision into automatic processing.
 
 **Format:** "When [specific situation], I will [specific action]."
 
@@ -235,9 +238,9 @@ The gap between stimulus and response is where character is expressed. STOP crea
 
 ### Emotional Granularity
 
-Lisa Feldman Barrett's research: people with greater emotional granularity — the ability to precisely distinguish between similar emotional states — have better emotional regulation, better health outcomes, and better performance under stress.
+`[E: moderate]` Lisa Feldman Barrett's research: people with greater emotional granularity — the ability to precisely distinguish between similar emotional states — have better emotional regulation, better health outcomes, and better performance under stress.
 
-"I'm stressed" is a blunt instrument. "I'm feeling anxious about an uncertain outcome that I care about but can't control" is a scalpel. The precise label activates prefrontal cortex regulation rather than simple limbic reactivity.
+"I'm stressed" is a blunt instrument. "I'm feeling anxious about an uncertain outcome that I care about but can't control" is a scalpel. `[E: moderate]` Labeling an emotion reduces amygdala response (Lieberman et al., 2007).
 
 **Practice:** when you notice an emotional activation, don't stop at the first label. Ask: Is this anxiety or excitement? Is this frustration or disappointment? Is this anger or shame? The differentiation creates distance and regulatory capacity.
 
@@ -299,7 +302,7 @@ Before committing to a significant decision:
 
 The brain's default mode network (DMN) — medial prefrontal cortex, posterior cingulate, angular gyrus — activates during rest, mind-wandering, and self-referential thought. It was initially called the "default" mode because researchers thought it was the brain doing nothing. They were wrong.
 
-The DMN is the brain's integration engine. It processes, consolidates, and connects information across domains. The insights that come in the shower, on a walk, or in the middle of the night are not random — they're the product of DMN processing that had been building while your conscious attention was elsewhere.
+`[E: weak]` The DMN is the brain's integration engine. It processes, consolidates, and connects information across domains. The insights that come in the shower, on a walk, or in the middle of the night are not random — they're the product of DMN processing that had been building while your conscious attention was elsewhere.
 
 **The incubation mechanism** (Graham Wallas's four-stage model of creativity):
 1. Preparation — active engagement with the problem
@@ -331,6 +334,6 @@ Matthew Walker (*Why We Sleep*): sleep is not rest — it's an active, essential
 
 ### Active Recovery Techniques
 
-- **NSDR (Non-Sleep Deep Rest) / Yoga Nidra:** 20-minute protocol of body scan and directed attention. Measurably restores dopamine levels in the striatum and improves afternoon cognitive performance. Use at lunch.
-- **Physical movement:** walking specifically increases BDNF (brain-derived neurotrophic factor), improves mood and cognitive flexibility. Not the gym — low-intensity movement. The afternoon walk is not laziness; it is neurologically productive.
+- **NSDR (Non-Sleep Deep Rest) / Yoga Nidra:** 20-minute protocol of body scan and directed attention. `[E: weak]` One 8-person study found increased striatal dopamine during Yoga Nidra; effects on afternoon performance are untested (see [consciousness-technologies.md](../consciousness-technologies.md)). Use at lunch.
+- **Physical movement:** `[E: moderate]` walking improves mood and creative flexibility; BDNF gains from low-intensity walking are `[E: weak]` — BDNF responds mostly to harder effort. Not the gym — low-intensity movement. The afternoon walk is not laziness; it is neurologically productive.
 - **Structured downtime:** plan your rest the same way you plan your work. A recovery block with a defined start and end is psychologically and physiologically more restorative than passive half-attention to entertainment.

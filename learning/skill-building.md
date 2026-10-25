@@ -2,6 +2,9 @@
 
 Skills are the currency of capability. Every significant skill you build compounds across everything you do — the person who can think clearly, communicate precisely, and learn faster is operating on a different curve than the person who cannot. Invest accordingly.
 
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim.
+
 ---
 
 ## Principles
@@ -15,7 +18,7 @@ Skills are the currency of capability. Every significant skill you build compoun
 
 ## The Science: Deliberate Practice
 
-Anders Ericsson's decades of research on expertise produced one central finding: expert performance is not primarily the product of talent, IQ, or passion. It is the product of deliberate practice — a specific type of practice with specific characteristics.
+Anders Ericsson's decades of research on expertise produced one central finding: expert performance is built through deliberate practice — a specific type of practice with specific characteristics. `[E: contested]` How much it explains is disputed: a meta-analysis found deliberate practice accounted for 26% of performance differences in games, 21% in music, 18% in sports, 4% in education, and under 1% in professions (Macnamara et al., 2014). Practice is necessary; it is not the whole story.
 
 **The characteristics of deliberate practice:**
 
@@ -36,7 +39,7 @@ Anders Ericsson's decades of research on expertise produced one central finding:
 
 The most important concept Ericsson identified: what separates experts from intermediates is not the quantity of practice but the quality of their **mental representations** — the internal models of what excellent performance looks and feels like.
 
-A novice chess player sees pieces. An expert sees patterns — structures, threats, opportunities — that the novice's brain hasn't developed the architecture to perceive. The expert isn't thinking harder; they're perceiving the board differently.
+`[E: strong]` (Chase & Simon, 1973) A novice chess player sees pieces. An expert sees patterns — structures, threats, opportunities — that the novice's brain hasn't developed the architecture to perceive. The expert isn't thinking harder; they're perceiving the board differently.
 
 The same applies to every skill. The expert writer perceives sentence structure differently than the novice. The expert programmer perceives code patterns. The expert negotiator perceives conversational dynamics.
 
@@ -51,7 +54,7 @@ The same applies to every skill. The expert writer perceives sentence structure 
 
 Robert Bjork's research on memory and learning identified a critical paradox: **the conditions that produce the fastest visible improvement in practice are often not the conditions that produce the best long-term learning.**
 
-This is called the **desirable difficulties** principle. Bjork found that:
+This is called the **desirable difficulties** principle. `[E: strong]` for spacing and retrieval practice (Dunlosky et al., 2013 review); `[E: moderate]` for interleaving. Bjork found that:
 - **Massed practice** (repeating the same thing many times in a single session) produces rapid improvement during practice and rapid forgetting afterward.
 - **Distributed practice** (spacing the same total repetitions across multiple sessions) produces slower visible improvement during practice and dramatically better long-term retention.
 - **Blocked practice** (practicing all of type A, then all of type B, then all of type C) produces high accuracy during practice and poor transfer.
@@ -91,7 +94,7 @@ John Sweller's cognitive load theory explains why expert instruction often fails
 Learning is not linear. Knowing the shape of the curve prevents premature abandonment and false peaks.
 
 **The typical learning curve:**
-1. **Initial rapid improvement** — the first 20 hours (Kaufman's research). Moving from zero to functional competence is fast because any improvement represents a large percentage gain from baseline.
+1. **Initial rapid improvement** — the first 20 hours (Josh Kaufman's rule of thumb `[E: weak]`, from a popular book, not research). Moving from zero to functional competence is fast because any improvement represents a large percentage gain from baseline.
 2. **First plateau** — the beginner's plateau. Progress slows because the early gains were from eliminating the most basic errors. The next level requires addressing subtler deficiencies.
 3. **Intermediate valley** — the most dangerous phase. Enough knowledge to be frustrated by inadequacy, not enough to feel competent. Most people quit here. This is where the constraint identification method applies.
 4. **Reorganization** — after a period of deliberate focused practice on the constraint, performance sometimes drops before it improves. The new pattern is being integrated; old patterns are being overwritten. Trust the process.
@@ -125,7 +128,7 @@ Options for feedback: a coach or mentor, video review, direct performance data (
 
 ### Step 4: Practice at the Edge
 
-The optimal difficulty zone: hard enough that you fail regularly (30–50% of attempts), but within range enough that you understand why you failed and can adjust. Below this zone, you're maintaining. Above it, you're demoralized without learning.
+The optimal difficulty zone `[E: weak]`: hard enough that you fail regularly (30–50% of attempts; one computational analysis puts the optimal error rate nearer 15% — Wilson et al., 2019), but within range enough that you understand why you failed and can adjust. Below this zone, you're maintaining. Above it, you're demoralized without learning.
 
 If a practice session feels entirely comfortable, increase the difficulty. If it feels entirely out of reach, break it into a smaller sub-skill and attack that first.
 
@@ -197,7 +200,7 @@ A martial artist who can execute perfect technique in the dojo freezes in a real
 
 **The fix:** Deliberately practice in progressively messier conditions.
 
-Gary Klein's research on naturalistic decision-making found that expert performance under pressure (firefighters, military commanders, intensive care nurses) is not rule-following — it is pattern recognition. Experts have seen enough situations that the right action feels obvious. This recognition-primed decision-making is what the deliberate practice builds — but only if the practice includes enough varied, contextually rich situations to develop the patterns.
+`[E: moderate]` Gary Klein's research on naturalistic decision-making found that expert performance under pressure (firefighters, military commanders, intensive care nurses) is not rule-following — it is pattern recognition. Experts have seen enough situations that the right action feels obvious. This recognition-primed decision-making is what the deliberate practice builds — but only if the practice includes enough varied, contextually rich situations to develop the patterns.
 
 Design your practice to include variability. Add noise. Add time pressure. Add adversarial elements. Train the skill, then train the skill under conditions.
 

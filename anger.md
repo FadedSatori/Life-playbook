@@ -4,6 +4,9 @@ Anger is the most misunderstood emotion in the masculine tradition. It is simult
 
 This file is about getting anger right.
 
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim.
+
 ---
 
 ## What Anger Actually Is
@@ -24,11 +27,11 @@ The anger response is functional: it mobilizes energy, narrows focus, and produc
 
 ## The Neuroscience of Anger
 
-**The amygdala hijack** (Goleman's term): The amygdala — the brain's threat-detection and emotional-processing center — can activate the stress response faster than the prefrontal cortex (the seat of reasoning and impulse control) can register what's happening. In acute anger, the amygdala fires first. The prefrontal cortex plays catch-up. This is why people say things in anger they would never say at baseline — they were literally operating with reduced rational capacity.
+**The amygdala hijack** (Goleman's term — `[E: weak]` a popularization; the neuroscience of fast threat responses is real, but the clean "amygdala fires, cortex catches up" story is simplified): The amygdala — the brain's threat-detection and emotional-processing center — can activate the stress response faster than the prefrontal cortex (the seat of reasoning and impulse control) can register what's happening. In acute anger, the amygdala fires first. The prefrontal cortex plays catch-up. This is why people say things in anger they would never say at baseline — they were literally operating with reduced rational capacity.
 
-**The physiological signature:** Anger activates the sympathetic nervous system: heart rate increases (often past 95–100 bpm), blood pressure rises, muscles tense, breathing quickens, cortisol and adrenaline flood the system. At this level of physiological activation, Gottman's research shows that the brain's capacity for nuanced communication degrades. You cannot have a productive conversation — with yourself or others — in this state.
+**The physiological signature:** Anger activates the sympathetic nervous system: heart rate increases (often past 95–100 bpm), blood pressure rises, muscles tense, breathing quickens, cortisol and adrenaline flood the system. At this level of physiological activation, `[E: moderate]` Gottman's research shows that the brain's capacity for nuanced communication degrades. You cannot have a productive conversation — with yourself or others — in this state.
 
-**The resolution physiology:** The sympathetic arousal activated by anger takes time to dissipate even after the trigger is resolved — typically 20–40 minutes for the cortisol and adrenaline to metabolize. The common mistake: believing you've calmed down because the immediate trigger has passed, when the physiology is still activated. Decisions and conversations initiated within this window are still compromised.
+**The resolution physiology:** The sympathetic arousal activated by anger takes time to dissipate even after the trigger is resolved — typically 20+ minutes (`[E: moderate]` Gottman's guidance; precise timing varies). The common mistake: believing you've calmed down because the immediate trigger has passed, when the physiology is still activated. Decisions and conversations initiated within this window are still compromised.
 
 ---
 
@@ -72,7 +75,7 @@ The goal is not to reduce anger. It is to have anger be in service of something 
 
 **In the acute moment:**
 
-1. **Name it internally.** "I am angry." Not as performance — as orientation. The act of labeling an emotion activates the prefrontal cortex and slightly reduces the amygdala activation (Lieberman et al., 2007 neuroimaging research). Naming creates a sliver of distance between the emotion and the response.
+1. **Name it internally.** "I am angry." Not as performance — as orientation. `[E: moderate]` The act of labeling an emotion activates the prefrontal cortex and slightly reduces the amygdala activation (Lieberman et al., 2007 neuroimaging research). Naming creates a sliver of distance between the emotion and the response.
 
 2. **Pause before action.** The pause is not weakness. It is the insertion of choice between stimulus and response. Five deep breaths, or "I need a moment," or simply silence. The pause changes everything.
 
@@ -84,7 +87,7 @@ The goal is not to reduce anger. It is to have anger be in service of something 
 
 **For accumulated anger (the slow burn):**
 
-Regular anger discharge prevents the buildup that produces explosions. Physical channels: intense exercise, martial arts, heavy lifting (not as punishment — as release); aggressive movement processes the hormones that anger produces. The body stores unexpressed emotion. Give it a physical outlet before it finds a psychological one.
+Regular exercise improves baseline mood `[E: strong]`. Channels: intense exercise, martial arts, heavy lifting — as maintenance. Two corrections to the common "discharge" story: `[E: moderate]` *venting* — hitting a punching bag while thinking about the person — increased anger and aggression rather than releasing it (Bushman, 2002); and a 2024 meta-analysis found arousal-*reducing* activities (slow breathing, relaxation, mindfulness) reliably lowered anger, while arousal-raising activities on the whole did not (Kjærvik & Bushman, 2024). When angry *now*, calm the body down; train hard on a schedule, not as rage rehearsal.
 
 **The expression conversation:**
 

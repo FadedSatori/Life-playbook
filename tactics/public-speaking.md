@@ -4,6 +4,9 @@ The ability to communicate ideas compellingly to a room — or a camera, or a mi
 
 It is a skill. It follows the same development curve as any other skill: deliberate practice, feedback, progressive challenge, time.
 
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim.
+
 ---
 
 ## Presence Before Content
@@ -33,7 +36,7 @@ Every effective talk has the same skeleton. The subject changes; the architectur
 
 2. **The promise:** One sentence, clearly stated, that tells the audience what they will have or understand by the end. This sets their expectation and creates a cognitive structure to receive what follows.
 
-3. **Three supporting points:** The research on retention consistently supports three points over two (too few) or five (too many). Each point should follow the same pattern: claim → evidence/story → implication.
+3. **Three supporting points:** `[E: moderate]` In persuasion studies, three claims were most convincing; a fourth triggered skepticism (Shu & Carlson, 2014). The retention case for three is `[E: weak]` — mostly working-memory reasoning. Each point should follow the same pattern: claim → evidence/story → implication.
 
 4. **Transitions:** Explicit, spoken transitions ("The first reason is X. Now the second...") help the audience track the architecture. Don't assume they know where they are.
 
@@ -47,14 +50,14 @@ Every effective talk has the same skeleton. The subject changes; the architectur
 
 Physiological symptoms of performance anxiety — elevated heart rate, shallow breathing, heightened alertness, rapid thinking — are identical to the physiological symptoms of excitement and activation. The difference is the story you attach to the sensation.
 
-**The activation reframe:** "I'm nervous" is one interpretation of the activation state. "I'm activated — ready to perform" is another. The neurochemistry is the same. The cognitive label determines whether the activation helps or hurts performance.
+**The activation reframe:** "I'm nervous" is one interpretation of the activation state. "I'm activated — ready to perform" is another. The physiology is largely the same. `[E: moderate]` Relabeling anxiety as excitement improved speech performance in Brooks's trials (2014).
 
 Research (Alison Wood Brooks, Harvard): telling yourself "I'm excited" before a performance produces better outcomes than attempts to calm down. Trying to reduce arousal fights the body's prepared state. Channeling it works with it.
 
 **The pre-performance ritual:**
 
 1. **Box breathing** (4 counts in, 4 hold, 4 out, 4 hold) for 4 cycles — activates the parasympathetic system, drops the acute panic edge while maintaining activation
-2. **Power posture** for 2 minutes (standing tall, hands on hips or arms wide) — research (Carney et al., though contested) suggests this shifts the felt state; at minimum it interrupts the physically compressed posture of anxiety
+2. **Power posture** `[E: contested]` for 2 minutes (standing tall, hands on hips or arms wide) — research (Carney et al., though contested) suggests this shifts the felt state; at minimum it interrupts the physically compressed posture of anxiety
 3. **Intention setting:** What is the one thing you want to give this audience? Orient toward service rather than performance. The self-focused frame ("will they like me?") amplifies anxiety. The other-focused frame ("what do they need from this?") reduces it.
 
 **The 2-minute rule:** Performance anxiety peaks in the first 2 minutes of any speaking engagement. Once past that window, the nervous system regulates. The practical implication: start. Whatever you're feeling at the beginning, it resolves after the first 2 minutes of speaking. The problem is getting through those 2 minutes without stopping.
@@ -94,9 +97,9 @@ Facts are forgotten. Stories are remembered. The human brain processes narrative
 
 The change is the point. Without it, you have anecdote. With it, you have a story that carries meaning.
 
-**Vulnerability as the structural element that makes stories land:** Jonathan Gottschall's research on narrative: audiences form parasocial bonds with characters who show genuine struggle, not effortless competence. The speaker who tells only success stories is impressive but not compelling. The speaker who includes the moment of genuine doubt, confusion, or failure — and then the pivot — is compelling. Show the gap between who you were and who you became. That gap is where the audience identifies.
+**Vulnerability as the structural element that makes stories land:** Jonathan Gottschall's writing on narrative (`[E: weak]` as a specific finding; the broader research on narrative transportation is `[E: moderate]`): audiences form parasocial bonds with characters who show genuine struggle, not effortless competence. The speaker who tells only success stories is impressive but not compelling. The speaker who includes the moment of genuine doubt, confusion, or failure — and then the pivot — is compelling. Show the gap between who you were and who you became. That gap is where the audience identifies.
 
-**The callback:** Reference something from early in the talk at the end. The satisfaction of completion — the closed loop — is neurologically rewarding. It makes the audience feel clever for remembering the earlier reference and signals that the talk was architecturally intentional.
+**The callback:** Reference something from early in the talk at the end. The satisfaction of completion — the closed loop — is rewarding `[E: weak]`. It makes the audience feel clever for remembering the earlier reference and signals that the talk was architecturally intentional.
 
 **The rule of three:** Three is the minimum for pattern recognition and the maximum before working memory overloads. Three examples. Three principles. Three stories. Not two (feels incomplete). Not four (loses them). Three.
 

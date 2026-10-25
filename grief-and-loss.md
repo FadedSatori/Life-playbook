@@ -4,13 +4,16 @@ The warrior-philosopher tradition has more to say about grief than almost any ot
 
 This file is not about managing grief efficiently. It is about moving through it without losing yourself, and coming out carrying something that makes you more capable of being fully alive.
 
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim.
+
 ---
 
 ## What Grief Actually Is
 
 Kübler-Ross's five stages of grief — denial, anger, bargaining, depression, acceptance — were developed through work with terminally ill patients facing their own death, not through research on the grief of survivors. The model was widely misapplied to bereavement, creating the false expectation that grief follows a linear sequence that terminates at "acceptance."
 
-The current research is more accurate: grief is not linear, not stage-based, and does not have a finish line.
+`[E: moderate]` The current research is more accurate: grief is not linear, not stage-based, and does not have a finish line (Bonanno's trajectory research; Stroebe & Schut's dual process model). Most bereaved people are more resilient than expected.
 
 **The oscillation model** (Stroebe and Schut's Dual Process Model): Healthy grieving oscillates between two orientations:
 
@@ -45,16 +48,16 @@ Most people think of grief as the response to death. Grief is the response to an
 
 Grief is not a psychological condition with physical symptoms. It is a physical condition with psychological expression.
 
-**Social pain is physical pain.** Naomi Eisenberger's fMRI research: rejection and social loss activate the same neural circuits as physical pain — specifically the dorsal anterior cingulate cortex and anterior insula. This is why bereavement literally hurts. The phrase "broken heart" is not metaphor. Cardiac events increase significantly in the first weeks after losing a spouse. The body experiences the loss as damage.
+**Social pain is physical pain.** `[E: contested]` Naomi Eisenberger's fMRI research: rejection and social loss activate overlapping neural circuits with physical pain — specifically the dorsal anterior cingulate cortex and anterior insula. Later analyses found these regions are not pain-specific, so "the same circuits" overstates the overlap. The cardiac finding is solid: `[E: moderate]` the risk of heart attack or stroke roughly doubles in the 30 days after losing a partner (Carey et al., 2014). The phrase "broken heart" is not only metaphor. The body experiences the loss as damage.
 
-**The grief-immune connection:** The stress hormones released during grief (cortisol, adrenaline) suppress immune function when chronically elevated. Studies of bereaved spouses show increased susceptibility to infection, reduced natural killer cell activity, and elevated inflammatory markers in the first year after loss. Grief is physiologically expensive.
+**The grief-immune connection:** `[E: moderate]` The stress hormones released during grief (cortisol, adrenaline) suppress immune function when chronically elevated. Studies of bereaved spouses show increased susceptibility to infection, reduced natural killer cell activity, and elevated inflammatory markers in the first year after loss. Grief is physiologically expensive.
 
-**Yearning and the reward circuit:** The acute craving for the lost person — the intrusive, searching quality of early grief — is driven by the same dopamine-reward circuits activated by addiction. The brain is seeking something that the reward pathway remembers as essential. This produces the paradox where memories of the person feel simultaneously comforting and agonizing: the reward circuit briefly activates, then finds its object absent.
+**Yearning and the reward circuit:** `[E: weak]` The acute craving for the lost person — the intrusive, searching quality of early grief — engaged reward regions (nucleus accumbens) in a small fMRI study of complicated grief (O'Connor et al., 2008). The comparison to addiction is suggestive, not established. The brain is seeking something that the reward pathway remembers as essential. This produces the paradox where memories of the person feel simultaneously comforting and agonizing: the reward circuit briefly activates, then finds its object absent.
 
 **The physical protocol:** Because grief is physical, physical interventions matter:
-- Exercise reduces cortisol, restores HRV, and activates the DMN in ways that support integration
+- Exercise improves mood and sleep `[E: strong]`; claims about cortisol, HRV, and the DMN supporting grief integration specifically are `[E: weak]`
 - Sleep is critical — grief without adequate sleep compounds; address sleep disruption directly
-- Physical contact (trusted people, animals) releases oxytocin and partially offsets the oxytocin deficit created by loss
+- Physical contact (trusted people, animals) comforts and lowers stress `[E: moderate]`; the "oxytocin deficit" framing is `[E: weak]`
 - Forward motion — walking, swimming — is consistently associated with emotional processing. There is no sitting still your way through grief
 
 ---
@@ -81,7 +84,7 @@ Grief is proportional to love. The person who never allows themselves to love de
 
 ## Post-Traumatic Growth in Loss
 
-Richard Tedeschi and Lawrence Calhoun, whose research coined post-traumatic growth (PTG), identified grief and bereavement as one of the primary contexts where profound growth emerges — not in spite of the loss but because of it.
+`[E: contested]` Richard Tedeschi and Lawrence Calhoun, whose research coined post-traumatic growth (PTG) — measured by self-report, which correlates weakly with actual change (Frazier et al., 2009) — identified grief and bereavement as one of the primary contexts where profound growth emerges — not in spite of the loss but because of it.
 
 The growth domains they identified in bereaved survivors:
 - **Increased appreciation for life** — specificity, not vague gratitude; appreciation for what had been taken for granted
@@ -124,7 +127,7 @@ Complicated grief (also called Prolonged Grief Disorder): grief that has not int
 
 **What helps:**
 - **Professional support:** the threshold for seeking grief-specific therapy should be low, not high. Complicated Grief Treatment (CGT), developed by Shear and colleagues, is specifically designed for prolonged grief and has strong outcome data — it outperforms standard grief counseling and depression treatment for this population.
-- **Movement:** Exercise changes the biochemistry of grief. Walking in particular (sunlight, forward motion, change of environment) shifts neurochemical states in ways that static processing cannot. This is not avoidance — it is physiology.
+- **Movement:** `[E: weak]` Exercise changes the biochemistry of grief. Walking in particular (sunlight, forward motion, change of environment) shifts neurochemical states in ways that static processing cannot. This is not avoidance — it is physiology.
 - **The "still living" question:** What would the person, relationship, or version of yourself that was lost want you to do with the life that remains? This is not about honoring the dead by living a certain way — it is a reorientation tool, a way of asking: what does vitality look like from this vantage point?
 
 ---

@@ -2,6 +2,9 @@
 
 Meditation, breathwork, visualization, and sensory protocols — treated as engineering, not spirituality. These are precision instruments for expanding the bandwidth of human awareness and performance. Used casually, they produce mild benefit. Used with rigor, they produce transformation.
 
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim.
+
 ---
 
 ## The Framework
@@ -22,11 +25,12 @@ Treat each technology as a tool with specific applications. Use the right tool f
 
 Not relaxation. Not spirituality. A training protocol for the attentional system and the default mode network.
 
-**What it actually does (neuroscience):**
-- Thickens the prefrontal cortex — the seat of executive function, decision-making, impulse control
-- Reduces amygdala reactivity — the threat response becomes proportional rather than hair-trigger
-- Strengthens meta-cognition — the ability to observe your own thoughts without being fused to them
-- Reduces default mode network over-activity — quiets the compulsive self-referential narrative
+**What it actually does:**
+- `[E: moderate]` Reduces anxiety, depression, and pain by modest amounts — comparable to other active treatments, not more (Goyal et al., 2014, *JAMA Internal Medicine* meta-analysis)
+- `[E: moderate]` Reduces amygdala reactivity to emotional stimuli
+- `[E: moderate]` Strengthens meta-cognition — the ability to observe your own thoughts without being fused to them
+- `[E: moderate]` Reduces default mode network activity during practice
+- `[E: contested]` Thickens the prefrontal cortex — early small studies (Lazar et al., 2005) suggested this; a larger RCT found no structural brain changes after 8 weeks (Kral et al., 2022)
 
 **The core practice — Vipassana (insight meditation):**
 1. Sit comfortably. Eyes closed or soft gaze.
@@ -36,11 +40,11 @@ Not relaxation. Not spirituality. A training protocol for the attentional system
 
 The practice is not "not thinking." It is noticing you've drifted and returning. The difficulty is the workout. The effortlessness you eventually develop is the adaptation.
 
-**Minimum effective dose:** 20 minutes daily. Effects are measurable at 8 weeks. Structural changes at 6–12 months.
+**Minimum effective dose:** 20 minutes daily. `[E: moderate]` Mood and attention effects are measurable at 8 weeks (the standard MBSR length). Structural brain change timelines are `[E: weak]`.
 
 **Advanced protocols:**
 - **Open monitoring** — instead of focusing on breath, rest in open awareness. Notice everything arising without attaching to anything. Trains the witness state.
-- **Loving-kindness (Metta)** — systematically generating warmth toward self, then others. Research shows measurable increases in positive affect, social connection, and resilience.
+- **Loving-kindness (Metta)** — systematically generating warmth toward self, then others. `[E: moderate]` Trials show increases in positive affect and social connection.
 - **Body scan** — systematic attention through the body. Trains proprioception, reduces somatic holding of unprocessed emotion.
 
 ---
@@ -51,42 +55,43 @@ Breath is the only autonomic function you can voluntarily control — and throug
 
 **Box breathing (parasympathetic activation):**
 - 4 counts in → 4 hold → 4 out → 4 hold
-- 4 rounds = measurable heart rate reduction, cortisol decrease, prefrontal activation
+- `[E: moderate]` Slow breathing reliably lowers heart rate and arousal within minutes; claims about cortisol and "prefrontal activation" from 4 rounds are `[E: weak]`
 - Use: before high-stakes events, after triggers, to enter focus states
 - See [tactics/field.md](tactics/field.md) for deployment under pressure
 
 **Physiological sigh (fastest stress reset):**
 - Double inhale through the nose (two quick sniffs) → long exhale through the mouth
-- Deflates the air sacs in the lungs, triggering the strongest parasympathetic response available
-- Works in 1–2 breaths. The fastest known reset.
+- `[E: moderate]` In a 1-month RCT, 5 minutes daily of cyclic sighing improved mood and lowered respiratory rate more than mindfulness meditation (Balban et al., 2023, *Cell Reports Medicine*)
+- Re-inflates collapsed air sacs and extends the exhale, which slows heart rate. Works within 1–3 breaths. "Strongest" and "fastest known" are `[E: weak]` — not head-to-head tested
 
 **Wim Hof / Cyclic hyperventilation (sympathetic activation + resilience training):**
 - 30 deep, rhythmic breaths → exhale and hold
 - Produces alkalinity, altered state, cold tolerance, immune activation
-- Research: measurable suppression of inflammatory response; increased cold exposure tolerance
+- `[E: moderate]` Research: trained practitioners showed a suppressed inflammatory response to an injected bacterial toxin (Kox et al., 2014, *PNAS*; n=24); increased cold tolerance
 - Use: morning activation, resilience training, before cold exposure
 - *Caution: never in water, never while driving. Can cause brief loss of consciousness.*
 
 **Coherent breathing (heart rate variability optimization):**
 - 5.5 breaths per minute (approximately 5.5 seconds in, 5.5 seconds out)
-- Maximizes HRV — the single strongest predictor of cardiovascular health and stress resilience
-- 20 minutes daily produces measurable HRV improvements in 4–6 weeks
+- `[E: strong]` Breathing near ~6 breaths/minute maximizes HRV *during* the practice (resonance frequency)
+- `[E: moderate]` Regular HRV-biofeedback breathing reduces anxiety and stress (Goessl et al., 2017 meta-analysis). Low HRV predicts cardiovascular risk, but it is one predictor among several, not "the single strongest"
+- `[E: weak]` Resting HRV gains after 4–6 weeks of 20 min/day
 
 ---
 
 ## Visualization — Reality Rehearsal
 
-The brain cannot fully distinguish between a vividly imagined experience and a real one. This is not mysticism — it is the basis of motor imagery research, surgical training simulation, and performance psychology.
+Imagined and performed movements recruit overlapping brain networks. `[E: moderate]` Mental practice improves performance — less than physical practice, more than none (Driskell et al., 1994 meta-analysis). "The brain cannot distinguish imagined from real" is a popularization `[E: weak]`.
 
 **Mental rehearsal:**
 - Visualize the target performance in full sensory detail: what you see, hear, feel, the internal state
 - First-person perspective (through your own eyes) activates motor cortex more strongly than third-person
 - Include the difficult moments — not just success, but the recovery from error
-- Research: pianists who mentally rehearsed showed similar neural adaptation to those who physically practiced
+- `[E: moderate]` Research: pianists who mentally rehearsed a sequence for 5 days showed motor-cortex changes similar to those who physically practiced (Pascual-Leone et al., 1995; small study)
 
 **Outcome visualization (used correctly):**
 - Visualize the achieved state in detail — but pair it with process visualization (the steps to get there)
-- Outcome-only visualization without process visualization is correlated with *worse* performance (it satisfies the desire without producing the action)
+- `[E: moderate]` Outcome-only positive fantasy without process visualization is correlated with *worse* performance (Oettingen's research) (it satisfies the desire without producing the action)
 - The formula: vivid outcome + clear process + felt identity of "the person who achieves this"
 
 **Pre-performance protocol:**
@@ -102,8 +107,8 @@ The brain cannot fully distinguish between a vividly imagined experience and a r
 
 Removing external sensory input forces the brain to process internal state. In the absence of external stimulus, the default mode network becomes accessible in a way that ordinary waking life rarely allows.
 
-**What happens:**
-- Deep relaxation (theta wave states) without sleep
+**What happens:** `[E: weak]` (small studies; a few small trials show reduced anxiety, Feinstein et al., 2018 `[E: moderate]`)
+- Deep relaxation without sleep
 - Enhanced creativity and problem-solving (spontaneous insight)
 - Accelerated introspection — unresolved emotional material surfaces
 - Profound body awareness without visual input
@@ -144,11 +149,11 @@ Over time, the observer becomes the dominant mode of self-experience. You are th
 
 Non-sleep deep rest (NSDR) is a family of protocols — Yoga Nidra, hypnagogic states, and structured relaxation techniques — that produce the neural benefits of sleep without unconsciousness.
 
-Andrew Huberman's research group and others have shown that NSDR:
-- Restores dopamine levels in the striatum (measured via neuroimaging)
-- Consolidates motor learning acquired in the preceding session
-- Reduces cortisol without the inertia of full sleep
-- Improves subsequent cognitive performance comparably to a short nap
+What the evidence on NSDR shows `[E: weak]` — most of the evidence is small and much is attributed loosely; NSDR is a term popularized by Andrew Huberman, not a research category:
+- A PET study of 8 people during Yoga Nidra found increased striatal dopamine release (Kjaer et al., 2002)
+- Brief wakeful rest after learning improves retention of what was just learned `[E: moderate]` (Dewar et al., 2012)
+- May reduce stress; cortisol data is thin
+- Comparison to a short nap is untested
 
 **The 20-minute NSDR protocol:**
 1. Lie down in a comfortable position. Eyes closed.
@@ -158,7 +163,7 @@ Andrew Huberman's research group and others have shown that NSDR:
 5. Allow thoughts to pass without engagement. You are not sleeping — you are resting with awareness.
 6. Set a timer; return to activity immediately at the bell.
 
-**When to use it:** Post-lunch dip, between a morning deep work block and an afternoon demanding social engagement, after an intense training session. NSDR doesn't replace sleep but dramatically blunts the performance degradation of a poor night.
+**When to use it:** Post-lunch dip, between a morning deep work block and an afternoon demanding social engagement, after an intense training session. NSDR doesn't replace sleep. Whether it meaningfully offsets a poor night is `[E: weak]`.
 
 Yoga Nidra (the ancient practice that NSDR draws from) follows the same protocol with the addition of body rotation — systematically moving attention through body parts in a specific sequence. Traditional sessions are 30–60 minutes. Ten-minute versions exist and retain significant benefit.
 
@@ -169,17 +174,17 @@ Yoga Nidra (the ancient practice that NSDR draws from) follows the same protocol
 Cold exposure is not primarily about physical hardship. It is a precision tool for neurochemistry and mental discipline.
 
 **What happens physiologically:**
-- **Norepinephrine spike** — Andrew Huberman's research shows a brief cold exposure (1–3 minutes at 14°C/57°F or lower) produces a 200–300% increase in norepinephrine — the neurotransmitter of alertness, focus, and mood regulation.
-- **Dopamine increase** — unlike the short spike from most stimuli, the dopamine released by cold exposure is sustained 2–3 hours post-exposure (Søberg et al., 2021). This is distinct from caffeine, exercise, or food rewards.
+- **Norepinephrine spike** — `[E: moderate]` a 1-hour immersion at 14°C/57°F raised norepinephrine ~5x (Šrámek et al., 2000). Brief 1–3 minute exposures produce smaller, shorter rises; the commonly quoted "200–300% from a brief plunge" is extrapolated, not measured.
+- **Dopamine increase** — `[E: weak]` the same 1-hour study found dopamine ~2.5x. Søberg et al. (2021) did not measure sustained dopamine; the "2–3 hours" claim has no direct source for short plunges.
 - **Resilience training** — the deliberate choice to remain in discomfort trains the same prefrontal regulation that meditation trains. You are practicing choosing behavior over sensation.
 
-**Protocol (Huberman):**
+**Protocol (Huberman):** `[E: weak]` as a dose — the 11-minute figure comes from one observational study of winter swimmers (Søberg et al., 2021).
 - 11 minutes per week total cold water immersion (not shower — immersion up to the neck)
 - Split into 2–4 sessions of 2–4 minutes each
 - Temperature: cold enough to want to get out but safe to stay in
 - Do not force shivering to stop — shivering after cold exposure accelerates rewarming and is a training signal
 
-**Morning cold exposure** is most effective for alertness and mood elevation. **Post-workout cold** blunts muscle adaptation if applied immediately after strength training — delay by 4+ hours if hypertrophy is the goal. Post-endurance training, cold is beneficial.
+**Morning cold exposure** is most effective for alertness and mood elevation. **Post-workout cold** `[E: moderate]` blunts muscle adaptation if applied immediately after strength training (Roberts et al., 2015) — delay by 4+ hours if hypertrophy is the goal. Post-endurance training, cold is beneficial.
 
 **The mental training protocol:** The moment you enter the cold, the mind will generate reasons to exit. That voice — that compelling internal urgency — is what you're training. Remaining in the cold for 30 additional seconds past the first strong urge to exit is the deliberate practice. This is the same neural skill as not reacting to an insult, not checking the phone during focus time, not eating the wrong thing. Cold exposure is a training environment for the entire regulation system.
 
@@ -187,7 +192,7 @@ Cold exposure is not primarily about physical hardship. It is a precision tool f
 
 ## Sound Technologies
 
-Acoustic inputs alter brainwave states with surprising precision. The mechanisms are not fully understood, but the effects are reproducible.
+`[E: contested]` Acoustic inputs can shift arousal and attention. Whether they "entrain" brainwaves precisely is disputed: EEG studies of entrainment are inconsistent, and behavioral effects are small (Garcia-Argibay et al., 2019 meta-analysis).
 
 **Binaural beats:**
 When two slightly different frequencies are played separately into each ear (via headphones), the brain produces a third frequency corresponding to the mathematical difference. The brain then tends to entrain to this frequency.
@@ -196,11 +201,11 @@ When two slightly different frequencies are played separately into each ear (via
 - **Theta (4–8 Hz):** deep relaxation, creativity, hypnagogic states. The state just before sleep. Useful for visualization, creative problem-solving, meditation deepening.
 - **Alpha (8–13 Hz):** relaxed alertness. Useful for learning, calm focus, reading complex material.
 - **Beta (13–30 Hz):** active thinking, alertness. Higher frequency Beta is associated with anxiety; mid-range Beta with focused work.
-- **Gamma (30–100 Hz):** high-level cognition, peak states, mystical experiences. Tibetan monks in meditation show high-amplitude gamma activity.
+- **Gamma (30–100 Hz):** high-level cognition, peak states, mystical experiences. `[E: moderate]` Long-term Tibetan meditators show high-amplitude gamma activity during practice (Lutz et al., 2004) — from meditation, not from audio.
 
 **The protocol:** 20–40 minutes of binaural beats at the target frequency, via headphones, during the corresponding activity or before it. Effects are subtle — they don't override a chaotic mental state, but they accelerate the shift when conditions are otherwise right.
 
-**White/brown noise:** Broadband noise at moderate volume (~70 dB, roughly coffee shop level) has been shown to modestly increase creative thinking compared to silence. Brown noise (lower frequencies weighted) is generally preferred for focus. White noise (equal frequencies) is better for sleep and blocking distractions.
+**White/brown noise:** Broadband noise at moderate volume (~70 dB, roughly coffee shop level) has been shown to modestly increase creative thinking compared to silence `[E: weak]` (Mehta et al., 2012; small lab studies). Brown noise (lower frequencies weighted) is generally preferred for focus. White noise (equal frequencies) is better for sleep and blocking distractions.
 
 ---
 
@@ -217,7 +222,7 @@ Journaling is not reflection. Used correctly, it is a tool for processing emotio
 Three questions: what happened, what worked, what changes. Brief. The function: convert daily experience into learning. The Stoics did this; Marcus Aurelius was doing structured reflection in *Meditations*. Cross-link: [routines/daily.md](routines/daily.md).
 
 **3. Expressive writing (Pennebaker protocol)**
-20 minutes daily, 3–4 consecutive days, on the most difficult experience you haven't fully processed. Write about the deepest emotions and thoughts — not the story, the emotional content. Do not share or re-read during the 4 days. The function: processing undigested emotional material. Pennebaker's research showed measurable improvements in immune function, reduced doctor visits, and better mood outcomes over the following months. See [transformation-science.md](transformation-science.md) for the mechanism.
+20 minutes daily, 3–4 consecutive days, on the most difficult experience you haven't fully processed. Write about the deepest emotions and thoughts — not the story, the emotional content. Do not share or re-read during the 4 days. The function: processing undigested emotional material. `[E: moderate]` Pennebaker's research showed improvements in immune markers, fewer doctor visits, and better mood over the following months; meta-analyses confirm a real but small effect (Frattaroli, 2006). See [transformation-science.md](transformation-science.md) for the mechanism.
 
 **The integration journal:** Specific to consciousness technology work. After any significant session (float tank, breathwork, meditation retreat, visualization, even a meaningful dream) — write within 30 minutes. Capture: what happened, what arose, what it might mean, one concrete action it points to. This converts peak experiences from interesting events into operational material.
 
@@ -244,7 +249,7 @@ Any altered state, peak experience, or significant insight is only as valuable a
 These tools compound when used in sequence. The body responds to its morning cues: light, temperature, movement, breath, and attention focus — in that order.
 
 **Morning activation sequence:**
-1. **Light** — 5–10 minutes sunlight within 30 minutes of waking. Sets the circadian clock, activates the cortisol awakening response, establishes the morning alertness peak.
+1. **Light** — 5–10 minutes sunlight within 30 minutes of waking. `[E: strong]` Sets the circadian clock and strengthens the morning alertness peak (see [sleep.md](health/sleep.md)).
 2. **Cold** — 2–3 minutes cold shower or immersion. Dopamine and norepinephrine spike. Full alertness, mood elevation.
 3. **Movement** — 10–20 minutes. Cardiovascular priming, BDNF release, body activation.
 4. **Breathwork** — 5 minutes box breathing or coherent breathing. Fine-tunes the autonomic state before the work day.

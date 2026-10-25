@@ -2,6 +2,9 @@
 
 The capacity to be alone — genuinely, willingly, without agenda or anxiety — is one of the rarest and most powerful skills a person can develop. Most people have never experienced it. What they call solitude is loneliness with a book.
 
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim.
+
 ---
 
 ## Aloneness vs. Loneliness
@@ -64,7 +67,7 @@ The pattern: serious people create serious solitude. The work is downstream of i
 ## The Practical Protocol
 
 **Daily (10–20 minutes):**
-Not checking email. Not journaling. Not meditating. Just being. Walk without a destination or podcast. Sit without a task. The brain needs unstructured time — what neuroscientists call the default mode network — to process experience, consolidate learning, and generate genuine insight. Schedule it, protect it, don't fill it.
+Not checking email. Not journaling. Not meditating. Just being. Walk without a destination or podcast. Sit without a task. The brain needs unstructured time — the state in which the default mode network dominates — to process experience, consolidate learning, and generate insight `[E: moderate]` (wakeful rest improves memory consolidation — Dewar et al., 2012; incubation aids creative problem-solving). Schedule it, protect it, don't fill it.
 
 **Monthly (one full day):**
 No agenda. No social media, no calls, no commitments. Go somewhere unfamiliar or extremely familiar. Let the day happen. This is harder than it sounds. The mind will manufacture urgency for the first two hours. By the afternoon, something real surfaces.

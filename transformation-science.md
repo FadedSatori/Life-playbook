@@ -2,6 +2,9 @@
 
 Habits are level 1. Identity change is level 2. Metamorphosis is level 3. Most personal development stops at level 1. This file is about what actually happens when a human being becomes something they have never been — and how to engineer it deliberately.
 
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim.
+
 ---
 
 ## The Three Levels of Change
@@ -20,7 +23,7 @@ The hierarchy matters. You cannot skip levels — you cannot manufacture Level 3
 
 ## Why People Don't Change (Kegan and Lahey)
 
-Robert Kegan and Lisa Laskow Lahey's research at Harvard produced the most useful diagnostic for why transformation fails: the "immunity to change."
+Robert Kegan and Lisa Laskow Lahey's work at Harvard produced the most useful diagnostic `[E: weak]` (a practitioner framework from coaching cases, not controlled trials) for why transformation fails: the "immunity to change."
 
 The mechanism: most people have competing commitments that protect the current identity even when they consciously want to change. These competing commitments are not explicit — they are hidden assumptions, often formed in childhood, about what will happen if the desired change succeeds.
 
@@ -46,19 +49,19 @@ The answer to the last question is the big assumption. Test it in controlled con
 
 ## The Neuroscience of Transformation
 
-The brain is not static. Neuroplasticity — the brain's capacity to rewire itself — continues throughout life. But the conditions that produce genuine rewiring are specific.
+The brain is not static. `[E: strong]` Neuroplasticity — the brain's capacity to rewire itself — continues throughout life. But the conditions that produce genuine rewiring are specific.
 
 **Hebbian plasticity:** "Neurons that fire together wire together." Each time you repeat a thought, behavior, or emotional pattern, the neural pathway for it is strengthened. This is why habits form — and why breaking habits is so difficult. The old pathway doesn't disappear; it competes with the new one.
 
-**BDNF as fertilizer:** Brain-derived neurotrophic factor is a protein that supports neuron growth, survival, and new connection formation. Aerobic exercise (particularly Zone 2 cardio and HIIT) produces the largest and most consistent increases in BDNF. This is the primary neurobiological reason why exercise is so strongly associated with cognitive function and mood: it literally fertilizes the brain for change.
+**BDNF as fertilizer:** Brain-derived neurotrophic factor is a protein that supports neuron growth, survival, and new connection formation. `[E: moderate]` Aerobic exercise produces the most consistent increases in blood BDNF. It is one plausible reason exercise is associated with better cognition and mood; calling it *the* primary reason is `[E: weak]`.
 
-**Novelty + Uncertainty + Attention:** The brain creates new neural pathways when it encounters something that cannot be processed by existing patterns. Routine strengthens existing circuits. Challenge builds new ones. Seek the edge of your capability, not the center of your comfort. The challenge/novelty combination triggers a neurochemical cocktail (dopamine, norepinephrine, acetylcholine) that marks the experience as worth encoding.
+**Novelty + Uncertainty + Attention:** The brain creates new neural pathways when it encounters something that cannot be processed by existing patterns. Routine strengthens existing circuits. Challenge builds new ones. Seek the edge of your capability, not the center of your comfort. `[E: moderate]` Novelty and attention engage dopamine, norepinephrine, and acetylcholine systems that strengthen encoding.
 
-**Emotional intensity encodes memory:** High-arousal experiences — positive or negative — are encoded more deeply and durably than neutral ones. This is why trauma shapes identity so powerfully. It is also why deliberately intense positive experiences (challenges mastered, fears faced, commitments kept under pressure) reshape identity from the inside. The amygdala flags high-arousal events as important; the hippocampus encodes them with extra fidelity.
+**Emotional intensity encodes memory:** `[E: strong]` High-arousal experiences — positive or negative — are encoded more deeply and durably than neutral ones. This is why trauma shapes identity so powerfully. It is also why deliberately intense positive experiences (challenges mastered, fears faced, commitments kept under pressure) reshape identity from the inside. The amygdala flags high-arousal events as important; the hippocampus encodes them with extra fidelity.
 
 **Sleep consolidates change:** Every significant psychological shift requires sleep to consolidate. The hippocampus transfers newly encoded experience to the cortex during slow-wave sleep; REM sleep integrates new material with existing knowledge and emotional meaning. Transformation that happens during the day is encoded during the night. This is the biological reason why insight from a single intense experience can produce lasting change — but only if followed by sufficient sleep.
 
-**The default mode network:** When not focused on tasks, the brain enters the default mode network — the self-referential processing that constitutes your ongoing story about who you are. DMN activity is correlated with rumination, future planning, and narrative self-construction. Meditation directly trains the relationship to this network. The person who can observe their own DMN narration without being controlled by it has a lever on their own identity that most people lack entirely.
+**The default mode network:** When not focused on tasks, the brain enters the default mode network — the self-referential processing that constitutes your ongoing story about who you are. `[E: moderate]` DMN activity is correlated with rumination, future planning, and narrative self-construction. Meditation reduces DMN activity during practice `[E: moderate]`. The person who can observe their own DMN narration without being controlled by it has a lever on their own identity that most people lack entirely.
 
 ---
 
@@ -133,7 +136,7 @@ This has profound implications for transformation. You cannot sustain a new Leve
 - By accumulating new evidence that makes the new narrative credible: each action consistent with the new identity is a brick in the new story
 - By telling the new narrative aloud, in writing, and to other people. Narration consolidates the neural encoding of the new story.
 
-James Pennebaker's expressive writing research: writing about significant experiences for 20 minutes per day over 3-4 days produces measurable improvements in psychological and physical health outcomes up to 6 months later. The mechanism is narrative construction — turning raw experience into a coherent, meaningful story with an implied path forward.
+`[E: moderate]` James Pennebaker's expressive writing research (effects are real but small in meta-analyses): writing about significant experiences for 20 minutes per day over 3-4 days produces measurable improvements in psychological and physical health outcomes up to 6 months later. The mechanism is narrative construction — turning raw experience into a coherent, meaningful story with an implied path forward.
 
 ---
 
@@ -154,7 +157,7 @@ Identity is confirmed or denied by evidence. Every action that aligns with the t
 The new identity needs to be the path of least resistance. Change your physical space, your information diet, your social environment to make the old identity harder to maintain and the new one easier. See [reality-engineering.md](reality-engineering.md).
 
 **Step 5 — Find the community of the target.**
-Spend time with people who already embody what you are becoming. Identity is partly social. We become the average of the identities we are immersed in. This is not weakness or inauthenticity — it is neuroscience and anthropology. We are social animals whose identity is partly constructed through social mirroring.
+Spend time with people who already embody what you are becoming. Identity is partly social. We become the average of the identities we are immersed in. This is not weakness or inauthenticity — `[E: contested]` network studies (Christakis & Fowler) suggest behaviors spread through social ties, though how much is contagion versus people choosing similar friends is disputed. We are social animals whose identity is partly constructed through social mirroring.
 
 **Step 6 — Use crisis deliberately.**
 When external circumstances crack the old identity open — and they will — recognize it as an opportunity rather than a problem. The crack is not damage. It is access. The defensive layer is down. What do you want to install while the system is open?

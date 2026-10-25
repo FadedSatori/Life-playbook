@@ -4,6 +4,9 @@ Failure is not the opposite of success. It is a component of it — the mandator
 
 This file is about failing usefully.
 
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim.
+
 ---
 
 ## What Failure Actually Is
@@ -24,9 +27,9 @@ Most people conflate failure with incompetence, foolishness, or inadequacy. This
 
 Failure activates the same neural systems as physical threat. Understanding the mechanism explains why failure feels worse than it should and what to do about it.
 
-**The social pain network:** Naomi Eisenberger's fMRI research showed that social rejection and failure — including public failure — activate the dorsal anterior cingulate cortex and anterior insula: the same regions activated by physical pain. This is why failure literally hurts. "It felt like a punch in the gut" is not metaphor. The brain processes social threat through the same hardware it uses for physical danger.
+**The social pain network:** `[E: contested]` Naomi Eisenberger's fMRI research showed that social rejection — and by extension public failure — activates the dorsal anterior cingulate cortex and anterior insula, regions also activated by physical pain. Later analyses found these regions are not pain-specific. This is why failure literally hurts. "It felt like a punch in the gut" is not metaphor. The brain processes social threat through the same hardware it uses for physical danger.
 
-**The shame-cortisol cascade:** Failure triggers cortisol release, which at elevated levels impairs hippocampal memory consolidation, activates amygdala-driven threat-scanning, and suppresses prefrontal cortex function — precisely the strategic and perspective-taking capacity needed to debrief well. The cruel irony: the physiological state failure produces is the state in which learning from failure is hardest. This is why the debrief protocol specifies 48 hours — not to forget, but to let the cortisol metabolize before attempting to extract the lesson.
+**The shame-cortisol cascade:** `[E: moderate]` Social-evaluative threat is the strongest cortisol trigger in lab studies (Dickerson & Kemeny, 2004 meta-analysis). The cascade below is `[E: weak]` as a sequence: Failure triggers cortisol release, which at elevated levels impairs hippocampal memory consolidation, activates amygdala-driven threat-scanning, and suppresses prefrontal cortex function — precisely the strategic and perspective-taking capacity needed to debrief well. The cruel irony: the physiological state failure produces is the state in which learning from failure is hardest. This is why the debrief protocol specifies 48 hours — not to forget, but to let the cortisol metabolize before attempting to extract the lesson.
 
 **The threat-to-identity response:** When failure threatens the self-concept — particularly for people who have fused their identity with their competence or output — the brain responds as if the self is under existential attack. Defensive responses (rationalization, blame displacement, memory editing to make yourself look better in retrospect) are not character flaws. They are the brain's protection of something it treats as survival-relevant. They can be overridden by deliberate practice — but they must be understood before they can be worked with.
 
@@ -118,7 +121,7 @@ The capacity to attempt difficult things is bounded by the capacity to tolerate 
 
 ## Failure in High-Stakes Professional Contexts
 
-**Entrepreneurial failure:** The expected failure rate in venture-backed startups is approximately 90% within 10 years. This is not a statement about founder incompetence — it is a description of the operating environment. Building something new under conditions of radical uncertainty, with incomplete information, against established incumbents, while also building the organization capable of delivering it: failure is the statistically expected outcome.
+**Entrepreneurial failure:** `[E: moderate]` The expected failure rate in venture-backed startups is high — roughly three-quarters never return investors' capital (Ghosh, 2012); "90%" depends on the definition. This is not a statement about founder incompetence — it is a description of the operating environment. Building something new under conditions of radical uncertainty, with incomplete information, against established incumbents, while also building the organization capable of delivering it: failure is the statistically expected outcome.
 
 The investor who understands this does not treat each failure as a separate catastrophe. They treat the portfolio as a whole — 10 investments expect 7–8 to fail, 1–2 to produce moderate returns, and 1 to produce the return that justifies the rest. Applied to your own entrepreneurial attempts: a single failure is not a verdict on your capability. It is one data point in a required sample size.
 
@@ -151,7 +154,7 @@ The public record of success is biased toward the endpoint. The full record incl
 
 **J.K. Rowling:** Harry Potter was rejected by 12 publishers before Bloomsbury accepted it. In the year before the submission process, Rowling was a single parent on welfare, recently divorced, and clinically depressed. The gap between the idea arriving (on a train from Manchester to London) and the published book was seven years of difficulty, rejection, and persistence. The difficulty was not adjacent to the achievement — it was constitutive of it. The story would not exist in its current form without the seven years.
 
-**Abraham Lincoln** lost eight elections, failed in two businesses, and experienced a breakdown severe enough to be described by contemporaries as a complete psychological collapse, before winning the presidency at 51. The biographical record is not a story of resilience *despite* failure. It is a story of a person who had found something worth the failures required to pursue it.
+**Abraham Lincoln** lost several races (state legislature, a congressional nomination, two Senate bids), failed in business, and experienced a breakdown severe enough to be described by contemporaries as a complete psychological collapse, before winning the presidency at 51. The biographical record is not a story of resilience *despite* failure. It is a story of a person who had found something worth the failures required to pursue it.
 
 **Steve Jobs** was fired from Apple — the company he founded — in 1985, at 30 years old, at what appeared to be the peak of his career. He spent 12 years building NeXT and Pixar before returning to Apple in 1997. He said later that getting fired was the best thing that happened to him — not because the firing was good, but because the intervening years produced learning and range that his original Apple tenure could not have provided. The failure created the conditions for what followed.
 

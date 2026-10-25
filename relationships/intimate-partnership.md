@@ -4,11 +4,14 @@ Intimate partnership is not a subset of general relationship principles. The sta
 
 This file is about building a partnership that deepens over time rather than one that peaks early and slowly corrodes.
 
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim.
+
 ---
 
 ## The Foundation: What You're Actually Building
 
-Most relationships are built on chemistry first — the intensity of early attraction is real, and it is useful. But it is temporary by design. Romantic neurochemistry (dopamine, norepinephrine, serotonin disruption, phenylethylamine) has a half-life of approximately 12–18 months. This is not failure. It is the brain's bonding mechanism completing its initial phase.
+Most relationships are built on chemistry first — the intensity of early attraction is real, and it is useful. But it is temporary by design. `[E: weak]` Romantic neurochemistry (dopamine, norepinephrine, serotonin disruption) fades over roughly 1–2 years; one small study found lovers' serotonin changes normalized within 12–18 months (Marazziti et al., 1999, n=20). The phenylethylamine story is folklore. This is not failure. It is the brain's bonding mechanism completing its initial phase.
 
 The question is what you've built beneath the chemistry. Two architectures are possible:
 
@@ -26,7 +29,7 @@ The goal is both: enough initial chemistry to want to be there, and enough commi
 
 Limerence is not love. It is the delivery mechanism for pair bonding — the hook that gets people close enough to build something real.
 
-**The dangerous transition:** The period when limerence fades and the actual relationship begins. This is when the highest percentage of relationships end. The partners mistake the normalization of neurochemistry for the death of the relationship, rather than recognizing it as the beginning of a different — and potentially richer — phase.
+**The dangerous transition:** The period when limerence fades and the actual relationship begins. This is when many relationships end `[E: weak]`. The partners mistake the normalization of neurochemistry for the death of the relationship, rather than recognizing it as the beginning of a different — and potentially richer — phase.
 
 **What to build during the limerence period, knowing it will end:**
 - Have the hard conversations while the bond is still reinforced by neurochemistry — about values, life vision, deal-breakers, family patterns
@@ -45,7 +48,7 @@ The couple that becomes entirely merged — finishing each other's sentences, al
 
 **The maintenance practices:**
 - **Regular dedicated time that isn't logistics.** Not "we're both in the kitchen at the same time." Deliberate time structured to connect — new environments, unstructured conversation, shared experience
-- **Novelty as a discipline.** New activities together activate the same dopamine pathways as early courtship. This is not accidental — it is a maintenance protocol
+- **Novelty as a discipline.** `[E: moderate]` Couples assigned novel, exciting activities together reported higher relationship satisfaction (Aron et al., 2000); the dopamine mechanism is `[E: weak]`. This is not accidental — it is a maintenance protocol
 - **Genuine separateness.** Have interests, friendships, and experiences that are your own, not shared. Return from them with something to bring back
 - **Continue pursuing your own growth.** The most attractive thing you can do for your partner long-term is be a person who is growing. The person who stopped becoming is the person who becomes easy to take for granted
 
@@ -53,7 +56,7 @@ The couple that becomes entirely merged — finishing each other's sentences, al
 
 ## The Gottman Framework
 
-John Gottman's research on couples across decades produced the most empirically grounded model of relationship health and failure available. The findings:
+`[E: moderate]` John Gottman's research on couples across decades produced the most empirically grounded model of relationship health and failure available — observational, mostly from his own lab, and his headline prediction accuracies (90%+) are criticized as overfit. The findings:
 
 **The Four Horsemen — predictors of relationship death:**
 
@@ -89,7 +92,7 @@ This is not independence from your partner. It is the precondition for genuine i
 
 ## Vulnerability and Trust Architecture
 
-Brené Brown's research: vulnerability is the birthplace of intimacy and trust. But vulnerability is not the same as emotional flooding, oversharing, or using your partner as a therapist.
+Brené Brown's research `[E: weak]` (qualitative interviews): vulnerability is the birthplace of intimacy and trust. But vulnerability is not the same as emotional flooding, oversharing, or using your partner as a therapist.
 
 **The trust-building cycle:**
 1. Small disclosure → response without judgment → slightly larger disclosure → somewhat deeper trust
@@ -109,7 +112,7 @@ Brené Brown's research: vulnerability is the birthplace of intimacy and trust. 
 
 Conflict is not the enemy of partnership. Contempt is the enemy. Conflict handled well deepens understanding, increases respect, and builds the evidence that hard things can be navigated together.
 
-**The 24-hour rule:** Never attempt to resolve major conflicts when physiologically flooded. When heart rate exceeds approximately 95 bpm, the brain's capacity for nuanced reasoning degrades significantly — what Gottman calls "flooding." People in this state say things they regret, miss what the other person is actually saying, and solve nothing. Call a time-out: "I'm too activated to have this conversation well. Can we revisit it in an hour?" Return and do so.
+**The 24-hour rule:** Never attempt to resolve major conflicts when physiologically flooded. `[E: moderate]` When heart rate rises above roughly 100 bpm (or ~10% above your resting rate), the capacity for nuanced reasoning degrades — what Gottman calls "flooding." Gottman's guidance is a break of at least 20 minutes to calm physiologically. People in this state say things they regret, miss what the other person is actually saying, and solve nothing. Call a time-out: "I'm too activated to have this conversation well. Can we revisit it in an hour?" Return and do so.
 
 **The soft startup:** How you begin a difficult conversation determines how it ends. Begin with the soft startup:
 - Start with "I feel..." not "You always..." or "You never..."
@@ -149,6 +152,8 @@ John Bowlby's attachment theory, extended to adult romantic relationships by Haz
 
 **The three primary attachment styles:**
 
+`[E: moderate]` Population estimates vary by measure; these are from self-report studies (Hazan & Shaver, 1987, and later work).
+
 **Secure (approximately 50% of adults):** Comfortable with intimacy and interdependence. Can give and receive care without anxiety. Respond to relationship threat with a search for connection rather than withdrawal or protest. Partners of secure individuals report higher relationship satisfaction regardless of their own attachment style.
 
 **Anxious (approximately 20%):** Hyperactivated attachment system — heightened vigilance to signs of rejection, difficulty self-soothing, protest behaviors when threatened (increased contact-seeking, emotional escalation). The underlying fear: abandonment. The behavior that produces the fear: pushing harder, escalating — often driving the avoidant partner further away.
@@ -172,7 +177,7 @@ John Gottman's research identified what he calls "bids for connection" — the m
 
 **The three responses to a bid:**
 - **Turning toward** — acknowledging and engaging with the bid. "Oh yeah? What happened?" The relationship builds trust one bid at a time.
-- **Turning away** — missing the bid or ignoring it. Often not malicious — just preoccupied. But the cumulative effect is disconnection. Gottman's research showed that couples who divorced had turned toward each other's bids 33% of the time during the period he observed them. Couples who stayed together had turned toward 87% of the time.
+- **Turning away** — missing the bid or ignoring it. Often not malicious — just preoccupied. But the cumulative effect is disconnection. `[E: moderate]` Gottman's research (one newlywed study, six-year follow-up) showed that couples who divorced had turned toward each other's bids 33% of the time during the period he observed them. Couples who stayed together had turned toward 87% of the time.
 - **Turning against** — responding to the bid with irritation, criticism, or hostility. The most damaging response; depletes the emotional bank account most rapidly.
 
 **The practical implication:** The quality of an intimate relationship is largely determined by small moments, not big gestures. A weekend getaway does not compensate for weeks of turning away. The accumulated credit of consistent turning-toward is the foundation of both trust and desire.
@@ -183,7 +188,7 @@ John Gottman's research identified what he calls "bids for connection" — the m
 
 ## Language of Appreciation: Love Languages
 
-Gary Chapman's research on how people express and receive love — while sometimes oversimplified — maps a genuine variation in how people experience feeling valued in partnership.
+Gary Chapman's model of how people express and receive love — `[E: weak]` a pastoral framework, not research; a 2024 review (Impett et al.) found little support for its core claims — still names a genuine variation in how people experience feeling valued in partnership.
 
 **The five primary languages:**
 1. **Words of affirmation** — expressed appreciation, acknowledgment, verbal love
@@ -212,7 +217,7 @@ A partnership that deepens over decades is maintained through deliberate practic
 This is not a conflict resolution meeting. It is a maintenance meeting. The goal is attunement, not repair.
 
 **Monthly: Date that isn't routine**
-The research on novelty and dopamine is unambiguous: novel shared experience reactivates the reward circuitry of early courtship. This is not sentimental — it is neurochemistry in service of the relationship. Schedule it; make it non-negotiable; let the other person choose alternating months.
+`[E: moderate]` The research on novelty is consistent: novel shared experience raises relationship satisfaction (Aron et al., 2000). The reward-circuitry explanation is plausible but `[E: weak]`. Schedule it; make it non-negotiable; let the other person choose alternating months.
 
 **Annually: Partnership review**
 Similar in structure to an annual life review but applied to the relationship. Questions:
@@ -231,7 +236,7 @@ The last question is the most important. A couple with a shared purpose — rais
 
 The foundational input to all of the above is partner selection. The most sophisticated repair and maintenance frameworks can't fully compensate for the wrong fundamental match.
 
-Gottman's research suggests two dimensions predict long-term compatibility better than attraction or chemistry: **shared fundamental values** and **genuine friendship** (respect, admiration, and enjoying each other's company as people).
+`[E: weak]` Gottman's research suggests two dimensions predict long-term compatibility better than attraction or chemistry: **shared fundamental values** and **genuine friendship** (respect, admiration, and enjoying each other's company as people).
 
 The third variable is often underweighted: **how each person handles conflict.** Some people become contemptuous under pressure. Some become unavailable. Some have enough security and flexibility to navigate hard moments without character attacks. You cannot know this from dating or early relationship — only from watching someone under actual pressure. Pay attention before commitment is deep.
 

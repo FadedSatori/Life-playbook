@@ -6,6 +6,9 @@ Format: **Rule** — *Why it works.*
 
 Values and the decision filter live in [Core Principles](principles.md), which wins any conflict. One-line versions for memorization live in [Maxims](maxims.md).
 
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim. Rules of thumb are untagged by design; tags mark rules that rest on a specific research claim.
+
 ---
 
 ## People
@@ -60,7 +63,7 @@ Values and the decision filter live in [Core Principles](principles.md), which w
 
 - **The 10x rule:** If you can't find at least one reason the opposite is true, you haven't thought hard enough. — *Strong confirmation bias masquerades as thorough analysis. Forcing yourself to generate the counterargument breaks the loop.*
 
-- **The premortem:** Before committing to a major decision, ask: if this fails in 12 months, what will have caused it? — *Prospective hindsight is more accurate than prospective prediction. The failure scenario surfaces risks your optimism is suppressing.*
+- **The premortem:** Before committing to a major decision, ask: if this fails in 12 months, what will have caused it? — *Prospective hindsight is more accurate than prospective prediction. The failure scenario surfaces risks your optimism is suppressing.* `[E: moderate]` Imagining the failure has already happened increased correctly identified reasons for an outcome by ~30% (Mitchell, Russo & Pennington, 1989).
 
 - **The cost of optionality:** Keeping all doors open is a decision. It costs the compounding you would have gotten from closing one. — *Optionality is not free. It has a maintenance cost in attention and a compounding cost in uncommitted resources. The open door you're not walking through is still costing you.*
 
@@ -160,7 +163,7 @@ Values and the decision filter live in [Core Principles](principles.md), which w
 
 ## Learning & Skill
 
-- **The 20-hour rule:** Twenty hours of focused, deliberate practice will take you from zero to functional in almost any skill. — *The initial learning curve is steep — most foundational knowledge concentrates at the beginning. After 20 focused hours, you have enough to self-correct and progress independently.*
+- **The 20-hour rule:** `[E: weak]` (Josh Kaufman's rule of thumb) Twenty hours of focused, deliberate practice will take you from zero to functional in almost any skill. — *The initial learning curve is steep — most foundational knowledge concentrates at the beginning. After 20 focused hours, you have enough to self-correct and progress independently.*
 
 - **The spacing effect:** Distributed practice beats massed practice for long-term retention. — *Memory consolidation happens between sessions, not during them. Spacing out practice creates repeated retrieval attempts that strengthen encoding. Cramming produces short-term fluency and rapid forgetting.*
 
@@ -190,7 +193,7 @@ Values and the decision filter live in [Core Principles](principles.md), which w
 
 - **The asymmetry detector:** Track who initiates contact over time. Consistent asymmetry is the actual relationship, not the stated one. — *People's willingness to initiate contact is an accurate indicator of their prioritization of the relationship. Stated importance diverges from behavioral importance quickly when initiation is consistently one-directional.*
 
-- **The repair speed measure:** How quickly a relationship recovers from conflict is a better indicator of its health than the absence of conflict. — *Conflict-free relationships are either unusually compatible or unusually avoidant. Repair capacity — the ability to return to functional connection after rupture — predicts long-term durability.*
+- **The repair speed measure:** How quickly a relationship recovers from conflict is a better indicator of its health than the absence of conflict. — *Conflict-free relationships are either unusually compatible or unusually avoidant. `[E: moderate]` (Gottman) Repair capacity — the ability to return to functional connection after rupture — predicts long-term durability.*
 
 - **The presence test:** Notice who is fully present when they're with you. That's the real quality of the relationship. — *Physical presence with mental absence is the most common form of relational neglect. The quality of full attention given freely is the metric.*
 
