@@ -28,6 +28,29 @@ The "spoon" model (Christine Miserandino, 2003 — originally written about chro
 
 **Common restorers:** solitude, time in a deep interest, predictable routine, movement, sleep, stimming, deep pressure, low-sensory spaces, and time with people you don't have to mask around.
 
+### The Recovery Menu
+
+Different energy levels need different recovery. At a 1, you can't do what restores you at a 4. Fill in your own menu while you're well, so you don't have to think when you're not.
+
+| Energy | What it feels like | What works at this level | Avoid |
+|--------|--------------------|--------------------------|-------|
+| **1 — empty** | Can't speak much, can't decide, everything too loud | Dark, quiet room. Lie down. Weighted blanket or deep pressure. Water. No screens if they hurt. | Any decision, any conversation, any "should" |
+| **2 — low** | Functioning but fragile; small things feel huge | Familiar comfort media, a known stim, a slow walk alone, simple food | New things, social plans, problem-solving |
+| **3 — okay** | Steady but not much spare | Interest time, light exercise, time with one safe person | Stacking two big demands back to back |
+| **4 — good** | Room to spare | Harder interest work, training, a social plan you chose | Spending it all because it's there |
+| **5 — full** | Energized, capable | Your most demanding work, the hard conversation, the new thing | Overcommitting the next week on today's energy |
+
+### The Capacity Ledger
+
+Burnout is what happens when demand stays above capacity for too long. Track both sides.
+
+**Once a week, in the [Weekly Review](../routines/weekly-review.md):**
+1. **List next week's demands** — social events, deadlines, travel, changes, sensory-heavy places. Rate each 1–3 for cost.
+2. **List the restorers you've scheduled.** Rate each 1–3 for how much they give back.
+3. **Compare the totals.** If demand clearly exceeds restoration, cut or move something now, or add recovery. Don't wait to see how it goes.
+
+The ledger is rough on purpose. Its job is to make an invisible cost visible before you've already paid it.
+
 ---
 
 ## Masking Has a Price

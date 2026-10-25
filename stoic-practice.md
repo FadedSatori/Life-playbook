@@ -209,3 +209,7 @@ Stoicism is frequently misunderstood as the suppression of emotion. It is not. T
 The Stoic goal is not emotional flatness. It is the replacement of passion (which falsely attributes significance to the uncontrollable) with the good emotions (which arise from accurate engagement with what is actually up to you). A Stoic can experience joy, love, care, and connection — all arising from genuine goods. What the Stoic releases is the distress caused by the false belief that external things determine inner wellbeing.
 
 The practice in practice: when an emotion arrives, ask not "should I feel this?" but "what judgment is generating this?" If the judgment is accurate and the emotion follows from it, let it run. If the judgment is false — an assumption that the uncontrollable matters to your wellbeing — correct the judgment, and the destructive form of the emotion loses its grip.
+
+---
+
+**Related:** [Thinking Style](aspergers/thinking-style.md#philosophies-that-fit) — why Stoicism suits the Asperger's mind

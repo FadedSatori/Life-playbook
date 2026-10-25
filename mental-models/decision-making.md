@@ -180,3 +180,7 @@ The dangerous middle: domains with enough regularity to feel predictable but eno
 - Is this domain high-regularity (similar inputs reliably produce similar outputs)?
 
 If all three: trust the intuition as a strong signal. If not: use the intuition as a hypothesis to check, not a conclusion to follow.
+
+---
+
+**Related:** [Thinking Style](../aspergers/thinking-style.md) — decision cost and resistance to framing bias in the Asperger's profile

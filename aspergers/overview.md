@@ -13,14 +13,19 @@ Know your wiring before you optimize anything built on it. This section is the o
   - [Executive Function](executive-function.md) — planning, starting, time, and life admin with the system outside your head
   - [Uncertainty and Change](uncertainty-and-change.md) — why the unknown costs so much, and protocols for change and transitions
   - [Special Interests](special-interests.md) — joy, regulation, identity, mastery — and managing the tunnel
+  - [Thinking Style](thinking-style.md) — deliberate reasoning, resistance to bias, decision cost, justice, black-and-white thinking
 - **Out in the world**
   - [Social Decoding](social-decoding.md) — social life as a learnable system, without accepting that you are the broken half
   - [Relationships](relationships.md) — partnership, mixed-neurotype dynamics, intimacy, dating, friendship, family
   - [Work and Career](work-and-career.md) — depth as career capital, environment fit, accommodations, disclosure
   - [Health and Care](health-and-care.md) — appointments, therapy that fits, medication, sleep, a crisis plan
+  - [Explaining It](explaining-it.md) — what to say at three lengths, to each listener, and how to answer the common responses
+  - [For the People Close to You](for-people-close-to-you.md) — a page to hand to a partner, family member, friend, or manager
 - **Self**
   - [Identity and Unmasking](identity-and-unmasking.md) — late recognition, re-reading the past, unmasking, self-advocacy
   - [User Manual](user-manual-template.md) — a one-page "how to work with me" you fill in and hand to people
+- **Quick reference**
+  - [Field Guide](field-guide.md) — the whole section on one page: situation → three steps → link
 
 ---
 
@@ -66,6 +71,18 @@ A map of the territory, not a self-diagnosis checklist. Not everyone has every f
 
 ---
 
+## The Spiky Profile
+
+`[E: moderate]` Autistic ability profiles tend to be uneven — large gaps between areas of strength and areas of difficulty, rather than one level across the board. In the Asperger's profile the gaps are often especially visible: advanced reasoning or vocabulary next to real difficulty with things others find automatic, like phone calls, small talk, or remembering to eat.
+
+**Why this matters:**
+- **Your strengths don't disprove your difficulties,** and your difficulties don't cancel your strengths. Both are real at once.
+- **People calibrate to your peaks.** Someone who sees you explain a complex system expects you to handle a networking event with the same ease — and reads the gap as unwillingness.
+- **"Level 1" doesn't mean "mild."** The support you need depends on the situation. In a quiet, predictable environment you may need almost none; in a loud, chaotic, socially demanding one, you may need a lot. Support needs fluctuate with context, energy, and life stage.
+- **Plan for the valleys, not just the peaks.** Build systems around what is hard (see [Executive Function](executive-function.md)), and put your peaks where they are most valuable (see [Work and Career](work-and-career.md)).
+
+---
+
 ## What Comes With It
 
 `[E: moderate]` Co-occurring conditions are the rule more than the exception. A meta-analysis of autistic people found pooled rates of about 28% for ADHD, 20% for anxiety disorders, and 11% for depression (Lai et al., 2019, *Lancet Psychiatry*); studies of adults without intellectual disability often find anxiety and depression considerably higher.
@@ -90,6 +107,23 @@ No superpower story — that framing is its own kind of pressure. But the real a
 - Independence from fashion and herd opinion
 
 Every one of these has a shadow: focus becomes rigidity, honesty becomes bluntness, independence becomes isolation. The work is the same as everywhere else in this playbook — integrate the trait, don't amputate it. See [Shadow Work](../shadow-work.md).
+
+---
+
+## Common Misconceptions
+
+| Misconception | What the evidence says |
+|---------------|------------------------|
+| "Autistic people lack empathy." | `[E: moderate]` Difficulty *reading* emotions is largely explained by alexithymia, and many autistic people feel others' emotions strongly. See [Empathy, Accurately](emotions.md#empathy-accurately). |
+| "It's caused by parenting." | `[E: strong]` No. The "refrigerator mother" idea was discredited decades ago. Autism is mostly genetic: heritability is around 80% (Bai et al., 2019). |
+| "Vaccines cause it." | `[E: strong]` No. Large studies — including one of over 650,000 Danish children — have found no link (Hviid et al., 2019). |
+| "Everyone's a little autistic." | `[E: moderate]` Autistic *traits* do vary across the whole population. The profile is about how many, how strong, and how much they shape a life. |
+| "You'll grow out of it." | `[E: moderate]` It is lifelong. Skills and coping grow; the underlying wiring stays. Support needs can rise again in burnout, change, or old age. |
+| "Autistic people don't want relationships." | `[E: moderate]` Most do. Loneliness is common precisely because people want connection and find the usual routes to it harder. |
+| "Every autistic person has a savant skill." | A small minority do. Most have ordinary ranges of ability, often with an uneven [spiky profile](#the-spiky-profile). |
+| "If you can work or have a partner, you can't be autistic." | Many autistic adults do both. Visible coping often hides invisible cost — see [Masking Has a Price](energy-and-burnout.md#masking-has-a-price). |
+
+For how to answer these when people say them to you, see [Explaining It](explaining-it.md#answering-the-common-responses).
 
 ---
 

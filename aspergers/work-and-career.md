@@ -110,6 +110,42 @@ The unwritten rules are learnable. Treat them like any other system: observe, mo
 
 ---
 
+## Receiving Feedback
+
+Feedback is often delivered vaguely and softened — the opposite of what this profile processes best.
+
+- **Ask for it specifically:** "What's the one thing I should change on this?" "Can you show me an example of what good looks like?"
+- **Ask for it in writing** where you can, so you can process it in your own time.
+- **Expect the delayed wave.** Critical feedback may land harder hours later. Don't respond in the moment if you don't have to: "Thanks — let me think about that." See [The Delayed Signal](emotions.md#the-delayed-signal).
+- **Separate the work from your worth.** Feedback on a document is information about the document.
+- **Ask whether it's a request or an observation.** "Is that something you need me to change, or just a thought?" Softened feedback is often a firm request in disguise (see [Subtext](social-decoding.md#subtext-a-translation-table)).
+
+---
+
+## Managing Up
+
+Your manager's expectations are the most important unwritten rules at work. Make them written.
+
+- **Clarify priorities explicitly:** "I have A, B, and C on my plate. Which matters most this week?"
+- **Confirm in writing:** after a verbal instruction, send a two-line summary — "Just confirming: you'd like X by Thursday, with Y included." It catches misunderstandings early and creates a record.
+- **Send a short weekly update** — done, in progress, blocked. It makes your work visible without small talk.
+- **Raise problems early,** with a proposed fix: "This will slip by two days because of X. I can do Y to keep it on track — which do you prefer?"
+- **Ask how they like to communicate** — chat, email, meetings — and match it for the routine stuff.
+
+---
+
+## Remote Work: Benefits and Traps
+
+Remote and hybrid work can remove much of the hidden load: commuting, open-plan noise, constant interruptions, unplanned social contact.
+
+**The traps:**
+- **Isolation.** Losing all incidental social contact can deepen loneliness. Keep some deliberate connection — a regular one-on-one, a co-working day, a community outside work.
+- **Blurred boundaries.** Deep focus plus a laptop at home means working until midnight. Keep a fixed end time and a shutdown ritual (see [Daily Routine](../routines/daily.md)).
+- **Invisibility.** Out of sight can mean out of mind for promotions. Use the weekly update above, and turn up in person for the moments that matter.
+- **Video-call load.** Cameras on all day is its own sensory and social drain. Ask for camera-optional internal meetings.
+
+---
+
 ## Protecting Your Energy at Work
 
 - Block deep-work time on the calendar and defend it. See [Work Principles](../career/work-principles.md).

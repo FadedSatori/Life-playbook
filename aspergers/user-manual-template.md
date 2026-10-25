@@ -58,3 +58,17 @@ The italic lines are examples. Replace them with your own.
 ### What I'd Love Help With
 - *Telling me the unwritten rules here*
 - *A signal when I've been talking about one topic too long*
+
+---
+
+## The Five-Line Card
+
+For a new manager, a team, or anyone who won't read a full page. Five lines, nothing more:
+
+1. **How to reach me:** *Written is best — email or chat.*
+2. **How I communicate:** *Direct and literal. Please be direct with me.*
+3. **What helps me work well:** *Clear priorities, written specs, a quiet space.*
+4. **What can be misread:** *Quiet or blunt means focused, not upset.*
+5. **What I'm best at:** *Finding the error, going deep, following through.*
+
+For the people closest to you, pair the full manual with [For the People Close to You](for-people-close-to-you.md).
