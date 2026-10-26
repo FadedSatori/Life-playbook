@@ -1,6 +1,6 @@
 # Field Guide
 
-The one-page version of this whole section, for the moments when you can't read thirteen files. Find the situation, do the three steps, follow the link later.
+The one-page version of this whole section, for the moments when you can't read twenty-one files. Find the situation, do the three steps, follow the link later.
 
 Part of the [Asperger's](overview.md) section. Print it, or keep it on your phone.
 
@@ -24,6 +24,9 @@ Part of the [Asperger's](overview.md) section. Print it, or keep it on your phon
 | **I have a medical appointment** | 1. Write symptoms and questions down. 2. Describe function, not a 1–10 number. 3. Ask for written instructions. | [Appointments](health-and-care.md#before-an-appointment) |
 | **A big decision is eating me alive** | 1. Define "good enough" — 2–3 criteria. 2. Set a decision deadline. 3. Is it reversible? Then decide faster. | [Decisions](thinking-style.md#decisions-can-be-exhausting) |
 | **Something unfair is happening** | 1. Is it mine to fix? 2. What does fixing it cost? 3. Smallest effective action — or let it go. | [Justice](thinking-style.md#justice-and-fairness) |
+| **I'm overwhelmed in a public place** | 1. Get out of the input — outside, a bathroom, a car. 2. Headphones on, eyes down. 3. Show your communication card if words are gone. | [Overload in Public](public-world.md#overload-in-public) |
+| **Police or security stop me** | 1. Stay calm, hands visible, no sudden moves. 2. "I'm autistic — I may need more time to answer." 3. Say you're reaching for your card before you do. | [Police and Emergencies](public-world.md#police-security-and-emergencies) |
+| **Someone wants money, codes, or a decision now** | 1. "I'll call you back on the official number." 2. Hang up. 3. Verify independently. | [Scams](public-world.md#scams-and-strangers) |
 | **I'm having dark thoughts** | 1. Tell someone you trust today. 2. Call or text 988 (US) or your local crisis line. 3. Follow your crisis plan. | [Crisis Plan](health-and-care.md#write-a-crisis-plan-while-youre-well) |
 
 ---
@@ -33,11 +36,13 @@ Part of the [Asperger's](overview.md) section. Print it, or keep it on your phon
 - **Body check three times:** hungry, thirsty, tired, tense, overloaded? ([More](energy-and-burnout.md#building-it-into-the-routine))
 - **Recovery after every known drain** — not "when there's time."
 - **Interest time** — it is maintenance, not a reward. ([More](special-interests.md#protect-the-time))
+- **Keep the anchors** — wake time, first hour, wind-down. ([More](routine-design.md#principles))
 
 ## Every Week
 
 - **Energy log** in the [Weekly Review](../routines/weekly-review.md): three weeks of sliding scores means cut load now.
 - **One admin block.** Everything admin waits for it. ([More](executive-function.md#life-admin))
+- **Social quota.** When it's full, the answer is no. ([More](routine-design.md#a-weekly-template))
 
 ## Always
 

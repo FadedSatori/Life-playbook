@@ -38,12 +38,16 @@ Identity and body. If this is unstable, nothing above it holds.
 | [Executive Function](aspergers/executive-function.md) | Externalize everything, physical first steps, checklists, time, fewer decisions, life admin |
 | [Uncertainty and Change](aspergers/uncertainty-and-change.md) | Intolerance of uncertainty, if–then plans, the change protocol, big transitions, travel |
 | [Special Interests](aspergers/special-interests.md) | Interests as joy, regulation, identity, and mastery; protecting them; managing the tunnel |
+| [With ADHD](aspergers/with-adhd.md) | Where the two profiles collide, structure the frame and vary the contents, planned novelty, seeking vs. avoiding, medication |
 | [Thinking Style](aspergers/thinking-style.md) | Deliberate over intuitive, resistance to framing bias, decision cost, systems and consistency, black-and-white thinking, justice |
 | [Social Decoding](aspergers/social-decoding.md) | Double empathy, small talk as protocol, subtext and sarcasm, saying no, phone and text, finding your people |
 | [Relationships](aspergers/relationships.md) | Making the implicit explicit, mixed-neurotype partnership, alone time, sharing a home, intimacy, dating, friendship, family |
 | [Work and Career](aspergers/work-and-career.md) | Depth as career capital, environment fit, accommodations, disclosure, interviews, office politics as a system |
 | [Health and Care](aspergers/health-and-care.md) | Appointments, describing symptoms, therapy that fits, medication, sleep, substances, a crisis plan |
 | [Identity and Unmasking](aspergers/identity-and-unmasking.md) | Late recognition, re-reading the past, unmasking in stages, language and identity, the useless tree, self-advocacy |
+| [The Public World](aspergers/public-world.md) | Shops, transport, airports, crowds, overload in public, a communication card, police and emergencies, scams |
+| [Life Stages](aspergers/life-stages.md) | Leaving school, higher education, career, partnership, parenthood, midlife, retirement, growing older |
+| [Routine Design](aspergers/routine-design.md) | Adapting the daily routine, weekday and weekly templates, the social quota, when the routine breaks |
 | [Explaining It](aspergers/explaining-it.md) | Whether to tell, three lengths, tailoring to the listener, answering the common responses, explaining without the label |
 | [For the People Close to You](aspergers/for-people-close-to-you.md) | A handout for partners, family, friends, and managers: what helps, what doesn't, common misreadings |
 | [Field Guide](aspergers/field-guide.md) | The whole section on one page — situation, three steps, link |

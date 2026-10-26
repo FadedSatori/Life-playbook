@@ -14,18 +14,36 @@ Know your wiring before you optimize anything built on it. This section is the o
   - [Uncertainty and Change](uncertainty-and-change.md) — why the unknown costs so much, and protocols for change and transitions
   - [Special Interests](special-interests.md) — joy, regulation, identity, mastery — and managing the tunnel
   - [Thinking Style](thinking-style.md) — deliberate reasoning, resistance to bias, decision cost, justice, black-and-white thinking
+  - [With ADHD](with-adhd.md) — when the two profiles collide, and systems that serve both
 - **Out in the world**
   - [Social Decoding](social-decoding.md) — social life as a learnable system, without accepting that you are the broken half
   - [Relationships](relationships.md) — partnership, mixed-neurotype dynamics, intimacy, dating, friendship, family
   - [Work and Career](work-and-career.md) — depth as career capital, environment fit, accommodations, disclosure
   - [Health and Care](health-and-care.md) — appointments, therapy that fits, medication, sleep, a crisis plan
+  - [The Public World](public-world.md) — shops, transport, airports, crowds, a communication card, police and emergencies, scams
   - [Explaining It](explaining-it.md) — what to say at three lengths, to each listener, and how to answer the common responses
   - [For the People Close to You](for-people-close-to-you.md) — a page to hand to a partner, family member, friend, or manager
 - **Self**
   - [Identity and Unmasking](identity-and-unmasking.md) — late recognition, re-reading the past, unmasking, self-advocacy
   - [User Manual](user-manual-template.md) — a one-page "how to work with me" you fill in and hand to people
+  - [Life Stages](life-stages.md) — school to retirement: what each stage removes, adds, and asks of you
+- **Building it into life**
+  - [Routine Design](routine-design.md) — days and weeks built around energy: anchors, buffers, recovery, the social quota
 - **Quick reference**
   - [Field Guide](field-guide.md) — the whole section on one page: situation → three steps → link
+
+### How to Use This Section
+
+Twenty-one files is a lot. Don't read it all at once. A four-week start:
+
+| Week | Read | Do |
+|------|------|----|
+| **1** | This overview, [Energy and Burnout](energy-and-burnout.md) | Fill in [Your Profile](#your-profile). Start the weekly energy log. |
+| **2** | [Sensory](sensory.md), [Routine Design](routine-design.md) | Do the eight-sense audit. Make one change to your environment. Set your social quota. |
+| **3** | [Social Decoding](social-decoding.md), [Relationships](relationships.md) | Write your [User Manual](user-manual-template.md). Share it with one person you trust. |
+| **4** | [Health and Care](health-and-care.md), [Field Guide](field-guide.md) | Write your crisis plan. Put the field guide and a [communication card](public-world.md#a-communication-card) on your phone. |
+
+After that, read the rest as the situations come up. Revisit Your Profile every quarter — it will get more accurate as you learn.
 
 ---
 

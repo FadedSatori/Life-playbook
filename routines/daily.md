@@ -249,3 +249,7 @@ The routine breaks. Travel, illness, family crisis, consecutive late nights, tim
 **Win the morning, win the day. Win enough days, win the life.**
 
 Not every day will be won. But every morning is the opportunity. Take it.
+
+---
+
+**Related:** [Routine Design](../aspergers/routine-design.md) — this routine adapted for the Asperger's profile
