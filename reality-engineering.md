@@ -8,6 +8,9 @@ Most people manage their environment reactively — adapting to what exists. Rea
 
 Go further: you fall to the level of your environment. Systems are downstream of environment. Engineer the environment first.
 
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim.
+
 ---
 
 ## The Principle
@@ -55,7 +58,7 @@ What you consume becomes what you think. Your information diet is your cognitive
 
 ### 3. Social Environment
 
-Identity is socially constructed. Not in the postmodern sense — in the neurological sense. The brain models other people's behavior constantly and updates its own baseline accordingly. You become who you spend time with. This is not metaphor. It is mirror neurons, social contagion, and unconscious modeling at work.
+Identity is socially shaped. The brain models other people's behavior constantly and updates its own baseline accordingly. You become who you spend time with. `[E: moderate]` Unconscious mimicry and social norms are well documented; `[E: contested]` network "contagion" of habits (Christakis & Fowler) is partly people choosing similar friends; `[E: weak]` the mirror-neuron explanation is a popular overreach.
 
 **Design the social environment:**
 
@@ -103,7 +106,7 @@ Good defaults produce good behavior without decision fatigue. Bad defaults requi
 
 ### The Habit Loop
 
-Charles Duhigg's research on habit formation identifies a three-part structure that all habits share: **cue → routine → reward.** Understanding this structure allows you to architect habits rather than hope for them.
+Charles Duhigg's reporting on habit research (`[E: moderate]` — the cue/routine/reward loop is a simplification of work by Graybiel, Wood, and others) identifies a three-part structure that all habits share: **cue → routine → reward.** Understanding this structure allows you to architect habits rather than hope for them.
 
 - **Cue:** The trigger that initiates the behavior. Can be a time, a location, an emotional state, another behavior, or the presence of other people. Design cues for habits you want; remove cues for habits you don't.
 - **Routine:** The behavior itself. Make it as small and friction-free as possible in the beginning. The point is to make the cue-routine link automatic, not to produce maximum output on day one.
@@ -131,7 +134,7 @@ Peter Gollwitzer's research on goal achievement identified a simple intervention
 
 The mechanism: implementation intentions create a conditional association in memory that makes the behavior semi-automatic when the condition is met. You have pre-decided. In the moment, you are executing a decision already made, not deliberating anew.
 
-The research: implementation intentions increase follow-through rates by 200–300% across domains (exercise, diet, medication adherence, study habits). The intervention is costless and the effect is robust. There is no reason not to use it for every habit you are trying to build.
+The research: `[E: strong]` implementation intentions have a medium-to-large effect on follow-through across 94 studies (Gollwitzer & Sheeran, 2006) — in single studies sometimes doubling or tripling completion rates. The intervention is costless and the effect is robust. There is no reason not to use it for every habit you are trying to build.
 
 **Temptation bundling** (Katy Milkman, Wharton): Pair a behavior you want to do with a behavior you need to do. Only listen to your preferred podcast while walking. Only watch your preferred show while exercising. The desired activity becomes the reward and the cue for the necessary one. You want the bundle; you get both.
 
@@ -144,7 +147,7 @@ Pre-commitment devices are mechanisms that make it costly or impossible to aband
 **Modern pre-commitment tools:**
 - **Technology blockers:** Freedom, Cold Turkey, or similar tools schedule internet access hours in advance. The block cannot easily be overridden in the moment. You are choosing from a position of calm, not competing with immediate desire.
 - **Social pre-commitment:** Announcing a commitment to specific people who will ask about it. The accountability debt is a pre-commitment.
-- **Financial stakes:** Commitment contracts with monetary consequences (stickK, Beeminder). The research shows that financial stakes — even small ones — dramatically increase follow-through. Asymmetric: losing $20 stings more than gaining $20 feels good.
+- **Financial stakes:** Commitment contracts with monetary consequences (stickK, Beeminder). `[E: moderate]` Field trials show financial stakes increase follow-through — e.g., a voluntary commitment account raised smoking quit rates by about 3 percentage points (Giné et al., 2010) — real effects, smaller than "dramatic". Asymmetric: losing $20 stings more than gaining $20 feels good.
 - **Calendar blocking:** Scheduling deep work in advance, across weeks, makes it visible and costly to cancel. The cancellation requires a deliberate act against an existing commitment, not just a passive choice not to start.
 
 The Ulysses contract principle: if you know your future self will be tempted to defect, bind your future self now, while your judgment is clear.
@@ -211,3 +214,7 @@ Not through force — through design. Quiet, deliberate, systematic design. The 
 That is the difference between a life that happens to you and a life you build.
 
 Build deliberately.
+
+---
+
+**Related:** [Sensory](aspergers/sensory.md) — environment design for sensory differences

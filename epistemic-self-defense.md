@@ -2,6 +2,9 @@
 
 Your mind is the primary target of the information age. Adversarial content, tribal epistemics, manufactured outrage, and algorithmic manipulation are running in the background of every digital interaction. This is how you protect the operating system.
 
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim.
+
 ---
 
 ## The Threat Model
@@ -51,7 +54,7 @@ The practice:
 
 The anti-pattern: treating every piece of new evidence as either total confirmation or total invalidation. That's not updating — it's oscillating.
 
-**The calibration practice:** Good epistemics requires calibration — your confidence levels should correspond to your actual accuracy. If you say you're 90% confident in something and you're wrong 30% of the time when you express 90% confidence, you're systematically overconfident. Tracking predictions and comparing them to outcomes calibrates your confidence levels. Philip Tetlock's superforecasters — the people who are measurably best at predicting world events — are distinguished not by superior intelligence but by superior calibration.
+**The calibration practice:** Good epistemics requires calibration — your confidence levels should correspond to your actual accuracy. If you say you're 90% confident in something and you're wrong 30% of the time when you express 90% confidence, you're systematically overconfident. `[E: strong]` Most people are, and calibration improves with scored practice. Tracking predictions and comparing them to outcomes calibrates your confidence levels. Philip Tetlock's superforecasters — the people who are measurably best at predicting world events — are distinguished not by superior intelligence but by superior calibration.
 
 **Updating publicly:** The person who never publicly changes their mind in response to evidence is not admirably consistent. They are managing a persona rather than tracking truth. Publicizing your updates ("I was wrong about X because of Y") signals epistemic health, not weakness.
 
@@ -108,7 +111,7 @@ You become what you repeatedly input. Curate accordingly.
 - Books (the filter of time removes most low-quality ideas; a book published 30 years ago that is still read has survived significant selection pressure)
 - Direct conversations with people smarter than you in specific domains
 - Primary sources when stakes are high
-- Pre-prints and original research with awareness of the replication crisis (particularly social psychology)
+- Pre-prints and original research with awareness of the replication crisis (particularly social psychology — about 36–40% of prominent findings replicated in the Open Science Collaboration, 2015)
 
 **Minimize:**
 - Algorithmic feeds (optimized for engagement, not accuracy or your wellbeing)
@@ -162,7 +165,7 @@ Ask these in private, in writing. The answers matter more than the questions.
 What does epistemic health look like in practice?
 
 **Daily:**
-- No social media first thing in the morning — the mind is most suggestible before cortisol has risen; protect those first 30 minutes
+- No social media first thing in the morning — protect the first 30 minutes so you set the day's first frame (the claim that the mind is "most suggestible before cortisol has risen" is `[E: weak]` — no direct evidence)
 - One day's delay before forming and sharing opinions on breaking news
 - Emotions as flags: when something makes you feel strongly, investigate more carefully, not less
 

@@ -4,6 +4,9 @@ Almost nothing in life is certain. The map that shows certainties is a fantasy. 
 
 See also: [Decision Making](decision-making.md) · [Second-Order Thinking](second-order-thinking.md)
 
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim. The math (expected value, Bayes, ergodicity, Kelly) is untagged; tags mark empirical claims about how people actually judge.
+
 ---
 
 ## The Core Insight
@@ -26,7 +29,7 @@ Daniel Kahneman's framework in *Thinking, Fast and Slow* identifies two modes of
 
 **System 2:** Slow, deliberate, effortful, analytical. Capable of probabilistic reasoning. Requires active engagement. Fatigues. Is frequently overridden by System 1.
 
-The problem: **System 1 craves certainty.** It resolves ambiguity by choosing the most coherent story from available evidence and presenting that story as fact. The mechanism is What You See Is All There Is (WYSIATI) — System 1 builds its model from what is visible and treats invisible evidence as nonexistent. The result is consistent overconfidence. The story feels complete because System 1 has no mechanism for representing what it does not know.
+The problem: **System 1 craves certainty.** It resolves ambiguity by choosing the most coherent story from available evidence and presenting that story as fact. The mechanism (`[E: moderate]` — dual-process theory is a useful model, not settled neuroscience) is What You See Is All There Is (WYSIATI) — System 1 builds its model from what is visible and treats invisible evidence as nonexistent. The result is consistent overconfidence. The story feels complete because System 1 has no mechanism for representing what it does not know.
 
 System 2 can correct this, but it does not do so automatically. It does so only when deliberately engaged. The person who never asks "wait, what's my actual confidence level here?" is running on System 1 certainty for every decision. The person who habitually interrupts their confident conclusions to ask the probability question is running System 2 as a check on System 1's enthusiasm.
 
@@ -42,7 +45,7 @@ The reference class is the category of situations relevantly similar to this one
 
 **The error without base rates:** you are asked to estimate the probability that a new restaurant will succeed. You know the chef is talented, the location is good, the concept is fresh. This inside-view information feels compelling. Your estimate: 70%.
 
-**The correction with base rates:** approximately 60% of restaurants fail in the first year. Approximately 80% fail within five years. Your talented chef in a good location is not typical of the average restaurant — but the base rate anchors you to reality before the inside view inflates your estimate. A more calibrated estimate: 40–50%, with uncertainty.
+**The correction with base rates:** `[E: moderate]` roughly 1 in 4 restaurants close in the first year, and about 60% within three years (Parsa et al., 2005). The popular "60% fail in year one" figure is itself a base-rate myth — check your base rates too. Your talented chef in a good location is not typical of the average restaurant — but the base rate anchors you to reality before the inside view inflates your estimate. A more calibrated estimate for surviving three years: 45–55%, with uncertainty.
 
 The inside-view information matters. But it is a *modifier* on the base rate, not a replacement for it. People systematically ignore base rates in favor of inside-view information, which produces consistent overoptimism about new ventures, relationships, interventions, and plans.
 
@@ -107,9 +110,9 @@ This simplified math suggests Option B has higher expected value. But — the di
 
 The goal is not to be confident. The goal is to be **calibrated**: confident when you are right, uncertain when the evidence is uncertain, and able to tell the difference.
 
-**The test of calibration:** when you say you are 90% sure of something, you should be right approximately 90% of the time. When you say 70%, you should be right 70% of the time. Most people are overconfident — their 90% claims are right less than 90% of the time.
+**The test of calibration:** when you say you are 90% sure of something, you should be right approximately 90% of the time. When you say 70%, you should be right 70% of the time. `[E: strong]` Most people are overconfident — their 90% claims are right less than 90% of the time.
 
-**Superforecasting (Philip Tetlock):** Tetlock's research on political and economic forecasting found that a small group of "superforecasters" dramatically outperformed experts, pundits, and intelligence analysts. The habits of superforecasters:
+**Superforecasting (Philip Tetlock):** `[E: strong]` Tetlock's research on political and economic forecasting (a multi-year IARPA tournament) found that a small group of "superforecasters" dramatically outperformed experts, pundits, and — reportedly — intelligence analysts with access to classified data. The habits of superforecasters:
 
 1. **They treat uncertainty as a spectrum, not a binary.** Not "will happen" or "won't happen" — 73%, 41%, 88%. The precision forces real thinking.
 
@@ -139,7 +142,7 @@ The confidence interval is almost always more accurate because it reflects the t
 
 The cost: consistent underestimation of variance. Projects take longer than estimated. Costs exceed projections. Timelines slip. The person who said "three weeks" looks like they failed when in fact the true probability distribution included a meaningful chance of five weeks from the start.
 
-**The planning fallacy (Kahneman):** tasks almost always take longer, cost more, and produce more complications than the inside-view estimate predicts. The correction is always the reference class — not "how long will this specifically take" but "how long did similar projects take?" Add that information to produce the confidence interval.
+**The planning fallacy (Kahneman):** `[E: strong]` tasks almost always take longer, cost more, and produce more complications than the inside-view estimate predicts. The correction is always the reference class — not "how long will this specifically take" but "how long did similar projects take?" Add that information to produce the confidence interval.
 
 **The practice:** replace point estimates with ranges in every domain where uncertainty is real. "I think the raise negotiation will take one or two conversations and I will get somewhere between 5% and 15%" is more honest than "I'll get a 10% raise." The range is actionable. It also forces you to think about the downside case, which the optimistic point estimate typically ignores.
 

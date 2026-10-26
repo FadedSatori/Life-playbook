@@ -4,21 +4,20 @@ Humans are not solitary animals who happen to live near each other. We are deepl
 
 This file is about building what was dismantled deliberately.
 
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim.
+
 ---
 
 ## Why This Is Not Optional
 
-Robin Dunbar's research on social group sizes across primate species found a direct correlation between neocortical ratio and typical group size. For humans, the number is approximately 150 — the cognitive limit on the number of people with whom a person can maintain stable social relationships. This is not a preference. It is a neurological constraint.
+`[E: contested]` Robin Dunbar's research on social group sizes across primate species found a correlation between neocortical ratio and typical group size; re-analyses find the human estimate highly uncertain (see [relationships/principles.md](relationships/principles.md#network-architecture-dunbars-layers)). For humans, the number is approximately 150 — the cognitive limit on the number of people with whom a person can maintain stable social relationships. Treat it as a useful order of magnitude, not a hard neurological constant.
 
-The Dunbar layers:
-- **5 — The intimates:** The inner circle. The people you call in a crisis. The people whose deaths would devastate you. Maintained by frequent, high-investment contact.
-- **15 — The trusted:** The people you genuinely trust and turn to for support. Can call on for significant favors. Require regular meaningful contact.
-- **50 — The alliance:** The extended inner network — people you're genuinely glad to see, can pick up with after months away, would help if they needed it.
-- **150 — The tribe:** Everyone you know well enough to trust, collaborate with, and call on in lower-stakes ways. This is the functional limit for cohesive community.
+The layers — 5, 15, 50, 150 — and what each one requires are defined in [Network Architecture: Dunbar's Layers](relationships/principles.md#network-architecture-dunbars-layers). That is the canonical version; this file covers what the layers mean for *building community*.
 
 Above 150, an organization requires formal hierarchy, explicit rules, and enforcement mechanisms to maintain cohesion. Below 150, reputation, social reciprocity, and shared identity can do it. Most meaningful communities operate in the 50–150 range.
 
-**The epidemic:** Research on social connection consistently finds that the size and quality of social networks has declined dramatically in the post-industrial West. The percentage of Americans reporting having no close friends has tripled since 1990. The absence of tribe produces: elevated cortisol, impaired immune function, shortened lifespan, and a specific kind of meaninglessness that no amount of career success or entertainment consumption addresses.
+**The epidemic:** Research on social connection consistently finds that the size and quality of social networks has declined dramatically in the post-industrial West. `[E: moderate]` The percentage of Americans reporting no close friends rose from 3% in 1990 to 12% in 2021 (American Perspectives Survey) — roughly quadrupled. The absence of tribe produces: elevated cortisol, impaired immune function, shortened lifespan, and a specific kind of meaninglessness that no amount of career success or entertainment consumption addresses.
 
 ---
 
@@ -72,9 +71,9 @@ The hierarchy in terms of depth and durability: practice > identity > purpose > 
 
 How does genuine belonging form? Not through proximity alone — proximity without structure produces isolation in dense cities. Not through shared interest alone — millions of people share interests without belonging to each other. Belonging forms through specific conditions.
 
-**Shared vulnerability and stakes.** Groups that face something real together — difficulty, risk, uncertainty, genuine challenge — form bonds that groups who share only enjoyment do not. The military unit, the intensive program cohort, the startup founding team, the religious community under external pressure. Shared hardship is the most reliable accelerant of belonging.
+**Shared vulnerability and stakes.** Groups that face something real together — difficulty, risk, uncertainty, genuine challenge — form bonds that groups who share only enjoyment do not. The military unit, the intensive program cohort, the startup founding team, the religious community under external pressure. Shared hardship is the most reliable accelerant of belonging `[E: moderate]` (shared pain increased group bonding in lab studies — Bastian et al., 2014; identity fusion research, Whitehouse).
 
-**Repeated, unstructured time.** Daniel Kahneman's research on relationship formation: it requires approximately 50 hours of time to move from acquaintance to casual friend; 200 hours to close friend. This time cannot be manufactured through scheduled, agenda-driven interactions alone. Unstructured time — time without a specific purpose, where conversations go where they go — is what produces genuine knowing. Most modern social infrastructure doesn't provide it.
+**Repeated, unstructured time.** `[E: moderate]` Jeffrey Hall's research on friendship formation (2019): it takes roughly 50 hours together to move from acquaintance to casual friend, ~90 to friend, and 200+ to close friend. This time cannot be manufactured through scheduled, agenda-driven interactions alone. Unstructured time — time without a specific purpose, where conversations go where they go — is what produces genuine knowing. Most modern social infrastructure doesn't provide it.
 
 **Genuine mutual investment.** You belong to a community when you have given something to it — time, effort, care, resources — that you didn't have to give. The investment creates the relationship. The person who only receives from a community has an audience relationship with it. The person who has served the community has a belonging relationship with it.
 
@@ -116,15 +115,7 @@ The curator must also know when to pass the curation role to someone else. Commu
 
 ## Dunbar Maintenance Protocols
 
-Different layers of the Dunbar hierarchy require different investment levels to maintain.
-
-**Maintaining the inner 5:** Frequent deep contact. Real conversations (not updates) multiple times per month. Explicit attention to the relationship itself — not just the transaction. The people at this level deserve your most honest, present engagement.
-
-**Maintaining the trusted 15:** Substantive contact at least monthly. Track significant events in their lives and reach out. The goal is not coordination but genuine interest. These relationships can withstand gaps of a few months if the contact quality is high when it occurs.
-
-**Maintaining the alliance 50:** Real contact 2–4 times per year. A genuine note when something makes you think of them. Showing up when they need something. The 50 layer is the most underinvested and most valuable for long-term life quality — these are the people who open doors, make introductions, and show up when your inner circle can't.
-
-**Maintaining the tribe 150:** Irregular but genuine contact. A yearly check-in. Remembering who they are. Being someone they can call on. This layer requires almost no investment per person but enormous total investment across 150 people — which is why most people don't maintain it and why this layer of most people's networks degrades.
+Contact cadence per layer lives in [relationships/principles.md](relationships/principles.md#network-architecture-dunbars-layers). The community-specific point: the 50 and 150 layers are where community actually lives, and they are the layers that decay first because no single relationship in them ever feels urgent.
 
 **The proactive outreach protocol:** Once a week, send one genuine message to someone in the 50 or 150 layer — something that would matter to them specifically, with no ask attached. Done consistently, this maintains relationships at a level that would otherwise require manufactured crisis to access.
 
@@ -192,3 +183,7 @@ A person without sufficient belonging is operating with a handicap that affects 
 - The host/curator function connects to [leadership.md](leadership.md) — community leadership is leadership applied in non-hierarchical contexts
 - The belonging requirement connects to [solitude.md](solitude.md) — the person with genuine belonging can be fully alone; the person without it cannot
 - Mission-driven community connects to [legacy-at-scale.md](legacy-at-scale.md) — the community is often the transmission mechanism for the legacy
+
+---
+
+**Related:** [Social Decoding](aspergers/social-decoding.md#finding-your-people) — finding your people with the Asperger's profile

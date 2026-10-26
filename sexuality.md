@@ -4,6 +4,9 @@ Sexuality is a domain of mastery like any other — with the same development cu
 
 This file is not about technique. It's about understanding the domain well enough to navigate it with intelligence and authenticity.
 
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim.
+
 ---
 
 ## Sexuality as Life Force
@@ -143,7 +146,7 @@ Porges identified three autonomic states:
 **Building safety in sexual contexts:**
 - Slow, unhurried pacing that gives the nervous system time to settle rather than the performance urgency that keeps it activated
 - Explicit communication that reduces the monitoring load ("I'm going to tell you if something doesn't feel right; you don't have to track that")
-- Physical warmth and skin-to-skin contact before any sexual activity — this activates oxytocin systems and begins the shift toward ventral vagal
+- Physical warmth and skin-to-skin contact before any sexual activity — touch lowers stress and is associated with oxytocin release `[E: moderate]`, and begins the shift toward ventral vagal (the "ventral vagal" language in this section comes from polyvagal theory, which is `[E: contested]` as physiology; it works as a description of feeling safe)
 - Eye contact — sustained, non-performance eye contact is one of the most reliable activators of ventral vagal state in a social context
 
 ---
@@ -152,7 +155,7 @@ Porges identified three autonomic states:
 
 The energy that drives sexual desire — call it libido, eros, *jing*, creative life force — is the same energy that drives artistic creation, philosophical inquiry, and the relentless pursuit of mastery.
 
-This is not metaphor. The research on sublimation (Freud's original observation, later refined) suggests that sexual energy can be consciously redirected — not suppressed, but channeled — into creative and intellectual work. Conversely, creative and intellectual engagement activates the same vitality systems as sexual engagement.
+This is not metaphor. `[E: weak]` Sublimation is Freud's concept and has little empirical support; treat it as a useful frame, not research. The idea is that sexual energy can be consciously redirected — not suppressed, but channeled — into creative and intellectual work. Conversely, creative and intellectual engagement activates the same vitality systems as sexual engagement.
 
 The practical consequence: the person who has fully separated their sexuality from their creative and intellectual life has lost access to both. The sexual energy that is fully suppressed does not become productive — it becomes pathological or depressive. The creative energy that is fully intellectualized loses its erotic charge.
 

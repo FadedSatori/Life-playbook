@@ -4,6 +4,9 @@ Creativity is not a personality trait. It is not a gift distributed arbitrarily 
 
 The person who treats creativity as something they either have or don't will be limited by whatever level they currently have. The person who treats it as a trainable system will compound.
 
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim.
+
 ---
 
 ## What Creativity Actually Is
@@ -14,7 +17,7 @@ The printing press + the wine press = moveable type. Darwin's natural selection 
 
 **The adjacent possible:** Stuart Kauffman's concept, applied by Johnson to creativity: at any moment, only certain combinations are possible given what currently exists. Each new combination opens new adjacent possibilities that were not accessible before. Creativity operates at the frontier of the adjacent possible — which means the more you know (more elements available for combination) and the more domains you inhabit (wider frontier), the more creative output you can generate.
 
-**The cognitive engine:** The brain's default mode network (DMN) — the system that activates during mind-wandering, daydreaming, and unfocused rest — is the primary generator of creative association. When you're not concentrating on a specific task, the DMN connects distant parts of your experience, builds unexpected bridges between concepts, and generates the "spontaneous" insights that feel like they come from nowhere. The DMN is most active when the task-positive network (focused attention) is least active.
+**The cognitive engine:** `[E: moderate]` The brain's default mode network (DMN) — the system that activates during mind-wandering, daydreaming, and unfocused rest — is the primary generator of creative association. When you're not concentrating on a specific task, the DMN connects distant parts of your experience, builds unexpected bridges between concepts, and generates the "spontaneous" insights that feel like they come from nowhere. The DMN is most active when the task-positive network (focused attention) is least active.
 
 **The creativity paradox:** Deep focus suppresses the DMN. The most focused people are not reliably the most creative, because the conditions required for creative connection (relaxed, wandering, not-solving-a-problem) are incompatible with intense concentration. This is why insights arrive in the shower, on walks, and at the edge of sleep — not at the desk.
 
@@ -32,11 +35,11 @@ Three brain networks are central to creative cognition:
 
 **Salience Network (SN):** Detects and routes attention toward signals that matter, both internal and external. The switchboard between DMN and EAN. In highly creative people, the SN is particularly effective — it notices when a DMN-generated connection is worth bringing into conscious focus and activating the EAN to develop it.
 
-The research finding: highly creative individuals show higher connectivity between all three networks, not just between two. Most people's DMN and EAN are anti-correlated (when one is up, the other is down). In highly creative people, both can be simultaneously active — allowing generative association and critical evaluation to operate in parallel. This is a capacity that develops with practice.
+`[E: moderate]` The research finding (Beaty et al., 2018, *PNAS*): highly creative individuals show higher connectivity between all three networks, not just between two. Most people's DMN and EAN are anti-correlated (when one is up, the other is down). In highly creative people, both can be simultaneously active — allowing generative association and critical evaluation to operate in parallel. This is a capacity that develops with practice.
 
-**Dopamine and creativity:** Dopamine is the creativity neurotransmitter. It's released in anticipation of reward, promotes exploratory behavior, and enhances pattern recognition across distant concepts. Flow states (see [flow-states.md](flow-states.md)) are associated with dopamine surges. Exercise, novel experiences, and positive affect all raise dopamine levels and correlate with higher creative output. Threat, fear, and negative mood suppress it — which is why the "creative suffering" mythology is largely wrong. Struggle can produce depth; chronic misery suppresses the neurochemical conditions for creative work.
+**Dopamine and creativity:** `[E: weak]` Calling dopamine "the creativity neurotransmitter" oversimplifies a messy literature. It's released in anticipation of reward, promotes exploratory behavior, and enhances pattern recognition across distant concepts. Flow states (see [flow-states.md](flow-states.md)) are associated with dopamine surges. `[E: moderate]` Positive affect reliably correlates with higher creative output (Baas et al., 2008 meta-analysis). Threat, fear, and negative mood suppress it — which is why the "creative suffering" mythology is largely wrong. Struggle can produce depth; chronic misery suppresses the neurochemical conditions for creative work.
 
-**Sleep and creativity:** Walker's research on REM sleep and creative problem-solving: REM sleep specifically strengthens weak associations between memories — exactly the long-distance connections that underlie creative insight. Problems that could not be solved before sleep are frequently solvable after it. The classic recommendation to "sleep on it" is neurologically sound.
+**Sleep and creativity:** `[E: moderate]` REM sleep improved performance on remote-association problems in a nap study (Cai et al., 2009), and sleep tripled the rate of insight into a hidden rule (Wagner et al., 2004). The proposed mechanism: REM sleep strengthens weak associations between memories — exactly the long-distance connections that underlie creative insight. Problems that could not be solved before sleep are frequently solvable after it. The classic recommendation to "sleep on it" is neurologically sound.
 
 ---
 
@@ -50,14 +53,14 @@ Gathering raw material. Reading widely, observing, collecting, connecting. This 
 The quality of exploration determines the ceiling of illumination. You cannot generate original connections you have no raw material for. Leonardo's notebooks — thousands of pages of observations, studies, questions, mechanisms — were the preparation for everything he made. The notebook is not the product; it is the condition of production.
 
 **2. Incubation**
-Not thinking about the problem consciously while the DMN processes it beneath awareness. This is the mode most people skip, particularly when under time pressure. Incubation is not procrastination. It is the necessary step between gathering raw material and generating original connections. The subconscious continues processing the problem; the prefrontal cortex (which enforces conventional solutions) is offline.
+Not thinking about the problem consciously while the DMN processes it beneath awareness. This is the mode most people skip, particularly when under time pressure. Incubation is not procrastination. `[E: moderate]` A meta-analysis confirms a real incubation effect, strongest for divergent problems (Sio & Ormerod, 2009). Why it works — unconscious processing, or simply dropping a wrong approach — is `[E: contested]`.
 
 What works for incubation: walking (especially in nature), mundane physical tasks (washing dishes, folding laundry), exercise, any activity that occupies System 1 processing without engaging System 2. Sleep is the deepest form of incubation.
 
 What kills incubation: checking your phone (pulls attention back to the surface), listening to podcasts (occupies the processing capacity that should be handling the problem), returning to the desk while stuck.
 
 **3. Illumination**
-The insight moment. The sudden arrival of a connection or solution — the "aha" experience — that feels obvious in retrospect. The research on insight moments (Jung-Beeman, Kounios) shows them to be preceded by a burst of alpha waves (relaxed attention) followed by gamma waves (neural binding). The insight occurs when distant neural elements suddenly synchronize.
+The insight moment. The sudden arrival of a connection or solution — the "aha" experience — that feels obvious in retrospect. `[E: moderate]` The research on insight moments (Jung-Beeman, Kounios) shows them to be preceded by a burst of alpha waves (relaxed attention) followed by gamma waves (neural binding). The insight occurs when distant neural elements suddenly synchronize.
 
 These moments cannot be forced. They can only be created conditions for. They occur after incubation, often at the edges of the day (on waking, on a walk, in the shower, just before sleep). The critical practice: capture immediately. The illumination that is not captured within minutes is typically gone. Keep a notebook by the bed, a capture system always accessible.
 
@@ -82,7 +85,7 @@ Leonardo's notebooks: 7,000+ pages of observations, anatomical studies, engineer
 
 **The serendipity file:** A dedicated collection of unexpected juxtapositions — two ideas from different domains that produce a spark when placed next to each other. Maintained actively, revisited regularly. Some of these sparks will never amount to anything. Some will be the best thing you ever make.
 
-**The incubation walk:** When stuck — when active effort is producing nothing — leave the problem and walk for 20 minutes with no inputs. The Stanford study on creativity (Oppezzo and Schwartz) found an 81% increase in creative output during and immediately after walking compared to sitting. The mechanism: walking activates a mild form of the diffuse mind-wandering state while providing rhythmic physical input that occupies enough of the brain to quiet the problem-solving executive network.
+**The incubation walk:** When stuck — when active effort is producing nothing — leave the problem and walk for 20 minutes with no inputs. `[E: moderate]` The Stanford study (Oppezzo & Schwartz, 2014) found walking raised divergent-thinking scores by about 60% over sitting, and 81% of participants improved. The mechanism: walking activates a mild form of the diffuse mind-wandering state while providing rhythmic physical input that occupies enough of the brain to quiet the problem-solving executive network.
 
 ---
 
@@ -104,7 +107,7 @@ Most creativity advice conflates these. The brainstorm that stops to evaluate ki
 
 The paradox: more constraints often produce more creativity, not less. The blank page is the enemy. Unlimited options produce decision paralysis and mean work. Constraints force creative problem-solving within a bounded space.
 
-**The research:** Catrinel Haught-Tromp's "green eggs and ham" studies — Dr. Seuss wrote the book on a bet that he couldn't write a compelling story using only 50 distinct words. Patricia Stokes's research on Monet's haystack series: the extreme constraint of painting the same subject over and over forced the development of techniques that would not have emerged in unconstrained work.
+**The research:** `[E: moderate]` Catrinel Haught-Tromp's "green eggs and ham" studies — Dr. Seuss wrote the book on a bet that he couldn't write a compelling story using only 50 distinct words. Patricia Stokes's research on Monet's haystack series: the extreme constraint of painting the same subject over and over forced the development of techniques that would not have emerged in unconstrained work.
 
 **Constraint design:** The most productive constraints are:
 - Tight enough to force creative problem-solving (too loose and the constraint is irrelevant)
@@ -149,7 +152,7 @@ The photographer who took 10,000 photographs over five years becomes a photograp
 
 ## Study-Imitate-Deviate
 
-The classic apprenticeship model, validated by research on expert development:
+The classic apprenticeship model, consistent with research on expert development `[E: weak]` (no direct test of this sequence):
 
 **Study:** Analyze the masters of your domain. Not just consuming their work but deconstructing it. What specifically makes this excellent? What technique produces this effect? What choices did they make and why? Study to the point where you can articulate the craft — not describe how it affects you but explain what the practitioner did.
 
@@ -164,10 +167,10 @@ Every artist who has a distinct voice went through this process, whether they kn
 ## The Creative Environment
 
 **What the research says:**
-- **Mild background noise (~70dB):** Coffee shop levels of background ambient sound modestly improve creative performance compared to silence (better for analytical tasks) and loud noise (impairs both). The mechanism: ambient noise induces mild distraction that loosens focused processing, enabling more diffuse associations.
+- **Mild background noise (~70dB):** `[E: weak]` (Mehta et al., 2012; small lab studies) Coffee shop levels of background ambient sound modestly improve creative performance compared to silence (better for analytical tasks) and loud noise (impairs both). The mechanism: ambient noise induces mild distraction that loosens focused processing, enabling more diffuse associations.
 - **Extended uninterrupted blocks:** Creative work requires long warm-up periods before the best material surfaces. The first 20–30 minutes are typically preparation. Interruptions reset the warm-up entirely. Minimum 90-minute blocks; 2–4 hours is better for generating original material.
-- **Walking before and after:** Pre-session walk (15–20 minutes) primes the creative state by activating the DMN. Post-session walk captures insights from the immediate aftermath of deep creative work, which often surfaces unexpected connections.
-- **Mild positive affect:** Creativity is higher when people are in a mildly positive state, not an intensely positive or negative one. The threat-and-anxiety state associated with "creative pressure" actually suppresses the neurochemical conditions for creative work.
+- **Walking before and after:** Pre-session walk (15–20 minutes) primes the creative state `[E: moderate]` (Oppezzo & Schwartz, 2014; the DMN mechanism is `[E: weak]`). Post-session walk captures insights from the immediate aftermath of deep creative work, which often surfaces unexpected connections.
+- **Mild positive affect:** `[E: moderate]` Creativity is higher when people are in a mildly positive state, not an intensely positive or negative one. The threat-and-anxiety state associated with "creative pressure" actually suppresses the neurochemical conditions for creative work.
 
 **What doesn't help:**
 - **Multitasking:** always and only impairs creative output
@@ -203,3 +206,7 @@ The creative act is a public assertion that you have something worth attending t
 *"The enemy of art is the absence of limitations."* — Orson Welles
 
 *"Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep."* — Scott Adams
+
+---
+
+**Related:** [Humor and Play](humor-and-play.md) — play as the creative state · [Flow States](flow-states.md) · [Failure](failure.md) — the taste-reality gap is a failure loop

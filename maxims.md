@@ -2,6 +2,8 @@
 
 Compressed truth. One line each. Memorize the ones that hit.
 
+For the mechanism behind a rule, see [Heuristics](heuristics.md). For the values these compress, see [Core Principles](principles.md), which wins any conflict.
+
 ---
 
 ## On Character & Identity
@@ -237,3 +239,7 @@ Compressed truth. One line each. Memorize the ones that hit.
 - Every time you act in spite of fear, you recalibrate what you're capable of.
 - Courage is a muscle. It atrophies without use.
 - The person who has done more things afraid has a bigger life than the person who waited until they weren't.
+
+---
+
+**Related:** [Quotes](quotes.md) — the same compression, in other people's words

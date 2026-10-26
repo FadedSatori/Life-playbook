@@ -2,6 +2,9 @@
 
 Specific moves for reading and working with people. High-leverage, low-visibility. People are the environment you operate in most — learn to read it.
 
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim.
+
 ---
 
 ## Reading People
@@ -26,7 +29,7 @@ The seven universals: happiness, sadness, surprise, fear, disgust, anger, contem
 
 The operationally critical ones:
 
-**Contempt** — the single reliable asymmetric expression. One side of the mouth pulls back and up, creating a half-smirk. If you see contempt during a negotiation or relationship conversation, the damage is serious. Contempt signals not just disagreement but fundamental disrespect. It predicts relationship breakdown more reliably than anger (John Gottman's research confirms this). When you see it, you're not dealing with a fixable disagreement — you're dealing with a hierarchy problem.
+**Contempt** — `[E: moderate]` the single reliable asymmetric expression (Ekman). One side of the mouth pulls back and up, creating a half-smirk. If you see contempt during a negotiation or relationship conversation, the damage is serious. Contempt signals not just disagreement but fundamental disrespect. It predicts relationship breakdown more reliably than anger (John Gottman's research confirms this). When you see it, you're not dealing with a fixable disagreement — you're dealing with a hierarchy problem.
 
 **Fear** — brows raised and pulled together, upper eyelids raised, lower eyelids tense. Lips stretch horizontally. Someone who shows fear microexpressions when you're discussing a topic they claim to be comfortable with is not comfortable. Follow the thread.
 
@@ -55,7 +58,7 @@ Never accuse based on one signal. Never ignore three consistent signals from the
 
 **The too-perfect answer:** Rehearsed lies are often cleaner than the truth. When the story is suspiciously smooth, coherent, and complete, probe the edges. Ask about peripheral details — what they were wearing, what time it was, what happened before. Rehearsal only covers the core narrative.
 
-**Eye behavior myths:** The popular NLP claim that eye direction predicts lying has been largely debunked. Don't use gaze direction as a deception indicator. Use gaze *changes from baseline* and *avoidance on specific topics* only.
+**Eye behavior myths:** `[E: strong]` The popular NLP claim that eye direction predicts lying has been debunked (Wiseman et al., 2012). More broadly, people detect lies only slightly better than chance (~54%; Bond & DePaulo, 2006) — treat every "tell" as a hypothesis, not a verdict. Don't use gaze direction as a deception indicator. Use gaze *changes from baseline* and *avoidance on specific topics* only.
 
 **What liars often get right:** Confident liars maintain strong eye contact precisely because they know the folklore about eye avoidance. The guilt-consistent behavior is more subtle — slight voice pitch rise, micro-expressions, pacifying gestures.
 
@@ -161,7 +164,7 @@ Robert Cialdini (*Influence*) identified six principles that trigger compliance 
 
 **2. Commitment and Consistency:** Once people commit to a position — especially publicly — they feel internal pressure to behave consistently with it. The foot-in-the-door technique: small initial commitment → larger subsequent request. Written commitments are more powerful than verbal ones. Public commitments are more powerful than private ones. Before asking for a large commitment, engineer a small, aligned one first.
 
-**3. Social Proof:** Under uncertainty, people look to what others are doing. "Most people in your position do X" is persuasively potent — not because it's logical but because belonging and conformity are deep biological drives. This explains why testimonials, case studies, user counts, and expert consensus all work. Use it ethically. Recognize it when it's being used on you.
+**3. Social Proof:** `[E: strong]` Under uncertainty, people look to what others are doing. "Most people in your position do X" is persuasively potent — not because it's logical but because belonging and conformity are deep biological drives. This explains why testimonials, case studies, user counts, and expert consensus all work. Use it ethically. Recognize it when it's being used on you.
 
 **4. Authority:** People defer to credible expertise. Titles, credentials, experience markers, and confident delivery all activate this. You don't always need to establish authority yourself — having someone else establish it for you is more effective (the third-party introduction). When presenting recommendations, lead with why you're credible on this specific topic.
 
@@ -177,7 +180,7 @@ When logic backfires:
 - When the other person has publicly committed to the opposing view (consistency principle)
 - When the topic is identity-adjacent (political, moral, religious, tribal)
 - When there's a power differential and you're the subordinate making the logical case (it reads as challenging)
-- When the person is in an emotionally activated state (the prefrontal cortex goes offline under stress)
+- When the person is in an emotionally activated state (stress narrows deliberate reasoning `[E: moderate]`; "the prefrontal cortex goes offline" is a simplification)
 
 **The sequence:** emotion → relationship → logic. In that order. Get the emotion acknowledged first. Build or affirm the relationship. Then make the logical case. Reversing the order produces resistance.
 
@@ -189,7 +192,7 @@ Stories bypass analytical defenses. The brain processes narrative differently th
 
 **The single character identification:** the most persuasive stories have one character the audience identifies with (not a team, not a concept — a person). That person has a problem, takes action, faces setback, and reaches resolution. This is the Hero's Journey in 15 seconds.
 
-**Case studies beat statistics.** One identifiable victim moves more resources than aggregate data about thousands (Kahneman's "singularity effect"). This is a bias you should recognize and work against in your own reasoning, but use when persuading.
+**Case studies beat statistics.** `[E: moderate]` One identifiable victim moves more resources than aggregate data about thousands (the "identifiable victim effect" — Small, Loewenstein & Slovic, 2007; the "singularity effect" is Kogut & Ritov's term). This is a bias you should recognize and work against in your own reasoning, but use when persuading.
 
 ### Loaded Framing and the Overton Window
 
@@ -302,3 +305,7 @@ FBI hostage negotiators use RAVEN as a rapport framework:
 **Professional email discipline:** The quality of your written communication is a constant status signal. Grammar, precision, appropriate length, and logical structure are read as indicators of how you think. A sloppy email to a senior person is a status deduction. Reread before sending anything consequential.
 
 **Never write what you wouldn't say.** The permanence of written communication means anything in writing can be screenshotted, forwarded, quoted, and used outside context. If you wouldn't say it in a room, don't write it. This is not timidity — it's strategic self-preservation.
+
+---
+
+**Related:** [Public Speaking](public-speaking.md) · [Community and Tribe](../community.md) — from reading rooms to building one · [Social Decoding](../aspergers/social-decoding.md) — these rules made explicit for the Asperger's profile, with double empathy

@@ -4,6 +4,9 @@ Money buys time and options. That is what it is for. Not status, not security th
 
 Build toward that, systematically.
 
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim. Most of this file is arithmetic and rules — untagged; tags mark the empirical claims about markets and behavior.
+
 ---
 
 ## Rules
@@ -60,7 +63,7 @@ Once tax-advantaged accounts are maxed, invest additional savings in a taxable b
 ## Asset Classes: The Evidence
 
 **Index funds over stock-picking:**
-- Approximately 90% of active fund managers underperform their benchmark index over 20-year periods, after fees
+- `[E: strong]` Approximately 90% of active US large-cap fund managers underperform their benchmark index over 20-year periods, after fees (S&P SPIVA scorecards)
 - The few who outperform are difficult to identify in advance and change over time
 - Index funds provide diversification, low cost (expense ratios of 0.03–0.10% vs. 0.5–1.5%+ for active funds), and tax efficiency
 
@@ -94,7 +97,7 @@ Selling a position at a loss to realize a capital loss, which offsets capital ga
 - REITs and other high-distribution assets belong in tax-advantaged accounts
 
 **Business structure:**
-If self-employed, a single-member LLC provides liability protection with minimal additional tax complexity. An S-Corp election (typically at ~$80k+ net self-employment income) can reduce self-employment tax by allowing reasonable salary + distribution structure. A solo 401(k) allows contributions up to $66,000/year (2024) as both employee and employer — far exceeding IRA limits. Consult a tax professional before implementing; the leverage is real.
+If self-employed, a single-member LLC provides liability protection with minimal additional tax complexity. An S-Corp election (typically at ~$80k+ net self-employment income) can reduce self-employment tax by allowing reasonable salary + distribution structure. A solo 401(k) allows combined employee + employer contributions of roughly $70,000/year (2025 limit; check the current IRS figure) — far exceeding IRA limits. Consult a tax professional before implementing; the leverage is real.
 
 ---
 
@@ -134,9 +137,9 @@ The wealth sequence assumes income. Growing income is as important as managing i
 
 **Lifestyle inflation:** The automatic expansion of spending to match income increases. This is the mechanism by which most income growth fails to produce proportional wealth growth. The default is to treat income increases as permission for lifestyle increases. The deliberate choice is to treat them as acceleration of the wealth-building sequence.
 
-**The "enough" number:** Most people have never explicitly calculated how much wealth would provide genuine financial freedom — the point at which investment income covers essential living expenses without earned income. This is the Financial Independence (FI) number: (annual essential expenses) × 25 = the portfolio needed to sustainably fund those expenses at a 4% withdrawal rate. Calculate this number. It is almost certainly smaller than you imagine. Having a defined target changes the relationship to saving — from abstract virtue to concrete project.
+**The "enough" number:** Most people have never explicitly calculated how much wealth would provide genuine financial freedom — the point at which investment income covers essential living expenses without earned income. This is the Financial Independence (FI) number: (annual essential expenses) × 25 = the portfolio needed to sustainably fund those expenses at a 4% withdrawal rate. `[E: moderate]` The 4% rule comes from US historical returns over 30-year retirements (Bengen, 1994; Trinity study); for early retirement over 40–50 years, 3.25–3.5% is the more conservative figure. Calculate this number. It is almost certainly smaller than you imagine. Having a defined target changes the relationship to saving — from abstract virtue to concrete project.
 
-**Loss aversion and investing:** Kahneman's research: losses feel approximately twice as painful as equivalent gains feel pleasurable. This cognitive bias causes investors to sell during downturns and buy during peaks — the exact opposite of sound investing. The antidote: automate contributions so emotions aren't in the loop during market volatility. Check your portfolio quarterly, not daily. The investor who checks daily is measurably more likely to make fear-based decisions than the investor who checks quarterly.
+**Loss aversion and investing:** `[E: strong]` Kahneman's research (confirmed by a 2024 meta-analysis, Brown et al.): losses feel approximately twice as painful as equivalent gains feel pleasurable. This cognitive bias causes investors to sell during downturns and buy during peaks — the exact opposite of sound investing. The antidote: automate contributions so emotions aren't in the loop during market volatility. Check your portfolio quarterly, not daily. The investor who checks daily is measurably more likely to make fear-based decisions than the investor who checks quarterly.
 
 **Money buys time and options. That's what it's for.**
 Financial freedom is not a dollar amount. It is the point at which your time is no longer primarily allocated by financial necessity — when you choose your work because it's meaningful, your location because it serves your life, your commitments because they reflect your values. Build toward that, not toward a number for its own sake.

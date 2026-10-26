@@ -2,9 +2,12 @@
 
 Relationships are the primary arena of a life well-lived. They are also the most commonly underdeveloped domain among people who focus on individual performance — who pour energy into fitness, career, and cognition while treating relationships as what happens in the leftover time.
 
-This is a category error. The quality of your relationships is one of the strongest predictors of long-term happiness, health, and longevity in the research. The Harvard Study of Adult Development (over 80 years of data): the quality of close relationships in midlife was more predictive of health and wellbeing in late life than cholesterol levels, BMI, or any other physical variable.
+This is a category error. The quality of your relationships is one of the strongest predictors of long-term happiness, health, and longevity in the research. `[E: moderate]` The Harvard Study of Adult Development (over 80 years of data; observational, originally all men): the quality of close relationships in midlife was more predictive of health and wellbeing in late life than cholesterol levels, BMI, or any other physical variable.
 
 Invest accordingly.
+
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim.
 
 ---
 
@@ -35,7 +38,7 @@ Growth requires the presence of someone who sees you clearly enough to tell you 
 
 ## Attachment Theory: The Architecture You Bring
 
-John Bowlby's research and Mary Ainsworth's subsequent work established that human beings form attachment patterns in early childhood that become the default relational operating system for adult life. Not destiny — but the baseline pattern until deliberately interrupted.
+John Bowlby's research and Mary Ainsworth's subsequent work established that human beings form attachment patterns in early childhood. `[E: moderate]` Those patterns carry into adult relationships only modestly — infant-to-adult attachment stability is moderate at best (Fraley, 2002 meta-analysis) — and adult experiences reshape them. Not destiny — but the baseline pattern until deliberately interrupted.
 
 **Secure attachment:** The caregiver was consistently responsive. The child learned: I can bring difficulty and be met. My needs are not dangerous. People can be relied on. In adulthood: comfortable with both intimacy and independence, able to communicate needs directly, able to regulate emotion in relationship, able to repair after conflict without catastrophizing.
 
@@ -80,7 +83,7 @@ The question for any relationship you're building or maintaining: are both funct
 
 ## Vulnerability vs. Oversharing
 
-Brené Brown's research is specific: vulnerability is not emotional flooding, and it is not the same as oversharing. The distinction matters because conflating them produces either armored people who never open themselves to connection, or people who use the language of vulnerability as cover for emotional dumping that burdens rather than connects.
+Brené Brown's research (`[E: weak]` qualitative interviews) is specific: vulnerability is not emotional flooding, and it is not the same as oversharing. The distinction matters because conflating them produces either armored people who never open themselves to connection, or people who use the language of vulnerability as cover for emotional dumping that burdens rather than connects.
 
 **Vulnerability, properly understood:**
 - Requires courage: the willingness to share something real at the risk of not being met
@@ -119,7 +122,7 @@ Trust is not declared. It is built in increments so small they are mostly invisi
 
 ## Difficult Conversations Inside Relationships
 
-John Gottman's research on couple communication applies beyond intimate partnership to any significant relationship. The ratio is 5:1 — five positive interactions for every negative one is the threshold for relationship health. Below this ratio, even small conflicts become existential because there is no positive surplus to absorb them.
+John Gottman's research on couple communication applies beyond intimate partnership to any significant relationship. `[E: moderate]` The ratio is 5:1 — five positive interactions for every negative one *during conflict discussions* separated stable couples from those who divorced (Gottman's lab; observational). Below this ratio, even small conflicts become existential because there is no positive surplus to absorb them.
 
 **What counts as positive:** Expressed appreciation, genuine curiosity, playfulness, warmth, remembered details, celebration of the other's experience. Small. Frequent. Accumulated.
 
@@ -136,7 +139,7 @@ John Gottman's research on couple communication applies beyond intimate partners
 
 ## What Friendships Require in Adulthood
 
-Jeffrey Hall's research and the broader friendship science from Kelly (2012) and others: friendships die in your thirties for two specific reasons.
+`[E: moderate]` Jeffrey Hall's research (roughly 50 hours together to move from acquaintance to casual friend, ~90 to friend, 200+ to close friend; Hall, 2019) and the sociology of adult friendship point to two reasons friendships die in your thirties.
 
 1. **No repeated unplanned interaction.** In school and early adulthood, you repeatedly ran into the same people without trying — the shared environment generated the proximity and frequency that friendship requires. Adult life eliminates this. Work friends stay work friends because you share an environment; they don't automatically become real friends. Without repeated unplanned contact, proximity alone doesn't produce depth.
 
@@ -177,7 +180,7 @@ Robin Dunbar's research on social cognitive capacity: the human brain can mainta
 
 **Social group — 50.** Active relationships. You know these people, they know you, there's warmth and genuine interest, but the depth isn't the same as the inner layers. Most work relationships and maintained friendships live here. Quarterly contact keeps the relationship active. Below quarterly, relationships start migrating toward the 150 layer. This layer is where most of your collaborative capacity lives.
 
-**Dunbar's number — 150.** The cognitive limit for social tracking — the number of people whose identity, relationships to others, and trustworthiness you can maintain active models of. Beyond 150, social organization requires formal institutional structure (rules, hierarchy, enforcement mechanisms) because the informal social tracking that maintains norms and trust breaks down. Military companies, hunter-gatherer bands, the functional size of village communities — 150 appears across human organization independent of culture.
+**Dunbar's number — 150.** `[E: contested]` The layered pattern (5/15/50/150) shows up repeatedly in social-network data; the specific 150 limit derived from primate brain size has a very wide uncertainty range when re-analyzed (Lindenfors et al., 2021). The cognitive limit for social tracking — the number of people whose identity, relationships to others, and trustworthiness you can maintain active models of. Beyond 150, social organization requires formal institutional structure (rules, hierarchy, enforcement mechanisms) because the informal social tracking that maintains norms and trust breaks down. Military companies, hunter-gatherer bands, the functional size of village communities — 150 appears across human organization independent of culture.
 
 **Layer transitions:** Relationships migrate between layers based on life circumstances, geographic proximity, and shared contexts. The close friend from graduate school naturally drifts toward the 50-layer after you both leave — not because the care disappeared but because the maintenance required to hold the inner layer isn't being provided. Acknowledge the transition. Don't demand that the relationship perform at the original layer without the conditions that supported it. Maintain it at its natural level with genuine warmth.
 
@@ -186,6 +189,8 @@ Robin Dunbar's research on social cognitive capacity: the human brain can mainta
 - Sympathy group (15): Monthly contact minimum; quarterly in-person; you know the major things happening in their lives
 - Social group (50): Quarterly contact; annual in-person when possible; warm and real but not intensive
 - 150 layer: Annual or opportunistic; keep the connection alive without requiring it to be something it isn't
+
+**The underinvested layer:** The 50 is the most neglected and most valuable for long-term life quality — these are the people who open doors, make introductions, and show up when your inner circle can't. For the weekly outreach protocol that maintains the 50 and 150 layers, and for how the layers become community, see [Community and Tribe](../community.md).
 
 ---
 
@@ -205,7 +210,7 @@ Relationships change category. Handling this gracefully requires naming what has
 
 ## Male Friendship
 
-The research is consistent and uncomfortable: men's friendships are shorter, more activity-based, and involve significantly less verbal disclosure than women's friendships. The modal male friendship is maintained through shared activity — the game, the bar, the project — and rarely descends into the territory that constitutes actual intimacy: genuine self-disclosure, acknowledgment of difficulty, expressed care.
+`[E: moderate]` The research is consistent and uncomfortable: men's friendships are shorter, more activity-based, and involve significantly less verbal disclosure than women's friendships. The modal male friendship is maintained through shared activity — the game, the bar, the project — and rarely descends into the territory that constitutes actual intimacy: genuine self-disclosure, acknowledgment of difficulty, expressed care.
 
 This is not a character flaw. It is a socialization pattern. Men are trained from early childhood that emotional disclosure is dangerous — that vulnerability signals weakness, that needing others is subordinate. The training is pervasive and mostly invisible. By adulthood, the pattern is so entrenched that most men have no model for what deep male friendship looks like.
 
@@ -217,7 +222,7 @@ This is not a character flaw. It is a socialization pattern. Men are trained fro
 - Be available for the difficulty, not just the fun. The man who only shows up for good times is a fair-weather companion. The one who shows up when things are genuinely hard is demonstrating something rare.
 - Follow up on things that matter. If your friend mentioned something difficult last time you spoke, return to it. This act alone — the simple act of remembering and returning — is so unusual in male friendship that it is almost invariably experienced as profound.
 
-**The specific cost of not having this:** Men with no genuine male friendships suffer specific deficits. They have no social permission to acknowledge difficulty. They have no male mirror. They are disproportionately dependent on their intimate partner for emotional support — which overburdens that relationship and deprives the man of the distinct function that same-sex peers provide. The Harvard Adult Development Study found that men who maintained warm friendships into old age had substantially better health outcomes and reported higher life satisfaction than men who did not. This is not a soft finding. It is survival data.
+**The specific cost of not having this:** Men with no genuine male friendships suffer specific deficits. They have no social permission to acknowledge difficulty. They have no male mirror. They are disproportionately dependent on their intimate partner for emotional support — which overburdens that relationship and deprives the man of the distinct function that same-sex peers provide. `[E: moderate]` The Harvard Adult Development Study found that men who maintained warm relationships into old age had better health outcomes and higher life satisfaction than men who did not; across studies, weak social ties carry a mortality risk comparable to well-known risk factors (Holt-Lunstad et al., 2010 meta-analysis). This is survival data.
 
 ---
 

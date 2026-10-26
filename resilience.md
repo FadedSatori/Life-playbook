@@ -2,6 +2,9 @@
 
 Resilience is not refusing to break. Everyone breaks under sufficient load. Resilience is what happens after breaking — the capacity to absorb disruption, reorganize around the new reality, and emerge with more capability than before. Toughness is about the break. Resilience is about everything that follows.
 
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim.
+
 ---
 
 ## The Difference That Matters
@@ -18,7 +21,7 @@ The resilience model builds both the capacity to absorb impact AND the protocols
 
 ## Post-Traumatic Growth
 
-**Richard Tedeschi and Lawrence Calhoun** began studying an anomaly in the trauma literature in the 1990s: some survivors of severe adversity did not merely return to baseline — they reported being in a significantly better position psychologically than before the event. Stronger. More alive. More clear. They called it **Post-Traumatic Growth (PTG)**.
+**Richard Tedeschi and Lawrence Calhoun** began studying an anomaly in the trauma literature in the 1990s: some survivors of severe adversity did not merely return to baseline — they reported being in a significantly better position psychologically than before the event. Stronger. More alive. More clear. They called it **Post-Traumatic Growth (PTG)**. `[E: contested]` Growth is real for some people, but self-reported PTG correlates weakly with measured change (Frazier et al., 2009) — people partly report growth as a way of coping.
 
 The same event that produces PTSD in some produces PTG in others. The event itself is not the determinant. The processing of the event — the meaning made of it, the support available, the narrative constructed around it — determines the outcome more than the event's objective severity.
 
@@ -44,9 +47,9 @@ Not everyone who experiences adversity reaches PTG. The difference is in process
 
 Adversity does not only build character. It builds neural tissue.
 
-**Stress-induced neuroplasticity:** Moderate to high stress, when followed by recovery, increases the production of **BDNF (Brain-Derived Neurotrophic Factor)** — the primary molecular trigger for neuroplastic growth. New neural connections are formed in the wake of stress-recovery cycles. The brain that has navigated difficulty is structurally different from the brain that hasn't.
+**Stress-induced neuroplasticity:** `[E: weak]` (mostly animal data) Moderate to high stress, when followed by recovery, increases the production of **BDNF (Brain-Derived Neurotrophic Factor)** — the primary molecular trigger for neuroplastic growth. New neural connections are formed in the wake of stress-recovery cycles. The brain that has navigated difficulty is structurally different from the brain that hasn't.
 
-The caveat: this mechanism depends on recovery. Stress without recovery is chronic stress — which produces cortisol dysregulation, hippocampal damage, and accelerated aging. The growth is not in the stress itself. It is in the **stress-recovery cycle.** Progressive overload for the nervous system, exactly as for muscle.
+The caveat: this mechanism depends on recovery. Stress without recovery is chronic stress — which produces cortisol dysregulation, hippocampal damage (`[E: strong]` in animals, `[E: moderate]` in humans), and accelerated aging. The growth is not in the stress itself. It is in the **stress-recovery cycle.** Progressive overload for the nervous system, exactly as for muscle.
 
 This is why deliberately seeking controlled difficulty — cold water, physical challenge, voluntary discomfort — builds not just tolerance but genuine biological capacity. You are training the stress response, calibrating the recovery mechanism, and expanding the range within which your system can operate without going into breakdown.
 
@@ -74,11 +77,11 @@ Going through rather than around is the only path. Not because suffering is nobl
 
 ## The Role of Narrative
 
-**James Pennebaker** (University of Texas) conducted a series of studies in the 1980s and 1990s that produced one of the most replicated findings in trauma research: writing about traumatic experiences for 15-20 minutes a day, four days in a row, produces measurable improvements in immune function, reduced medical visits, improved mood, and accelerated cognitive processing of the event.
+**James Pennebaker** (University of Texas) conducted a series of studies in the 1980s and 1990s that produced one of the most replicated findings in trauma research `[E: moderate]` (replicated, but meta-analyses find the effect small — Frattaroli, 2006): writing about traumatic experiences for 15-20 minutes a day, four days in a row, produces measurable improvements in immune function, reduced medical visits, improved mood, and accelerated cognitive processing of the event.
 
 The mechanism: narrative forces the construction of causal and temporal structure. The event moves from raw experience — fragmented, intrusive, unprocessed — to story: it had a beginning, middle, and end; it had causes; it has a relationship to other events; it can be understood, if not controlled. The story does not erase the pain. It contains it.
 
-**Viktor Frankl** (Man's Search for Meaning): "Everything can be taken from a man but one thing: the last of the human freedoms — to choose one's attitude in any given set of circumstances." This is not positive thinking. Frankl watched it demonstrated in Auschwitz. The prisoners who survived — who did not merely survive biologically but survived psychologically — were those who found or constructed meaning in their suffering. Not comfort. Not false hope. Meaning.
+**Viktor Frankl** (Man's Search for Meaning): "Everything can be taken from a man but one thing: the last of the human freedoms — to choose one's attitude in any given set of circumstances." This is not positive thinking. Frankl watched it demonstrated in Auschwitz — `[E: weak]` as evidence, it is one survivor's testimony, but it has been echoed by research linking meaning-making to better adjustment after trauma. The prisoners who survived — who did not merely survive biologically but survived psychologically — were those who found or constructed meaning in their suffering. Not comfort. Not false hope. Meaning.
 
 The story you tell about the adversity determines its outcome more than the adversity itself.
 
@@ -197,3 +200,7 @@ Progressive overload for the soul. The principle is identical to training: apply
 **Long-game resilience** — the kind that sustains decades of operation in high-difficulty conditions — is not built in one training cycle. It is the accumulated result of thousands of individual encounters with hardship, each of which added a small increment of capacity. The man at sixty who has been forged by a life of genuine challenge is structurally different from the man who avoided difficulty. The difference is visible in how each one meets what comes.
 
 Build the capacity now. Not because you know what's coming. Because you don't.
+
+---
+
+**Related:** [Failure](failure.md) — the debrief protocol · [Grief and Loss](grief-and-loss.md) · [Courage](courage.md) — progressive exposure · [Anger](anger.md) — anger as signal under pressure

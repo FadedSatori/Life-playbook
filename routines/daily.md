@@ -2,17 +2,19 @@
 
 The morning is not a gentle suggestion. It is an operational window. Protect it or surrender the day.
 
+> **Evidence key** (science claims only). `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. The protocols themselves are practice, not claims. Full sleep science lives in [sleep.md](../health/sleep.md); where the two disagree, sleep.md is canonical.
+
 ---
 
 ## The Science: Why the First Hour Matters
 
-**The cortisol awakening response (CAR).** Cortisol spikes 50–100% within 30–45 minutes of waking. This is not stress — it is the body's ignition sequence. It mobilizes energy, sharpens focus, and primes immune function. You do not want to blunt this spike with passive content consumption. Bad news and social media activate threat circuits, corrupt the signal, and spike cortisol beyond its natural range — creating anxiety without purpose.
+**The cortisol awakening response (CAR).** `[E: strong]` Cortisol rises 50–100% within 30–45 minutes of waking. This is not stress — it is the body's ignition sequence. It mobilizes energy, sharpens focus, and primes immune function. That morning media "corrupts" the CAR is `[E: weak]` — the stronger reason to skip the phone is attentional (below).
 
-**Adenosine clearance.** Adenosine is the sleep pressure molecule — it accumulates during waking hours and is cleared during sleep. The hour after waking is the tail end of clearance. Physical movement accelerates the process. The brain fog of early morning is largely residual adenosine. Move through it, do not wait it out.
+**Sleep inertia.** `[E: moderate]` The grogginess of the first 15–60 minutes after waking is sleep inertia — the brain transitioning out of sleep, worse when you wake from deep sleep. Light, movement, and (eventually) caffeine all shorten it. Move through it, do not wait it out.
 
-**Circadian anchoring.** The suprachiasmatic nucleus (SCN) — the brain's master clock — is set by light. Morning light exposure, especially sunlight in the blue spectrum, activates melanopsin receptors in the retina and sends the "day has started" signal that times every downstream hormonal event: cortisol, melatonin, growth hormone, testosterone. Miss the morning light anchor and the clock drifts.
+**Circadian anchoring.** `[E: strong]` The suprachiasmatic nucleus (SCN) — the brain's master clock — is set by light. Morning light exposure, especially sunlight in the blue spectrum, activates melanopsin receptors in the retina and sends the "day has started" signal that times every downstream hormonal event: cortisol, melatonin, growth hormone, testosterone. Miss the morning light anchor and the clock drifts.
 
-**The first 90-minute cognitive window.** Once the CAR peaks and clears, and 90 minutes of full wakefulness have elapsed, the prefrontal cortex reaches peak capacity for analytical and creative work. This is the premium window. Squander it on reactive tasks and you have squandered the day's best resource.
+**The first cognitive window.** `[E: weak]` For most people (not strong night owls), alertness and focused-attention performance climb through the first few hours after waking. The "90 minutes" is a working rule, not a measured threshold. This is the premium window. Squander it on reactive tasks and you have squandered the day's best resource.
 
 ---
 
@@ -34,15 +36,15 @@ The phone ban is about who sets the first frame of the day. Set it yourself.
 
 500 ml water immediately. Room temperature or cold, with a pinch of sea salt or electrolyte tablet if available.
 
-The mechanism is simple: 7–8 hours without water creates measurable dehydration. A 1–2% deficit in body water impairs cognitive performance — reaction time, attention, short-term memory. The first act of the day is rehydration. Not coffee. Not food. Water.
+The mechanism: `[E: moderate]` a 1–2% deficit in body water impairs attention and mood in lab studies. Whether a normal night produces that deficit varies by person; morning water is cheap insurance. The first act of the day is rehydration. Not coffee. Not food. Water.
 
-Delay coffee 90–120 minutes after waking. The caffeine adenosine-blocking mechanism is more effective after the CAR has completed. Early coffee competes with the body's own cortisol ignition, reduces the peak, and typically necessitates a larger afternoon dose to compensate — which then disrupts sleep.
+Delaying coffee 90–120 minutes after waking is `[E: weak]` — a popular rule with no trial behind it. Caffeine does not meaningfully blunt the CAR in habitual users. What is supported: total dose and timing relative to sleep (no caffeine after 1–2pm). Delay if it helps you; don't treat it as physiology.
 
 ### T+5 to T+15 Minutes: Light Exposure
 
-Step outside. Five to ten minutes of direct or indirect natural light. No sunglasses. Overcast sky still works — outdoor light on a grey day is 1,000–10,000 lux; indoor lighting is 100–500 lux. The difference is a full order of magnitude.
+Step outside. Five to ten minutes of direct or indirect natural light. No sunglasses. `[E: strong]` Overcast sky still works — outdoor light on a grey day is roughly 1,000–10,000+ lux; indoor lighting is 100–500 lux. The difference is a full order of magnitude.
 
-If outdoor exposure is impossible (winter, travel, north latitudes): a 10,000-lux light therapy lamp positioned within 18–24 inches of the face for 10–20 minutes does the same job.
+If outdoor exposure is impossible (winter, travel, north latitudes): a 10,000-lux light therapy lamp at its rated distance (typically ~30 cm) for 20–30 minutes is the practical substitute.
 
 What this does: melanopsin-containing retinal ganglion cells absorb blue-spectrum light and fire directly to the SCN. This starts the 14–16 hour countdown to melatonin release. Consistent morning light exposure produces consistent sleep onset, deeper sleep architecture, and more stable daytime energy — compounding over weeks.
 
@@ -53,10 +55,9 @@ Combine with the first movement segment if possible: a short walk outside achiev
 Minimum: 10–20 minutes. Effective forms include walking, running, bodyweight circuit, cold exposure, or formal training. The intensity matters less than the execution.
 
 **What this does biologically:**
-- Releases BDNF (brain-derived neurotrophic factor) — the brain's growth hormone. BDNF promotes neuroplasticity, accelerates learning, and lifts mood. 20 minutes of moderate aerobic movement triggers measurable BDNF release.
-- Finishes clearing residual adenosine. The fog lifts.
-- Elevates dopamine and serotonin baseline for 4–6 hours.
-- Raises core body temperature, which increases alertness and reduces reaction time.
+- `[E: moderate]` Raises blood BDNF (brain-derived neurotrophic factor), a protein involved in neuroplasticity. 20 minutes of moderate aerobic movement produces a measurable short-term rise.
+- `[E: strong]` Improves mood and alertness acutely.
+- `[E: moderate]` Raises core body temperature, which increases alertness and shortens sleep inertia.
 
 This is not the formal training session. That has its own place in the schedule. This is the ignition. Even on rest days, some form of morning movement is non-negotiable.
 
@@ -68,11 +69,11 @@ Two to three minutes of cold water immersion or cold shower at the end of the mo
 
 Optional, but the upside is large enough to make it a default.
 
-**The mechanism:** cold water exposure activates the sympathetic nervous system, releases norepinephrine (NE) by 200–300%) and dopamine (250%), both lasting 3–4 hours. This is not the jittery stimulation of caffeine — it is a clean, sustained elevation of alertness, focus, and mood.
+**The mechanism:** `[E: moderate]` cold water exposure activates the sympathetic nervous system and raises norepinephrine and dopamine. The big numbers (norepinephrine ~5x, dopamine ~2.5x) come from a 1-hour immersion at 14°C (Šrámek et al., 2000); a 2–3 minute shower produces a smaller, shorter rise. The alertness boost is real and immediate.
 
-Andrew Huberman's lab has documented the protocol: 11 minutes per week total, broken into 2–4 sessions, is the effective threshold. Cold enough to want to get out. Not cold enough to be dangerous.
+The "11 minutes per week" figure popularized by Andrew Huberman comes from one observational study of winter swimmers (Søberg et al., 2021) — `[E: weak]` as a dose. Cold enough to want to get out. Not cold enough to be dangerous.
 
-Additional effects: cold-induced norepinephrine reduces inflammatory markers, accelerates metabolic rate, and — for men — supports testosterone production over time with consistent practice.
+Claims that cold exposure raises testosterone or meaningfully reduces inflammation are `[E: weak]`. Do it for the alertness and the practice of doing hard things. If you train strength that day, keep cold exposure away from the session — it blunts muscle growth `[E: moderate]`.
 
 The first 30 seconds are the hardest. Then the system adapts. The discomfort is precisely the point: controlled stress exposure, voluntary, in a safe context. The practice of doing hard things before the day begins.
 
@@ -93,9 +94,9 @@ This is the transition from body preparation to mind preparation. Fifteen minute
 
 Start the first MIT. Not email. Not Slack. Not administrative tasks.
 
-**The science:** prefrontal cortex function peaks 1–3 hours after full wakefulness, when cortisol has cleared its peak, body temperature is rising, and neurotransmitter levels are elevated by movement. This is the time for work requiring sustained attention, deep analysis, creative synthesis, or complex problem-solving.
+**The science:** `[E: weak]` for most chronotypes, focused-attention performance is high in the late morning as body temperature rises. This is the time for work requiring sustained attention, deep analysis, creative synthesis, or complex problem-solving.
 
-Deep work (Cal Newport) requires: no task-switching, no interruptions, a single thread of sustained attention. Schedule 90-minute blocks. The ultradian rhythm — 90-minute cycles of peak neural efficiency — maps onto this window naturally.
+Deep work (Cal Newport) requires: no task-switching, no interruptions, a single thread of sustained attention. Schedule 90-minute blocks. (The idea that waking attention runs in 90-minute "ultradian" cycles is `[E: weak]`; the 90-minute block is a practical length, not a biological one.)
 
 **The rule:** the most important task gets the first block. Every day. Without exception.
 
@@ -111,7 +112,7 @@ The evening determines tomorrow's baseline. How you end determines how you begin
 
 Pick a time and honor it. The specific time matters less than the consistency. 9:00 PM, 10:00 PM — choose one.
 
-**The incomplete work problem:** the Zeigarnik effect describes the brain's tendency to continue processing unfinished tasks. Unclosed loops produce intrusive thoughts, impair sleep onset, and generate the low-grade anxiety of a mental background process running without permission. The shutdown ritual is the instruction to the brain: close all tabs.
+**The incomplete work problem:** `[E: moderate]` the Zeigarnik effect describes the brain's tendency to continue processing unfinished tasks. Unclosed loops produce intrusive thoughts, impair sleep onset, and generate the low-grade anxiety of a mental background process running without permission. The shutdown ritual is the instruction to the brain: close all tabs.
 
 Without a deliberate shutdown, work simply fades into the evening without a clear boundary. The body is in the house but the mind is still at the desk.
 
@@ -129,9 +130,9 @@ Execute this in the same sequence, every evening.
 
 Begin 2 hours before target sleep time.
 
-**Temperature drop.** Core body temperature must fall 1–3°F to initiate and maintain sleep. Mechanisms:
+**Temperature drop.** `[E: moderate]` Core body temperature falls roughly 1–2°F around sleep onset. Mechanisms:
 - Lower thermostat to 65–68°F (18–20°C).
-- Cool shower (not cold — cold activates the sympathetic nervous system, the opposite of what sleep requires).
+- Warm bath or shower 1–2 hours before bed `[E: strong]` — it pulls blood to the skin and speeds the core temperature drop afterward (see [sleep.md](../health/sleep.md)). Not cold: cold activates the sympathetic nervous system, the opposite of what sleep requires.
 - Avoid vigorous exercise in the 2-hour window — it raises core temperature and delays sleep onset.
 
 **Dim lights.** Switch to warm, low-lumen lighting. Overhead bright lights in the 2-hour pre-sleep window measurably suppress melatonin and extend sleep latency. Use lamps. Dim them further as bedtime approaches.
@@ -140,7 +141,7 @@ Begin 2 hours before target sleep time.
 
 No screens 1 hour before bed. Or use blue-light blocking glasses that actually filter the relevant wavelengths (orange-tinted, not yellow). Half-measures do not work.
 
-**The mechanism:** blue-spectrum light (450–490 nm) directly suppresses melatonin production via the same melanopsin system that anchors the circadian clock in the morning. One hour of screen exposure before bed can suppress melatonin by 50% and delay sleep onset by 1–2 hours. The irony is complete: the same light that starts your day well also ends it badly.
+**The mechanism:** `[E: moderate]` blue-spectrum light (450–490 nm) suppresses melatonin via the same melanopsin system that anchors the circadian clock in the morning. In the best-known study, 4 hours of e-reader use for 5 nights delayed melatonin by ~1.5 hours but sleep onset by only ~10 minutes (Chang et al., 2015). Real-world screen effects are smaller than the headlines; the content (arousal, "one more") is probably the bigger problem. The irony is complete: the same light that starts your day well also ends it badly.
 
 The phone goes in another room. This solves two problems: the pre-sleep scroll and the morning grab reflex.
 
@@ -177,8 +178,8 @@ On a perfect day, the full protocols above run. On a compressed day — travel, 
 | Non-Negotiable | Minimum Standard | Why |
 |----------------|-----------------|-----|
 | Sleep | 7 hours minimum | The foundational variable. Everything degrades without it. |
-| Movement | 10 minutes minimum | BDNF, adenosine clearance, mood regulation. Non-negotiable even on rest days. |
-| No-phone morning | 30 minutes minimum | Protect the cortisol awakening response and attentional sovereignty. |
+| Movement | 10 minutes minimum | Alertness, mood, the habit itself. Non-negotiable even on rest days. |
+| No-phone morning | 30 minutes minimum | Attentional sovereignty: you set the day's first frame. |
 | MITs | 3 written daily | Clarity of priority prevents drift. |
 | One deep work block | 90 minutes minimum | At least one block of uninterrupted meaningful work. |
 | Meaningful connection | One real interaction | Not transactional. Actual presence with another person. |
@@ -210,11 +211,11 @@ These windows shift with chronotype. Night owls find the peak window later. The 
 
 A keystone habit (Charles Duhigg) is a behavior that triggers a cascade of other positive behaviors. The leverage is disproportionate.
 
-**Morning movement:** elevates mood and energy → better decisions under pressure → less reactive to friction → better relationships → higher willingness to do hard things → better work → better evening → better sleep → better next morning. The cascade is real and compounding.
+**Morning movement:** `[E: weak]` (the cascade is a plausible story, not a measured chain) elevates mood and energy → better decisions under pressure → less reactive to friction → better relationships → higher willingness to do hard things → better work → better evening → better sleep → better next morning. The cascade is real and compounding.
 
 **Writing the MITs:** forces priority clarity → reduces time on low-value tasks → increases completion rate → builds momentum → reduces end-of-day guilt → improves sleep → accelerates recovery. The five-minute investment pays forward all day.
 
-**Consistent sleep time:** regularizes circadian rhythm → improves sleep architecture → better cognitive restoration → sharper focus next day → faster recovery from stress → longer healthy lifespan. This is the highest-leverage single behavior in health. Not diet. Not supplements. Consistent sleep timing.
+**Consistent sleep time:** regularizes circadian rhythm → improves sleep architecture → better cognitive restoration → sharper focus next day → faster recovery from stress. `[E: moderate]` Sleep regularity predicts mortality independently of sleep duration (Windred et al., 2024). Among the highest-leverage single behaviors in health. Not diet. Not supplements. Consistent sleep timing.
 
 **The shutdown ritual:** closes the Zeigarnik loops → reduces night-time rumination → improves sleep onset → produces more restorative sleep → begins next day with better cognitive capacity. The ritual is the bridge between work and recovery.
 
@@ -232,7 +233,7 @@ The routine breaks. Travel, illness, family crisis, consecutive late nights, tim
 **On illness:**
 - Drop all intensity. Sleep and hydration become the only protocol.
 - Light movement if possible. Stillness breeds rumination and deconditioning.
-- Return to the full protocol as soon as feasible. Do not ramp slowly — re-enter completely once cleared.
+- Return to the full *routine* as soon as feasible — don't let the habits lapse. Ramp *training intensity* back over several days, and after a fever or chest illness skip hard training until symptoms are gone (the "neck check": symptoms below the neck mean no intense training).
 
 **On crisis:**
 - The routine is the crisis response. Under pressure, people need structure more, not less.
@@ -248,3 +249,7 @@ The routine breaks. Travel, illness, family crisis, consecutive late nights, tim
 **Win the morning, win the day. Win enough days, win the life.**
 
 Not every day will be won. But every morning is the opportunity. Take it.
+
+---
+
+**Related:** [Routine Design](../aspergers/routine-design.md) — this routine adapted for the Asperger's profile

@@ -148,19 +148,9 @@ The Stoics did not counsel suppression. They counseled *not being ruled by* the 
 
 ## The Four Archetypes
 
-Robert Moore and Douglas Gillette's framework, developed from Jungian psychology: the mature masculine has four archetypal expressions. Underdevelopment in any one produces a specific failure mode.
+Moore and Gillette's King, Warrior, Magician, and Lover — each with its mature form and its two shadows — are defined in [Mythology & Archetypes](mythology-archetypes.md#the-four-archetypes--moore--gillette). That is the canonical version.
 
-**The King:** Order, accountability, blessing, legacy. The King governs — himself first, then his domain. He is the source of legitimate order and genuine blessing. He makes others feel seen and valued. His shadow: the Tyrant (domination) and the Weakling (abdicates responsibility).
-
-**The Warrior:** Focus, discipline, service to a cause beyond comfort, controlled aggression. The Warrior acts in service of something larger than himself. His shadow: the Sadist (aggression without purpose) and the Masochist (self-destruction, inability to act).
-
-**The Magician:** Knowledge, transformation, awareness of hidden things, initiation of others. The Magician holds the larger perspective, uses knowledge in service of the community, facilitates transformation. His shadow: the Trickster (manipulation) and the Innocent (the man-boy who refuses to know).
-
-**The Lover:** Eros, aliveness, sensory presence, connection to all things. The Lover is fully awake to experience — beauty, pleasure, grief, ecstasy. His shadow: the Addicted Lover (drowning in sensation) and the Impotent Lover (cut off from aliveness entirely).
-
-The complete masculine contains all four. Development of any one to the exclusion of the others produces imbalance. The King without the Warrior is ineffective. The Warrior without the King serves the wrong cause. The Magician without the Lover is cold. The Lover without the Magician is lost.
-
-See [Mythology and Archetypes](mythology-archetypes.md) for the fuller development of this framework.
+What matters for masculinity specifically: the complete masculine contains all four. Development of any one to the exclusion of the others produces imbalance. The King without the Warrior is ineffective. The Warrior without the King serves the wrong cause. The Magician without the Lover is cold. The Lover without the Magician is lost.
 
 ---
 

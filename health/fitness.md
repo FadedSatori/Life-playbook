@@ -2,12 +2,14 @@
 
 The body is the instrument everything else runs on. Train it with the same rigor you bring to anything that matters.
 
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice or preference, not an empirical claim.
+
 ---
 
 ## Principles
 
 1. **Consistency beats intensity.** Showing up at 70% every day outperforms heroic efforts followed by burnout. The training effect is cumulative.
-2. **Strength is the foundation.** Muscle is metabolically active tissue — it improves resting metabolism, posture, insulin sensitivity, joint stability, and all-cause mortality. Build it first.
+2. **Strength is the foundation.** `[E: moderate]` Muscle is metabolically active tissue — it improves resting metabolism, posture, insulin sensitivity, joint stability, and all-cause mortality. Build it first.
 3. **Movement is non-negotiable; the format is flexible.** If you can't do the full session, do 10 minutes. Never zero. The habit is the thing.
 4. **Train for the centenarian decathlon.** The goal is not to look good at 30. It is to be capable — physically strong, mobile, and cognitively sharp — at 80. See [longevity-protocols.md](../longevity-protocols.md) for the full target.
 
@@ -26,9 +28,9 @@ Training without periodization is random effort. Periodization structures effort
 | **Realization** | 2–3 weeks | Express strength; peak performance | 1–5 reps |
 | **Deload** | 1 week | Reduce volume 40–50%, maintain intensity; consolidate adaptation | All ranges, reduced sets |
 
-**Why this works:** The body adapts to accumulated stress during deload, not during the stress itself. Skipping deloads is leaving adaptation on the table.
+**Why this works:** `[E: moderate]` Periodized programs modestly outperform non-periodized ones; which periodization model you pick matters much less. Adaptation happens during recovery between sessions; deloads are a fatigue-management tool `[E: weak]`, useful mainly when fatigue is visibly accumulating.
 
-**Volume landmarks (Israetel's framework):**
+**Volume landmarks (Israetel's framework):** `[E: weak]` A coaching framework, not measured quantities — useful vocabulary for autoregulating volume.
 - **MEV (Minimum Effective Volume):** The least amount of work that produces progress. Below this, you're maintaining, not growing.
 - **MAV (Maximum Adaptive Volume):** The sweet spot — more work produces more adaptation without excessive fatigue.
 - **MRV (Maximum Recoverable Volume):** Above this, the accumulated fatigue outpaces adaptation. Performance degrades. This is the ceiling.
@@ -57,7 +59,7 @@ The goal: start each accumulation phase at or above MEV, progress toward MAV, ne
 - Quad-dominant: squat pattern (barbell squat, leg press, hack squat)
 - Hip-dominant: hinge pattern (Romanian deadlift, conventional deadlift)
 - Isolation: leg curls, calf raises
-- Volume: 16–24 total sets (legs recover faster than most muscles)
+- Volume: 16–24 total sets
 
 **Full-Body Day:**
 - One compound movement per major pattern (squat, hinge, push, pull)
@@ -77,17 +79,17 @@ Two cardio modes. Both are necessary. Neither replaces the other.
 
 **What it is:** Steady-state aerobic work at a pace where you can speak in full sentences but it requires mild effort. Technically: ~60–70% of maximum heart rate, sustainable for 45+ minutes.
 
-**What it does:** Drives mitochondrial biogenesis — building more mitochondria (the cell's energy producers) and improving their efficiency. This is the foundation of metabolic health, fat oxidation, and cardiovascular resilience over decades.
+**What it does:** `[E: moderate]` Drives mitochondrial biogenesis — building more mitochondria (the cell's energy producers) and improving their efficiency. This is the foundation of metabolic health, fat oxidation, and cardiovascular resilience over decades.
 
-**Measurement:** The MAF (Maximum Aerobic Function) formula: **180 minus your age** = your Zone 2 ceiling heart rate. Train at or below this number. If you're in poor condition, subtract an additional 5–10 bpm and build from there.
+**Measurement:** `[E: weak]` The MAF (Maximum Aerobic Function) formula — **180 minus your age** = your Zone 2 ceiling heart rate — is a coaching heuristic, not a validated threshold. The talk test (full sentences, slightly effortful) or a lactate meter is more reliable. Train at or below this number. If you're in poor condition, subtract an additional 5–10 bpm and build from there.
 
-**Target:** 150–180 minutes per week. This is the minimum for measurable longevity benefit in the research. Below this, you're getting some benefit but not optimizing. Above this produces additional benefit with diminishing returns.
+**Target:** 150–180 minutes per week. `[E: strong]` Guidelines (WHO, ACSM) set 150–300 min/week of moderate activity; mortality benefit starts well below 150 and keeps rising above it with diminishing returns. 150–180 is a solid default, not a hard threshold.
 
 **Modalities:** Walking (weighted or inclined), cycling, rowing, swimming, easy jogging. Whatever maintains the heart rate.
 
 ### VO2 Max Intervals — The Peak
 
-**What it is:** Short, intense efforts at or near maximum aerobic capacity, interspersed with recovery. The most effective protocol: **4 × 4 minutes at hard effort (RPE 8–9), 3-minute active recovery between sets.** The "4x4 protocol" from Norwegian research.
+**What it is:** `[E: strong]` (for raising VO2 max) Short, intense efforts at or near maximum aerobic capacity, interspersed with recovery. A well-studied protocol: **4 × 4 minutes at hard effort (RPE 8–9), 3-minute active recovery between sets.** The "4x4 protocol" from Norwegian research.
 
 **What it does:** Raises the ceiling — your maximum oxygen utilization capacity, which is one of the strongest predictors of longevity and all-cause mortality. Zone 2 builds the floor; VO2 max intervals raise the ceiling.
 
@@ -117,9 +119,9 @@ HRV is not a training dictator — it is a piece of information. Combine it with
 
 **Peripheral fatigue** is in the muscles themselves — soreness, local depletion, tissue damage from training. It resolves in 24–72 hours.
 
-**Central fatigue** is in the central nervous system (brain, spinal cord) — heavy compounds (deadlifts, squats, overhead press) accumulate CNS fatigue that takes longer to clear than the muscles themselves recover. This is why you can feel physically fine but have terrible performance — the neural drive isn't there.
+**Central fatigue** is in the central nervous system (brain, spinal cord). `[E: weak]` The popular idea that heavy compounds build up CNS fatigue lasting days is poorly supported; measured central fatigue after lifting mostly clears within hours to a day. Lingering poor performance is better explained by muscle damage, sleep, and life stress.
 
-Implication: after a heavy strength week, a deload week is neural recovery, not just muscle recovery. Don't mistake "I'm not sore" for "I'm recovered."
+Implication: don't mistake "I'm not sore" for "I'm recovered" — use the signals below, not a story about the nervous system.
 
 **Recovery signals — back off if two or more are present:**
 - Persistent joint pain (not normal muscle soreness)
@@ -131,7 +133,7 @@ Implication: after a heavy strength week, a deload week is neural recovery, not 
 
 ### Sleep and Muscle Protein Synthesis
 
-The majority of muscle protein synthesis (MPS) — the biological process that repairs and builds muscle — occurs during sleep, primarily during slow-wave (deep) NREM sleep when growth hormone is released in its largest daily pulse. You don't build muscle in the gym. You build muscle during sleep, using the stimulus the gym provided. See [sleep.md](sleep.md) for the full sleep protocol.
+`[E: moderate]` Muscle protein synthesis (MPS) — the process that repairs and builds muscle — stays elevated for 24–48 hours after training and is driven mainly by the training stimulus and protein intake, not by the growth hormone pulse during deep sleep. Sleep matters because sleep restriction measurably reduces MPS and recovery: one night of total deprivation cut post-meal MPS by ~18% (Lamon et al., 2021). The gym provides the stimulus; food and sleep determine how much of it you keep. See [sleep.md](sleep.md) for the full sleep protocol.
 
 ---
 
@@ -149,7 +151,7 @@ Not everyone should train the same way. Programming appropriate to your training
 - The 4-day split described above suits this phase well
 - Start incorporating deload weeks and volume tracking
 
-**Advanced (3+ years consistent training):**
+**Advanced (3+ years consistent training):** `[E: weak]` (the beginner/intermediate/advanced model is coaching convention)
 - Adaptation slows significantly. **Block periodization** — the accumulation/intensification/realization/deload cycle described above — is the appropriate structure
 - Advanced trainees respond to specificity: identify weaknesses, build training phases around addressing them
 - The gains are smaller and slower; the consistency requirement is higher

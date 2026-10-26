@@ -338,3 +338,7 @@ Every review ends with one sentence written at the top of next week's planner pa
 One thing. Not three. Not a list. One. Write it before the week begins so that when the week becomes difficult — and it will — you know what to protect.
 
 The review is complete. The week can begin.
+
+---
+
+**Related:** [Energy and Burnout](../aspergers/energy-and-burnout.md#building-it-into-the-routine) — the weekly energy log

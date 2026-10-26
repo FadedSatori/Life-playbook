@@ -4,11 +4,14 @@ The warrior-philosopher tradition spends considerable effort on discipline, suff
 
 The complete human is not perpetually serious. He is capable of genuine levity, authentic play, and laughter that isn't performance. These are not concessions to weakness. They are essential to the whole.
 
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim.
+
 ---
 
 ## What Play Actually Is
 
-Stuart Brown's research at the National Institute for Play — the most comprehensive longitudinal study of play ever conducted — produced a counterintuitive finding: **play is not the opposite of work.** It is the mechanism through which the brain learns, integrates, and regenerates.
+Stuart Brown's work at the National Institute for Play — `[E: weak]` built on thousands of clinical "play history" interviews, not a controlled longitudinal study — produced a counterintuitive finding: **play is not the opposite of work.** It is the mechanism through which the brain learns, integrates, and regenerates.
 
 Brown's definition: play is *purposeless activity entered into voluntarily, with intrinsic motivation.* No outcome. No metric. No audience. The activity is the point.
 
@@ -21,7 +24,7 @@ Animals deprived of play develop abnormal social behavior, poor stress responses
 - Access to creativity — the default mode network operates freely during play in a way it cannot during goal-directed work
 - Genuine restoration — not the pseudo-rest of passive media consumption, but actual neurological regeneration
 
-The brain that never plays gets slower, more rigid, and less creative over time. The brain that plays regularly maintains plasticity into late life. This is neurological fact, not metaphor.
+The brain that never plays gets slower, more rigid, and less creative over time. The brain that plays regularly maintains plasticity into late life. `[E: weak]` The strongest evidence is in animals (play-deprived rats, Panksepp's research); in humans it is plausible but not established.
 
 ---
 
@@ -49,7 +52,7 @@ The serious traditions did not neglect play. They systematized it.
 
 **Stoics:** Marcus Aurelius distinguishes play freely chosen (with perspective) from compulsion driven by desire for the outcome. He attended the Colosseum because his station required it, but he was not compelled by the spectacle. He could enjoy theater; he simply wasn't owned by it. This is the Stoic standard: full access to enjoyment, no dependency on it.
 
-**Special operations culture:** Military units with the highest cohesion are typically the ones with the strongest culture of irreverent humor. Dark humor — laughing at death, at failure, at absurd situations — is a form of mastery over those things. The unit that can laugh after a bad day has not been broken by it. This is not disrespect for the difficulty; it is evidence of psychological size sufficient to hold the difficulty without being crushed.
+**Special operations culture:** `[E: weak]` (observation, not data) Military units with the highest cohesion are typically the ones with the strongest culture of irreverent humor. Dark humor — laughing at death, at failure, at absurd situations — is a form of mastery over those things. The unit that can laugh after a bad day has not been broken by it. This is not disrespect for the difficulty; it is evidence of psychological size sufficient to hold the difficulty without being crushed.
 
 ---
 
@@ -103,10 +106,10 @@ These were not concessions. They were evidence of size.
 Laughter is not a social nicety. It is a biological event with measurable physiological effects.
 
 **What laughter produces:**
-- **Endorphin release** — laughter activates the same endogenous opioid system as exercise and physical pain relief. A genuine laugh, particularly a full-body one, produces measurable endorphin release that lasts 20–30 minutes post-laughter.
-- **Pain reduction** — Dunbar et al. (2011) at Oxford found that 15 minutes of genuine laughter raised pain tolerance by more than 10% compared to control conditions. The mechanism is endorphin-mediated. The warrior tradition of dark humor is not merely psychological — it is altering the physiology of pain experience.
-- **Immune function** — Lee Berk's research at Loma Linda showed that anticipating laughter reduces cortisol by 39% and epinephrine by 70% before the laughter even occurs. After laughter, natural killer cells increase, T-cell production rises, and IgA antibodies (primary immune defense at mucosal surfaces) increase.
-- **Social bonding** — laughter is between three and four times more likely to occur in social contexts than alone. Dunbar's research shows that laughter in groups synchronizes breathing and activates mirror neuron systems simultaneously across all laughing participants — producing what he calls "grooming at a distance." The bonding function of shared laughter is as old as our species.
+- **Endorphin release** — `[E: moderate]` social laughter triggers opioid release in the brain (Manninen et al., 2017, PET imaging). The "lasts 20–30 minutes" figure is `[E: weak]`. Laughter activates the same endogenous opioid system as exercise and physical pain relief. A genuine laugh, particularly a full-body one, produces measurable endorphin release that lasts 20–30 minutes post-laughter.
+- **Pain reduction** — `[E: moderate]` Dunbar et al. (2011) at Oxford found that 15 minutes of genuine laughter raised pain tolerance by more than 10% compared to control conditions. The mechanism is endorphin-mediated. The warrior tradition of dark humor is not merely psychological — it is altering the physiology of pain experience.
+- **Immune function** — `[E: weak]` (very small studies, n≈16, mostly conference reports) Lee Berk's research at Loma Linda showed that anticipating laughter reduces cortisol by 39% and epinephrine by 70% before the laughter even occurs. After laughter, natural killer cells increase, T-cell production rises, and IgA antibodies (primary immune defense at mucosal surfaces) increase.
+- **Social bonding** — `[E: moderate]` laughter is about 30 times more likely to occur in social contexts than alone (Provine). Dunbar argues shared laughter works as "grooming at a distance" — bonding many people at once through shared opioid release. The mirror-neuron synchronization claim is `[E: weak]`. The bonding function of shared laughter is as old as our species.
 - **Cognitive flexibility** — the moment of laughter is the moment of conceptual incongruity resolving. Two frames that seemed incompatible suddenly coexist. This is precisely the cognitive move required for creative problem-solving and insight.
 
 **The physiological cascade of a genuine laugh:**
@@ -133,7 +136,7 @@ Rod Martin's humor styles questionnaire (University of Western Ontario) identifi
 
 **Maladaptive humor styles:**
 
-**Aggressive humor** — humor that criticizes, manipulates, or demeans others. Sarcasm as a weapon rather than a play signal. Correlates with neurotic hostility, diminished relationship quality, and is the single best predictor of relationship deterioration. The satirist who punches down. Psychologically, this style is often shame-management — deflecting from the self by attacking others.
+**Aggressive humor** — humor that criticizes, manipulates, or demeans others. Sarcasm as a weapon rather than a play signal. `[E: moderate]` Correlates with hostility and lower relationship quality (Martin's Humor Styles research). "Single best predictor of relationship deterioration" overstates it — Gottman's contempt is the closer finding. The satirist who punches down. Psychologically, this style is often shame-management — deflecting from the self by attacking others.
 
 **Self-defeating humor** — allowing yourself to be the target of others' humor in ways that aren't genuinely chosen but that conceal negative affect beneath performed levity. The person who laughs along while being humiliated. Correlates with depression, loneliness, and low self-esteem. The laugh that is actually a coping mechanism for pain.
 
@@ -143,7 +146,7 @@ Rod Martin's humor styles questionnaire (University of Western Ontario) identifi
 
 ## Humor Across the Lifespan
 
-Play is not just for children. The research on play deprivation in adults is as clear as the research on play deprivation in childhood — and the modern world systematically produces play-deprived adults.
+Play is not just for children. `[E: weak]` The research on play deprivation in adults is thinner than the childhood research — and the modern world systematically produces play-deprived adults.
 
 Stuart Brown's six play personalities — profiles of how adults naturally engage with play when given permission:
 

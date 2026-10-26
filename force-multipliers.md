@@ -2,6 +2,9 @@
 
 Skills and habits where the return compounds far beyond the direct benefit. These are the levers — pull one and many things move.
 
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim.
+
 ---
 
 ## Cognitive
@@ -29,7 +32,7 @@ Writing sharpens argumentation. You will construct better arguments in conversat
 
 ### Second Language Acquisition
 
-A second language is a cognitive multiplier — not primarily for communication, but for what the process does to your brain. Language acquisition rewires neural architecture. It makes you more cognitively flexible, slows age-related mental decline, and literally builds more gray matter.
+A second language is a cognitive multiplier — not primarily for communication, but for what the process does to your brain. `[E: contested]` The "bilingual advantage" — better executive function, delayed dementia, more gray matter — was a popular finding that has largely failed to replicate in large studies (Paap et al., 2015; Lehtonen et al., 2018 meta-analysis). Learn a language for what it opens — people, texts, how another culture carves up reality — not for a brain upgrade.
 
 The operational payoff: a second language gives you access to a different conceptual vocabulary. Some ideas exist fully formed in one language and only partially in another. German has *Weltanschauung* (worldview as a total perceptual framework). Japanese has *Ma* (the strategic use of negative space). These are not translatable — they are conceptual tools that only exist inside their language.
 
@@ -164,11 +167,11 @@ How to develop mentor relationships:
 
 ### Sleep as the #1 Cognitive Lever
 
-Matthew Walker's research: 17-19 hours without sleep produces cognitive impairment equivalent to legal intoxication. People chronically sleeping 6 hours perform as if they haven't slept at all — and they don't notice the degradation. The sleepless mind is the last to know.
+`[E: strong]` 17–19 hours without sleep produces impairment comparable to a 0.05% blood alcohol level (Williamson & Feyer, 2000). People sleeping 6 hours a night for two weeks perform as badly as after one to two nights of total sleep deprivation (Van Dongen et al., 2003) — and they don't notice the degradation. The sleepless mind is the last to know.
 
 Sleep is not recovery from the day. Sleep is when the brain:
-- Consolidates procedural and declarative memory (learning happens during sleep, not during learning)
-- Clears metabolic waste via the glymphatic system (including amyloid plaques linked to Alzheimer's)
+- Consolidates procedural and declarative memory `[E: strong]` (learning is stabilized during sleep)
+- Clears metabolic waste via the glymphatic system `[E: contested]` (see [sleep.md](health/sleep.md))
 - Regulates emotional reactivity (REM sleep processes emotional memories — reducing their charge)
 - Restores prefrontal cortex function (the structure responsible for planning, judgment, and impulse control)
 
@@ -180,7 +183,7 @@ The strategic point: every cognitive multiplier on this list is maximized or min
 
 Breath is the only autonomic function you can consciously control, and it directly modulates the autonomic nervous system. This makes it a direct lever on your mental and physical state.
 
-**The physiology:** Slow, deep breathing (5-6 breaths per minute) activates the parasympathetic system — reducing cortisol, slowing heart rate, lowering blood pressure, and increasing heart rate variability. Rapid, shallow breathing activates the sympathetic system — fight/flight/freeze.
+**The physiology:** `[E: strong]` Slow, deep breathing (5-6 breaths per minute) activates the parasympathetic system — slowing heart rate, lowering blood pressure, and increasing heart rate variability. Cortisol reduction is `[E: weak]`. Rapid, shallow breathing activates the sympathetic system — fight/flight/freeze.
 
 Protocols:
 - **Box breathing (Navy SEAL tactical):** Inhale 4 counts, hold 4, exhale 4, hold 4. Use before high-stakes situations — presentations, negotiations, difficult conversations. 4 cycles takes 64 seconds and meaningfully shifts your state.
@@ -190,7 +193,7 @@ Protocols:
 
 ### Body Language as Force Multiplier on Presence
 
-Your body communicates before your words do. The research (Amy Cuddy, Joe Navarro) demonstrates that posture and movement affect not just how others perceive you but how you perceive yourself. Adopting powerful postures for 2 minutes before high-stakes situations measurably alters hormonal state.
+Your body communicates before your words do. `[E: moderate]` Posture shapes how others perceive you. `[E: contested]` Amy Cuddy's "power posing" claim that 2 minutes of expansive posture changes testosterone and cortisol failed to replicate (Ranehill et al., 2015), and her co-author withdrew support; a small effect on *feeling* more confident may hold. Joe Navarro's work is FBI field experience, not research. Stand tall because it reads well and feels better — not for a hormone change.
 
 The fundamentals:
 - **Uprightness:** Posture is status signaling at the primate level. Upright, open posture signals confidence and triggers correspondent internal states. Collapsed, closed posture signals submission.
@@ -323,7 +326,7 @@ You act in accordance with what you believe is true and possible. This makes you
 
 The framework:
 - **Identity beliefs are the most powerful.** "I am someone who..." statements are behavioral governors. If you believe you are someone who finishes what you start, you finish what you start. If you believe you are bad at math, you become bad at math. Choose your identity beliefs with the same deliberateness you would choose your habits.
-- **Beliefs can be updated.** The neuroscience: the brain is plastic. Beliefs are networks of neurons. Networks that fire together wire together; networks that don't fire together weaken. You can rewrite beliefs by constructing new evidence, finding new models, and practicing in accordance with the new belief until it becomes automatic.
+- **Beliefs can be updated.** `[E: weak]` as neuroscience ("fire together, wire together" is a slogan applied loosely to beliefs); `[E: strong]` that beliefs change with practice and evidence. The brain is plastic. Beliefs are networks of neurons. Networks that fire together wire together; networks that don't fire together weaken. You can rewrite beliefs by constructing new evidence, finding new models, and practicing in accordance with the new belief until it becomes automatic.
 - **The narrative of your past.** You do not have access to your past — you have access to your story about your past. That story is partially constructed. You can construct it in ways that serve you or ways that limit you. Both versions can be honest. Choose the version that builds rather than constrains.
 
 ### Identity as Lever

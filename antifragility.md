@@ -4,6 +4,9 @@ Not resilience — resilience bounces back to the same state. Antifragility *get
 
 *Primary source: Nassim Nicholas Taleb's* Antifragile *(2012). Cross-reference: [resilience.md](resilience.md), [mental-models/decision-making.md](mental-models/decision-making.md), [career/finances.md](career/finances.md).*
 
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim. Most of this file is Taleb's framework and decision math — untagged.
+
 ---
 
 ## The Full Taxonomy: Four States, Not Three
@@ -82,7 +85,7 @@ Hormesis is the biological principle that small doses of stressors produce benef
 - **Voluntary discomfort:** The willingness to regularly experience controlled discomfort — cold showers, hard conversations, fasting, difficult physical training — is training the nervous system's stress-response system. Each episode of controlled stress raises the threshold for uncontrolled stress to trigger a crisis.
 - **Cognitive challenge:** Learning at the edge of your capacity — just beyond what current skill can easily handle — grows neural density and processing capacity. Comfortable repetition of known material does not.
 - **Emotional exposure:** Voluntary exposure to emotional difficulty — grief, fear, rejection in controlled contexts — reduces the trigger threshold for those emotions. The person who never allows themselves to feel grief accumulates it. The person who processes grief regularly integrates it.
-- **Social stress:** Public speaking, negotiation, and high-stakes social interaction produce cortisol and anxiety. Regular exposure desensitizes the stress response and builds competence. Avoidance increases the stress response every time the situation recurs.
+- **Social stress:** `[E: strong]` (exposure therapy research) Public speaking, negotiation, and high-stakes social interaction produce cortisol and anxiety. Regular exposure desensitizes the stress response and builds competence. Avoidance increases the stress response every time the situation recurs.
 
 **How to apply hormesis deliberately:**
 1. Identify the domains where you have been in the zero-stress zone (atrophy is occurring)
@@ -264,7 +267,7 @@ Antifragility is not only a personal philosophy. It is a systems property that e
 
 **Why cities are antifragile:** Cities have survived fires, plagues, bombing, floods, and economic collapse — and have, in many cases, emerged larger and more vital afterward. The reason: cities have redundant structure, heterogeneous populations, dense economic connectivity, and the ability to rebuild with better knowledge than before. London was devastated by plague and fire in the 17th century. Both events produced urban reorganization that made the city more functional. The diversity of a city's population, economy, and physical structure is its antifragility.
 
-**Silicon Valley's failure culture:** The concentration of venture-backed startups that fail at rates exceeding 90% produces, at the ecosystem level, an extraordinary rate of innovation. Individual failures are information that gets recycled — failed founders return as investors or join other companies carrying the lessons of failure. Failed companies release talent that recombines into new ventures. The ecosystem is antifragile precisely because failure is survivable for individuals and productive for the system. Compare to the Japanese keiretsu model, where failure is catastrophic and prevented by mutual support — the result is less dynamism and less innovation.
+**Silicon Valley's failure culture:** `[E: moderate]` The concentration of venture-backed startups that fail at high rates (roughly three-quarters never return investors' capital — Ghosh, 2012; "90%" depends on how failure is defined) produces, at the ecosystem level, an extraordinary rate of innovation. Individual failures are information that gets recycled — failed founders return as investors or join other companies carrying the lessons of failure. Failed companies release talent that recombines into new ventures. The ecosystem is antifragile precisely because failure is survivable for individuals and productive for the system. Compare to the Japanese keiretsu model, where failure is catastrophic and prevented by mutual support — the result is less dynamism and less innovation.
 
 **The immune system as the model:** The immune system is the clearest biological illustration of antifragility. It learns from each pathogen encounter. It builds specific antibodies. After a sufficient history of challenges, it is vastly more capable than a naive system. An immune system that has never been challenged is weak — this is the autoimmunity epidemic in sterile modern environments. The immune system requires challenge to develop. The same is true of psychological resilience, social cohesion, and intellectual rigor.
 
@@ -282,3 +285,7 @@ Antifragility is not only a personal philosophy. It is a systems property that e
 8. **The noise-signal check:** Is this worth intervening in, or is it oscillation within normal variance? Default to non-intervention.
 
 *"What doesn't kill me makes me stronger."* — Nietzsche. Taleb's most-quoted philosopher for a reason — but only under the condition that you don't encounter the thing that does kill you. Hence the ruin condition overrides everything.
+
+---
+
+**Related:** [Failure](failure.md) — turning losses into information · [Courage](courage.md) — voluntary exposure to stressors

@@ -1,16 +1,19 @@
 # Flow States
 
-Peak performance on demand. The state where time dissolves, output doubles, and difficulty disappears. Not mystical — neurochemical. Engineerable.
+Peak performance on demand. The state where time dissolves, output doubles, and difficulty disappears. Not mystical — trainable.
 
 *Framework from Mihaly Csikszentmihalyi + Steven Kotler's research at the Flow Research Collective.*
+
+
+> **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, animal data, or expert opinion only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim.
 
 ---
 
 ## What Flow Actually Is
 
-Flow is an optimal state of consciousness where you feel and perform your best simultaneously. During flow, the brain releases a cocktail of performance-enhancing neurochemicals: norepinephrine, dopamine, endorphins, anandamide, serotonin. All at once.
+Flow is an optimal state of consciousness where you feel and perform your best simultaneously. `[E: weak]` The popular model (Kotler) holds that flow releases a cocktail of norepinephrine, dopamine, endorphins, anandamide, and serotonin all at once. This is a hypothesis assembled from separate findings, not something measured during flow.
 
-The result: pattern recognition accelerates, attention narrows to the task, time distorts (hours feel like minutes), lateral thinking expands, and performance can increase 500% above baseline (McKinsey 10-year study).
+The result: pattern recognition accelerates, attention narrows to the task, time distorts (hours feel like minutes), lateral thinking expands, and performance improves. `[E: weak]` The widely quoted "500% more productive" figure comes from executives' *self-reports* in a McKinsey survey, not a measured 10-year study.
 
 It is not a gift. It has triggers. It has a cycle. Both are learnable.
 
@@ -30,7 +33,7 @@ Step away. Stop pushing. Walk, shower, distract with something low-demand. The s
 The state arrives. Don't analyze it — you'll end it. Stay in. Extend it by eliminating interruptions in advance.
 
 **4. Recovery**
-Flow is neurochemically expensive. After deep flow, recovery is mandatory. Without it, the next session is shallower. Sleep, movement, low-demand activity. This is where the gains are consolidated.
+Flow is costly. After deep flow, recovery is mandatory. Without it, the next session is shallower. Sleep, movement, low-demand activity. This is where the gains are consolidated.
 
 ---
 
@@ -40,7 +43,7 @@ Flow is neurochemically expensive. After deep flow, recovery is mandatory. Witho
 
 - **Clear goals** — ambiguity prevents flow. Know exactly what you're trying to do in the next 90 minutes. One thing.
 - **Immediate feedback** — you need to know whether what you're doing is working, in real time. Build feedback loops into your work.
-- **Challenge/skill ratio** — the sweet spot is 4–8% beyond your current ability. Too easy → boredom. Too hard → anxiety. The edge is the entry point.
+- **Challenge/skill ratio** — `[E: moderate]` flow is most likely when challenge slightly exceeds skill (Csikszentmihalyi's core finding). The specific "4–8%" is `[E: weak]` — a coaching number. Too easy → boredom. Too hard → anxiety. The edge is the entry point.
 - **Deep embodiment** — full physical and mental presence. The body and mind pointed at the same thing.
 
 **Environmental Triggers**
@@ -126,7 +129,7 @@ The challenge/skill ratio and distraction elimination apply universally. But the
 
 ## Flow Recovery Protocol
 
-Flow is neurochemically expensive. The dopamine, norepinephrine, and anandamide released during deep flow sessions are followed by a neurochemical trough — a period of relative depletion that, if not respected, produces diminishing returns or complete inability to enter flow.
+Deep flow is costly. The popular model `[E: weak]` describes a "neurochemical trough" after it — a period of relative depletion that, if not respected, produces diminishing returns or complete inability to enter flow. The neurochemistry is speculative; the practical observation that deep sessions need recovery is sound.
 
 **Signs of flow debt:**
 - Inability to enter the state despite all environmental triggers present
@@ -146,7 +149,7 @@ Flow is neurochemically expensive. The dopamine, norepinephrine, and anandamide 
 
 ## Group Flow and Shared Peak Performance
 
-Csikszentmihalyi's research identified group flow as one of the highest available human experiences — when a team, ensemble, or pair enters collective peak performance simultaneously. The output quality in group flow exceeds what any individual member could produce alone, and the experience itself is reported as profoundly meaningful.
+`[E: moderate]` Csikszentmihalyi's and Keith Sawyer's research identified group flow as one of the highest available human experiences — when a team, ensemble, or pair enters collective peak performance simultaneously. The output quality in group flow exceeds what any individual member could produce alone, and the experience itself is reported as profoundly meaningful.
 
 **Conditions that produce group flow:**
 
@@ -157,3 +160,7 @@ Csikszentmihalyi's research identified group flow as one of the highest availabl
 5. **Communication that is short and specific** — in group flow, unnecessary words fragment the state; people in shared peak performance communicate with economy
 
 **The debrief as recovery ritual:** After any high-performance team session — a creative collaboration, a competition, a difficult shared challenge — a structured debrief preserves both the learning and the transition. Components: what worked (specific), what to do differently, what each person is carrying forward. The debrief ritualizes the return to normal operations and prevents the abrupt emotional crash of just... stopping.
+
+---
+
+**Related:** [Humor and Play](humor-and-play.md) — play as a flow trigger · [Creativity](creativity.md)

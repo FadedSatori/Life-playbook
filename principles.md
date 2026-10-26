@@ -2,6 +2,8 @@
 
 The foundation everything else is built on. When in doubt, return here. These are not aspirations. They are load-bearing walls. Remove one and the structure collapses.
 
+*Three files, three jobs:* **principles** (this file) say what you value and how to decide when values conflict. [Heuristics](heuristics.md) are rules of thumb with their mechanisms. [Maxims](maxims.md) are one-line compressions for memory. When they disagree, this file wins.
+
 ---
 
 ## Values
@@ -327,3 +329,7 @@ Non-negotiables also function as identity anchors. The person who never skips th
 **Adding non-negotiables.** Before making something non-negotiable, test it for 30 days as a strong preference. If you can identify the mechanism by which it improves your life, and if skipping it produces measurable degradation, promote it. Don't inflate the non-negotiables list — the power comes from its shortness. A list of twenty non-negotiables is a list of preferences. A list of four is a foundation.
 
 The test for a true non-negotiable: you would maintain it at some personal cost. Not infinite cost — but real cost. If the standard evaporates the moment it becomes inconvenient, it was never a non-negotiable. Reclassify it honestly and return to what actually holds.
+
+---
+
+**Related:** [The Architecture](the-architecture.md) — where these principles sit in the five-layer system

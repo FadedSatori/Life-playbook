@@ -372,3 +372,7 @@ Work with the myths. Not as belief, but as tool. Know which stage you are in. Kn
 *"We must be willing to let go of the life we planned so as to have the life that is waiting for us."* — Joseph Campbell
 
 *"I am not what happened to me. I am what I choose to become."* — Carl Jung
+
+---
+
+**Related:** [Masculinity](masculinity.md) — initiation and the archetypes applied to becoming a man · [Sexuality](sexuality.md) — the Lover in practice · [Courage](courage.md) — answering the call
