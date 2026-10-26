@@ -10,7 +10,7 @@ Part of the [Asperger's](overview.md) section.
 
 ## Why This Comes First
 
-`[E: strong]` Sensory differences are part of the autism diagnostic criteria (DSM-5), and over 90% of autistic children showed them in one large study (Leekam et al., 2007). Most autistic adults describe them as lifelong.
+`[E: strong]` Sensory differences are part of the autism diagnostic criteria (DSM-5). A meta-analysis found large, consistent differences in sensory responsiveness between autistic and non-autistic children (Ben-Sasson et al., 2009), and over 90% of autistic children showed sensory differences in one large study (Leekam et al., 2007). Most autistic adults describe them as lifelong.
 
 Sensory load is the most invisible drain in your [energy budget](energy-and-burnout.md). A social event shows up on the calendar. The buzzing light, the scratchy shirt, and the three overlapping conversations in the open office never do — but they draw on the same budget all day.
 

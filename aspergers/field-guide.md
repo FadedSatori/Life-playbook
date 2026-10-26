@@ -1,6 +1,6 @@
 # Field Guide
 
-The one-page version of this whole section, for the moments when you can't read twenty-one files. Find the situation, do the three steps, follow the link later.
+The one-page version of this whole section, for the moments when you can't read twenty-three files. Find the situation, do the three steps, follow the link later.
 
 Part of the [Asperger's](overview.md) section. Print it, or keep it on your phone.
 
@@ -15,6 +15,7 @@ Part of the [Asperger's](overview.md) section. Print it, or keep it on your phon
 | **I've been depleted for weeks** | 1. Check the burnout signs. 2. Cut demands to the minimum. 3. Tell someone and plan recovery. | [Burnout](energy-and-burnout.md#autistic-burnout) |
 | **Plans just changed** | 1. Pause: "Give me a minute." 2. Get the facts: what changed, what didn't. 3. Re-plan on paper, then commit. | [The Protocol](uncertainty-and-change.md#when-plans-change-the-protocol) |
 | **I can't start** | 1. Write the first *physical* action. 2. Make it silly-small. 3. Set a timer for 5 minutes, or find a body double. | [Starting](executive-function.md#starting-make-the-first-step-physical) |
+| **Anxiety is spiraling** | 1. Body first: long exhales, feet on the floor. 2. Write the worry and put a probability on it. 3. If it can wait, park it for worry time. | [Anxiety](mental-health.md#anxiety) |
 | **I can't tell what I'm feeling** | 1. Body: what's tight, hot, heavy, restless? 2. Context: what happened today? 3. Best guess, as a probability. | [Body First](emotions.md#body-first-label-second) |
 | **I'm about to go to a social event** | 1. Preview: who, where, how long. 2. Set your leave time. 3. Pack the sensory kit; plan recovery after. | [Groups](social-decoding.md#groups) |
 | **I'm not sure what they meant** | 1. Check the translation table. 2. If it matters, ask: "Did you mean X or Y?" 3. Assume good intent until shown otherwise. | [Subtext](social-decoding.md#subtext-a-translation-table) |
@@ -25,7 +26,7 @@ Part of the [Asperger's](overview.md) section. Print it, or keep it on your phon
 | **A big decision is eating me alive** | 1. Define "good enough" — 2–3 criteria. 2. Set a decision deadline. 3. Is it reversible? Then decide faster. | [Decisions](thinking-style.md#decisions-can-be-exhausting) |
 | **Something unfair is happening** | 1. Is it mine to fix? 2. What does fixing it cost? 3. Smallest effective action — or let it go. | [Justice](thinking-style.md#justice-and-fairness) |
 | **I'm overwhelmed in a public place** | 1. Get out of the input — outside, a bathroom, a car. 2. Headphones on, eyes down. 3. Show your communication card if words are gone. | [Overload in Public](public-world.md#overload-in-public) |
-| **Police or security stop me** | 1. Stay calm, hands visible, no sudden moves. 2. "I'm autistic — I may need more time to answer." 3. Say you're reaching for your card before you do. | [Police and Emergencies](public-world.md#police-security-and-emergencies) |
+| **Police or security stop me** | 1. Stay calm, hands visible, no sudden moves. 2. "I have Asperger's — I'm autistic. I may need more time to answer." 3. Say you're reaching for your card before you do. | [Police and Emergencies](public-world.md#police-security-and-emergencies) |
 | **Someone wants money, codes, or a decision now** | 1. "I'll call you back on the official number." 2. Hang up. 3. Verify independently. | [Scams](public-world.md#scams-and-strangers) |
 | **I'm having dark thoughts** | 1. Tell someone you trust today. 2. Call or text 988 (US) or your local crisis line. 3. Follow your crisis plan. | [Crisis Plan](health-and-care.md#write-a-crisis-plan-while-youre-well) |
 

@@ -15,6 +15,7 @@ Know your wiring before you optimize anything built on it. This section is the o
   - [Special Interests](special-interests.md) — joy, regulation, identity, mastery — and managing the tunnel
   - [Thinking Style](thinking-style.md) — deliberate reasoning, resistance to bias, decision cost, justice, black-and-white thinking
   - [With ADHD](with-adhd.md) — when the two profiles collide, and systems that serve both
+  - [Mental Health](mental-health.md) — anxiety, depression, and trauma: telling the profile from the condition, and treating the condition
 - **Out in the world**
   - [Social Decoding](social-decoding.md) — social life as a learnable system, without accepting that you are the broken half
   - [Relationships](relationships.md) — partnership, mixed-neurotype dynamics, intimacy, dating, friendship, family
@@ -31,10 +32,11 @@ Know your wiring before you optimize anything built on it. This section is the o
   - [Routine Design](routine-design.md) — days and weeks built around energy: anchors, buffers, recovery, the social quota
 - **Quick reference**
   - [Field Guide](field-guide.md) — the whole section on one page: situation → three steps → link
+  - [Reading List](reading-list.md) — memoirs, practical guides, and history, with one line on why each earns its place
 
 ### How to Use This Section
 
-Twenty-one files is a lot. Don't read it all at once. A four-week start:
+Twenty-three files is a lot. Don't read it all at once. A four-week start:
 
 | Week | Read | Do |
 |------|------|----|
@@ -109,7 +111,7 @@ A map of the territory, not a self-diagnosis checklist. Not everyone has every f
 
 **Interoception** — sensing hunger, thirst, fatigue, temperature, illness. `[E: contested]` Many autistic people report weak or delayed internal signals; lab results are mixed and may be explained partly by alexithymia rather than autism itself. Either way, scheduled body checks work.
 
-If ADHD, anxiety, or depression is part of your picture, treat it. They are treatable, and untreated they make everything in this section harder.
+If ADHD, anxiety, or depression is part of your picture, treat it. They are treatable, and untreated they make everything in this section harder. See [Mental Health](mental-health.md) and [With ADHD](with-adhd.md).
 
 ---
 

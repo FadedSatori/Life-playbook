@@ -4,7 +4,7 @@ Healthcare systems assume you can describe your body on the spot, tolerate a lou
 
 > **Evidence key.** `[E: strong]` — consistent RCTs or meta-analyses. `[E: moderate]` — good observational data or small/short trials. `[E: weak]` — mechanism, theory, or qualitative accounts only. `[E: contested]` — serious evidence on both sides. Untagged = practice, framework, or preference, not an empirical claim. This file is a guide to navigating care, not medical advice.
 
-Part of the [Asperger's](overview.md) section. General health protocols live in [Fitness](../health/fitness.md), [Sleep](../health/sleep.md), [Nutrition](../health/nutrition.md), and [Longevity Protocols](../longevity-protocols.md).
+Part of the [Asperger's](overview.md) section. Anxiety, depression, and trauma themselves are covered in [Mental Health](mental-health.md); this file covers navigating care. General health protocols live in [Fitness](../health/fitness.md), [Sleep](../health/sleep.md), [Nutrition](../health/nutrition.md), and [Longevity Protocols](../longevity-protocols.md).
 
 ---
 

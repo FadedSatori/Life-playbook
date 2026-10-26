@@ -45,7 +45,7 @@ Airports combine almost every hard thing: crowds, noise, queues, security, time 
 - **Ask for assistance in advance.** Many airports and airlines offer support for travelers with non-visible disabilities. In the US, TSA Cares provides help through security if you request it ahead of time. Many airports also have sensory or quiet rooms.
 - **The Hidden Disabilities Sunflower** — a green lanyard with sunflowers — is recognized at many airports and transport hubs internationally as a discreet signal that you may need more time or help. Wearing one is optional and doesn't require disclosing a diagnosis.
 - **Arrive early** and find the quiet spot first.
-- **Security:** watch a few people ahead of you so you know the sequence. It's fine to tell staff, "I'm autistic — please tell me clearly what you need me to do."
+- **Security:** watch a few people ahead of you so you know the sequence. It's fine to tell staff, "I have Asperger's — I'm autistic — please tell me clearly what you need me to do." In official settings, naming both helps: "autistic" is the term more staff will recognize.
 - See [Travel](uncertainty-and-change.md#travel) for the full protocol.
 
 ---
@@ -89,7 +89,7 @@ Add anything a stranger or medic would need: medications, allergies, how to help
 
 **If you're stopped:**
 - **Stay as calm as you can,** keep your hands visible, and don't make sudden movements or run.
-- **Say it early:** "I'm autistic. I may need more time to understand and answer. I'm not trying to be difficult."
+- **Say it early:** "I have Asperger's — I'm autistic. I may need more time to understand and answer. I'm not trying to be difficult." Using both terms makes it more likely the officer recognizes what you mean.
 - **Show your card** if words are hard — say that you're reaching for it before you do.
 - **Follow clear, lawful instructions.** If an instruction is unclear, say so: "I don't understand — can you tell me exactly what to do?"
 - **Answer literally and briefly.** Don't guess or fill silence.

@@ -185,3 +185,7 @@ The personal canon is your curated list of books that have genuinely shaped your
 - **Discuss books with someone.** Explaining your synthesis forces gaps to surface. Gaps are where learning happens.
 - **Return to your notes before starting a new book in the same subject area.** You are not starting fresh — you are building on the existing structure. The connection between what you already know and what you're about to read is the prime territory for insight.
 - **The one-sentence test:** For any book you've read in the past year, can you articulate the central argument in one clean sentence? If not, you haven't retained it. The one-sentence test is the minimum retention bar.
+
+---
+
+**Related:** [Asperger's Reading List](../aspergers/reading-list.md)
